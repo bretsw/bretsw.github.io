@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>dissertation | Digital space of K. Bret Staudt Willet</title>
+    <link>http://bretsw.com/tag/dissertation/</link>
+      <atom:link href="http://bretsw.com/tag/dissertation/index.xml" rel="self" type="application/rss+xml" />
+    <description>dissertation</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 09 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://bretsw.com/media/icon_hu327cdc32eb61737bbb22c3db2388dbf1_47180_512x512_fill_lanczos_center_3.png</url>
+      <title>dissertation</title>
+      <link>http://bretsw.com/tag/dissertation/</link>
+    </image>
+    
+    <item>
+      <title>Visualizing Inter-rater Reliability</title>
+      <link>http://bretsw.com/post/irr-visual/</link>
+      <pubDate>Fri, 09 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>http://bretsw.com/post/irr-visual/</guid>
+      <description>&lt;h2 id=&#34;background-on-reporting-inter-rater-reliability&#34;&gt;Background on Reporting Inter-rater Reliability&lt;/h2&gt;
+&lt;p&gt;Qualitative studies often report inter-reliability (IRR) scores as a measure of the trustworthiness of coding, or an assurance to readers that they might follow the researcher&amp;rsquo;s codebook and expect to find similar results. &lt;em&gt;How&lt;/em&gt; these scores get reported varies widely. Often, I see just the range of scores reported, hopefully with &lt;strong&gt;Cohen&amp;rsquo;s kappa&lt;/strong&gt; calculated in addition to the more straightforward &lt;strong&gt;percent agreement&lt;/strong&gt;. The kappa is important because it takes into account variance in the frequency of a code. For example, pecent agreement may be 97%, but if a code is used infrequently, kappa may be very low, even 0. Reporting kappa scores assures readers that in the instances when a rare code is used, the codebook is clear enough that a second coder will catch it.&lt;/p&gt;
+&lt;p&gt;Of course, the whole qualitative coding process can be tricky, and in many cases, researchers must go through multiple rounds of dual coding a sample, revising the codebook, and coding a new sample. All of this nuance tends to get lost when researchers write their Method section, no doubt because this is an easy place to cut words to satisfy the requirements of a journal article.&lt;/p&gt;
+&lt;p&gt;Reflecting on this whole process, I wanted to come up with a way to demonstrate the progress made through multiple rounds of dual coding for IRR. I came up with the plot displayed below for my dissertation study, which required five rounds of dual coding. Still, through this process, the IRR scores converged nicely in the fifth and final round. I&amp;rsquo;m pleased with this results as well as how this data visualization turned out.&lt;/p&gt;
+&lt;h2 id=&#34;visualization-inter-rater-reliability-scores-plotted-across-five-rounds-of-dual-coding&#34;&gt;Visualization: Inter-rater Reliability Scores Plotted Across Five Rounds of Dual Coding&lt;/h2&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://bretsw.com/img/irr-comparison-plot.png&#34; alt=&#34;Inter-rater reliability plot&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Note.&lt;/em&gt; In my research, I follow a rule of thumb where two independent coders apply the codebook to 10% of the corpus in distinct rounds of coding until percent agreement on all codes is above 0.80 (i.e., 80%) and Cohen’s kappa for all codes is above 0.60.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Dissertation Themes</title>
+      <link>http://bretsw.com/post/dissertation-themes/</link>
+      <pubDate>Thu, 09 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>http://bretsw.com/post/dissertation-themes/</guid>
+      <description>&lt;p&gt;As I&amp;rsquo;ve wrapped up numerous cycles of qualitative coding of interview data for my dissertation, &lt;em&gt;Into the edu-verse: New teachers seeking induction support on social media&lt;/em&gt;, I used &lt;code&gt;geom_tile()&lt;/code&gt; in &lt;strong&gt;{ggplot2}&lt;/strong&gt; to create heatmap plots to help me quickly visualize how thematic codes varied by interview participant.&lt;/p&gt;
+&lt;h2 id=&#34;heatmap-comparison-of-thematic-codes-by-interview-participant&#34;&gt;Heatmap Comparison of Thematic Codes by Interview Participant&lt;/h2&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://bretsw.com/img/dissertation-themes-wordcount-heatmap-sorted.png&#34; alt=&#34;Themes by participant&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Note.&lt;/em&gt; Columns have been computationally reordered using principle components analysis (PCA) so that side-by-side columns are more similar than non-adjacent columns. Tile shading represents the number of words a participant spent speaking about a topic relative to how much they discussed other topics, rescaled to 0-100 for comparison between participants.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;I&amp;rsquo;ve shared the code to produce these plots in a &lt;a href=&#34;https://github.com/bretsw/dissertation-themes&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub repository&lt;/a&gt;, and you can also &lt;a href=&#34;https://rpubs.com/bretsw/dissertation-themes&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;view on RPubs&lt;/a&gt; a variety of different heatmaps I created en route to these final plots.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Comparisons in Twitter #Edchat during COVID-19</title>
+      <link>http://bretsw.com/post/edchat-comparisons/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>http://bretsw.com/post/edchat-comparisons/</guid>
+      <description>&lt;p&gt;I am in the midst of two projects looking at how Twitter #Edchat tweets may have been affected by the COVID-19 pandemic. The first project is primarily comparing tweets in Spring 2020 to those in the same timeframe a year earlier. The second project focuses on Spring 2020 but compares tweets from U.K. and U.S. users. I used &lt;code&gt;geom_tile()&lt;/code&gt; in &lt;strong&gt;{ggplot2}&lt;/strong&gt; to create heatmap plots to help me quickly visualize and compare a large number of data points.&lt;/p&gt;
+&lt;h2 id=&#34;edchat-comparing-2019-to-2020&#34;&gt;#Edchat: Comparing 2019 to 2020&lt;/h2&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://bretsw.com/img/tweets-over-time-comparison-2019-2020.png&#34; alt=&#34;Themes by participant&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://bretsw.com/img/hashtag-comparison-big-change.png&#34; alt=&#34;Themes by participant&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h2 id=&#34;edchat-comparing-uk-to-us-tweeters&#34;&gt;#Edchat: Comparing U.K. to U.S. tweeters&lt;/h2&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://bretsw.com/img/tweets-over-time-comparison-UK-US.png&#34; alt=&#34;Themes by participant&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h4 id=&#34;top-100-hashtags-comparison&#34;&gt;Top 100 hashtags comparison&lt;/h4&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://bretsw.com/img/hashtag-comparison-heatmap-all.png&#34; alt=&#34;Themes by participant&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h4 id=&#34;top-16-hashtags-comparison&#34;&gt;Top 16 hashtags comparison&lt;/h4&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://bretsw.com/img/hashtag-comparison-heatmap.png&#34; alt=&#34;Themes by participant&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://bretsw.com/img/hashtag-comparison-scatter.png&#34; alt=&#34;Themes by participant&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h4 id=&#34;topic-models-comparison-3-topics-per-country&#34;&gt;Topic models comparison (3 topics per country)&lt;/h4&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://bretsw.com/img/topics-UK.png&#34; alt=&#34;Themes by participant&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://bretsw.com/img/topics-US.png&#34; alt=&#34;Themes by participant&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://bretsw.com/img/topics-UK-US.png&#34; alt=&#34;Themes by participant&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;You can view all the output from these projects on RPubs, both the &lt;a href=&#34;https://rpubs.com/bretsw/pandemic-edchat&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;2019 vs. 2020 project&lt;/a&gt; and the &lt;a href=&#34;https://rpubs.com/bretsw/pandemic-edchat-uk-us&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;UK vs. US project&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Bret&#39;s Project Landscape (hosted on Trello)</title>
+      <link>http://bretsw.com/post/trello-projects/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>http://bretsw.com/post/trello-projects/</guid>
+      <description>&lt;blockquote class=&#34;trello-board-compact&#34;&gt;
+  &lt;a href=&#34;https://trello.com/b/1tXHcRRX/the-work-of-bret-staudt-willet&#34;&gt;Projects of Bret Staudt Willet&lt;/a&gt;
+&lt;/blockquote&gt;
+&lt;script src=&#34;https://p.trellocdn.com/embed.min.js&#34;&gt;&lt;/script&gt;</description>
+    </item>
+    
+    <item>
+      <title>Dissertation Proposal</title>
+      <link>http://bretsw.com/post/dissertation-proposal/</link>
+      <pubDate>Tue, 26 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>http://bretsw.com/post/dissertation-proposal/</guid>
+      <description>&lt;h2 id=&#34;into-the-edu-verse-early-career-educators-seeking-induction-support-on-social-media&#34;&gt;Into the Edu-verse: Early-Career Educators Seeking Induction Support on Social Media&lt;/h2&gt;
+&lt;p&gt;On November 26, 2019, I successfully defended my dissertation proposal for my PhD in &lt;a href=&#34;http://education.msu.edu/cepse/epet/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Educational Psychology and Educational Technology&lt;/a&gt; through Michigan State University&amp;rsquo;s College of Education. I have shared the full text of my proposal here: &lt;a href=&#34;https://bretsw.github.io/dissertation-proposal-text/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://bretsw.github.io/dissertation-proposal-text/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;You can scroll through my presentation slides for the defense below (use the arrow keys) or view them &lt;a href=&#34;https://bretsw.github.io/dissertation-proposal/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;iframe id=&#34;Into the Edu-verse slide deck&#34;
+    title=&#34;Into the Edu-verse slide deck&#34;
+    width=&#34;720&#34;
+    height=&#34;405&#34;
+    src=&#34;https://bretsw.github.io/dissertation-proposal/&#34;&gt;
+&lt;/iframe&gt;
+&lt;p&gt;At the end of the defense, I asked my committee for advice on sustaining a project as large as the dissertation, and they offered some great wisdom. I thought I should share:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Set the dissertation as your job.
+&lt;ul&gt;
+&lt;li&gt;The dissertation gets first priority and best energy.&lt;/li&gt;
+&lt;li&gt;Touch the dissertation every day. It takes a lot of mental energy to get back into it after being away for a while.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;The dissertation will happen when you want it to. The writing is not linear, but often happens in bursts when motivation is high.
+&lt;ul&gt;
+&lt;li&gt;Sometimes the data will energize your writing, so lean into that.&lt;/li&gt;
+&lt;li&gt;Other times, the data will be depressing. Reach out to a committee member to chat when that happens.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Plan vacations and be intentional about time away from the dissertation.&lt;/li&gt;
+&lt;li&gt;Start or join a writing group.
+&lt;ul&gt;
+&lt;li&gt;Swap bits of writing and coded data for analysis.&lt;/li&gt;
+&lt;li&gt;Exchange services as second coders for inter-rater reliability purposes.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

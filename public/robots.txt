@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: http://bretsw.com/sitemap.xml

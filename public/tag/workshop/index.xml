@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>workshop | Digital space of K. Bret Staudt Willet</title>
+    <link>http://bretsw.com/tag/workshop/</link>
+      <atom:link href="http://bretsw.com/tag/workshop/index.xml" rel="self" type="application/rss+xml" />
+    <description>workshop</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 02 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://bretsw.com/media/icon_hu327cdc32eb61737bbb22c3db2388dbf1_47180_512x512_fill_lanczos_center_3.png</url>
+      <title>workshop</title>
+      <link>http://bretsw.com/tag/workshop/</link>
+    </image>
+    
+    <item>
+      <title>My AECT 2020 Work</title>
+      <link>http://bretsw.com/post/aect-2020/</link>
+      <pubDate>Mon, 02 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>http://bretsw.com/post/aect-2020/</guid>
+      <description>&lt;h2 id=&#34;workshop---simple-collection-and-powerful-analysis-of-twitter-data-using-r&#34;&gt;&lt;em&gt;Workshop&lt;/em&gt; - Simple Collection and Powerful Analysis of Twitter Data Using R&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Friday, October 30, 2020&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The workshop website is accessible at &lt;a href=&#34;https://bretsw.github.io/aect20-workshop/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://bretsw.github.io/aect20-workshop/&lt;/a&gt;. From here, you can link to all workshop materials, including slides, RStudio Cloud workspace, and data.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;panel---factors-influencing-doctoral-students-perseverance-in-online-instructional-technology-programs&#34;&gt;&lt;em&gt;Panel&lt;/em&gt; - Factors Influencing Doctoral Students’ Perseverance in Online Instructional Technology Programs&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Tuesday, November 3, 2020&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The online doctoral student is a new phenomenon. This session brings together doctoral students to discuss their experiences persevering in fully online instructional technology programs at their own universities. The student panelists will reflect on their experiences, challenges, and recommendations that promote success as non-traditional doctoral students.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;What motivated your selection of an online doctoral program?&lt;/li&gt;
+&lt;li&gt;How has your program supported your growth as a graduate student or academic professional?&lt;/li&gt;
+&lt;li&gt;What challenges have you experienced while being an online doctoral student?&lt;/li&gt;
+&lt;li&gt;What strategies have you used to persevere through the challenges? What has worked and not worked?&lt;/li&gt;
+&lt;li&gt;What recommendations do you have for other graduate students?&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;presentation---into-the-edu-verse-new-teachers-challenges-supports-and-social-media&#34;&gt;&lt;em&gt;Presentation&lt;/em&gt; - Into the Edu-verse: New Teachers’ Challenges, Supports, and Social Media&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Friday, November 6, 2020&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Teachers face numerous challenges during their transition from preparation programs into professional employment. Today, with social media in the mix, new teachers may have to navigate conflicting messages about what and how to teach from many worlds—an “edu-verse.” However, social media research has rarely focused on the particular challenges experienced by new teachers. Because this area is under-researched, I interviewed nine new teachers to ask them about their induction experiences and social media use.&lt;/p&gt;
+&lt;p&gt;View the slides at &lt;a href=&#34;https://bretsw.github.io/aect20-new-teachers/,&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://bretsw.github.io/aect20-new-teachers/,&lt;/a&gt; or scroll through below:&lt;/p&gt;
+&lt;iframe id=&#34;Into the Edu-verse slide deck&#34;
+    title=&#34;Into the Edu-verse slide deck&#34;
+    width=&#34;720&#34;
+    height=&#34;405&#34;
+    src=&#34;https://bretsw.github.io/aect20-new-teachers/&#34;&gt;
+&lt;/iframe&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;featured-presentation---time-after-time-continuity-and-change-in-teaching-related-subreddits&#34;&gt;&lt;em&gt;Featured Presentation&lt;/em&gt; - Time After Time: Continuity and Change in Teaching-Related Subreddits&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Saturday, November 7, 2020&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;This study explores continuity and change in the cultures of two teaching-related subreddits. We collected 696,660 contributions to r/Teachers and 339,618 contributions to r/education between January 1, 2016 and June 30, 2019. The affinity space concept framed our analysis in terms of individual contributions, content interactions, social interactions, topics, and forms of discourse. We discuss our findings in light of the extant literature as well as potential implications for practice and future research.&lt;/p&gt;
+&lt;p&gt;View the slides at &lt;a href=&#34;https://bretsw.github.io/aect20-featured/,&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://bretsw.github.io/aect20-featured/,&lt;/a&gt; or scroll through below:&lt;/p&gt;
+&lt;iframe id=&#34;Time After Time slide deck&#34;
+    title=&#34;Time After Time slide deck&#34;
+    width=&#34;720&#34;
+    height=&#34;405&#34;
+    src=&#34;https://bretsw.github.io/aect20-featured/&#34;&gt;
+&lt;/iframe&gt;</description>
+    </item>
+    
+    <item>
+      <title>Data Science in Education</title>
+      <link>http://bretsw.com/project/data-science-in-ed/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>http://bretsw.com/project/data-science-in-ed/</guid>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;Data science and learning analytics in education are useful, but we have limited information about the effectiveness or recommendations to guide the design of learning opportunities for professionals working in education. At the same time, we know that, in general, well-designed learning opportunities, even those brief in duration, can improve computational skills. Our purpose is to explore the design and effects of data science workshops for educational researchers.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;publications&#34;&gt;Publications&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Rosenberg, J. M., &amp;amp; &lt;strong&gt;Staudt Willet&lt;/strong&gt;, K. B. (in press). Balancing privacy and open science in the context of COVID-19: A response to Ifenthaler &amp;amp; Schumacher (2016). &lt;em&gt;Educational Technology Research and Development&lt;/em&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;works-in-progress&#34;&gt;Works-in-progress&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;em&gt;The design and effects of data science workshops for educational researchers&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Who is an educational data scientist?&lt;/em&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;contributions&#34;&gt;Contributions&lt;/h2&gt;
+&lt;p&gt;&lt;i class=&#34;fas fa-check&#34;&gt;&lt;/i&gt; Conceptualization&lt;br&gt;
+&lt;i class=&#34;fas fa-check&#34;&gt;&lt;/i&gt; Methodology&lt;br&gt;
+&lt;i class=&#34;fas fa-check&#34;&gt;&lt;/i&gt; Software&lt;br&gt;
+&lt;i class=&#34;fas fa-check&#34;&gt;&lt;/i&gt; Validation&lt;br&gt;
+&lt;i class=&#34;fas fa-check&#34;&gt;&lt;/i&gt; Formal analysis&lt;br&gt;
+&lt;i class=&#34;fas fa-check&#34;&gt;&lt;/i&gt; Investigation&lt;br&gt;
+&lt;i class=&#34;fas fa-times&#34;&gt;&lt;/i&gt; Resources&lt;br&gt;
+&lt;i class=&#34;fas fa-times&#34;&gt;&lt;/i&gt; Data curation&lt;br&gt;
+&lt;i class=&#34;fas fa-check&#34;&gt;&lt;/i&gt; Writing - original draft&lt;br&gt;
+&lt;i class=&#34;fas fa-check&#34;&gt;&lt;/i&gt; Writing - review &amp;amp; editing&lt;br&gt;
+&lt;i class=&#34;fas fa-times&#34;&gt;&lt;/i&gt; Visualization&lt;br&gt;
+&lt;i class=&#34;fas fa-times&#34;&gt;&lt;/i&gt; Supervision&lt;br&gt;
+&lt;i class=&#34;fas fa-times&#34;&gt;&lt;/i&gt; Project administration&lt;br&gt;
+&lt;i class=&#34;fas fa-times&#34;&gt;&lt;/i&gt; Funding acquisition&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;See the &lt;a href=&#34;https://www.elsevier.com/authors/journal-authors/policies-and-ethics/credit-author-statement&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Contributor Roles Taxonomy&lt;/a&gt; (CRediT) from Elsevier for full definitions of these terms.&lt;/em&gt;&lt;/p&gt;
+&lt;hr&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

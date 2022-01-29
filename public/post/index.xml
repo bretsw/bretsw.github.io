@@ -1,0 +1,1261 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts | Digital space of K. Bret Staudt Willet</title>
+    <link>http://bretsw.com/post/</link>
+      <atom:link href="http://bretsw.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <description>Posts</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 23 Aug 2021 08:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://bretsw.com/media/icon_hu327cdc32eb61737bbb22c3db2388dbf1_47180_512x512_fill_lanczos_center_3.png</url>
+      <title>Posts</title>
+      <link>http://bretsw.com/post/</link>
+    </image>
+    
+    <item>
+      <title>Teaching Notes from EME6356: Learning &amp; Web Analytics</title>
+      <link>http://bretsw.com/post/eme6356-hub/</link>
+      <pubDate>Mon, 23 Aug 2021 08:00:00 +0000</pubDate>
+      <guid>http://bretsw.com/post/eme6356-hub/</guid>
+      <description>&lt;p&gt;I wanted a place to compile all of my slide decks as I teach &lt;em&gt;EME6356: Learning &amp;amp; Web Analytics&lt;/em&gt; at Florida State University. Enjoy!&lt;/p&gt;
+&lt;h2 id=&#34;course-description&#34;&gt;Course Description&lt;/h2&gt;
+&lt;p&gt;This course addresses the collection and use of data for decision making and assessment in learning and human performance contexts. Students will get hands-on experience with small data sets and will learn how big data sets are collected and used. The course will explore the role that analytics plays in education and related fields, identify the types of questions that might be answered via both quantitative and qualitative analytics, and engage in analytic- related problem solving. This course will examine case studies and provide students with practice using a variety of tools and services that can help them collect and analyze learning and web data. There are no pre-requisites, and although data will be used prior experience with statistics or research design is not necessary.&lt;/p&gt;
+&lt;h2 id=&#34;learning-objectives&#34;&gt;Learning Objectives&lt;/h2&gt;
+&lt;p&gt;At the completion of this course, students will be able to:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Discuss major concepts related to analytics.&lt;/li&gt;
+&lt;li&gt;Discuss the application of analytics to the fields of instructional systems design and performance technology.&lt;/li&gt;
+&lt;li&gt;Apply the major concepts related to analytics to solving real world problems.&lt;/li&gt;
+&lt;li&gt;Identify real world problems that might be addressed via analytics.&lt;/li&gt;
+&lt;li&gt;Align problems with appropriate data sources, data collection methods, and analytic methods.&lt;/li&gt;
+&lt;li&gt;Select the most appropriate analytic tool for a given context.&lt;/li&gt;
+&lt;li&gt;Collect analytic data in a systematic manner.&lt;/li&gt;
+&lt;li&gt;Analyze and interpret systematically collected analytic data.&lt;/li&gt;
+&lt;li&gt;Develop context-appropriate reports that indicate how analytics address a particular problem.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;module-1-introduction-to-analytics&#34;&gt;&lt;strong&gt;Module 1:&lt;/strong&gt; Introduction to Analytics&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;Tuesday, August 24, 2021&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;View the slides at &lt;a href=&#34;https://bretsw.github.io/eme6356-fs21-module1/,&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://bretsw.github.io/eme6356-fs21-module1/,&lt;/a&gt; or scroll through below:&lt;/p&gt;
+&lt;iframe id=&#34;Module 1 slide deck&#34;
+    title=&#34;Module 1 slide deck&#34;
+    width=&#34;720&#34;
+    height=&#34;405&#34;
+    src=&#34;https://bretsw.github.io/eme6356-fs21-module1/&#34;&gt;
+&lt;/iframe&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;module-2-solving-problems-with-analytics&#34;&gt;&lt;strong&gt;Module 2:&lt;/strong&gt; Solving Problems with Analytics&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;Tuesday, August 31, 2021&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;View the slides at &lt;a href=&#34;https://bretsw.github.io/eme6356-fs21-module2/,&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://bretsw.github.io/eme6356-fs21-module2/,&lt;/a&gt; or scroll through below:&lt;/p&gt;
+&lt;iframe id=&#34;Module 2 slide deck&#34;
+    title=&#34;Module 2 slide deck&#34;
+    width=&#34;720&#34;
+    height=&#34;405&#34;
+    src=&#34;https://bretsw.github.io/eme6356-fs21-module2/&#34;&gt;
+&lt;/iframe&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;module-3-analytics-tools-for-data-collection-and-analysis&#34;&gt;&lt;strong&gt;Module 3:&lt;/strong&gt; Analytics Tools for Data Collection and Analysis&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;Tuesday, September 14, 2021&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;View the slides at &lt;a href=&#34;https://bretsw.github.io/eme6356-fs21-module3/,&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://bretsw.github.io/eme6356-fs21-module3/,&lt;/a&gt; or scroll through below:&lt;/p&gt;
+&lt;iframe id=&#34;Module 3 slide deck&#34;
+    title=&#34;Module 3 slide deck&#34;
+    width=&#34;720&#34;
+    height=&#34;405&#34;
+    src=&#34;https://bretsw.github.io/eme6356-fs21-module3/&#34;&gt;
+&lt;/iframe&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;module-4-social-media-analytics&#34;&gt;&lt;strong&gt;Module 4:&lt;/strong&gt; Social Media Analytics&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;Tuesday, September 28, 2021&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;View the slides at &lt;a href=&#34;https://bretsw.github.io/eme6356-fs21-module4/,&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://bretsw.github.io/eme6356-fs21-module4/,&lt;/a&gt; or scroll through below:&lt;/p&gt;
+&lt;iframe id=&#34;Module 4 slide deck&#34;
+    title=&#34;Module 4 slide deck&#34;
+    width=&#34;720&#34;
+    height=&#34;405&#34;
+    src=&#34;https://bretsw.github.io/eme6356-fs21-module4/&#34;&gt;
+&lt;/iframe&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;module-5-data-visualization&#34;&gt;&lt;strong&gt;Module 5:&lt;/strong&gt; Data Visualization&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;Tuesday, October 5, 2021&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;View the slides at &lt;a href=&#34;https://bretsw.github.io/eme6356-fs21-module5/,&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://bretsw.github.io/eme6356-fs21-module5/,&lt;/a&gt; or scroll through below:&lt;/p&gt;
+&lt;iframe id=&#34;Module 5 slide deck&#34;
+    title=&#34;Module 5 slide deck&#34;
+    width=&#34;720&#34;
+    height=&#34;405&#34;
+    src=&#34;https://bretsw.github.io/eme6356-fs21-module5/&#34;&gt;
+&lt;/iframe&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;module-6-educational-data-mining-and-learning-analytics&#34;&gt;&lt;strong&gt;Module 6:&lt;/strong&gt; Educational Data Mining and Learning Analytics&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;Tuesday, October 19, 2021&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;View the slides at &lt;a href=&#34;https://bretsw.github.io/eme6356-fs21-module6/,&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://bretsw.github.io/eme6356-fs21-module6/,&lt;/a&gt; or scroll through below:&lt;/p&gt;
+&lt;iframe id=&#34;Module 6 slide deck&#34;
+    title=&#34;Module 6 slide deck&#34;
+    width=&#34;720&#34;
+    height=&#34;405&#34;
+    src=&#34;https://bretsw.github.io/eme6356-fs21-module6/&#34;&gt;
+&lt;/iframe&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;module-7-challenges-in-learning-analytics&#34;&gt;&lt;strong&gt;Module 7:&lt;/strong&gt; Challenges in Learning Analytics&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;Tuesday, October 26, 2021&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;View the slides at &lt;a href=&#34;https://bretsw.github.io/eme6356-fs21-module7/,&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://bretsw.github.io/eme6356-fs21-module7/,&lt;/a&gt; or scroll through below:&lt;/p&gt;
+&lt;iframe id=&#34;Module 7 slide deck&#34;
+    title=&#34;Module 7 slide deck&#34;
+    width=&#34;720&#34;
+    height=&#34;405&#34;
+    src=&#34;https://bretsw.github.io/eme6356-fs21-module7/&#34;&gt;
+&lt;/iframe&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;module-8-case-discussions&#34;&gt;&lt;strong&gt;Module 8:&lt;/strong&gt; Case Discussions&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;Tuesday, November 9, 2021&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;View the slides at &lt;a href=&#34;https://bretsw.github.io/eme6356-fs21-module8/,&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://bretsw.github.io/eme6356-fs21-module8/,&lt;/a&gt; or scroll through below:&lt;/p&gt;
+&lt;iframe id=&#34;Module 8 slide deck&#34;
+    title=&#34;Module 8 slide deck&#34;
+    width=&#34;720&#34;
+    height=&#34;405&#34;
+    src=&#34;https://bretsw.github.io/eme6356-fs21-module8/&#34;&gt;
+&lt;/iframe&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;module-9-future-of-analytics-in-society--research&#34;&gt;&lt;strong&gt;Module 9:&lt;/strong&gt; Future of Analytics in Society &amp;amp; Research&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;Tuesday, November 30, 2021&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;View the slides at &lt;a href=&#34;https://bretsw.github.io/eme6356-fs21-module9/,&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://bretsw.github.io/eme6356-fs21-module9/,&lt;/a&gt; or scroll through below:&lt;/p&gt;
+&lt;iframe id=&#34;Module 9 slide deck&#34;
+    title=&#34;Module 9 slide deck&#34;
+    width=&#34;720&#34;
+    height=&#34;405&#34;
+    src=&#34;https://bretsw.github.io/eme6356-fs21-module9/&#34;&gt;
+&lt;/iframe&gt;
+&lt;hr&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Teaching Notes from EME6357: Evaluation of Instruction &amp; Training in Human-Performance Technology</title>
+      <link>http://bretsw.com/post/eme6357-hub/</link>
+      <pubDate>Mon, 23 Aug 2021 08:00:00 +0000</pubDate>
+      <guid>http://bretsw.com/post/eme6357-hub/</guid>
+      <description>&lt;p&gt;I wanted a place to compile all of my slide decks as I teach &lt;em&gt;EME6357: Evaluation of Instruction &amp;amp; Training in Human-Performance Technology&lt;/em&gt; at Florida State University. Enjoy!&lt;/p&gt;
+&lt;h2 id=&#34;course-description&#34;&gt;Course Description&lt;/h2&gt;
+&lt;p&gt;This course focuses on the evaluation of training and instruction through a systemic analysis of the organization sponsoring the training program. The course also provides the knowledge and skills for conducting an HPT-based evaluation of training systems. Students actively participate in discussions, presentations, synthesis of materials, and the writing of papers.&lt;/p&gt;
+&lt;h2 id=&#34;learning-objectives&#34;&gt;Learning Objectives&lt;/h2&gt;
+&lt;p&gt;At the completion of this course, students will be able to:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Identify the characteristics of training programs in the context of Human Performance Technology (HPT).&lt;/li&gt;
+&lt;li&gt;Describe theoretical foundations of evaluation and their application to organizational performance environment through class participation and discussions.&lt;/li&gt;
+&lt;li&gt;Discuss the dominant approaches to evaluation of training through class presentations.&lt;/li&gt;
+&lt;li&gt;Analyze a training system and produce a series of evaluation questions as drivers of design and development of evaluation.&lt;/li&gt;
+&lt;li&gt;Develop a training evaluation plan by proposing appropriate analysis, methodology, implementation and communication approaches.&lt;/li&gt;
+&lt;li&gt;Synthesize the proposed activities into an evaluation proposal as the final class project.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;module-0-course-welcome&#34;&gt;&lt;strong&gt;Module 0:&lt;/strong&gt; Course Welcome&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;Wednesday, August 25, 2021&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;View the slides at &lt;a href=&#34;https://bretsw.github.io/eme6357-module0/,&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://bretsw.github.io/eme6357-module0/,&lt;/a&gt; or scroll through below:&lt;/p&gt;
+&lt;iframe id=&#34;Module 0 slide deck&#34;
+    title=&#34;Module 0 slide deck&#34;
+    width=&#34;720&#34;
+    height=&#34;405&#34;
+    src=&#34;https://bretsw.github.io/eme6357-module0/&#34;&gt;
+&lt;/iframe&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;module-1-what-is-evaluation&#34;&gt;&lt;strong&gt;Module 1:&lt;/strong&gt; What is Evaluation?&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;Wednesday, September 1, 2021&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;View the slides at &lt;a href=&#34;https://bretsw.github.io/eme6357-module1/,&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://bretsw.github.io/eme6357-module1/,&lt;/a&gt; or scroll through below:&lt;/p&gt;
+&lt;iframe id=&#34;Module 1 slide deck&#34;
+    title=&#34;Module 1 slide deck&#34;
+    width=&#34;720&#34;
+    height=&#34;405&#34;
+    src=&#34;https://bretsw.github.io/eme6357-module1/&#34;&gt;
+&lt;/iframe&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;module-2-systems-analysis--training-programs&#34;&gt;&lt;strong&gt;Module 2:&lt;/strong&gt; Systems Analysis &amp;amp; Training Programs&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;Wednesday, September 22, 2021&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;View the slides at &lt;a href=&#34;https://bretsw.github.io/eme6357-module2/,&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://bretsw.github.io/eme6357-module2/,&lt;/a&gt; or scroll through below:&lt;/p&gt;
+&lt;iframe id=&#34;Module 2 slide deck&#34;
+    title=&#34;Module 2 slide deck&#34;
+    width=&#34;720&#34;
+    height=&#34;405&#34;
+    src=&#34;https://bretsw.github.io/eme6357-module2/&#34;&gt;
+&lt;/iframe&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;module-3-evaluation-methodology&#34;&gt;&lt;strong&gt;Module 3:&lt;/strong&gt; Evaluation Methodology&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;Wednesday, October 13, 2021&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;View the slides at &lt;a href=&#34;https://bretsw.github.io/eme6357-module3/,&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://bretsw.github.io/eme6357-module3/,&lt;/a&gt; or scroll through below:&lt;/p&gt;
+&lt;iframe id=&#34;Module 3 slide deck&#34;
+    title=&#34;Module 3 slide deck&#34;
+    width=&#34;720&#34;
+    height=&#34;405&#34;
+    src=&#34;https://bretsw.github.io/eme6357-module3/&#34;&gt;
+&lt;/iframe&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;module-4-creating-an-evaluation-plan&#34;&gt;&lt;strong&gt;Module 4:&lt;/strong&gt; Creating an Evaluation Plan&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;Wednesday, November 10, 2021&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;[Coming soon!]&lt;/p&gt;
+&lt;hr&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>New paper: Balancing open science and privacy in the context of learning analytics</title>
+      <link>http://bretsw.com/post/new-paper-balancing-open-science-and-privacy/</link>
+      <pubDate>Thu, 25 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>http://bretsw.com/post/new-paper-balancing-open-science-and-privacy/</guid>
+      <description>&lt;h2 id=&#34;background&#34;&gt;Background&lt;/h2&gt;
+&lt;p&gt;I recently co-authored (with &lt;a href=&#34;https://www.jmichaelrosenberg.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Josh Rosenberg&lt;/a&gt; a response to a valuable paper by &lt;a href=&#34;https://doi.org/10.1007/s11423-016-9477-y&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ifenthaler and Schumacher (2016)&lt;/a&gt; as a part of &lt;a href=&#34;https://doi.org/10.1007/s11423-021-09960-z&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;a special issue&lt;/a&gt; of &lt;em&gt;Educational Technology Research &amp;amp; Development&lt;/em&gt; on &amp;ldquo;Shifting to Digital&amp;rdquo; in light of the COVID-19 pandemic.&lt;/p&gt;
+&lt;p&gt;Here is a succinct description of the aims of the special issue:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;This Special Issue is unique in that it will focus on multiple perspectives where respondent authors write about the implications of scholarship on addressing current challenges related to an increased focus of digital learning. The multiple perspectives include but are not limited to research, theory, design, practice (teaching or training), policy, culture and international angles.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Our response was a brief (1,000-word) summary of Ifenthaler an Schumacher&amp;rsquo;s (2016) paper framed (loosely) within a theoretical perspective introduced in a different paper - a perspective on how the balance between open science and privacy can be conceptualized as in tension, with value in considering each simultaneously and in light
+of the other. That theoretical perspective is from a lovely paper by &lt;a href=&#34;https://doi.org/10.1177/2378023118813023&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lundberg et al. (2019)&lt;/a&gt; on how they protected the privacy of the participants (including children) in the data they collected and then shared. They did so through carefully anticipating what risks might emerge from sharing the data through &amp;ldquo;modeling&amp;rdquo;/anticipating threats to privacy, mitigating the possibility of those occurring, and soliciting guidance from experts outside of the research team.&lt;/p&gt;
+&lt;h2 id=&#34;our-article&#34;&gt;Our Article&lt;/h2&gt;
+&lt;p&gt;Here is the abstract for our article:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Privacy and confidentiality are core considerations in education, while at the same time, using and sharing data—and, more broadly, open science—is increasingly valued by editors, funding agencies, and the public. This manuscript responds to an empirical investigation of students’ perceptions of the use of their data in learning analytics systems by Ifentahler and Schumacher (Educational Technology Research and Development, 64: 923-938, 2016). We summarize their work in the context of the COVID-19 pandemic and the resulting shift to digital modes of teaching and learning by many teachers, using the tension between privacy and open science to frame our response. We offer informed recommendations for educational technology researchers in light of Ifentahler and Schumacher’s findings as well as strategies for navigating the tension between these important values. We conclude with a call for educational technology scholars to meet the challenge of studying learning (and disruptions to learning) in light of COVID-19 while protecting the privacy of students in ways that go beyond what Institutional Review Boards consider to be within their purview.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;The entire response is &lt;a href=&#34;https://doi.org/10.1007/s11423-020-09860-8&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;on Springer&amp;rsquo;s website&lt;/a&gt; and is also always &lt;a href=&#34;https://www.jmichaelrosenberg.com/post-prints/rosenberg-staudt-willet-2020.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;available as a post-print here&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;other-responses-to-the-ifenthaler-and-schumacher-2016-article&#34;&gt;Other Responses to the Ifenthaler and Schumacher (2016) article&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Linda Corrin&amp;rsquo;s response: &lt;a href=&#34;https://doi.org/10.1007/s11423-020-09922-x&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Shifting to digital: A policy perspective on ‘Student perceptions of privacy principles for learning analytics’ (Ifenthaler &amp;amp; Schumacher 2016)&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Xavier Ochoa and Alyssa Wise&amp;rsquo;s response: &lt;a href=&#34;https://doi.org/10.1007/s11423-020-09882-2&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Supporting the shift to digital with student-centered learning analytics&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Royce Kimmon&amp;rsquo;s overview and commentary on the three responses to the article: &lt;a href=&#34;https://doi.org/10.1007/s11423-021-09950-1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Safeguarding student privacy in an age of analytics&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;This was fun to write. This call to consider previous, important studies in light of contemporary events (or advances in research) is a good one, and I&amp;rsquo;m glad to have had the chance to write a bit on the topics of open science and privacy (in balance, as it were!).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>My AECT 2020 Work</title>
+      <link>http://bretsw.com/post/aect-2020/</link>
+      <pubDate>Mon, 02 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>http://bretsw.com/post/aect-2020/</guid>
+      <description>&lt;h2 id=&#34;workshop---simple-collection-and-powerful-analysis-of-twitter-data-using-r&#34;&gt;&lt;em&gt;Workshop&lt;/em&gt; - Simple Collection and Powerful Analysis of Twitter Data Using R&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Friday, October 30, 2020&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The workshop website is accessible at &lt;a href=&#34;https://bretsw.github.io/aect20-workshop/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://bretsw.github.io/aect20-workshop/&lt;/a&gt;. From here, you can link to all workshop materials, including slides, RStudio Cloud workspace, and data.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;panel---factors-influencing-doctoral-students-perseverance-in-online-instructional-technology-programs&#34;&gt;&lt;em&gt;Panel&lt;/em&gt; - Factors Influencing Doctoral Students’ Perseverance in Online Instructional Technology Programs&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Tuesday, November 3, 2020&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The online doctoral student is a new phenomenon. This session brings together doctoral students to discuss their experiences persevering in fully online instructional technology programs at their own universities. The student panelists will reflect on their experiences, challenges, and recommendations that promote success as non-traditional doctoral students.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;What motivated your selection of an online doctoral program?&lt;/li&gt;
+&lt;li&gt;How has your program supported your growth as a graduate student or academic professional?&lt;/li&gt;
+&lt;li&gt;What challenges have you experienced while being an online doctoral student?&lt;/li&gt;
+&lt;li&gt;What strategies have you used to persevere through the challenges? What has worked and not worked?&lt;/li&gt;
+&lt;li&gt;What recommendations do you have for other graduate students?&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;presentation---into-the-edu-verse-new-teachers-challenges-supports-and-social-media&#34;&gt;&lt;em&gt;Presentation&lt;/em&gt; - Into the Edu-verse: New Teachers’ Challenges, Supports, and Social Media&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Friday, November 6, 2020&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Teachers face numerous challenges during their transition from preparation programs into professional employment. Today, with social media in the mix, new teachers may have to navigate conflicting messages about what and how to teach from many worlds—an “edu-verse.” However, social media research has rarely focused on the particular challenges experienced by new teachers. Because this area is under-researched, I interviewed nine new teachers to ask them about their induction experiences and social media use.&lt;/p&gt;
+&lt;p&gt;View the slides at &lt;a href=&#34;https://bretsw.github.io/aect20-new-teachers/,&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://bretsw.github.io/aect20-new-teachers/,&lt;/a&gt; or scroll through below:&lt;/p&gt;
+&lt;iframe id=&#34;Into the Edu-verse slide deck&#34;
+    title=&#34;Into the Edu-verse slide deck&#34;
+    width=&#34;720&#34;
+    height=&#34;405&#34;
+    src=&#34;https://bretsw.github.io/aect20-new-teachers/&#34;&gt;
+&lt;/iframe&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;featured-presentation---time-after-time-continuity-and-change-in-teaching-related-subreddits&#34;&gt;&lt;em&gt;Featured Presentation&lt;/em&gt; - Time After Time: Continuity and Change in Teaching-Related Subreddits&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Saturday, November 7, 2020&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;This study explores continuity and change in the cultures of two teaching-related subreddits. We collected 696,660 contributions to r/Teachers and 339,618 contributions to r/education between January 1, 2016 and June 30, 2019. The affinity space concept framed our analysis in terms of individual contributions, content interactions, social interactions, topics, and forms of discourse. We discuss our findings in light of the extant literature as well as potential implications for practice and future research.&lt;/p&gt;
+&lt;p&gt;View the slides at &lt;a href=&#34;https://bretsw.github.io/aect20-featured/,&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://bretsw.github.io/aect20-featured/,&lt;/a&gt; or scroll through below:&lt;/p&gt;
+&lt;iframe id=&#34;Time After Time slide deck&#34;
+    title=&#34;Time After Time slide deck&#34;
+    width=&#34;720&#34;
+    height=&#34;405&#34;
+    src=&#34;https://bretsw.github.io/aect20-featured/&#34;&gt;
+&lt;/iframe&gt;</description>
+    </item>
+    
+    <item>
+      <title>Visualizing Inter-rater Reliability</title>
+      <link>http://bretsw.com/post/irr-visual/</link>
+      <pubDate>Fri, 09 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>http://bretsw.com/post/irr-visual/</guid>
+      <description>&lt;h2 id=&#34;background-on-reporting-inter-rater-reliability&#34;&gt;Background on Reporting Inter-rater Reliability&lt;/h2&gt;
+&lt;p&gt;Qualitative studies often report inter-reliability (IRR) scores as a measure of the trustworthiness of coding, or an assurance to readers that they might follow the researcher&amp;rsquo;s codebook and expect to find similar results. &lt;em&gt;How&lt;/em&gt; these scores get reported varies widely. Often, I see just the range of scores reported, hopefully with &lt;strong&gt;Cohen&amp;rsquo;s kappa&lt;/strong&gt; calculated in addition to the more straightforward &lt;strong&gt;percent agreement&lt;/strong&gt;. The kappa is important because it takes into account variance in the frequency of a code. For example, pecent agreement may be 97%, but if a code is used infrequently, kappa may be very low, even 0. Reporting kappa scores assures readers that in the instances when a rare code is used, the codebook is clear enough that a second coder will catch it.&lt;/p&gt;
+&lt;p&gt;Of course, the whole qualitative coding process can be tricky, and in many cases, researchers must go through multiple rounds of dual coding a sample, revising the codebook, and coding a new sample. All of this nuance tends to get lost when researchers write their Method section, no doubt because this is an easy place to cut words to satisfy the requirements of a journal article.&lt;/p&gt;
+&lt;p&gt;Reflecting on this whole process, I wanted to come up with a way to demonstrate the progress made through multiple rounds of dual coding for IRR. I came up with the plot displayed below for my dissertation study, which required five rounds of dual coding. Still, through this process, the IRR scores converged nicely in the fifth and final round. I&amp;rsquo;m pleased with this results as well as how this data visualization turned out.&lt;/p&gt;
+&lt;h2 id=&#34;visualization-inter-rater-reliability-scores-plotted-across-five-rounds-of-dual-coding&#34;&gt;Visualization: Inter-rater Reliability Scores Plotted Across Five Rounds of Dual Coding&lt;/h2&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://bretsw.com/img/irr-comparison-plot.png&#34; alt=&#34;Inter-rater reliability plot&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Note.&lt;/em&gt; In my research, I follow a rule of thumb where two independent coders apply the codebook to 10% of the corpus in distinct rounds of coding until percent agreement on all codes is above 0.80 (i.e., 80%) and Cohen’s kappa for all codes is above 0.60.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Career Reflection</title>
+      <link>http://bretsw.com/post/career-reflection/</link>
+      <pubDate>Sat, 22 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>http://bretsw.com/post/career-reflection/</guid>
+      <description>&lt;p&gt;I’ve applied for a handful of academic jobs in the past six months, as many tenure track faculty positions as I could imagine fitting my experiences and skills. In the present higher-education-during-COVID-19 reality, that has amounted to six jobs to apply to (with hopefully more posted in the coming weeks). Three of those I applied to have since been removed from consideration by university-wide hiring freezes.&lt;/p&gt;
+&lt;p&gt;Work is hard to come by nearly everywhere these days, giving me cause to pause and reflect on my professional journey to date. I’ve been thinking quite a bit about what comes next after I defend my dissertation and graduate in the coming months, perhaps three, certainly no more than nine months.&lt;/p&gt;
+&lt;h2 id=&#34;my-work&#34;&gt;My Work&lt;/h2&gt;
+&lt;p&gt;As I reflect on my career arc, I characterize my work in one summary statement: &lt;strong&gt;I lead communities for the common good into the future.&lt;/strong&gt; I explain what I mean in the following sections.&lt;/p&gt;
+&lt;h3 id=&#34;leading&#34;&gt;Leading&lt;/h3&gt;
+&lt;p&gt;I lead in a variety of ways. I generally consider my &lt;strong&gt;leading&lt;/strong&gt; to be teaching, and my &lt;strong&gt;teaching&lt;/strong&gt; to be leading. I also lead by developing research to advance general understanding of a topic. And I lead in an entrepreneurial sense, forming teams and helping them advance toward a goal. In each of these areas, my primary leadership goal is to increase the &lt;em&gt;agency&lt;/em&gt; of those I work with.&lt;/p&gt;
+&lt;h3 id=&#34;communities&#34;&gt;Communities&lt;/h3&gt;
+&lt;p&gt;I study, and have increased general understanding of, groups of people in a variety of ways. I have framed my research in terms of affinity spaces, learning networks, and communities of practice. I have engaged in best practices of online teaching and learning. And I have established virtual teams and built distributed organizations.&lt;/p&gt;
+&lt;h3 id=&#34;for-the-common-good&#34;&gt;For the Common Good&lt;/h3&gt;
+&lt;p&gt;I produce not just solutions to problems, but &lt;em&gt;generalizable knowledge&lt;/em&gt; that may help others with similar problems in their own distinct contexts. In addition to sharing this knowledge, I share the process. I conduct my work following the principles of &lt;em&gt;open science&lt;/em&gt;, such as making my datasets and coding scripts publicly available whenever possible. The values of diversity, equity, and inclusion shape all the work I do.&lt;/p&gt;
+&lt;h3 id=&#34;into-the-future&#34;&gt;Into the Future&lt;/h3&gt;
+&lt;p&gt;My vision of the future is neither utopian nor dystopian. I do not believe technology will save humanity nor destroy us. Instead, I believe what we do with technology matters. We should not simply try to replicate traditional approaches online or with technological support. New modalities require their own consideration. We should lead with asking &lt;em&gt;why&lt;/em&gt;, clearly defining the problems we intend to solve. This means understanding our users, their contexts, and larger societal and systemic realities.&lt;/p&gt;
+&lt;h2 id=&#34;my-skills&#34;&gt;My Skills&lt;/h2&gt;
+&lt;h3 id=&#34;the-big-four&#34;&gt;The big four:&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Connecting (with) people.&lt;/strong&gt; I’m best at connecting with people and connecting them with each other.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Asking great questions.&lt;/strong&gt; My natural curiosity helps with this, but my PhD journey really honed this skill.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Building (online) communities.&lt;/strong&gt; I’ve been bringing people together online accidentally for as long as I can remember, intentionally for a decade, and in partnership with rigorous research for the past five years.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Fostering agency.&lt;/strong&gt; My first role as a leader is to affirm and strengthen the &lt;em&gt;agency&lt;/em&gt; of everyone around me. I invite them to co-create with me, I help them self-reflect, and I guide them toward asking better questions.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;a-second-four&#34;&gt;A second four:&lt;/h3&gt;
+&lt;ol start=&#34;5&#34;&gt;
+&lt;li&gt;&lt;strong&gt;Writing compelling arguments.&lt;/strong&gt; Another skill greatly refined by my PhD program.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Project management.&lt;/strong&gt; This stems back to an innate need to order the world around me and a practiced attention to detail.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Public speaking.&lt;/strong&gt; This has come from many years of practice and literally hundreds of public speaking engagements.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Data science.&lt;/strong&gt; I am largely self-taught, partnered with Coursera courses and generous research collaborators. I have worked through big data methods on numerous projects now. I specialize in R.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;my-experiences&#34;&gt;My Experiences&lt;/h2&gt;
+&lt;h3 id=&#34;founder&#34;&gt;Founder&lt;/h3&gt;
+&lt;p&gt;Some years ago I was the Founding National Director of a startup called Ministry in Digital Spaces. Simply put, I was aiming to define a new way to be church. We were tasked with building online communities of undergraduate students from across the United States. So, I did my homework. I called more than a hundred leaders in tech. I hosted a half dozen think tanks with industry experts. I went to events like Game Developers Conference (GDC) in 2016 to join and learn from conversations about online communities. I formed an advisory board, hired a team, recruited volunteers, and launched more than 50 pilot projects.&lt;/p&gt;
+&lt;p&gt;We built what we set out to build, but our funding was cut. I grew frustrated with the organizational mindset and decided to double down on learning more, choosing in 2017 to focus full-time on pursuing a PhD to better understand online communities.&lt;/p&gt;
+&lt;h3 id=&#34;researcher&#34;&gt;Researcher&lt;/h3&gt;
+&lt;p&gt;My research investigates the networked learning made possible by the novel social and environmental conditions afforded by the Internet. Specifically, I explore how social media platforms support online learning communities.&lt;/p&gt;
+&lt;p&gt;In my dissertation, I have focused on new teachers during their transition from preparation to practice. New teachers navigate an “edu-verse” made up undergraduate preparation programs, school of employment, district, family and friends, and social media. New teachers today are figuring out what and how to teach while juggling many voices and seeking support from many quarters.&lt;/p&gt;
+&lt;p&gt;I’ve also worked on dozens of other research projects, publishing this work in peer-reviewed journal articles and conference papers. I’ve frequently presented my research to audiences of experts and facilitated workshops on the methods I use. I also teach educational professionals how to teach online and thoughtfully use technology in their teaching.&lt;/p&gt;
+&lt;h3 id=&#34;executive-coach&#34;&gt;Executive Coach&lt;/h3&gt;
+&lt;p&gt;As I entered the final stages of writing my dissertation, and as the U.S. struggled through dual pandemics of COVID-19 and racism, an old friend from my Ministry in Digital Spaces advisory board called me. He asked me to coach him as he tried to build and scale the organization Black in Gaming. I’ve since helped him, and the rest of the Executive Team, clarify the purpose and goals of the organization, make decisions about bringing the right people into the team, onboard a dozen new leaders, and accomplish all this during a pandemic with a team geographically dispersed across the U.S.&lt;/p&gt;
+&lt;h2 id=&#34;my-interests&#34;&gt;My Interests&lt;/h2&gt;
+&lt;p&gt;To put it simply: when it comes to what&amp;rsquo;s next, I’m open. By this, I mean both that I’m &lt;strong&gt;curious&lt;/strong&gt; (generally), and I’m currently &lt;strong&gt;looking for a job&lt;/strong&gt; (specifically). There are three things I’d like to make sure I’m doing in this next adventure:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Leading a community.&lt;/strong&gt; This could involve teaching a class, supervising a lab or team, or building an organization from the ground up.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Producing generalizable knowledge.&lt;/strong&gt; I don&amp;rsquo;t want to just solve problems for myself or my team. I want share what we learn in the process.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Analyzing big data.&lt;/strong&gt; I&amp;rsquo;ve worked hard to develop technical skills, and I love putting these mental muscles to work.&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Diversity Statement</title>
+      <link>http://bretsw.com/post/diversity-statement/</link>
+      <pubDate>Fri, 14 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>http://bretsw.com/post/diversity-statement/</guid>
+      <description>&lt;p&gt;In &lt;em&gt;Becoming Qualitative Researchers: An Introduction&lt;/em&gt; (2016), Corrine Glesne argued that to establish the trustworthiness of qualitative research, a researcher must reflect on their &lt;strong&gt;positionality&lt;/strong&gt;, answering, “Why do I notice what I notice?” (p. 153).&lt;/p&gt;
+&lt;p&gt;I am writing this diversity statement as a white, cisgender, heterosexual, American-born man. My parents, grandparents, and great grandparents all received university degrees. It was always assumed that I would pursue an undergraduate degree, and my decisions to later pursue a Master’s degree and a Ph.D. were fully supported by my family. In addition, I experienced adolescence at the same time the Internet went mainstream; I spent my teenage years in chatrooms and have generally had positive online interactions. As a white, straight, cisgender man, I can participate on social media with little risk of being the target of harassment. This is the place from which I write, teach, and research.&lt;/p&gt;
+&lt;p&gt;In 2012, novelist John Scalzi wrote a blog post titled &lt;a href=&#34;https://whatever.scalzi.com/2012/05/15/straight-white-male-the-lowest-difficulty-setting-there-is/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Straight White Male: The Lowest Difficulty Setting There Is&lt;/a&gt;. This description has resonated with me. It situates any difficulties I have had in a position relative to other experiences, stories, and identities that are generally, systemically more challenging. For instance, few would describe their experiences during the COVID-19 pandemic and American racism pandemic of 2020 as easy. It has been hard for anyone to be productive this year. But, as a white, cisgender, heterosexual man, videos of George Floyd’s and other unarmed Black men’s murders by police inflict less trauma on me than my Black friends and colleagues. News of recent Supreme Court cases on LGBTQ employment rights have come as a relief to me, but not at an existential level. I care about these issues personally and professionally, but the summative effect is less wearying to me.&lt;/p&gt;
+&lt;p&gt;All these things mean that although I am not guaranteed to “win” this game of life, the degree of difficulty I live and work with is substantially lower than my colleagues and friends who have had various aspects of their identity minoritized and marginalized.&lt;/p&gt;
+&lt;p&gt;My beliefs related to diversity, inclusion, and equity can be conceptualized as behavioral roles: that of learner, mentor, and advocate. Furthermore, I can speak to these three roles at different levels of action: values, experiences, and commitments. I hold values, I have been shaped by experiences, and I will act out commitments.&lt;/p&gt;
+&lt;h2 id=&#34;values&#34;&gt;Values&lt;/h2&gt;
+&lt;p&gt;First and foremost, I recognize, and I value, that I am a &lt;strong&gt;learner&lt;/strong&gt;. I am still on a journey, and this is a good and important place to be. My experiences and my identity are steeped in privilege. Even with a lifetime of intentional effort, I will need to continue to actively deconstruct and seek understanding of the ways I hold power and benefit from inequity, especially white supremacy and misogyny. As I continue to learn, I believe I can benefit others by being a &lt;strong&gt;mentor&lt;/strong&gt;, especially to white men. I do not presume to have answers or the ability to save anyone, but I also look for opportunities to be an &lt;strong&gt;advocate&lt;/strong&gt; on behalf of Black, Indigenous, and people of color (BIPOC). I refer back to being a learner here, starting by asking what is needed and what I can do to help.&lt;/p&gt;
+&lt;h2 id=&#34;experiences&#34;&gt;Experiences&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;I have been a learner.&lt;/strong&gt; I grew up in a rural area in the mountains of Virginia. My graduating class in high school was 100% white. For my undergraduate degree, I went to a very white, elite, small, private, liberal arts college. I had next to no understanding of sexual diversity or neurodiversity. Despite not knowing what I did not know, I was curious. One value my family instilled in me was empathy, a deep interest in understanding what it would be like to walk in another person’s shoes.&lt;/p&gt;
+&lt;p&gt;This led me to spend two of my undergraduate summers living in a low-income urban U.S. neighborhood, whose residents were largely Puerto Rican and African American. I tutored middle- and high-school-aged students through an all-day camp in a community center. Those summers sparked an interest in sociology, and I added a double major late in my undergraduate years to formally study race and ethnicity. My co-advisors were Barbadian and Indian, and they pushed me to examine my privilege as a white American and as a man.&lt;/p&gt;
+&lt;p&gt;After I graduated, I moved back to the urban neighborhood where I had spent those two summers, and I lived there for eight years. I continued to learn from my neighbors. My mentor, and close friend, was an African American garbage collector who had lived in the neighborhood for nearly 70 years. He taught me about home ownership and systemic injustice in our city.&lt;/p&gt;
+&lt;p&gt;A few years after I finished my undergraduate degree, I spent a summer living in a squatter community in Manila, learning about unjust power systems in the Filipino context as well as grassroots community-organizing efforts. I still get updates from friends in Manila, which put into perspective our current pandemic-related hardships here in the U.S.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;I have been a mentor.&lt;/strong&gt; For five summers, I invited undergraduate students to participate in the same program that was so transformative in my life. I hosted these students as they lived, worked, and learned in my neighborhood.&lt;/p&gt;
+&lt;p&gt;In my doctoral program, because I moved into academia after a decade in management in my former career, I have collaborated with a number of less experienced colleagues. Two women of color have been interested in the computational methods I use in my work, and I have offered as much time as possible to help them develop their own skills in programming in R.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;I have been an advocate.&lt;/strong&gt; In my previous career, I once set out to create “the most diverse tech team in America.” I am a bit embarrassed in retrospect at how narrow my conception of diversity was back then. Still, I am grateful for the team that gathered around me. I was able to bring together an incredible group of women and men, Black, Asian, and white. I was never successful in recruiting Latinx or Native people of color to the team. My advocacy for this team often took the form of serving as an umbrella, shielding them from the policies and statements that came down from the senior leadership in our predominantly white institution (PWI). I created space for my team to wield influence beyond just the “diversity work” assumed for people of color in PWIs. However, I failed to make any real, systemic changes in our institution to better support the needs of my team members.&lt;/p&gt;
+&lt;p&gt;During the period of heightened activism in the U.S. since June 2020, I have been serving as the Executive Coach for &lt;a href=&#34;https://blackingaming.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Black in Gaming&lt;/a&gt;. This organization seeks to normalize Black cultural identification in the video game industry through education, outreach, representation, and entrepreneurial initiatives. A key partner from my former team is the Executive Director of Black in Gaming, and he reached out to me to help him strategically lead an organizational change process. With Black in Gaming, I have learned and practiced the advocacy I missed in my previous job.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://bretsw.com/img/diverse-team.jpg&#34; alt=&#34;diverse team&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h2 id=&#34;commitments&#34;&gt;Commitments&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;I will be a learner.&lt;/strong&gt; As I serve with Black in Gaming, I continue to learn from the excellent work being done by the executive team. I have found Twitter to be a more effective place for ongoing learning than anywhere else in academia. For years, I have followed the conversations among trans game developers, and this changed my thinking. Through Twitter hashtags like #Educolor and #ClearTheAir, I have been able to identify and follow many Black and Indigenous educators and activists. Every day, they shape my perspective and push my thinking. I do not post my own content very often on social media, but I listen, I pay attention, I learn, and I share the good work others are doing and boost their voices. In June 2020, I heard about an organization called &lt;a href=&#34;https://www.academics4blacklives.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Academics for Black Survival and Wellness&lt;/a&gt;, and I have been reading the content they publish. I am committed to continuing to learn.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;I will be a mentor.&lt;/strong&gt; As I finish my doctoral degree, I am committed to continue my existing mentoring relationships. As I anticipate becoming a tenure-track faculty member and stepping into a place of additional power and privilege, I am committed to mentoring students. I will mentor white students to become anti-racist educators. I will mentor students of color to become academics who are able to write, teach, and research as an expression of their full identities.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;I will be an advocate.&lt;/strong&gt; As I continue on my learning trajectory, from my previous career to serving with Black in Gaming to starting a faculty position, I am committed to continue developing as an advocate for minoritized students. Black in Gaming works to normalize Black cultural identification in the video game industry. I am committed to work toward the normalization of Black and Indigenous cultural identification in academia. I will work toward promoting systemic change to decrease the baseline degree of difficulty experienced by these students and colleagues.&lt;/p&gt;
+&lt;p&gt;I end with a few final, specific commitments:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;I will not assign all-male or all-white readings. I will bring diverse voices and methods into the classroom.&lt;/li&gt;
+&lt;li&gt;I will not participate in any all-male panels. Pledges of this kind have gained attention on social media, and McCartney (2019) made a scholarly case in &lt;em&gt;&lt;a href=&#34;https://science.sciencemag.org/content/364/6444/967.6&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Science&lt;/a&gt;&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;I will combat anti-Black racism as it manifests in academia and our communities, as I pledged by signing the call to action from &lt;a href=&#34;https://www.academics4blacklives.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Academics for Black Survival and Wellness&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;I will acknowledge and seek to honor those who have come before me by remembering and including &lt;a href=&#34;http://landacknowledgements.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;land acknowledgements&lt;/a&gt;. This is a fitting way to end this diversity statement:&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;I Honor Native Land:&lt;/strong&gt; I have learned from the faculty at Michigan State University in East Lansing MI, built on the traditional land of the Peoria, Anishinabewaki, Odawa, and Sauk Peoples, and I have lived and completed my graduate school work in Lancaster County PA, on the traditional land of the Susquehannock People. This acknowledgement demonstrates a commitment to continue the process of working to dismantle the ongoing legacies of settler colonialism.&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Research Statement</title>
+      <link>http://bretsw.com/post/research-statement/</link>
+      <pubDate>Fri, 14 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>http://bretsw.com/post/research-statement/</guid>
+      <description>&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://bretsw.com/img/networked-learning.png&#34; alt=&#34;networked learning&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h2 id=&#34;research-agenda&#34;&gt;Research Agenda&lt;/h2&gt;
+&lt;p&gt;I study online learning environments. I research &lt;em&gt;networked learning&lt;/em&gt; at the intersection of educational psychology, instructional technology, and information science. My scholarship investigates the networked learning made possible by the novel social and environmental conditions afforded by the Internet. Specifically, I explore how social media platforms support online learning communities. In various projects, I have framed networked learning in terms of &lt;em&gt;self-directed learning&lt;/em&gt; (i.e., an agentic perspective on socio-cognitive processes), &lt;em&gt;affinity spaces&lt;/em&gt; (i.e., learning environments defined by mutual interests), &lt;em&gt;communities of practice&lt;/em&gt; (i.e., apprenticeship groups), and &lt;em&gt;professional learning networks&lt;/em&gt; (i.e., resources passed between interpersonal connections). I use diverse research methods, from interviews to collecting digital traces of online activity and interactions, such as millions of tweets or Reddit posts. I analyze these data with innovative computational methods including social network analysis, natural language processing, and machine learning classification.&lt;/p&gt;
+&lt;p&gt;Focused study of networked learning is important because people rarely learn alone, and the ways in which people can connect and interact continue to expand rapidly with developments in novel online learning environments. Learners today, whether K-12 students, new teachers, or other professionals, exercise agency by seeking advice and resources from far more sources today than ever before as they navigate the affordances of the current social media landscape. My research advances our understanding by more fully attending to both the complex nature of this new reality (e.g., emerging features of social media platforms) as well as the needs of participants in online learning environments.&lt;/p&gt;
+&lt;p&gt;In my present work, I examine how informal, online learning environments accessed through social media (e.g., Facebook Groups, Twitter, Instagram) shape new teachers’ professional practice in formal K-12 settings. Findings from this study advance understanding of the possibilities and tensions related to seeking resources and collaboration online. In related, ongoing research projects, I investigate how affordances of the social media platforms Twitter and Reddit support distinctive learning environments. For instance, Reddit structures discussion forums into distinct, moderated subreddits by topic, and users’ identities are typically anonymous. This may create more honest and open learning spaces, relatively free from social hierarchy and lacking much of the self-promotion common in education-related Twitter hashtags. Twitter, on the other hand, provides minimal structure to interactions, although users combine hashtags and reply threads to self-organize conversations. Twitter supports learning spaces where questions can be asked and answered quickly, with potentially large and active audiences. Despite these differences, Reddit and Twitter both support online learning environments where participants can develop, test, and refine their knowledge.&lt;/p&gt;
+&lt;p&gt;In the next five years, I will build on these streams of research in ways that connect to and extend my established research agenda and publication record. I will continue to explore how informal, online learning environments influence formal, face-to-face educational settings. I will investigate how features of under-researched social media platforms (e.g., Instagram, TeachersPayTeachers) are related to the nature of participants’ interactions and subsequent learning. I will further investigate issues of equity, inclusion, and diversity in social media research and practice. These issues are of critical importance because not everyone experiences public online interactions in the same way. That is, although social media provide new avenues for learning, they also pose new risks by asking participants to learn “out in the open.” This means a potential to subject learners, particularly those from marginalized groups, to harassment and blurred lines between personal and professional contexts.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://bretsw.com/img/online-communities.png&#34; alt=&#34;online communities&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h2 id=&#34;example-of-networked-learning-research&#34;&gt;Example of Networked Learning Research&lt;/h2&gt;
+&lt;p&gt;As a specific example of a research project investigating networked learning, my dissertation, &lt;em&gt;Into the Edu-verse: New Teachers Seeking Induction Support on Social Media&lt;/em&gt;, explored the numerous challenges that new teachers face during their transition from preparation to practice (i.e., their induction period) and the supports they seek during this time. New teachers seek support from a variety of sources during induction. However, the teacher induction literature has reported a “two worlds pitfall” (Feiman-Nemser &amp;amp; Buchmann, 1985) caused by conflicting messages from the academic world of the preparation program and the practical world of the professional teaching context. New teachers enter their schools of employment with notions of teaching that are not shared—or in some instances, are even actively discouraged—by more experienced colleagues and administrators in that school setting. New teachers must then try to navigate and reconcile conflicting messages to decide how they will enact educational practice. Often, contextual pressure to adapt to the employment environment means that worthwhile academic notions of education from preparation programs are abandoned by new teachers (Feiman-Nemser &amp;amp; Buchmann, 1985).&lt;/p&gt;
+&lt;p&gt;Further complicating teacher induction is an emerging reality where new teachers are no longer seeking help with their profession from just two worlds but a universe of many worlds, an &lt;em&gt;edu-verse&lt;/em&gt;. Social media, a set of participatory practices for using media socially and publicly (Humphreys, 2016), have created additional opportunities for teachers’ self-directed professional learning. Although prior research has discussed challenges posed by teachers’ use of social media for such purposes (e.g., Carpenter &amp;amp; Harvey, 2019), this body of research has rarely focused on the particular challenges experienced by new teachers. For instance, with numerous modalities now available for finding induction support, new teachers may have to navigate conflicting messages about what and how to teach from their preparation program, local employment context, and social media networks.&lt;/p&gt;
+&lt;p&gt;The purpose of this study is to explore what supports for professional learning new teachers seek during induction and how they use social media with the intention of seeking these supports. This research purpose fills a gap between the teacher induction literature, which does not fully consider recent technological advancements, and the social media literature, which does not take into account the needs of new teachers. It is likely that new teachers are seeking support for induction needs from far more sources today than have been previously studied. Supports from and through social media should be specifically considered. In addition, the intense professional and personal dissonance that comes with moving from learning about teaching to actually practicing teaching suggests the challenges and needs of new teachers are likely far more complicated than have been accounted for by research on teachers’ uses of social media generally. From a practical perspective, it is important to explore and understand this gap because new teachers are already experiencing and navigating a new professional reality—a rapidly expanding edu-verse created by the current social media landscape.&lt;/p&gt;
+&lt;p&gt;Findings from my dissertation deepen understanding of the possibilities and tensions created by new teachers’ use of social media. This study contributes to the field’s ongoing examination of online learning environments, learning in informal settings, and online interactions. I chose an exploratory study for my dissertation because of the new avenues it would open for future research. For instance, I learned that new teachers frequently depend on TeachersPayTeachers for ideas and lesson plans to get them through their first several years but have mixed feelings about the overwhelming number and questionable quality of resources.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Teaching Statement</title>
+      <link>http://bretsw.com/post/teaching-statement/</link>
+      <pubDate>Fri, 14 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>http://bretsw.com/post/teaching-statement/</guid>
+      <description>&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://bretsw.com/img/bretsw-pic3.jpg&#34; alt=&#34;Bret&amp;amp;rsquo;s teaching&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h2 id=&#34;teaching-philosophy&#34;&gt;Teaching Philosophy&lt;/h2&gt;
+&lt;p&gt;My teaching philosophy is shaped by two primary principles. These principles are related to networked learning, a self-directed and social approach to learning. My first role as an educator is to affirm and strengthen students’ &lt;em&gt;agency&lt;/em&gt;. I invite them to co-create their learning experiences, help them self-reflect, and guide them toward asking better questions. Second, I strive to model, and invite students to practice, the principles of &lt;em&gt;open science&lt;/em&gt;. By this, I mean that students learn “out in the open,” sharing both their processes and products to create opportunities for feedback.&lt;/p&gt;
+&lt;p&gt;I teach toward these principles through several strategies. First, I create a structured plan for my teaching, giving careful thought to overall course organization and flow. I weave a common thread through the course. That is, I offer variety in specific learning tasks but maintain consistency across modules to reduce cognitive load. Second, I assign students meaningful work. That is, I encourage students to connect assignments to real problems they face. For graduate students, this means applying course concepts to tackle thorny problems in their professional context; for undergraduates, this means anticipating their future work. At the start of each semester, I tell students that if they cannot figure out how an assignment will be useful to their professional context and practice, we will work together to adapt the assignment so that it will. Third, I emphasize formative assessment by giving feedback that is timely, thorough, incisive, and kind. I give feedback through various modalities, including video chats, emails, screencast recordings, and comments in documents. In addition to my instructor feedback, I facilitate multidirectional feedback in the form of self-reflection and peer review. Third, building on formative assessments, nearly all the assignments I give are iterative in nature. I design courses around a semester-long project, with regular assignments that help students progress incrementally toward their final product. I emphasize that this process is not linear, but cyclical and responsive to feedback. Students complete work, but then revisit and improve. Fourth, I invite students to practice social scholarship (see my 2019 work with Greenhow and Gleason, published in British Journal of Educational Technology) by tweeting questions and posting work publicly on a blog.&lt;/p&gt;
+&lt;p&gt;As a specific example, in a Master’s course called &lt;em&gt;Learning Technology by Design&lt;/em&gt;, students develop a problem-of-practice project (i.e., their semester-long task) rooted in their own professional context. Students learn the theory and applications of design thinking by moving their problem-of-practice through one full cycle of a design process, which I draw from the &lt;a href=&#34;https://dschool.stanford.edu/resources/design-thinking-bootleg&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Stanford d.school model&lt;/a&gt;: understand the audience, define the problem, ideate (i.e., brainstorm and incubate ideas), prototype, test, and iterate. At each stage, I give substantial, formative feedback through text comments on work documents. In addition, I assign students to “design teams,” where they reflect with teammates on course materials, ask questions, pitch their in-process problem-of-practice progress, and give peer feedback regularly through frequent, brief, asynchronous video posts on Flipgrid. Completed assignments take the form of typed documents, handwritten notes, sketches, and video—all of which are compiled into a design report at the end of the semester.&lt;/p&gt;
+&lt;p&gt;My teaching has been affirmed in a variety of ways. The program coordinators of the &lt;a href=&#34;https://education.msu.edu/cepse/maet/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;M.A. in Educational Technology&lt;/a&gt; program at Michigan State University (MSU) invited me to facilitate a workshop for my fellow instructors based on my teaching approach. As a doctoral student, I was invited to teach as lead instructor and simultaneously mentor less experienced graduate assistants, for both undergraduate and Master’s level courses at MSU. I was also invited to redesign and rewrite both undergraduate and Master’s courses at MSU, and I was hired to write a course called The Evolving Landscape of Educational Technology for a new Master’s program at Concordia University. Students have consistently rated my teaching between “Superior” and “Above Average.” More importantly, students have frequently commented in course evaluations how they appreciate the feedback I give them, how I organize courses, and my kindness and enthusiasm.&lt;/p&gt;
+&lt;p&gt;In sum, I have substantial teaching and course design experience at the university level on a range of topics. I have taught each of the courses in Michigan State University’s &lt;a href=&#34;http://education.msu.edu/academics/graduate-specializations-certificates/#online-teaching-learning&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Graduate Certificate in Online Teaching and Learning&lt;/a&gt;. I am prepared to teach courses, both online and face-to-face, at the doctoral, Master’s and undergraduate levels. I look forward to continuing to teach in ways that increase students’ agency and facilitate their practice of open science principles.&lt;/p&gt;
+&lt;h2 id=&#34;student-feedback&#34;&gt;Student Feedback&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;I cannot tell you how much I appreciate how helpful and understanding you have been all semester. Your approach to teaching is heartwarming and gives me hope for higher education. I&amp;rsquo;m not sure if you plan on going into a faculty position somewhere after your PhD, but if you do, your students will be very rewarded by your style and knowledge. It is not always a guarantee to have a great instructor, but when you do, you remember their name and refer back to the work you did with them because the learning experience was memorable.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;blockquote&gt;
+&lt;p&gt;I believe our instructor, Bret, was one of the most supportive instructors I have ever had. He helped me really grasp formative assessments, a concept I wasn&amp;rsquo;t really familiar with, and provided me with extensive feedback. With Bret&amp;rsquo;s guidance, I felt like I was constantly improving.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Even though this was an online course, Bret was the best professor that I have had at MSU thus far. His class was extremely organized and easy to follow, he was very quick to respond to emails or any questions that I have. He returned grades quickly and always took time to give meaningful feedback for weekly assignments. He even commented on our discussion posts! I was so impressed with this course and this professor.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Bret was amazing and I am so happy to have had him as my instructor. This is my first semester of grad school and to know that my instructor was so cool, it gives me hope that my other instructors will be just as cool throughout my program. Bret, thank you for everything that you&amp;rsquo;ve done for me throughout the semester. I appreciate it all of your feedback that you gave and I am happy that you pushed me to go beyond my limit.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Bret was always understanding, easy to contact, fast to reply and concerned about student&amp;rsquo;s performance. I was really impressed with the way he reached out and communicated with me, I was able to &amp;lsquo;know&amp;rsquo; my teacher without having to physically meet them. I think that would be really hard for me to do otherwise through an online class but Bret did a great job of that.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;blockquote&gt;
+&lt;p&gt;I primarily worked with Bret. He communicated so effectively. He provided clear constructive feedback, was always available when I had questions. He helped me learn based on where I was personally, and not assuming I would be an expert on design. I really felt like I came full circle with a lot of realizations about how this course content can be applied to my real life work.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;blockquote&gt;
+&lt;p&gt;I absolutely loved this course and the professors. This was probably my favorite course in the MAET program. It was wonderfully taught with design thinking in mind which lent itself well to the content being taught. I learn so much in this course. This course completely impacted my classroom teaching. I will be continuing on the project that I started in this course to hopefully make a lasting impact in my classroom. I could not say enough good things about this course. Fantastic setup, wonderful instruction, great feedback, all wonderful!&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;blockquote&gt;
+&lt;p&gt;I did my MBA online with a few face-to-face classes. Looking through it all, this is the first online course that I really enjoyed. It was online, but hands on and engaging. The students were free to wander and experiment with topics. The tone was interesting and respectful. This is a practice I intend to emulate going forward with teaching online.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;blockquote&gt;
+&lt;p&gt;This was such a super useful course! I&amp;rsquo;m not sure how it could be done, but I think it should be either required, or somehow strongly recommended or marketed to other students. Or at least recommended to students with no previous formal teacher training. I can&amp;rsquo;t believe I almost didn&amp;rsquo;t take this course! That would have been a disaster&amp;hellip;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;hr&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Dissertation Themes</title>
+      <link>http://bretsw.com/post/dissertation-themes/</link>
+      <pubDate>Thu, 09 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>http://bretsw.com/post/dissertation-themes/</guid>
+      <description>&lt;p&gt;As I&amp;rsquo;ve wrapped up numerous cycles of qualitative coding of interview data for my dissertation, &lt;em&gt;Into the edu-verse: New teachers seeking induction support on social media&lt;/em&gt;, I used &lt;code&gt;geom_tile()&lt;/code&gt; in &lt;strong&gt;{ggplot2}&lt;/strong&gt; to create heatmap plots to help me quickly visualize how thematic codes varied by interview participant.&lt;/p&gt;
+&lt;h2 id=&#34;heatmap-comparison-of-thematic-codes-by-interview-participant&#34;&gt;Heatmap Comparison of Thematic Codes by Interview Participant&lt;/h2&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://bretsw.com/img/dissertation-themes-wordcount-heatmap-sorted.png&#34; alt=&#34;Themes by participant&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Note.&lt;/em&gt; Columns have been computationally reordered using principle components analysis (PCA) so that side-by-side columns are more similar than non-adjacent columns. Tile shading represents the number of words a participant spent speaking about a topic relative to how much they discussed other topics, rescaled to 0-100 for comparison between participants.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;I&amp;rsquo;ve shared the code to produce these plots in a &lt;a href=&#34;https://github.com/bretsw/dissertation-themes&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub repository&lt;/a&gt;, and you can also &lt;a href=&#34;https://rpubs.com/bretsw/dissertation-themes&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;view on RPubs&lt;/a&gt; a variety of different heatmaps I created en route to these final plots.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Comparisons in Twitter #Edchat during COVID-19</title>
+      <link>http://bretsw.com/post/edchat-comparisons/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>http://bretsw.com/post/edchat-comparisons/</guid>
+      <description>&lt;p&gt;I am in the midst of two projects looking at how Twitter #Edchat tweets may have been affected by the COVID-19 pandemic. The first project is primarily comparing tweets in Spring 2020 to those in the same timeframe a year earlier. The second project focuses on Spring 2020 but compares tweets from U.K. and U.S. users. I used &lt;code&gt;geom_tile()&lt;/code&gt; in &lt;strong&gt;{ggplot2}&lt;/strong&gt; to create heatmap plots to help me quickly visualize and compare a large number of data points.&lt;/p&gt;
+&lt;h2 id=&#34;edchat-comparing-2019-to-2020&#34;&gt;#Edchat: Comparing 2019 to 2020&lt;/h2&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://bretsw.com/img/tweets-over-time-comparison-2019-2020.png&#34; alt=&#34;Themes by participant&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://bretsw.com/img/hashtag-comparison-big-change.png&#34; alt=&#34;Themes by participant&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h2 id=&#34;edchat-comparing-uk-to-us-tweeters&#34;&gt;#Edchat: Comparing U.K. to U.S. tweeters&lt;/h2&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://bretsw.com/img/tweets-over-time-comparison-UK-US.png&#34; alt=&#34;Themes by participant&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h4 id=&#34;top-100-hashtags-comparison&#34;&gt;Top 100 hashtags comparison&lt;/h4&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://bretsw.com/img/hashtag-comparison-heatmap-all.png&#34; alt=&#34;Themes by participant&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h4 id=&#34;top-16-hashtags-comparison&#34;&gt;Top 16 hashtags comparison&lt;/h4&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://bretsw.com/img/hashtag-comparison-heatmap.png&#34; alt=&#34;Themes by participant&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://bretsw.com/img/hashtag-comparison-scatter.png&#34; alt=&#34;Themes by participant&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h4 id=&#34;topic-models-comparison-3-topics-per-country&#34;&gt;Topic models comparison (3 topics per country)&lt;/h4&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://bretsw.com/img/topics-UK.png&#34; alt=&#34;Themes by participant&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://bretsw.com/img/topics-US.png&#34; alt=&#34;Themes by participant&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://bretsw.com/img/topics-UK-US.png&#34; alt=&#34;Themes by participant&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;You can view all the output from these projects on RPubs, both the &lt;a href=&#34;https://rpubs.com/bretsw/pandemic-edchat&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;2019 vs. 2020 project&lt;/a&gt; and the &lt;a href=&#34;https://rpubs.com/bretsw/pandemic-edchat-uk-us&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;UK vs. US project&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Bret&#39;s Project Landscape (hosted on Trello)</title>
+      <link>http://bretsw.com/post/trello-projects/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>http://bretsw.com/post/trello-projects/</guid>
+      <description>&lt;blockquote class=&#34;trello-board-compact&#34;&gt;
+  &lt;a href=&#34;https://trello.com/b/1tXHcRRX/the-work-of-bret-staudt-willet&#34;&gt;Projects of Bret Staudt Willet&lt;/a&gt;
+&lt;/blockquote&gt;
+&lt;script src=&#34;https://p.trellocdn.com/embed.min.js&#34;&gt;&lt;/script&gt;</description>
+    </item>
+    
+    <item>
+      <title>Dissertation Proposal</title>
+      <link>http://bretsw.com/post/dissertation-proposal/</link>
+      <pubDate>Tue, 26 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>http://bretsw.com/post/dissertation-proposal/</guid>
+      <description>&lt;h2 id=&#34;into-the-edu-verse-early-career-educators-seeking-induction-support-on-social-media&#34;&gt;Into the Edu-verse: Early-Career Educators Seeking Induction Support on Social Media&lt;/h2&gt;
+&lt;p&gt;On November 26, 2019, I successfully defended my dissertation proposal for my PhD in &lt;a href=&#34;http://education.msu.edu/cepse/epet/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Educational Psychology and Educational Technology&lt;/a&gt; through Michigan State University&amp;rsquo;s College of Education. I have shared the full text of my proposal here: &lt;a href=&#34;https://bretsw.github.io/dissertation-proposal-text/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://bretsw.github.io/dissertation-proposal-text/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;You can scroll through my presentation slides for the defense below (use the arrow keys) or view them &lt;a href=&#34;https://bretsw.github.io/dissertation-proposal/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;iframe id=&#34;Into the Edu-verse slide deck&#34;
+    title=&#34;Into the Edu-verse slide deck&#34;
+    width=&#34;720&#34;
+    height=&#34;405&#34;
+    src=&#34;https://bretsw.github.io/dissertation-proposal/&#34;&gt;
+&lt;/iframe&gt;
+&lt;p&gt;At the end of the defense, I asked my committee for advice on sustaining a project as large as the dissertation, and they offered some great wisdom. I thought I should share:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Set the dissertation as your job.
+&lt;ul&gt;
+&lt;li&gt;The dissertation gets first priority and best energy.&lt;/li&gt;
+&lt;li&gt;Touch the dissertation every day. It takes a lot of mental energy to get back into it after being away for a while.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;The dissertation will happen when you want it to. The writing is not linear, but often happens in bursts when motivation is high.
+&lt;ul&gt;
+&lt;li&gt;Sometimes the data will energize your writing, so lean into that.&lt;/li&gt;
+&lt;li&gt;Other times, the data will be depressing. Reach out to a committee member to chat when that happens.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Plan vacations and be intentional about time away from the dissertation.&lt;/li&gt;
+&lt;li&gt;Start or join a writing group.
+&lt;ul&gt;
+&lt;li&gt;Swap bits of writing and coded data for analysis.&lt;/li&gt;
+&lt;li&gt;Exchange services as second coders for inter-rater reliability purposes.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Content, Conversation, &amp; Context: How Educators Talk to Each Other in Twitter #Edchat</title>
+      <link>http://bretsw.com/post/content_conversation_context/</link>
+      <pubDate>Mon, 11 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>http://bretsw.com/post/content_conversation_context/</guid>
+      <description>&lt;p&gt;On November 11, 2019, I gave a talk on a recent research project as part of the Educational Psychology and Educational Technology (EPET) brownbag series at Michigan State University.&lt;/p&gt;
+&lt;h3 id=&#34;abstract&#34;&gt;Abstract&lt;/h3&gt;
+&lt;p&gt;Despite potential benefits, conversations on Twitter are often hard to follow. Several factors contribute: the volume of new messages, the unruly mass of content, and the mashup of features that comprise the platform. For educators to participate in professional learning on Twitter, they must be able to find coherence in these conversations. Hashtags have been conceptualized as affinity spaces where educators can participate; however, Twitter’s threading replies together potentially expands the scope of the space in a way that has not been studied previously. In this study, I collected more than one million #Edchat tweets over a span of eight months and analyzed this dataset by volume of tweets, content interactions, and social interactions. Findings suggest #Edchat is busy and getting busier, intersects with numerous other Twitter hashtag affinity spaces, and hosts multiple kinds of conversations. I conclude with implications and recommendations for educators and researchers.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://bretsw.github.io/brownbag-nov2019/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;View my slides here.&lt;/a&gt;&lt;/p&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/HAt5OpiWffc&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>AECT Graduate Student Assembly: Webinar Series</title>
+      <link>http://bretsw.com/post/aect-gsa-webinars/</link>
+      <pubDate>Thu, 07 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>http://bretsw.com/post/aect-gsa-webinars/</guid>
+      <description>&lt;h3 id=&#34;february-7-2019-how-to-review-aect-international-convention-proposals&#34;&gt;February 7, 2019: How to Review AECT International Convention Proposals&lt;/h3&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/Mv5qOXWv0G0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;h3 id=&#34;march-27-2019-how-to-become-and-effective-and-efficient-academic-writer&#34;&gt;March 27, 2019: How to Become and Effective and Efficient Academic Writer&lt;/h3&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/C9285VdVO_Q&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;h3 id=&#34;may-8-2019-navigating-leadership-opportunities-in-aect&#34;&gt;May 8, 2019: Navigating Leadership Opportunities in AECT&lt;/h3&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/4lTE2Rk3DNs&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;h3 id=&#34;july-24-2019-information-and-communications-technology-for-enhancing-education-internationally&#34;&gt;July 24, 2019: Information and Communications Technology for Enhancing Education Internationally&lt;/h3&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/s3c-0tp1aeM&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;h3 id=&#34;august-22-2019-design-and-research-guidelines-for-diverse-makerspaces&#34;&gt;August 22, 2019: Design and Research Guidelines for Diverse Makerspaces&lt;/h3&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/wXw-NFiz3nI&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;h3 id=&#34;october-2-2019-what-happens-in-vegas-does-not-stay-in-vegas&#34;&gt;October 2, 2019: What Happens in Vegas Does Not Stay in Vegas&lt;/h3&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/9P1YHCqKKWA&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Coursework: PhD in Educational Psychology and Educational Technology</title>
+      <link>http://bretsw.com/post/coursework_epet/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+      <guid>http://bretsw.com/post/coursework_epet/</guid>
+      <description>&lt;p&gt;I have completed the coursework for my Ph.D. in &lt;a href=&#34;http://education.msu.edu/cepse/epet/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Educational Psychology and Educational Technology&lt;/a&gt; through Michigan State University&amp;rsquo;s College of Education.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Course department guide:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;CEP = &lt;em&gt;Department of Counseling, Educational Psychology, &amp;amp; Special Education&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;TE = &lt;em&gt;Department of Teacher Education&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;WRA = &lt;em&gt;Department of Writing, Rhetoric, &amp;amp; American Cultures&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;theory-and-history&#34;&gt;Theory and History&lt;/h2&gt;
+&lt;h3 id=&#34;cep-900-proseminar-in-learning-technology-and-culture&#34;&gt;CEP 900: Proseminar in Learning, Technology and Culture&lt;/h3&gt;
+&lt;p&gt;&lt;em&gt;Summer 2016&lt;/em&gt;&lt;br&gt;
+&lt;strong&gt;Instructors:&lt;/strong&gt; &lt;a href=&#34;http://education.msu.edu/search/FormView.aspx?email=croseth@msu.edu&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dr. Cary Roseth&lt;/a&gt;, &lt;a href=&#34;http://www.matt-koehler.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dr. Matthew Koehler&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Historical, theoretical, empirical, methodological, and philosophical issues. Research literature on learning, teaching subject matter, and social-cultural contexts.&lt;/p&gt;
+&lt;h3 id=&#34;cep-901b-proseminar-in-educational-technology&#34;&gt;CEP 901b: Proseminar in Educational Technology&lt;/h3&gt;
+&lt;p&gt;&lt;em&gt;Spring 2017&lt;/em&gt;&lt;br&gt;
+&lt;strong&gt;Instructor:&lt;/strong&gt; &lt;a href=&#34;http://www.cgreenhow.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dr. Christine Greenhow&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Historical, theoretical, empirical, methodological, and philosophical issues. Research literature on technology in education.&lt;/p&gt;
+&lt;h3 id=&#34;cep-916-intellectual-history-of-educational-technology&#34;&gt;CEP 916: Intellectual History of Educational Technology&lt;/h3&gt;
+&lt;p&gt;&lt;em&gt;Spring 2018&lt;/em&gt;&lt;br&gt;
+&lt;strong&gt;Instructor:&lt;/strong&gt; &lt;a href=&#34;http://cogflextheory.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dr. Rand Spiro&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;History of technology and learning in formal and informal settings. Historical, theoretical, empirical, methodological, and philosophical issues in the study of technology in education. Teachers’ use of educational technology.&lt;/p&gt;
+&lt;h2 id=&#34;research-methods&#34;&gt;Research Methods&lt;/h2&gt;
+&lt;h3 id=&#34;cep-930-educational-inquiry&#34;&gt;CEP 930: Educational Inquiry&lt;/h3&gt;
+&lt;p&gt;&lt;em&gt;Summer 2016&lt;/em&gt;&lt;br&gt;
+&lt;strong&gt;Instructors:&lt;/strong&gt; &lt;a href=&#34;http://education.msu.edu/search/FormView.aspx?email=croseth@msu.edu&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dr. Cary Roseth&lt;/a&gt;, &lt;a href=&#34;http://www.matt-koehler.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dr. Matthew Koehler&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Multiple sources of inquiry. Critical assessment of common assumptions about research. Relationship between data and theory. Objectivity, validity, and causal inference across research traditions. Research ethics. Relationship among researcher, researched, and audience. Question formation.&lt;/p&gt;
+&lt;h3 id=&#34;te-931-introduction-to-qualitative-methods-in-educational-research&#34;&gt;TE 931: Introduction to Qualitative Methods in Educational Research&lt;/h3&gt;
+&lt;p&gt;&lt;em&gt;Summer 2017&lt;/em&gt;&lt;br&gt;
+&lt;strong&gt;Instructor:&lt;/strong&gt; &lt;a href=&#34;http://www.cgreenhow.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dr. Christine Greenhow&lt;/a&gt;, &lt;a href=&#34;http://www.spencergreenhalgh.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dr. Spencer Greenhalgh&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Concepts and assumptions underlying multiple traditions of qualitative research methods in education. Relationship between research questions and qualitative research design. Epistemology, methods, and ethical issues of ethnography, case study research, grounded theory, oral history and discourse analysis. Criteria for appraising and critiquing qualitative research designs, claims, and evidence&lt;/p&gt;
+&lt;h3 id=&#34;cep-932-quantitative-methods-in-educational-research-i&#34;&gt;CEP 932: Quantitative Methods in Educational Research I&lt;/h3&gt;
+&lt;p&gt;&lt;em&gt;Fall 2016&lt;/em&gt;&lt;br&gt;
+&lt;strong&gt;Instructors:&lt;/strong&gt; &lt;a href=&#34;http://stefania.unak.is/stefania/moja-starfsmadurenska.asp?starfsm=audbjorg&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dr. Auðbjörg Björnsdóttir&lt;/a&gt;, &lt;a href=&#34;https://www.linkedin.com/in/brooke-quisenberry-41b1b4110/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Brooke Quisenberry&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Techniques in data collection and data analysis used in educational and psychological research. Graphical and tabular representation of data. Concepts of statistical inference in educational contexts.&lt;/p&gt;
+&lt;h3 id=&#34;cep-933-quantitative-methods-in-educational-research-ii&#34;&gt;CEP 933: Quantitative Methods in Educational Research II&lt;/h3&gt;
+&lt;p&gt;&lt;em&gt;Spring 2018&lt;/em&gt;&lt;br&gt;
+&lt;strong&gt;Instructors:&lt;/strong&gt; &lt;a href=&#34;http://stefania.unak.is/stefania/moja-starfsmadurenska.asp?starfsm=audbjorg&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dr. Auðbjörg Björnsdóttir&lt;/a&gt;, &lt;a href=&#34;https://www.linkedin.com/in/brooke-quisenberry-41b1b4110/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Brooke Quisenberry&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Advanced techniques of data analysis and statistical inference used in educational and psychological research. Multiple regression, analysis of variance, and basic principles of experimental design in educational applications.&lt;/p&gt;
+&lt;h3 id=&#34;cep-991b-theory-and-method-of-social-networks&#34;&gt;CEP 991b: Theory and Method of Social Networks&lt;/h3&gt;
+&lt;p&gt;&lt;em&gt;Fall 2018&lt;/em&gt;&lt;br&gt;
+&lt;strong&gt;Instructors:&lt;/strong&gt; &lt;a href=&#34;https://msu.edu/~kenfrank/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dr. Ken Frank&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Special topics in educational statistics and research design. Integrate statistical methods that help address the dependencies inherent in social network data and graphical techniques for representing social structure with theory from organizational studies, communications, social psychology, etc.&lt;/p&gt;
+&lt;h2 id=&#34;research-area-concentration&#34;&gt;Research Area Concentration&lt;/h2&gt;
+&lt;h3 id=&#34;cep-953-teachers-and-technology&#34;&gt;CEP 953: Teachers and Technology&lt;/h3&gt;
+&lt;p&gt;&lt;em&gt;Summer 2017&lt;/em&gt;&lt;br&gt;
+&lt;strong&gt;Instructor:&lt;/strong&gt; &lt;a href=&#34;https://education.msu.edu/search/Formview.aspx?email=ecb%40msu.edu&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dr. Emily Bouck&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Impact of new technologies on teacher knowledge and practices of teaching. Teachers&#39; use of technology, teacher knowledge, teacher education, and changing roles of teachers.&lt;/p&gt;
+&lt;h3 id=&#34;cep-956-mind-media-and-learning&#34;&gt;CEP 956: Mind, Media, and Learning&lt;/h3&gt;
+&lt;p&gt;&lt;em&gt;Fall 2018&lt;/em&gt;&lt;br&gt;
+&lt;strong&gt;Instructor:&lt;/strong&gt; &lt;a href=&#34;http://www.cgreenhow.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dr. Christine Greenhow&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Philosophy, psychology, and sociology of new media. Media effects and learning with media. Issues of gender, identity, culture in technologically mediated environments, including Internet, virtual reality, computer games, simulations, artificial intelligence (AI) systems, and pedagogical agents.&lt;/p&gt;
+&lt;h3 id=&#34;te-907-psychological-study-of-teaching&#34;&gt;TE 907: Psychological Study of Teaching&lt;/h3&gt;
+&lt;p&gt;&lt;em&gt;Spring 2019&lt;/em&gt;&lt;br&gt;
+&lt;strong&gt;Instructor:&lt;/strong&gt; &lt;a href=&#34;https://education.msu.edu/search/Formview.aspx?email=ralphp%40msu.edu&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dr. Ralph Putnam&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Research literature on psychological aspects of teachers and teaching. Topics include teacher&amp;rsquo;s decision-making, learning from experience, and developmental changes.&lt;/p&gt;
+&lt;h3 id=&#34;wra-891-culture-rhetoric-and-user-experience-design&#34;&gt;WRA 891: Culture, Rhetoric, and User Experience Design&lt;/h3&gt;
+&lt;p&gt;&lt;em&gt;Fall 2017&lt;/em&gt;&lt;br&gt;
+&lt;strong&gt;Instructor:&lt;/strong&gt; &lt;a href=&#34;http://benlauren.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dr. Ben Lauren&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Theory and research that comprises and informs User Experience Design in the context of writing studies, or what we call Experience Architecture (XA) here at MSU. Explore the interplay between XA theory, research, and practice for a range of applications, paying close attention to the rhetorical and cultural conditions and infrastructures that influence the work of XA.&lt;/p&gt;
+&lt;h2 id=&#34;personal-research-development&#34;&gt;Personal Research Development&lt;/h2&gt;
+&lt;h3 id=&#34;cep-955-research-design-and-methods-for-educational-psychology-an-educational-technology&#34;&gt;CEP 955: Research Design and Methods for Educational Psychology an Educational Technology&lt;/h3&gt;
+&lt;p&gt;&lt;em&gt;Fall 2017&lt;/em&gt;&lt;br&gt;
+&lt;strong&gt;Instructor:&lt;/strong&gt; &lt;a href=&#34;https://education.msu.edu/search/Formview.aspx?email=ralphp%40msu.edu&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dr. Ralph Putnam&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Research design and methods for studying learning, development, technology, and culture in educational contexts: classrooms, computer-mediated environments, homes, communities, and workplaces.&lt;/p&gt;
+&lt;h3 id=&#34;cep-995-practicum-in-research-design-and-data-analysis&#34;&gt;CEP 995: Practicum in Research Design and Data Analysis&lt;/h3&gt;
+&lt;p&gt;&lt;em&gt;Fall 2017 - Summer 2018&lt;/em&gt;&lt;br&gt;
+&lt;strong&gt;Instructors:&lt;/strong&gt; &lt;a href=&#34;http://www.matt-koehler.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dr. Matthew Koehler&lt;/a&gt;, &lt;a href=&#34;http://www.cgreenhow.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dr. Christine Greenhow&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Supervised research practicum. Design, execution, analysis, presentation, critique, and revision of research projects.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A Tale of Two Grandpas</title>
+      <link>http://bretsw.com/post/tale-of-two-grandpas/</link>
+      <pubDate>Fri, 18 Nov 2016 00:00:00 +0000</pubDate>
+      <guid>http://bretsw.com/post/tale-of-two-grandpas/</guid>
+      <description>&lt;iframe 
+        width=&#34;100%&#34; 
+        height=&#34;300&#34; 
+        scrolling=&#34;no&#34; 
+        frameborder=&#34;no&#34; 
+        allow=&#34;autoplay&#34; 
+        src=&#34;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/293606892&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true&#34;
+&gt;&lt;/iframe&gt;</description>
+    </item>
+    
+    <item>
+      <title>Passion Talks 2016: The Strength of the Weak Ties</title>
+      <link>http://bretsw.com/post/passion_talks_strength_of_weak_ties/</link>
+      <pubDate>Sat, 13 Aug 2016 00:00:00 +0000</pubDate>
+      <guid>http://bretsw.com/post/passion_talks_strength_of_weak_ties/</guid>
+      <description>&lt;iframe 
+        width=&#34;100%&#34; 
+        height=&#34;300&#34; 
+        scrolling=&#34;no&#34; 
+        frameborder=&#34;no&#34; 
+        allow=&#34;autoplay&#34; 
+        src=&#34;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/279022086&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true&#34;
+&gt;&lt;/iframe&gt;</description>
+    </item>
+    
+    <item>
+      <title>The Strength of Weak Ties</title>
+      <link>http://bretsw.com/post/strength_of_weak_ties/</link>
+      <pubDate>Sat, 30 Jul 2016 00:00:00 +0000</pubDate>
+      <guid>http://bretsw.com/post/strength_of_weak_ties/</guid>
+      <description>
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/pnMlbABqyCg&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Motivation Interview</title>
+      <link>http://bretsw.com/post/motivation-interview/</link>
+      <pubDate>Sun, 10 Jul 2016 00:00:00 +0000</pubDate>
+      <guid>http://bretsw.com/post/motivation-interview/</guid>
+      <description>&lt;iframe 
+        width=&#34;100%&#34; 
+        height=&#34;300&#34; 
+        scrolling=&#34;no&#34; 
+        frameborder=&#34;no&#34; 
+        allow=&#34;autoplay&#34; 
+        src=&#34;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/273997207&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true&#34;
+&gt;&lt;/iframe&gt;</description>
+    </item>
+    
+    <item>
+      <title>proCATstination</title>
+      <link>http://bretsw.com/post/procatstination/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
+      <guid>http://bretsw.com/post/procatstination/</guid>
+      <description>
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/Q4GTXzJD7mI&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Coursework: Master of Arts in Educational Technology</title>
+      <link>http://bretsw.com/post/coursework_maet/</link>
+      <pubDate>Sat, 15 Aug 2015 00:00:00 +0000</pubDate>
+      <guid>http://bretsw.com/post/coursework_maet/</guid>
+      <description>&lt;p&gt;In 2015, I completed a Master of Arts degree in &lt;a href=&#34;http://edutech.msu.edu/programs/masters/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Educational Technology&lt;/a&gt; through Michigan State University&amp;rsquo;s College of Education. Here I offer a bit of my experience in each course.&lt;br&gt;
+&lt;em&gt;The &amp;ldquo;CEP&amp;rdquo; before the course number stands for &amp;ldquo;Counseling, Educational Psychology, and Special Education,&amp;rdquo; the name of the department in the College of Education.&amp;quot;&lt;/em&gt;&lt;/p&gt;
+&lt;h2 id=&#34;cep-800-psychology-of-learning-in-school-and-other-settings&#34;&gt;CEP 800: Psychology of Learning in School and Other Settings&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;Summer 2013&lt;/em&gt;&lt;br&gt;
+&lt;strong&gt;Instructors:&lt;/strong&gt; &lt;a href=&#34;https://www.linkedin.com/in/hannah-klautke-00bbb96/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dr. Hannah Klautke&lt;/a&gt;, &lt;a href=&#34;https://www.seanmleahy.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dr. Sean Leahy&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;In CEP 800, I learned a broad overview of learning theories and how to understand student understanding. I evaluated technologies for teaching and learning and I studied how to craft powerful learning experiences, immersion, and supporting special needs. I created multimodal pieces of work including an audio interview a digital storytelling piece. For the final project of this course I conducted an action research project; I planned and implemented a staff meeting plan that used technology to facilitate a collaborative mind-mapping activity.&lt;/p&gt;
+&lt;h2 id=&#34;cep-822-approaches-to-educational-research&#34;&gt;CEP 822: Approaches to Educational Research&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;Summer 2013&lt;/em&gt;&lt;br&gt;
+&lt;strong&gt;Instructors:&lt;/strong&gt; &lt;a href=&#34;https://www.linkedin.com/in/tatyana-li-3b2897132/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dr. Tatyana Li&lt;/a&gt;, &lt;a href=&#34;https://sites.google.com/a/msu.edu/e-david-wong-ph-d/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dr. David Wong&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;In CEP 822, I learned a broad overview of research methods for education, including literature review, qualitative methods, quantitative methods, and statistical analysis. I completed short projects to evaluate research designs, explore research ethics, and examine both external and internal research validity. I designed and conducted a survey, which included collecting, coding, and analyzing data. I used Microsoft Excel for basic statistical analysis of datasets, including graphing, means and standard deviations, z-scores (standardized variables), t-tests, correlation, and probability. For the final project of this course I completed a research review project of the intersection of college undergraduates, money, and technology.&lt;/p&gt;
+&lt;h2 id=&#34;cep-815-technology-and-leadership&#34;&gt;CEP 815: Technology and Leadership&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;Summer 2014&lt;/em&gt;&lt;br&gt;
+&lt;strong&gt;Instructors:&lt;/strong&gt; &lt;a href=&#34;http://www.education.iastate.edu/people/core-faculty/faculty/bgleason.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dr. Benjamin Gleason&lt;/a&gt;, &lt;a href=&#34;http://www.leighgraveswolf.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dr. Leigh Graves Wolf&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;In CEP 815, I learned at the intersection of Harvard Business Review leadership practices and strategic technology uses for learning. I learned the difference between instrumental and missional thinking, that is, the difference between using a technology for its own sake (focused on the instrument) and selecting technologies as tools to solve specific problems (focused on the mission). I was introduced to two powerful tools for evaluating educational technologies, TPACK (Technological Pedagogical Content Knowledge) and SAMR (Substitution, Augmentation, Modification, Redefinition). I compiled a personal manifesto, a collection of resources that have been essential to my professional work as a startup leader of ministry in digital spaces. For the final project of this course I wrote a paper that included a policy brief, a literature review, a synthesis of learning, and a sustainability statement for ministry in digital spaces.&lt;/p&gt;
+&lt;h2 id=&#34;cep-818-creativity-in-teaching-and-learning&#34;&gt;CEP 818: Creativity in Teaching and Learning&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;Fall 2014&lt;/em&gt;&lt;br&gt;
+&lt;strong&gt;Instructors:&lt;/strong&gt; &lt;a href=&#34;http://www.punyamishra.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dr. Punya Mishra&lt;/a&gt;, &lt;a href=&#34;http://mehtarohit.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dr. Rohit Mehta&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;In CEP 818, I learned about using creative thinking tools for teaching and learning experiences that are NEW (Novel, Effective, and Whole). I practiced quite a bit of video editing as I made digital storytelling pieces for each of these creative thinking tools in order to examine community from many angles. I perceived community through the lens of an iconic dinner party, I looked at the patterns of community as communication spreads in a nonlinear, patchwork saturation effect, and I abstracted community into the resiliency of a wave and ripples. I reflected on how community is embodied while talking on the phone (smiles, stress, and so on), I modeled community through the effects of mediated communication, and I created an opportunity to play with the idea of mediated communication by developing a videogame. For the final project of this course I wrote a created a final video for an elevator pitch and wrote a synthesis white paper summarizing how these new understandings about community inform ministry in digital spaces.&lt;/p&gt;
+&lt;h2 id=&#34;cep-817-learning-technology-through-design&#34;&gt;CEP 817: Learning Technology through Design&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;Spring 2015&lt;/em&gt;&lt;br&gt;
+&lt;strong&gt;Instructors:&lt;/strong&gt; &lt;a href=&#34;http://danah-henriksen.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dr. Danah Henriksen&lt;/a&gt;, &lt;a href=&#34;http://jon-good.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dr. Jon Good&lt;/a&gt;, &lt;a href=&#34;https://carmenrichardson.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Carmen Richardson&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;In CEP 817, I learned at the intersection of the Stanford Design Model and educational technology. Throughout the entire course I used Stanford’s toolkit of design methods to explore the problem of young staff learning ministry in digital spaces. I empathized with these young staff by conducting interviews and observing social media, and I defined the problem through a root-cause analysis and a why-how ladder. I ideated possibilities through both active and passive techniques, and I created a paper prototype for a mobile app that would provide personal coaching to young staff. I turned the paper prototype into a digital one using Twine, and invited a handful of staff to test it. For the final project of this course I wrote a design report that reflected on what each step of the design process taught me about this problem of practice.&lt;/p&gt;
+&lt;h2 id=&#34;cep-811-adapting-innovative-technologies-to-education&#34;&gt;CEP 811: Adapting Innovative Technologies to Education&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;Summer 2015&lt;/em&gt;&lt;br&gt;
+&lt;strong&gt;Instructors:&lt;/strong&gt; &lt;a href=&#34;https://mjwhite61.weebly.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Melissa White&lt;/a&gt;, &lt;a href=&#34;http://janinecampbell.weebly.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Janine Campbell&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;In CEP 811, I learned how to use the act of making to develop compelling teaching and learning. I studied the Makers Movement and makerspaces, looking at learning theories in the work of remixing and repurposing. I learned how to use the Raspberry Pi and the possibilities it creates for designing learning experiences. For the final project of this course I wrote a reflection paper to summarize what I had learned from making with the Raspberry Pi.&lt;/p&gt;
+&lt;h2 id=&#34;cep-807-capstone-in-educational-technology&#34;&gt;CEP 807: Capstone in Educational Technology&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;Summer 2015&lt;/em&gt;&lt;br&gt;
+&lt;strong&gt;Instructors:&lt;/strong&gt; &lt;a href=&#34;http://www.matt-koehler.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dr. Matthew Koehler&lt;/a&gt;, &lt;a href=&#34;http://www.spencergreenhalgh.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dr. Spencer Greenhalgh&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;In CEP 807, I learned about professional portfolios and web development, including FTP, HTML, PHP, and CSS. I wrote three reflections on my Master’s program experience: revisiting my original goals for the program, planning my future learning goals, and synthesizing everything I learned from these courses. I curated all my academic work into a showcase of my nine best projects and an extended gallery of all my digital projects. I significantly improved my social media presence through a resume on my website, a list of technological tools I regularly use, and my Linkedin and about.me profiles. For the final project of this course I compiled all of these pieces into a digital portfolio on a self-hosted Wordpress website.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Making</title>
+      <link>http://bretsw.com/post/making/</link>
+      <pubDate>Sun, 12 Jul 2015 00:00:00 +0000</pubDate>
+      <guid>http://bretsw.com/post/making/</guid>
+      <description>&lt;h3 id=&#34;makerspaces&#34;&gt;Makerspaces&lt;/h3&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/FXd4JynwWDs&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;h3 id=&#34;repurposing&#34;&gt;Repurposing&lt;/h3&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/Ezf8NR3dwxc&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;h3 id=&#34;maker-movement-assessment&#34;&gt;Maker Movement Assessment&lt;/h3&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/pbiw4lUcf58&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Alessia&#39;s Bulwark</title>
+      <link>http://bretsw.com/post/alessia_bulwark/</link>
+      <pubDate>Thu, 30 Apr 2015 00:00:00 +0000</pubDate>
+      <guid>http://bretsw.com/post/alessia_bulwark/</guid>
+      <description>&lt;p&gt;“Art is a lie that makes us realize truth.”&lt;/p&gt;
+&lt;p&gt;Picasso’s famous words were among those jumbling in my head while watching Super Bowl commercials this year. That’s right, my boyfriend was watching football; I was watching commercials. Anyway, Liam Neeson had me in stitches &lt;a href=&#34;https://youtu.be/GC2qk2X3fKA&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;when he said&lt;/a&gt;, “BigBuffetBoy85, I’m coming for you, with lots of barbarians and dragons.” Hilarious for riffing off his Taken franchise persona to sell Clash of Clans to a new audience, but also, well, awkwardly, nervously funny because this made-up marketing scenario tapped into something deeper, something that hit me close to home.&lt;/p&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/GC2qk2X3fKA&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;What is real? I’ve been thinking about this a lot lately. From the tired false dualism of real versus virtual (Nathan Jurgenson has some &lt;a href=&#34;https://thesocietypages.org/cyborgology/2011/02/24/digital-dualism-versus-augmented-reality/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;great reflections&lt;/a&gt; on this) to the near fetishization of F2F (face-to-face) relationships, I’m pretty tired of the whole conversation. I get it, you like to see the person you’re talking to. Maybe you read an article somewhere about the importance of nonverbal communication.&lt;/p&gt;
+&lt;p&gt;But to assume that someone is being more “real” with you because they are sitting across from you “in-the-flesh” is bogus, as anyone who has ever dated could attest. Or to argue that I can’t really know how my friends are doing because they’re only thumbing text messages to me is ludicrous; I could shock you with what I pick up on through the cadence of text-and-response, attention to tipos (that’s a joke, by the way), syntax, grammar, etc.&lt;/p&gt;
+&lt;p&gt;Anyway, all of this is what was brought to a head by Liam Neeson geeking out about Clash of Clans. The line was being flirted with: Is he just really into this mobile game (and is such devotion possible to a click-and-wait game, the world wants to know), or is he shading a little Taken-style sociopathic and in danger of doing some Gamergate-esque harassment?&lt;/p&gt;
+&lt;p&gt;The ad is funny (and lies, I assume), but points to a serious truth.&lt;/p&gt;
+&lt;p&gt;The Gamergate fiasco has been going on for the better part of a year now and has become almost an old punch line for some folks, namely anyone who hasn’t been a victim. But the reality is that women were harassed before Gamergate; women have been harassed online as long as there has been an online. I get it all the time, not as bad as some maybe, but that doesn’t make it any less unpleasant or dangerous.&lt;/p&gt;
+&lt;p&gt;I’m on social media like everyone in my generation, but the real problem place for harassment is in games.&lt;/p&gt;
+&lt;p&gt;I’ve been an MMORPG fan since &lt;a href=&#34;https://www.guildwars.com/en/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Guild Wars&lt;/a&gt; in my teenage years. I really like taking the role of “Tank” in raiding parties. Why yes, thank you, I’ll stay in the middle of the fray and take the bulk of damage dealt; I’m tough like that. Until you pass me on the sidewalk in physical space, a tiny young woman who looks even younger than she is. Well, I’m tough, and I’m going to tank, so get over it. So, what is real about me? My physical appearance? My personality and attitude? My in-game skillset? Tell me, am I a pixie or a tank?&lt;/p&gt;
+&lt;p&gt;In my current MMORPG of choice, &lt;a href=&#34;https://www.elderscrollsonline.com/en-us&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Elder Scrolls Online&lt;/a&gt;, there’s a special heavy armor set called “Alessia’s Bulwark.” I love that the best armor in the game for the beefiest player role is named for a woman. I’ve been crafting everything in this set and like to imagine myself embodying the spirit of Alessia when I quest in her gear. It’s almost a ritual of protection, to toughen up to play the game and endure the harassers.&lt;/p&gt;
+&lt;p&gt;This took on new significance about six months ago, the beginning of December, when my friend Kate committed suicide. We hadn’t yet met in physical space, but we’d been frequent quest-mates for almost a decade (half my life). Like me, Kate got harassed regularly. But unlike me, she fought back in social media and discussion boards.   Guys don’t appreciate that, and someone doxxed her (publicly posted her home address, email, and mobile phone number). The ensuing flood of vitriol and scary stalking crushed her. She had battled depression as long as I’ve known her, and she didn’t have the support network around her to cope, so she ended it in the one way she felt like she could.&lt;/p&gt;
+&lt;p&gt;So, what is real? Are the things said online real?&lt;/p&gt;
+&lt;p&gt;A bunch of us guild-mates sent flowers to Kate’s physical-space memorial service, and we set up a special event in-game, at the Alessia’s Bulwark area, to have a moment of silence in remembrance of her. It was huge and beautiful, and Kate’s mom was even able to attend through a guild-mate who lived close to her (she watched on the screen over his shoulder). I wept through the whole thing.&lt;/p&gt;
+&lt;p&gt;So, what is real? Is this outpouring of love real?&lt;/p&gt;
+&lt;p&gt;(I should also note that none of her classmates from her religious private school attended her memorial; in fact, plenty of them had bullied her on a regular basis.) Let’s not be quick to write off relationships or communication in certain media and spaces. It might be different, and most likely is different, but let’s refrain from naming it better or worse. Physical space is the norm but incredibly uncomfortable and awkward for some people; the nonverbal cues that many find so helpful, others find debilitating for one reason or another. Digital space is an alternative, an approach from another angle, a new onramp to social settings. Maybe we could celebrate the fact that there are now more avenues for opening up than ever before.&lt;/p&gt;
+&lt;p&gt;Being real in physical spaces often comes with baggage.&lt;/p&gt;
+&lt;p&gt;I remember my first full day on campus as a freshman. I went to the Student Center to check my mailbox, and as I exited the mailroom, I rounded the corner into what can only be described as a tidal wave of supermodels. In reality it was a group of sorority sisters who had finished lunch and were heading back to classes. But all I could process in that moment was how impossibly tall and skinny and perfectly coiffed they all were, accompanied by the requisite aura of confidence. Supermodels.&lt;/p&gt;
+&lt;p&gt;Since Liam Neeson started messing with my life, I’ve thought back to that first visceral intersection with the Greek system. Today, I’m much less awestruck. Sure, they’re measurably a lot taller than me, but I still get to ask, “What is real?” Are these women everything that meets the eye on their immaculate surfaces, or is there something deeper? What’s actually going on for them and all the other cool kids?&lt;/p&gt;
+&lt;p&gt;A few weeks after the Super Bowl ad epiphany I decided I wanted to know; I wanted to experience walking through the Student Center in their shoes. So I borrowed a pair of their shoes. No really, I did; my neighbor across the hall in my dorm is a Tri Delt. I perched higher upon heels than I ever had before. I wrangled my hair to look civilized, trendy even. I put on makeup for the first time since my Junior Prom. I borrowed what I had formerly dismissed as “sexy clothes.” And off I went to check my mail in the mailroom.&lt;/p&gt;
+&lt;p&gt;It was weird. I’m used to wandering about with a certain degree of anonymity. This day though, I felt like all eyes were on me. I saw myself as strangers saw me; I felt obligated to straighten my posture, put on a slight smile, and stride purposefully. I was being noticed; I needed to project confidence. Who was this new girl and what had she done with the real me?&lt;/p&gt;
+&lt;p&gt;But then again, who is the real me? I had just accidently empathized a day in my life, and it was messing with my neat categories. No answers, just more questions.&lt;/p&gt;
+&lt;p&gt;Besides the tidal wave of supermodel sorority sisters, that first week on campus also held my first collegiate Physics class. First thing I learned? Apparently AP Physics in high school is a thing, and judging by the contributions of my classmates, evidently it teaches you something. Who knew? I was so utterly lost; my own high school Physics curriculum of loosely relevant Reality TV wasn’t helping me with the assumed calculus foundation for the problem sets. Survivor has a lot to teach about the physical world; equations are not in its repertoire.&lt;/p&gt;
+&lt;p&gt;Turns out my Physics class was also the course all Junior-year pre-med students took as preparation for the MCAT, so I wasn’t just struggling along with fellow clueless frosh, but was confronted with doctors-in-training, literally.&lt;/p&gt;
+&lt;p&gt;It didn’t help that I struggled to find any realness in Physics class too. Classmates were very “loose” about their lab results, students coasted on the coattails of more experienced group partners, and I’d see people almost every day only talking about the most surface-level stuff. It was easy for me to fall into these patterns too.&lt;/p&gt;
+&lt;p&gt;Even as a freshman though I knew this wasn’t who I wanted to be. So I set about answering a single question: What do I actually want to get out of college? I had some rough ideas, and I started asking “Why?” to dig deep into the root causes and motivations. I’ve also asked “How?” a bunch of times to pull myself back up into more practical realms.&lt;/p&gt;
+&lt;p&gt;Now, two years later, I am approaching an answer: I want to connect deeply with people and ideas, deep enough to know what is real. I want to suspend judgment of media or spaces or platforms just because it’s trendy to dismiss them. I want to give communication and relationships in digital spaces a fair shot to uncover the real.&lt;/p&gt;
+&lt;p&gt;Back in January, about a month after Kate’s memorial service and shortly before the Super Bowl, a headline about design thinking crossed my Twitter TL (timeline). The title was a little clickbaity, but I went with it anyway and was impressed by the resources Stanford has made available to randos like me. They have a &lt;a href=&#34;https://dschool.stanford.edu/resources-collections/a-virtual-crash-course-in-design-thinking&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;5-phase design framework&lt;/a&gt; with a nice graphic and everything, and a virtual introductory crash course. I was hooked.&lt;/p&gt;
+&lt;p&gt;Turns out I had already been doing some design thinking on my own. My sorority &lt;del&gt;supermodels&lt;/del&gt; sisters encounter led to an Empathizing exercise. My Physics class and figuring out what I wanted college to be about was an activity of Defining. Since I was a kid, I’ve always carried a small journal with me to capture my thoughts: perfect for Ideating.&lt;/p&gt;
+&lt;p&gt;The close proximity of Kate’s death, Liam Neeson’s sociopathology, and design thinking introduction made me realize I needed to be more intentional about this process. So I had figured out what I wanted my life to be about; great, but I didn’t have much of a plan to get going. Rather than stopping at patting myself on the back for empathizing and defining and casually ideating, I leaned forward.&lt;/p&gt;
+&lt;p&gt;I started into more active ideation. I still kept my thought journal going, but I made sure to schedule time every week to write in it. I would put two random ideas together just to see what would happen; I’ve been amazed at what comes from these novel connections. It’s taking the time to slow down the torrent of ideas, allowing the things already in my head to collide and jostle together and then settle. This tests the substance of ideas and break things apart, but also draws out deeper beauty or real form.&lt;/p&gt;
+&lt;p&gt;I used to clutch a single idea as long as I could, tweaking it along the way, sure, but really keeping a tight grip. This new framework for me is about loosening my grip, trusting the jostling process to mess with the ideas and make them better.&lt;/p&gt;
+&lt;p&gt;I’m finishing up this really great sociology class this term; really great because our professor has been trying to help us engage critically with sociology all around us. I dare say, she is helping us see what is real.&lt;/p&gt;
+&lt;p&gt;She pointed us to a new online game called &lt;a href=&#34;http://ncase.me/polygons/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Parable of the Polygons&lt;/a&gt;, which makes an argument about entitlement and segregation that I found to be profound. I’d read stuff with a similar message before in other sociology courses, but there was something about the interactivity of this game that was quite different than reading academic articles. Same ideas, different experience of realness. Ian Bogost would call this the &lt;a href=&#34;http://bogost.com/books/persuasive_games/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;persuasive power of games&lt;/a&gt;, and it makes me ask: What is the relationship between persuasive and real?&lt;/p&gt;
+&lt;p&gt;How could games (or other highly persuasive media like fabrication labs and maker spaces) be prototypes in my process of seeking realness? Seems strange to talk about a journey including both Kate’s death and videogames. A cynic might point out the incongruity of putting the morbid and the trivial side by side.&lt;/p&gt;
+&lt;p&gt;But if we think about these experiences and media and spaces in terms of participation and agency, my brain is more content. The point being, for realness, I can’t be a passive consumer but must actively take part.&lt;/p&gt;
+&lt;p&gt;These are the things I must test.&lt;/p&gt;
+&lt;p&gt;I don’t begin to imagine these ideas are in their final form. They’re a start, an early prototype. I’ll see how they hold up, and I’ll revise. I’ll try to gain deeper empathy, more crisply define what I’m aiming for, come up with new ideas, put together new prototypes, try those out, and repeat.&lt;/p&gt;
+&lt;p&gt;This is where being a Tank comes in handy. I’m jumping into the middle of the fray. I’m ok with whatever chaotic sequence comes. I’m tough and adaptable. I go slow and steady and deliberately. I can take whatever the journey throws at me.&lt;/p&gt;
+&lt;p&gt;Let me just suit up; I’ll put on Alessia’s Bulwark.&lt;/p&gt;
+&lt;p&gt;I suspect it will be a journey full of unexpected turns that will sound even stranger than the beginning I’ve described here already. Videogames, sorority sisters, Physics, a friend’s death. And Liam Neeson as a catalyst.&lt;/p&gt;
+&lt;p&gt;All on a quest to discover what’s real in this world.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Testing</title>
+      <link>http://bretsw.com/post/testing/</link>
+      <pubDate>Sun, 19 Apr 2015 00:00:00 +0000</pubDate>
+      <guid>http://bretsw.com/post/testing/</guid>
+      <description>
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/kXGaWgGyEuQ&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Online Communities</title>
+      <link>http://bretsw.com/post/online_communities/</link>
+      <pubDate>Fri, 19 Sep 2014 00:00:00 +0000</pubDate>
+      <guid>http://bretsw.com/post/online_communities/</guid>
+      <description>&lt;h3 id=&#34;perceiving-community&#34;&gt;Perceiving Community&lt;/h3&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/wXNKNYnMgBg&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;h3 id=&#34;patterning-community&#34;&gt;Patterning Community&lt;/h3&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/g57hDiMocIs&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;h3 id=&#34;embodying-community&#34;&gt;Embodying Community&lt;/h3&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/Z1HaCtWY2Vg&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;h3 id=&#34;modeling-community&#34;&gt;Modeling Community&lt;/h3&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/OCrLqAwSzNw&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;h3 id=&#34;synthesizing-community&#34;&gt;Synthesizing Community&lt;/h3&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/JdWKrM6qUio&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Coursework: Graduate Certificate in Serious Game Design and Research</title>
+      <link>http://bretsw.com/post/coursework_serious_game/</link>
+      <pubDate>Wed, 30 Apr 2014 00:00:00 +0000</pubDate>
+      <guid>http://bretsw.com/post/coursework_serious_game/</guid>
+      <description>&lt;p&gt;In 2014, I completed a 3-course Graduate Certificate in &lt;a href=&#34;https://comartsci.msu.edu/academics/academic-departments/media-information/graduate/serious-game-design-ma-certificate&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Serious Game Design and Research&lt;/a&gt; through Michigan State University&amp;rsquo;s College of Communication Arts and Sciences. Here I offer a bit of my experience in each course.&lt;br&gt;
+&lt;em&gt;The &amp;ldquo;TC&amp;rdquo; before the course number stands for &amp;ldquo;Telecommunications,&amp;rdquo; the old department name in the College of Communication Arts and Sciences before they changed it to &amp;ldquo;Media and Information.&amp;quot;&lt;/em&gt;&lt;/p&gt;
+&lt;h2 id=&#34;tc-831-theories-of-games-and-interaction-for-design&#34;&gt;TC 831: Theories of Games and Interaction for Design&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;Fall 2012&lt;/em&gt;&lt;br&gt;
+&lt;strong&gt;Instructors:&lt;/strong&gt; &lt;a href=&#34;https://www.linkedin.com/in/patrick-shaw-5802791/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Patrick Shaw&lt;/a&gt;, &lt;a href=&#34;https://comartsci.msu.edu/our-people/carrie-heeter&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dr. Carrie Heeter&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;In TC 831, I learned a broad overview of theories for learning and theories for research-driven serious game design. Learning theories covered included behaviorism, constructivism, multiple intelligences, experiential learning, socially constructed knowledge, distributed cognition, systems thinking, and gamification. I learned game-based learning design principles such as intrinsic and extrinsic motivation, theories of persuasion, scaffolding, feedback and assessment, zone of proximal development, competition and cooperation, pedagogical agents, embodied learning, situated learning, models of fun, and media effects. For the final project of this course I wrote a proposal for a research-driven serious game, complete with a literature review of background research, description of core game mechanics, and development budget.&lt;/p&gt;
+&lt;h2 id=&#34;tc-841-understanding-users&#34;&gt;TC 841: Understanding Users&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;Fall 2013&lt;/em&gt;&lt;br&gt;
+&lt;strong&gt;Instructors:&lt;/strong&gt; &lt;a href=&#34;https://comartsci.msu.edu/our-people/carrie-heeter&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dr. Carrie Heeter&lt;/a&gt;, &lt;a href=&#34;https://www.linkedin.com/in/patrick-shaw-5802791/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Patrick Shaw&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;In TC 841, I learned about designing serious games with players at the center. The course followed the phases of an emergent design process, in which the early Research phase is broad and scattered, the Concept phase begins to narrow focus somewhat, and finally the Design phase produces something specific to test. I practiced implementing user experience (UX) research tools including literature review, competitive analysis, listening tours, strategy workshops, sampling strategies, observation heuristics, user observation methods, surveys, interviews, focus group research, persona creation, and budgeting. I also learned UX design tools such as design briefs, sketching and wireframes, paper prototypes, and usability testing. For the final project of this course I wrote an ethnographic research report covering my use of these many tools and a proposal for a serious game to aid low-income grocery shoppers make healthier food choices.&lt;/p&gt;
+&lt;h2 id=&#34;tc-830-foundations-of-serious-games&#34;&gt;TC 830: Foundations of Serious Games&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;Spring 2014&lt;/em&gt;&lt;br&gt;
+&lt;strong&gt;Instructors:&lt;/strong&gt; &lt;a href=&#34;https://www.linkedin.com/in/patrick-shaw-5802791/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Patrick Shaw&lt;/a&gt;, &lt;a href=&#34;https://comartsci.msu.edu/our-people/carrie-heeter&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dr. Carrie Heeter&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;In TC 830, I learned a broad overview of serious-game genres and a deep look at the game design process. Genres of serious games studied included games for health, games for learning, corporate games, persuasive games, newsgames, and military games. I completed short projects working on adaptations of commercial off-the-shelf games, new game concepts, game mechanics, playtesting and iteration, and gamification principles. For the final project of this course I worked with a partner to research, define mechanics, playtest, and pitch a card game to teach college freshmen about making healthy eating choices in their dining hall.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Learning to Read Socially</title>
+      <link>http://bretsw.com/post/learning-to-read-socially/</link>
+      <pubDate>Sun, 09 Jun 2013 00:00:00 +0000</pubDate>
+      <guid>http://bretsw.com/post/learning-to-read-socially/</guid>
+      <description>
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/4ub5juWV3FI&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>How to Tell a Good Story</title>
+      <link>http://bretsw.com/post/tell-a-good-story/</link>
+      <pubDate>Fri, 24 May 2013 00:00:00 +0000</pubDate>
+      <guid>http://bretsw.com/post/tell-a-good-story/</guid>
+      <description>&lt;iframe 
+        width=&#34;100%&#34; 
+        height=&#34;300&#34; 
+        scrolling=&#34;no&#34; 
+        frameborder=&#34;no&#34; 
+        allow=&#34;autoplay&#34;
+        src=&#34;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/93691345&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true&#34;
+&gt;&lt;/iframe&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

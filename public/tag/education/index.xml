@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>education | Digital space of K. Bret Staudt Willet</title>
+    <link>http://bretsw.com/tag/education/</link>
+      <atom:link href="http://bretsw.com/tag/education/index.xml" rel="self" type="application/rss+xml" />
+    <description>education</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 25 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://bretsw.com/media/icon_hu327cdc32eb61737bbb22c3db2388dbf1_47180_512x512_fill_lanczos_center_3.png</url>
+      <title>education</title>
+      <link>http://bretsw.com/tag/education/</link>
+    </image>
+    
+    <item>
+      <title>Balancing Privacy and Open Science in the Context of COVID-19: A Response to Ifenthaler &amp; Schumacher (2016)</title>
+      <link>http://bretsw.com/publication/rosenberg_staudtwillet_inpress/</link>
+      <pubDate>Sun, 25 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>http://bretsw.com/publication/rosenberg_staudtwillet_inpress/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data Science in Education</title>
+      <link>http://bretsw.com/project/data-science-in-ed/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>http://bretsw.com/project/data-science-in-ed/</guid>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;Data science and learning analytics in education are useful, but we have limited information about the effectiveness or recommendations to guide the design of learning opportunities for professionals working in education. At the same time, we know that, in general, well-designed learning opportunities, even those brief in duration, can improve computational skills. Our purpose is to explore the design and effects of data science workshops for educational researchers.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;publications&#34;&gt;Publications&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Rosenberg, J. M., &amp;amp; &lt;strong&gt;Staudt Willet&lt;/strong&gt;, K. B. (in press). Balancing privacy and open science in the context of COVID-19: A response to Ifenthaler &amp;amp; Schumacher (2016). &lt;em&gt;Educational Technology Research and Development&lt;/em&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;works-in-progress&#34;&gt;Works-in-progress&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;em&gt;The design and effects of data science workshops for educational researchers&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Who is an educational data scientist?&lt;/em&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;contributions&#34;&gt;Contributions&lt;/h2&gt;
+&lt;p&gt;&lt;i class=&#34;fas fa-check&#34;&gt;&lt;/i&gt; Conceptualization&lt;br&gt;
+&lt;i class=&#34;fas fa-check&#34;&gt;&lt;/i&gt; Methodology&lt;br&gt;
+&lt;i class=&#34;fas fa-check&#34;&gt;&lt;/i&gt; Software&lt;br&gt;
+&lt;i class=&#34;fas fa-check&#34;&gt;&lt;/i&gt; Validation&lt;br&gt;
+&lt;i class=&#34;fas fa-check&#34;&gt;&lt;/i&gt; Formal analysis&lt;br&gt;
+&lt;i class=&#34;fas fa-check&#34;&gt;&lt;/i&gt; Investigation&lt;br&gt;
+&lt;i class=&#34;fas fa-times&#34;&gt;&lt;/i&gt; Resources&lt;br&gt;
+&lt;i class=&#34;fas fa-times&#34;&gt;&lt;/i&gt; Data curation&lt;br&gt;
+&lt;i class=&#34;fas fa-check&#34;&gt;&lt;/i&gt; Writing - original draft&lt;br&gt;
+&lt;i class=&#34;fas fa-check&#34;&gt;&lt;/i&gt; Writing - review &amp;amp; editing&lt;br&gt;
+&lt;i class=&#34;fas fa-times&#34;&gt;&lt;/i&gt; Visualization&lt;br&gt;
+&lt;i class=&#34;fas fa-times&#34;&gt;&lt;/i&gt; Supervision&lt;br&gt;
+&lt;i class=&#34;fas fa-times&#34;&gt;&lt;/i&gt; Project administration&lt;br&gt;
+&lt;i class=&#34;fas fa-times&#34;&gt;&lt;/i&gt; Funding acquisition&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;See the &lt;a href=&#34;https://www.elsevier.com/authors/journal-authors/policies-and-ethics/credit-author-statement&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Contributor Roles Taxonomy&lt;/a&gt; (CRediT) from Elsevier for full definitions of these terms.&lt;/em&gt;&lt;/p&gt;
+&lt;hr&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

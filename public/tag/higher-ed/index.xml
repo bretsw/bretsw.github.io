@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>higher ed | Digital space of K. Bret Staudt Willet</title>
+    <link>http://bretsw.com/tag/higher-ed/</link>
+      <atom:link href="http://bretsw.com/tag/higher-ed/index.xml" rel="self" type="application/rss+xml" />
+    <description>higher ed</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://bretsw.com/media/icon_hu327cdc32eb61737bbb22c3db2388dbf1_47180_512x512_fill_lanczos_center_3.png</url>
+      <title>higher ed</title>
+      <link>http://bretsw.com/tag/higher-ed/</link>
+    </image>
+    
+    <item>
+      <title>Social Scholarship Revisited: Changing Scholarly Practices in the Age of Social Media</title>
+      <link>http://bretsw.com/publication/greenhow_gleason_staudtwillet_2019/</link>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>http://bretsw.com/publication/greenhow_gleason_staudtwillet_2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Educating Social Scholars: Examining Novice Researchers&#39; Practices with Social Media</title>
+      <link>http://bretsw.com/publication/greenhow_gleason_marich_staudtwillet_2017/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>http://bretsw.com/publication/greenhow_gleason_marich_staudtwillet_2017/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

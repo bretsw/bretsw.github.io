@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>hashtags | Digital space of K. Bret Staudt Willet</title>
+    <link>http://bretsw.com/tag/hashtags/</link>
+      <atom:link href="http://bretsw.com/tag/hashtags/index.xml" rel="self" type="application/rss+xml" />
+    <description>hashtags</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Oct 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://bretsw.com/media/icon_hu327cdc32eb61737bbb22c3db2388dbf1_47180_512x512_fill_lanczos_center_3.png</url>
+      <title>hashtags</title>
+      <link>http://bretsw.com/tag/hashtags/</link>
+    </image>
+    
+    <item>
+      <title>Educational Twitter Hashtags</title>
+      <link>http://bretsw.com/project/twitter-hashtags/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>http://bretsw.com/project/twitter-hashtags/</guid>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;Studies of educational uses of Twitter have often noted the inclusion of &lt;em&gt;hashtags&lt;/em&gt; (i.e., a key word or phrase preceded by the &amp;ldquo;#&amp;rdquo; symbol) in tweets to organize conversations. Educational Twitter hashtags may be used as a general topical index (e.g., #education) as well as a marker of planned discussions called Twitter chats (e.g., #Edchat, #michED), which occur both synchronously and asynchronously. These hashtags are used to create both formal and informal leanring spaces, and they may be considered an emergent type of online learning environment.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;publications&#34;&gt;Publications&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Greenhalgh, S. P., Rosenberg, J. M., &lt;strong&gt;Staudt Willet&lt;/strong&gt;, K. B., Koehler, M. J., &amp;amp; Akcaoglu, M. (2020). Identifying multiple learning spaces within a single teacher-focused Twitter hashtag. &lt;em&gt;Computers and Education, 148&lt;/em&gt;, 103809. &lt;a href=&#34;https://doi.org/10.1016/j.compedu.2020.103809&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1016/j.compedu.2020.103809&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Carpenter, J. P., &lt;strong&gt;Staudt Willet&lt;/strong&gt;, K. B., Koehler, M. J., &amp;amp; Greenhalgh, S. P. (2020). Spam and educators’ Twitter use: Methodological considerations and challenges. &lt;em&gt;TechTrends, 64&lt;/em&gt;, 460-469. &lt;a href=&#34;https://doi.org/10.1007/s11528-019-00466-3&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1007/s11528-019-00466-3&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Staudt Willet&lt;/strong&gt;, K. B. (2019). Revisiting how and why educators use Twitter: Tweet types and purposes in #Edchat. &lt;em&gt;Journal of Research on Technology in Education, 51&lt;/em&gt;, 273-289. &lt;a href=&#34;https://doi.org/10.1080/15391523.2019.1611507&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1080/15391523.2019.1611507&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Greenhalgh, S. P., &lt;strong&gt;Staudt Willet&lt;/strong&gt;, K. B., Rosenberg, J. M., &amp;amp; Koehler, M. J. (2018). Tweet, and we shall find: Using digital methods to locate participants in educational hashtags. &lt;em&gt;TechTrends, 62&lt;/em&gt;, 501-508. &lt;a href=&#34;https://doi.org/10.1007/s11528-018-0313-6&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1007/s11528-018-0313-6&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;works-in-progress&#34;&gt;Works-in-progress&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;a href=&#34;https://bretsw.github.io/tidytags/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;tidytags: Simple Collection and Powerful Analysis of Twitter Data&lt;/a&gt; [Software: R package]&lt;/li&gt;
+&lt;li&gt;Online teaching supports and practices during a pandemic: Cases of #Edchat teachers in the United States and Canada&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;contributions&#34;&gt;Contributions&lt;/h2&gt;
+&lt;p&gt;&lt;i class=&#34;fas fa-check&#34;&gt;&lt;/i&gt; Conceptualization&lt;br&gt;
+&lt;i class=&#34;fas fa-check&#34;&gt;&lt;/i&gt; Methodology&lt;br&gt;
+&lt;i class=&#34;fas fa-check&#34;&gt;&lt;/i&gt; Software&lt;br&gt;
+&lt;i class=&#34;fas fa-check&#34;&gt;&lt;/i&gt; Validation&lt;br&gt;
+&lt;i class=&#34;fas fa-check&#34;&gt;&lt;/i&gt; Formal analysis&lt;br&gt;
+&lt;i class=&#34;fas fa-check&#34;&gt;&lt;/i&gt; Investigation&lt;br&gt;
+&lt;i class=&#34;fas fa-check&#34;&gt;&lt;/i&gt; Resources&lt;br&gt;
+&lt;i class=&#34;fas fa-check&#34;&gt;&lt;/i&gt; Data curation&lt;br&gt;
+&lt;i class=&#34;fas fa-check&#34;&gt;&lt;/i&gt; Writing - original draft&lt;br&gt;
+&lt;i class=&#34;fas fa-check&#34;&gt;&lt;/i&gt; Writing - review &amp;amp; editing&lt;br&gt;
+&lt;i class=&#34;fas fa-check&#34;&gt;&lt;/i&gt; Visualization&lt;br&gt;
+&lt;i class=&#34;fas fa-check&#34;&gt;&lt;/i&gt; Supervision&lt;br&gt;
+&lt;i class=&#34;fas fa-check&#34;&gt;&lt;/i&gt; Project administration&lt;br&gt;
+&lt;i class=&#34;fas fa-check&#34;&gt;&lt;/i&gt; Funding acquisition&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;See the &lt;a href=&#34;https://www.elsevier.com/authors/journal-authors/policies-and-ethics/credit-author-statement&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Contributor Roles Taxonomy&lt;/a&gt; (CRediT) from Elsevier for full definitions of these terms.&lt;/em&gt;&lt;/p&gt;
+&lt;hr&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

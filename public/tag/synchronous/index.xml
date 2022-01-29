@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>synchronous | Digital space of K. Bret Staudt Willet</title>
+    <link>http://bretsw.com/tag/synchronous/</link>
+      <atom:link href="http://bretsw.com/tag/synchronous/index.xml" rel="self" type="application/rss+xml" />
+    <description>synchronous</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 13 Apr 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://bretsw.com/media/icon_hu327cdc32eb61737bbb22c3db2388dbf1_47180_512x512_fill_lanczos_center_3.png</url>
+      <title>synchronous</title>
+      <link>http://bretsw.com/tag/synchronous/</link>
+    </image>
+    
+    <item>
+      <title>Timing is Everything: Comparing Synchronous and Asynchronous Modes of Twitter for Teacher Professional Learning</title>
+      <link>http://bretsw.com/publication/greenhalgh_staudtwillet_rosenberg_akcaoglu_koehler_2018/</link>
+      <pubDate>Fri, 13 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>http://bretsw.com/publication/greenhalgh_staudtwillet_rosenberg_akcaoglu_koehler_2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Tale of Two Twitters: Synchronous and Asynchronous Use of the Same Hashtag</title>
+      <link>http://bretsw.com/publication/rosenberg_akcaoglu_staudtwillet_greenhalgh_koehler_2017/</link>
+      <pubDate>Sun, 05 Mar 2017 00:00:00 +0000</pubDate>
+      <guid>http://bretsw.com/publication/rosenberg_akcaoglu_staudtwillet_greenhalgh_koehler_2017/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
