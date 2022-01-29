@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Digital space of K. Bret Staudt Willet</title>
+    <link>http://bretsw.com/project/</link>
+      <atom:link href="http://bretsw.com/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://bretsw.com/media/icon_hu327cdc32eb61737bbb22c3db2388dbf1_47180_512x512_fill_lanczos_center_3.png</url>
+      <title>Projects</title>
+      <link>http://bretsw.com/project/</link>
+    </image>
+    
+    <item>
+      <title>Data Science in Education</title>
+      <link>http://bretsw.com/project/data-science-in-ed/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>http://bretsw.com/project/data-science-in-ed/</guid>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;Data science and learning analytics in education are useful, but we have limited information about the effectiveness or recommendations to guide the design of learning opportunities for professionals working in education. At the same time, we know that, in general, well-designed learning opportunities, even those brief in duration, can improve computational skills. Our purpose is to explore the design and effects of data science workshops for educational researchers.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;publications&#34;&gt;Publications&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Rosenberg, J. M., &amp;amp; &lt;strong&gt;Staudt Willet&lt;/strong&gt;, K. B. (in press). Balancing privacy and open science in the context of COVID-19: A response to Ifenthaler &amp;amp; Schumacher (2016). &lt;em&gt;Educational Technology Research and Development&lt;/em&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;works-in-progress&#34;&gt;Works-in-progress&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;em&gt;The design and effects of data science workshops for educational researchers&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Who is an educational data scientist?&lt;/em&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;contributions&#34;&gt;Contributions&lt;/h2&gt;
+&lt;p&gt;&lt;i class=&#34;fas fa-check&#34;&gt;&lt;/i&gt; Conceptualization&lt;br&gt;
+&lt;i class=&#34;fas fa-check&#34;&gt;&lt;/i&gt; Methodology&lt;br&gt;
+&lt;i class=&#34;fas fa-check&#34;&gt;&lt;/i&gt; Software&lt;br&gt;
+&lt;i class=&#34;fas fa-check&#34;&gt;&lt;/i&gt; Validation&lt;br&gt;
+&lt;i class=&#34;fas fa-check&#34;&gt;&lt;/i&gt; Formal analysis&lt;br&gt;
+&lt;i class=&#34;fas fa-check&#34;&gt;&lt;/i&gt; Investigation&lt;br&gt;
+&lt;i class=&#34;fas fa-times&#34;&gt;&lt;/i&gt; Resources&lt;br&gt;
+&lt;i class=&#34;fas fa-times&#34;&gt;&lt;/i&gt; Data curation&lt;br&gt;
+&lt;i class=&#34;fas fa-check&#34;&gt;&lt;/i&gt; Writing - original draft&lt;br&gt;
+&lt;i class=&#34;fas fa-check&#34;&gt;&lt;/i&gt; Writing - review &amp;amp; editing&lt;br&gt;
+&lt;i class=&#34;fas fa-times&#34;&gt;&lt;/i&gt; Visualization&lt;br&gt;
+&lt;i class=&#34;fas fa-times&#34;&gt;&lt;/i&gt; Supervision&lt;br&gt;
+&lt;i class=&#34;fas fa-times&#34;&gt;&lt;/i&gt; Project administration&lt;br&gt;
+&lt;i class=&#34;fas fa-times&#34;&gt;&lt;/i&gt; Funding acquisition&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;See the &lt;a href=&#34;https://www.elsevier.com/authors/journal-authors/policies-and-ethics/credit-author-statement&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Contributor Roles Taxonomy&lt;/a&gt; (CRediT) from Elsevier for full definitions of these terms.&lt;/em&gt;&lt;/p&gt;
+&lt;hr&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Transition Supports Through Social Media</title>
+      <link>http://bretsw.com/project/transition-support/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>http://bretsw.com/project/transition-support/</guid>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;New teachers face numerous decisions as they transition from teacher preparation into enacting practice (i.e., their induction period). They must reconcile conflicting messages about what and how to teach from the academic world of the preparation program and the practical world of their school of employment. Interviews with new teachers provide evidence of why new teachers seek supports for professional leaning to complement formal induction programs offered by schools and districts. Findings demonstrate how new teachers’ agency is stretched as they navigate the edu-verse, a complex learning ecology of supports accessed locally and through social media.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;works-in-progress&#34;&gt;Works-in-progress&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;em&gt;Into the edu-verse: New teachers seeking induction support on social media&lt;/em&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;contributions&#34;&gt;Contributions&lt;/h2&gt;
+&lt;p&gt;&lt;i class=&#34;fas fa-check&#34;&gt;&lt;/i&gt; Conceptualization&lt;br&gt;
+&lt;i class=&#34;fas fa-check&#34;&gt;&lt;/i&gt; Methodology&lt;br&gt;
+&lt;i class=&#34;fas fa-check&#34;&gt;&lt;/i&gt; Software&lt;br&gt;
+&lt;i class=&#34;fas fa-check&#34;&gt;&lt;/i&gt; Validation&lt;br&gt;
+&lt;i class=&#34;fas fa-check&#34;&gt;&lt;/i&gt; Formal analysis&lt;br&gt;
+&lt;i class=&#34;fas fa-check&#34;&gt;&lt;/i&gt; Investigation&lt;br&gt;
+&lt;i class=&#34;fas fa-check&#34;&gt;&lt;/i&gt; Resources&lt;br&gt;
+&lt;i class=&#34;fas fa-check&#34;&gt;&lt;/i&gt; Data curation&lt;br&gt;
+&lt;i class=&#34;fas fa-check&#34;&gt;&lt;/i&gt; Writing - original draft&lt;br&gt;
+&lt;i class=&#34;fas fa-check&#34;&gt;&lt;/i&gt; Writing - review &amp;amp; editing&lt;br&gt;
+&lt;i class=&#34;fas fa-check&#34;&gt;&lt;/i&gt; Visualization&lt;br&gt;
+&lt;i class=&#34;fas fa-times&#34;&gt;&lt;/i&gt; Supervision&lt;br&gt;
+&lt;i class=&#34;fas fa-check&#34;&gt;&lt;/i&gt; Project administration&lt;br&gt;
+&lt;i class=&#34;fas fa-check&#34;&gt;&lt;/i&gt; Funding acquisition&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;See the &lt;a href=&#34;https://www.elsevier.com/authors/journal-authors/policies-and-ethics/credit-author-statement&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Contributor Roles Taxonomy&lt;/a&gt; (CRediT) from Elsevier for full definitions of these terms.&lt;/em&gt;&lt;/p&gt;
+&lt;hr&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Teaching-Related Subreddits</title>
+      <link>http://bretsw.com/project/teaching-subreddits/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>http://bretsw.com/project/teaching-subreddits/</guid>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;Reddit is an understudied social media platform with a large and international base of users. Reddit has more than 430 million average monthly active users globally and 130,000 active discussion forums, called &lt;em&gt;subreddits&lt;/em&gt;. Among these many subreddits, several are education-focused, including 16 that comprise the Reddit Education Network. However, Reddit’s potential for hosting teaching-related discussions has been the subject of relatively little research compared to other social media platforms.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;publications&#34;&gt;Publications&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Staudt Willet&lt;/strong&gt;, K. B., &amp;amp; Carpenter, J. P. (in press). A tale of two subreddits: Change and continuity in teaching-related online spaces. &lt;em&gt;British Journal of Educational Technology&lt;/em&gt;. &lt;a href=&#34;https://doi.org/10.1111/bjet.13051&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1111/bjet.13051&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Staudt Willet&lt;/strong&gt;, K. B., &amp;amp; Carpenter, J. P. (2020). Teachers on Reddit? Exploring contributions and interactions in four teaching-related subreddits. &lt;em&gt;Journal of Research on Technology in Education, 52&lt;/em&gt;, 216-233. &lt;a href=&#34;https://doi.org/10.1080/15391523.2020.1722978&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1080/15391523.2020.1722978&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;works-in-progress&#34;&gt;Works-in-progress&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/bretsw/redditor&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;redditor: R package for collection and analysis of Reddit data&lt;/a&gt; [Software: R package]&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Self-directed educator learning on Reddit: Comparing and contrasting two teaching-related subreddits&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Closing a semester during the COVID-19 pandemic: Higher education professionals seeking and sharing advice on instructional design strategies in Reddit&lt;/em&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;contributions&#34;&gt;Contributions&lt;/h2&gt;
+&lt;p&gt;&lt;i class=&#34;fas fa-check&#34;&gt;&lt;/i&gt; Conceptualization&lt;br&gt;
+&lt;i class=&#34;fas fa-check&#34;&gt;&lt;/i&gt; Methodology&lt;br&gt;
+&lt;i class=&#34;fas fa-check&#34;&gt;&lt;/i&gt; Software&lt;br&gt;
+&lt;i class=&#34;fas fa-check&#34;&gt;&lt;/i&gt; Validation&lt;br&gt;
+&lt;i class=&#34;fas fa-check&#34;&gt;&lt;/i&gt; Formal analysis&lt;br&gt;
+&lt;i class=&#34;fas fa-check&#34;&gt;&lt;/i&gt; Investigation&lt;br&gt;
+&lt;i class=&#34;fas fa-check&#34;&gt;&lt;/i&gt; Resources&lt;br&gt;
+&lt;i class=&#34;fas fa-check&#34;&gt;&lt;/i&gt; Data curation&lt;br&gt;
+&lt;i class=&#34;fas fa-check&#34;&gt;&lt;/i&gt; Writing - original draft&lt;br&gt;
+&lt;i class=&#34;fas fa-check&#34;&gt;&lt;/i&gt; Writing - review &amp;amp; editing&lt;br&gt;
+&lt;i class=&#34;fas fa-check&#34;&gt;&lt;/i&gt; Visualization&lt;br&gt;
+&lt;i class=&#34;fas fa-check&#34;&gt;&lt;/i&gt; Supervision&lt;br&gt;
+&lt;i class=&#34;fas fa-check&#34;&gt;&lt;/i&gt; Project administration&lt;br&gt;
+&lt;i class=&#34;fas fa-times&#34;&gt;&lt;/i&gt; Funding acquisition&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;See the &lt;a href=&#34;https://www.elsevier.com/authors/journal-authors/policies-and-ethics/credit-author-statement&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Contributor Roles Taxonomy&lt;/a&gt; (CRediT) from Elsevier for full definitions of these terms.&lt;/em&gt;&lt;/p&gt;
+&lt;hr&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Educational Twitter Hashtags</title>
+      <link>http://bretsw.com/project/twitter-hashtags/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>http://bretsw.com/project/twitter-hashtags/</guid>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;Studies of educational uses of Twitter have often noted the inclusion of &lt;em&gt;hashtags&lt;/em&gt; (i.e., a key word or phrase preceded by the &amp;ldquo;#&amp;rdquo; symbol) in tweets to organize conversations. Educational Twitter hashtags may be used as a general topical index (e.g., #education) as well as a marker of planned discussions called Twitter chats (e.g., #Edchat, #michED), which occur both synchronously and asynchronously. These hashtags are used to create both formal and informal leanring spaces, and they may be considered an emergent type of online learning environment.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;publications&#34;&gt;Publications&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Greenhalgh, S. P., Rosenberg, J. M., &lt;strong&gt;Staudt Willet&lt;/strong&gt;, K. B., Koehler, M. J., &amp;amp; Akcaoglu, M. (2020). Identifying multiple learning spaces within a single teacher-focused Twitter hashtag. &lt;em&gt;Computers and Education, 148&lt;/em&gt;, 103809. &lt;a href=&#34;https://doi.org/10.1016/j.compedu.2020.103809&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1016/j.compedu.2020.103809&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Carpenter, J. P., &lt;strong&gt;Staudt Willet&lt;/strong&gt;, K. B., Koehler, M. J., &amp;amp; Greenhalgh, S. P. (2020). Spam and educators’ Twitter use: Methodological considerations and challenges. &lt;em&gt;TechTrends, 64&lt;/em&gt;, 460-469. &lt;a href=&#34;https://doi.org/10.1007/s11528-019-00466-3&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1007/s11528-019-00466-3&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Staudt Willet&lt;/strong&gt;, K. B. (2019). Revisiting how and why educators use Twitter: Tweet types and purposes in #Edchat. &lt;em&gt;Journal of Research on Technology in Education, 51&lt;/em&gt;, 273-289. &lt;a href=&#34;https://doi.org/10.1080/15391523.2019.1611507&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1080/15391523.2019.1611507&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Greenhalgh, S. P., &lt;strong&gt;Staudt Willet&lt;/strong&gt;, K. B., Rosenberg, J. M., &amp;amp; Koehler, M. J. (2018). Tweet, and we shall find: Using digital methods to locate participants in educational hashtags. &lt;em&gt;TechTrends, 62&lt;/em&gt;, 501-508. &lt;a href=&#34;https://doi.org/10.1007/s11528-018-0313-6&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1007/s11528-018-0313-6&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;works-in-progress&#34;&gt;Works-in-progress&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;a href=&#34;https://bretsw.github.io/tidytags/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;tidytags: Simple Collection and Powerful Analysis of Twitter Data&lt;/a&gt; [Software: R package]&lt;/li&gt;
+&lt;li&gt;Online teaching supports and practices during a pandemic: Cases of #Edchat teachers in the United States and Canada&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;contributions&#34;&gt;Contributions&lt;/h2&gt;
+&lt;p&gt;&lt;i class=&#34;fas fa-check&#34;&gt;&lt;/i&gt; Conceptualization&lt;br&gt;
+&lt;i class=&#34;fas fa-check&#34;&gt;&lt;/i&gt; Methodology&lt;br&gt;
+&lt;i class=&#34;fas fa-check&#34;&gt;&lt;/i&gt; Software&lt;br&gt;
+&lt;i class=&#34;fas fa-check&#34;&gt;&lt;/i&gt; Validation&lt;br&gt;
+&lt;i class=&#34;fas fa-check&#34;&gt;&lt;/i&gt; Formal analysis&lt;br&gt;
+&lt;i class=&#34;fas fa-check&#34;&gt;&lt;/i&gt; Investigation&lt;br&gt;
+&lt;i class=&#34;fas fa-check&#34;&gt;&lt;/i&gt; Resources&lt;br&gt;
+&lt;i class=&#34;fas fa-check&#34;&gt;&lt;/i&gt; Data curation&lt;br&gt;
+&lt;i class=&#34;fas fa-check&#34;&gt;&lt;/i&gt; Writing - original draft&lt;br&gt;
+&lt;i class=&#34;fas fa-check&#34;&gt;&lt;/i&gt; Writing - review &amp;amp; editing&lt;br&gt;
+&lt;i class=&#34;fas fa-check&#34;&gt;&lt;/i&gt; Visualization&lt;br&gt;
+&lt;i class=&#34;fas fa-check&#34;&gt;&lt;/i&gt; Supervision&lt;br&gt;
+&lt;i class=&#34;fas fa-check&#34;&gt;&lt;/i&gt; Project administration&lt;br&gt;
+&lt;i class=&#34;fas fa-check&#34;&gt;&lt;/i&gt; Funding acquisition&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;See the &lt;a href=&#34;https://www.elsevier.com/authors/journal-authors/policies-and-ethics/credit-author-statement&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Contributor Roles Taxonomy&lt;/a&gt; (CRediT) from Elsevier for full definitions of these terms.&lt;/em&gt;&lt;/p&gt;
+&lt;hr&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Social Scholarship</title>
+      <link>http://bretsw.com/project/social-scholarship/</link>
+      <pubDate>Sat, 01 Oct 2016 00:00:00 +0000</pubDate>
+      <guid>http://bretsw.com/project/social-scholarship/</guid>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;Social scholarship&lt;/em&gt; is a framework that takes into account how social media affect forms of scholarly activity including discovery and research, teaching and learning, integration, and application. Social scholarship continues to evolve in light of changing understandings in the field of educational technology and the role social media play in the academy. Recent examples of social scholarship include altmetrics, interdisciplinary projects, crowdsourced educational technology syllabi, and a reconsideration of the needs of research participants.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;publications&#34;&gt;Publications&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Greenhow, C. M., Gleason, B., &amp;amp; &lt;strong&gt;Staudt Willet&lt;/strong&gt;, K. B. (2019). Social scholarship revisited: Changing scholarly practices in the age of social media. &lt;em&gt;British Journal of Educational Technology, 50&lt;/em&gt;, 987-1004. &lt;a href=&#34;https://doi.org/10.1111/bjet.12772&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1111/bjet.12772&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Greenhow, C. M., Gleason, B., Marich, H., &amp;amp; &lt;strong&gt;Staudt Willet&lt;/strong&gt;, K. B. (2017). Educating social scholars: Examining novice researchers’ practices with social media. &lt;em&gt;Qwerty – Open and Interdisciplinary Journal of Technology, Culture and Education, 12&lt;/em&gt;(2), 30-45. &lt;a href=&#34;http://www.ckbg.org/qwerty/index.php/qwerty/article/view/269/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://www.ckbg.org/qwerty/index.php/qwerty/article/view/269/&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;contributions&#34;&gt;Contributions&lt;/h2&gt;
+&lt;p&gt;&lt;i class=&#34;fas fa-check&#34;&gt;&lt;/i&gt; Conceptualization&lt;br&gt;
+&lt;i class=&#34;fas fa-check&#34;&gt;&lt;/i&gt; Methodology&lt;br&gt;
+&lt;i class=&#34;fas fa-check&#34;&gt;&lt;/i&gt; Software&lt;br&gt;
+&lt;i class=&#34;fas fa-check&#34;&gt;&lt;/i&gt; Validation&lt;br&gt;
+&lt;i class=&#34;fas fa-check&#34;&gt;&lt;/i&gt; Formal analysis&lt;br&gt;
+&lt;i class=&#34;fas fa-check&#34;&gt;&lt;/i&gt; Investigation&lt;br&gt;
+&lt;i class=&#34;fas fa-times&#34;&gt;&lt;/i&gt; Resources&lt;br&gt;
+&lt;i class=&#34;fas fa-check&#34;&gt;&lt;/i&gt; Data curation&lt;br&gt;
+&lt;i class=&#34;fas fa-check&#34;&gt;&lt;/i&gt; Writing - original draft&lt;br&gt;
+&lt;i class=&#34;fas fa-check&#34;&gt;&lt;/i&gt; Writing - review &amp;amp; editing&lt;br&gt;
+&lt;i class=&#34;fas fa-check&#34;&gt;&lt;/i&gt; Visualization&lt;br&gt;
+&lt;i class=&#34;fas fa-times&#34;&gt;&lt;/i&gt; Supervision&lt;br&gt;
+&lt;i class=&#34;fas fa-times&#34;&gt;&lt;/i&gt; Project administration&lt;br&gt;
+&lt;i class=&#34;fas fa-times&#34;&gt;&lt;/i&gt; Funding acquisition&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;See the &lt;a href=&#34;https://www.elsevier.com/authors/journal-authors/policies-and-ethics/credit-author-statement&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Contributor Roles Taxonomy&lt;/a&gt; (CRediT) from Elsevier for full definitions of these terms.&lt;/em&gt;&lt;/p&gt;
+&lt;hr&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

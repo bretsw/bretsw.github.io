@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>COVID-19 | Digital space of K. Bret Staudt Willet</title>
+    <link>http://bretsw.com/tag/covid-19/</link>
+      <atom:link href="http://bretsw.com/tag/covid-19/index.xml" rel="self" type="application/rss+xml" />
+    <description>COVID-19</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 25 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://bretsw.com/media/icon_hu327cdc32eb61737bbb22c3db2388dbf1_47180_512x512_fill_lanczos_center_3.png</url>
+      <title>COVID-19</title>
+      <link>http://bretsw.com/tag/covid-19/</link>
+    </image>
+    
+    <item>
+      <title>Balancing Privacy and Open Science in the Context of COVID-19: A Response to Ifenthaler &amp; Schumacher (2016)</title>
+      <link>http://bretsw.com/publication/rosenberg_staudtwillet_inpress/</link>
+      <pubDate>Sun, 25 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>http://bretsw.com/publication/rosenberg_staudtwillet_inpress/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

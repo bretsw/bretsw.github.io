@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>social network analysis | Digital space of K. Bret Staudt Willet</title>
+    <link>http://bretsw.com/tag/social-network-analysis/</link>
+      <atom:link href="http://bretsw.com/tag/social-network-analysis/index.xml" rel="self" type="application/rss+xml" />
+    <description>social network analysis</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 05 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://bretsw.com/media/icon_hu327cdc32eb61737bbb22c3db2388dbf1_47180_512x512_fill_lanczos_center_3.png</url>
+      <title>social network analysis</title>
+      <link>http://bretsw.com/tag/social-network-analysis/</link>
+    </image>
+    
+    <item>
+      <title>Teachers on Reddit? Exploring Contributions and Interactions in Four Teaching-Related Subreddits</title>
+      <link>http://bretsw.com/publication/staudtwillet_carpenter_2020/</link>
+      <pubDate>Wed, 05 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>http://bretsw.com/publication/staudtwillet_carpenter_2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Educators on the Front Page of the Internet: Education-Related Subreddits as Learning Spaces</title>
+      <link>http://bretsw.com/publication/staudtwillet_carpenter_2019/</link>
+      <pubDate>Fri, 22 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>http://bretsw.com/publication/staudtwillet_carpenter_2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Communities and Clusters: User Interactions in an Online Discussion Forum for Computer Science Education</title>
+      <link>http://bretsw.com/publication/moudgalya_staudtwillet_2019/</link>
+      <pubDate>Thu, 21 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>http://bretsw.com/publication/moudgalya_staudtwillet_2019/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

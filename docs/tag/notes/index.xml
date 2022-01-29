@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>notes | Digital space of K. Bret Staudt Willet</title>
+    <link>http://bretsw.com/tag/notes/</link>
+      <atom:link href="http://bretsw.com/tag/notes/index.xml" rel="self" type="application/rss+xml" />
+    <description>notes</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 23 Aug 2021 08:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://bretsw.com/media/icon_hu327cdc32eb61737bbb22c3db2388dbf1_47180_512x512_fill_lanczos_center_3.png</url>
+      <title>notes</title>
+      <link>http://bretsw.com/tag/notes/</link>
+    </image>
+    
+    <item>
+      <title>Teaching Notes from EME6356: Learning &amp; Web Analytics</title>
+      <link>http://bretsw.com/post/eme6356-hub/</link>
+      <pubDate>Mon, 23 Aug 2021 08:00:00 +0000</pubDate>
+      <guid>http://bretsw.com/post/eme6356-hub/</guid>
+      <description>&lt;p&gt;I wanted a place to compile all of my slide decks as I teach &lt;em&gt;EME6356: Learning &amp;amp; Web Analytics&lt;/em&gt; at Florida State University. Enjoy!&lt;/p&gt;
+&lt;h2 id=&#34;course-description&#34;&gt;Course Description&lt;/h2&gt;
+&lt;p&gt;This course addresses the collection and use of data for decision making and assessment in learning and human performance contexts. Students will get hands-on experience with small data sets and will learn how big data sets are collected and used. The course will explore the role that analytics plays in education and related fields, identify the types of questions that might be answered via both quantitative and qualitative analytics, and engage in analytic- related problem solving. This course will examine case studies and provide students with practice using a variety of tools and services that can help them collect and analyze learning and web data. There are no pre-requisites, and although data will be used prior experience with statistics or research design is not necessary.&lt;/p&gt;
+&lt;h2 id=&#34;learning-objectives&#34;&gt;Learning Objectives&lt;/h2&gt;
+&lt;p&gt;At the completion of this course, students will be able to:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Discuss major concepts related to analytics.&lt;/li&gt;
+&lt;li&gt;Discuss the application of analytics to the fields of instructional systems design and performance technology.&lt;/li&gt;
+&lt;li&gt;Apply the major concepts related to analytics to solving real world problems.&lt;/li&gt;
+&lt;li&gt;Identify real world problems that might be addressed via analytics.&lt;/li&gt;
+&lt;li&gt;Align problems with appropriate data sources, data collection methods, and analytic methods.&lt;/li&gt;
+&lt;li&gt;Select the most appropriate analytic tool for a given context.&lt;/li&gt;
+&lt;li&gt;Collect analytic data in a systematic manner.&lt;/li&gt;
+&lt;li&gt;Analyze and interpret systematically collected analytic data.&lt;/li&gt;
+&lt;li&gt;Develop context-appropriate reports that indicate how analytics address a particular problem.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;module-1-introduction-to-analytics&#34;&gt;&lt;strong&gt;Module 1:&lt;/strong&gt; Introduction to Analytics&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;Tuesday, August 24, 2021&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;View the slides at &lt;a href=&#34;https://bretsw.github.io/eme6356-fs21-module1/,&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://bretsw.github.io/eme6356-fs21-module1/,&lt;/a&gt; or scroll through below:&lt;/p&gt;
+&lt;iframe id=&#34;Module 1 slide deck&#34;
+    title=&#34;Module 1 slide deck&#34;
+    width=&#34;720&#34;
+    height=&#34;405&#34;
+    src=&#34;https://bretsw.github.io/eme6356-fs21-module1/&#34;&gt;
+&lt;/iframe&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;module-2-solving-problems-with-analytics&#34;&gt;&lt;strong&gt;Module 2:&lt;/strong&gt; Solving Problems with Analytics&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;Tuesday, August 31, 2021&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;View the slides at &lt;a href=&#34;https://bretsw.github.io/eme6356-fs21-module2/,&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://bretsw.github.io/eme6356-fs21-module2/,&lt;/a&gt; or scroll through below:&lt;/p&gt;
+&lt;iframe id=&#34;Module 2 slide deck&#34;
+    title=&#34;Module 2 slide deck&#34;
+    width=&#34;720&#34;
+    height=&#34;405&#34;
+    src=&#34;https://bretsw.github.io/eme6356-fs21-module2/&#34;&gt;
+&lt;/iframe&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;module-3-analytics-tools-for-data-collection-and-analysis&#34;&gt;&lt;strong&gt;Module 3:&lt;/strong&gt; Analytics Tools for Data Collection and Analysis&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;Tuesday, September 14, 2021&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;View the slides at &lt;a href=&#34;https://bretsw.github.io/eme6356-fs21-module3/,&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://bretsw.github.io/eme6356-fs21-module3/,&lt;/a&gt; or scroll through below:&lt;/p&gt;
+&lt;iframe id=&#34;Module 3 slide deck&#34;
+    title=&#34;Module 3 slide deck&#34;
+    width=&#34;720&#34;
+    height=&#34;405&#34;
+    src=&#34;https://bretsw.github.io/eme6356-fs21-module3/&#34;&gt;
+&lt;/iframe&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;module-4-social-media-analytics&#34;&gt;&lt;strong&gt;Module 4:&lt;/strong&gt; Social Media Analytics&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;Tuesday, September 28, 2021&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;View the slides at &lt;a href=&#34;https://bretsw.github.io/eme6356-fs21-module4/,&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://bretsw.github.io/eme6356-fs21-module4/,&lt;/a&gt; or scroll through below:&lt;/p&gt;
+&lt;iframe id=&#34;Module 4 slide deck&#34;
+    title=&#34;Module 4 slide deck&#34;
+    width=&#34;720&#34;
+    height=&#34;405&#34;
+    src=&#34;https://bretsw.github.io/eme6356-fs21-module4/&#34;&gt;
+&lt;/iframe&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;module-5-data-visualization&#34;&gt;&lt;strong&gt;Module 5:&lt;/strong&gt; Data Visualization&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;Tuesday, October 5, 2021&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;View the slides at &lt;a href=&#34;https://bretsw.github.io/eme6356-fs21-module5/,&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://bretsw.github.io/eme6356-fs21-module5/,&lt;/a&gt; or scroll through below:&lt;/p&gt;
+&lt;iframe id=&#34;Module 5 slide deck&#34;
+    title=&#34;Module 5 slide deck&#34;
+    width=&#34;720&#34;
+    height=&#34;405&#34;
+    src=&#34;https://bretsw.github.io/eme6356-fs21-module5/&#34;&gt;
+&lt;/iframe&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;module-6-educational-data-mining-and-learning-analytics&#34;&gt;&lt;strong&gt;Module 6:&lt;/strong&gt; Educational Data Mining and Learning Analytics&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;Tuesday, October 19, 2021&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;View the slides at &lt;a href=&#34;https://bretsw.github.io/eme6356-fs21-module6/,&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://bretsw.github.io/eme6356-fs21-module6/,&lt;/a&gt; or scroll through below:&lt;/p&gt;
+&lt;iframe id=&#34;Module 6 slide deck&#34;
+    title=&#34;Module 6 slide deck&#34;
+    width=&#34;720&#34;
+    height=&#34;405&#34;
+    src=&#34;https://bretsw.github.io/eme6356-fs21-module6/&#34;&gt;
+&lt;/iframe&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;module-7-challenges-in-learning-analytics&#34;&gt;&lt;strong&gt;Module 7:&lt;/strong&gt; Challenges in Learning Analytics&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;Tuesday, October 26, 2021&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;View the slides at &lt;a href=&#34;https://bretsw.github.io/eme6356-fs21-module7/,&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://bretsw.github.io/eme6356-fs21-module7/,&lt;/a&gt; or scroll through below:&lt;/p&gt;
+&lt;iframe id=&#34;Module 7 slide deck&#34;
+    title=&#34;Module 7 slide deck&#34;
+    width=&#34;720&#34;
+    height=&#34;405&#34;
+    src=&#34;https://bretsw.github.io/eme6356-fs21-module7/&#34;&gt;
+&lt;/iframe&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;module-8-case-discussions&#34;&gt;&lt;strong&gt;Module 8:&lt;/strong&gt; Case Discussions&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;Tuesday, November 9, 2021&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;View the slides at &lt;a href=&#34;https://bretsw.github.io/eme6356-fs21-module8/,&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://bretsw.github.io/eme6356-fs21-module8/,&lt;/a&gt; or scroll through below:&lt;/p&gt;
+&lt;iframe id=&#34;Module 8 slide deck&#34;
+    title=&#34;Module 8 slide deck&#34;
+    width=&#34;720&#34;
+    height=&#34;405&#34;
+    src=&#34;https://bretsw.github.io/eme6356-fs21-module8/&#34;&gt;
+&lt;/iframe&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;module-9-future-of-analytics-in-society--research&#34;&gt;&lt;strong&gt;Module 9:&lt;/strong&gt; Future of Analytics in Society &amp;amp; Research&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;Tuesday, November 30, 2021&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;View the slides at &lt;a href=&#34;https://bretsw.github.io/eme6356-fs21-module9/,&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://bretsw.github.io/eme6356-fs21-module9/,&lt;/a&gt; or scroll through below:&lt;/p&gt;
+&lt;iframe id=&#34;Module 9 slide deck&#34;
+    title=&#34;Module 9 slide deck&#34;
+    width=&#34;720&#34;
+    height=&#34;405&#34;
+    src=&#34;https://bretsw.github.io/eme6356-fs21-module9/&#34;&gt;
+&lt;/iframe&gt;
+&lt;hr&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Teaching Notes from EME6357: Evaluation of Instruction &amp; Training in Human-Performance Technology</title>
+      <link>http://bretsw.com/post/eme6357-hub/</link>
+      <pubDate>Mon, 23 Aug 2021 08:00:00 +0000</pubDate>
+      <guid>http://bretsw.com/post/eme6357-hub/</guid>
+      <description>&lt;p&gt;I wanted a place to compile all of my slide decks as I teach &lt;em&gt;EME6357: Evaluation of Instruction &amp;amp; Training in Human-Performance Technology&lt;/em&gt; at Florida State University. Enjoy!&lt;/p&gt;
+&lt;h2 id=&#34;course-description&#34;&gt;Course Description&lt;/h2&gt;
+&lt;p&gt;This course focuses on the evaluation of training and instruction through a systemic analysis of the organization sponsoring the training program. The course also provides the knowledge and skills for conducting an HPT-based evaluation of training systems. Students actively participate in discussions, presentations, synthesis of materials, and the writing of papers.&lt;/p&gt;
+&lt;h2 id=&#34;learning-objectives&#34;&gt;Learning Objectives&lt;/h2&gt;
+&lt;p&gt;At the completion of this course, students will be able to:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Identify the characteristics of training programs in the context of Human Performance Technology (HPT).&lt;/li&gt;
+&lt;li&gt;Describe theoretical foundations of evaluation and their application to organizational performance environment through class participation and discussions.&lt;/li&gt;
+&lt;li&gt;Discuss the dominant approaches to evaluation of training through class presentations.&lt;/li&gt;
+&lt;li&gt;Analyze a training system and produce a series of evaluation questions as drivers of design and development of evaluation.&lt;/li&gt;
+&lt;li&gt;Develop a training evaluation plan by proposing appropriate analysis, methodology, implementation and communication approaches.&lt;/li&gt;
+&lt;li&gt;Synthesize the proposed activities into an evaluation proposal as the final class project.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;module-0-course-welcome&#34;&gt;&lt;strong&gt;Module 0:&lt;/strong&gt; Course Welcome&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;Wednesday, August 25, 2021&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;View the slides at &lt;a href=&#34;https://bretsw.github.io/eme6357-module0/,&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://bretsw.github.io/eme6357-module0/,&lt;/a&gt; or scroll through below:&lt;/p&gt;
+&lt;iframe id=&#34;Module 0 slide deck&#34;
+    title=&#34;Module 0 slide deck&#34;
+    width=&#34;720&#34;
+    height=&#34;405&#34;
+    src=&#34;https://bretsw.github.io/eme6357-module0/&#34;&gt;
+&lt;/iframe&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;module-1-what-is-evaluation&#34;&gt;&lt;strong&gt;Module 1:&lt;/strong&gt; What is Evaluation?&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;Wednesday, September 1, 2021&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;View the slides at &lt;a href=&#34;https://bretsw.github.io/eme6357-module1/,&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://bretsw.github.io/eme6357-module1/,&lt;/a&gt; or scroll through below:&lt;/p&gt;
+&lt;iframe id=&#34;Module 1 slide deck&#34;
+    title=&#34;Module 1 slide deck&#34;
+    width=&#34;720&#34;
+    height=&#34;405&#34;
+    src=&#34;https://bretsw.github.io/eme6357-module1/&#34;&gt;
+&lt;/iframe&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;module-2-systems-analysis--training-programs&#34;&gt;&lt;strong&gt;Module 2:&lt;/strong&gt; Systems Analysis &amp;amp; Training Programs&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;Wednesday, September 22, 2021&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;View the slides at &lt;a href=&#34;https://bretsw.github.io/eme6357-module2/,&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://bretsw.github.io/eme6357-module2/,&lt;/a&gt; or scroll through below:&lt;/p&gt;
+&lt;iframe id=&#34;Module 2 slide deck&#34;
+    title=&#34;Module 2 slide deck&#34;
+    width=&#34;720&#34;
+    height=&#34;405&#34;
+    src=&#34;https://bretsw.github.io/eme6357-module2/&#34;&gt;
+&lt;/iframe&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;module-3-evaluation-methodology&#34;&gt;&lt;strong&gt;Module 3:&lt;/strong&gt; Evaluation Methodology&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;Wednesday, October 13, 2021&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;View the slides at &lt;a href=&#34;https://bretsw.github.io/eme6357-module3/,&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://bretsw.github.io/eme6357-module3/,&lt;/a&gt; or scroll through below:&lt;/p&gt;
+&lt;iframe id=&#34;Module 3 slide deck&#34;
+    title=&#34;Module 3 slide deck&#34;
+    width=&#34;720&#34;
+    height=&#34;405&#34;
+    src=&#34;https://bretsw.github.io/eme6357-module3/&#34;&gt;
+&lt;/iframe&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;module-4-creating-an-evaluation-plan&#34;&gt;&lt;strong&gt;Module 4:&lt;/strong&gt; Creating an Evaluation Plan&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;Wednesday, November 10, 2021&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;[Coming soon!]&lt;/p&gt;
+&lt;hr&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

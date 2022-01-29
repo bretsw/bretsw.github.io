@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>open science | Digital space of K. Bret Staudt Willet</title>
+    <link>http://bretsw.com/tag/open-science/</link>
+      <atom:link href="http://bretsw.com/tag/open-science/index.xml" rel="self" type="application/rss+xml" />
+    <description>open science</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 25 Feb 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://bretsw.com/media/icon_hu327cdc32eb61737bbb22c3db2388dbf1_47180_512x512_fill_lanczos_center_3.png</url>
+      <title>open science</title>
+      <link>http://bretsw.com/tag/open-science/</link>
+    </image>
+    
+    <item>
+      <title>New paper: Balancing open science and privacy in the context of learning analytics</title>
+      <link>http://bretsw.com/post/new-paper-balancing-open-science-and-privacy/</link>
+      <pubDate>Thu, 25 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>http://bretsw.com/post/new-paper-balancing-open-science-and-privacy/</guid>
+      <description>&lt;h2 id=&#34;background&#34;&gt;Background&lt;/h2&gt;
+&lt;p&gt;I recently co-authored (with &lt;a href=&#34;https://www.jmichaelrosenberg.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Josh Rosenberg&lt;/a&gt; a response to a valuable paper by &lt;a href=&#34;https://doi.org/10.1007/s11423-016-9477-y&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ifenthaler and Schumacher (2016)&lt;/a&gt; as a part of &lt;a href=&#34;https://doi.org/10.1007/s11423-021-09960-z&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;a special issue&lt;/a&gt; of &lt;em&gt;Educational Technology Research &amp;amp; Development&lt;/em&gt; on &amp;ldquo;Shifting to Digital&amp;rdquo; in light of the COVID-19 pandemic.&lt;/p&gt;
+&lt;p&gt;Here is a succinct description of the aims of the special issue:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;This Special Issue is unique in that it will focus on multiple perspectives where respondent authors write about the implications of scholarship on addressing current challenges related to an increased focus of digital learning. The multiple perspectives include but are not limited to research, theory, design, practice (teaching or training), policy, culture and international angles.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Our response was a brief (1,000-word) summary of Ifenthaler an Schumacher&amp;rsquo;s (2016) paper framed (loosely) within a theoretical perspective introduced in a different paper - a perspective on how the balance between open science and privacy can be conceptualized as in tension, with value in considering each simultaneously and in light
+of the other. That theoretical perspective is from a lovely paper by &lt;a href=&#34;https://doi.org/10.1177/2378023118813023&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lundberg et al. (2019)&lt;/a&gt; on how they protected the privacy of the participants (including children) in the data they collected and then shared. They did so through carefully anticipating what risks might emerge from sharing the data through &amp;ldquo;modeling&amp;rdquo;/anticipating threats to privacy, mitigating the possibility of those occurring, and soliciting guidance from experts outside of the research team.&lt;/p&gt;
+&lt;h2 id=&#34;our-article&#34;&gt;Our Article&lt;/h2&gt;
+&lt;p&gt;Here is the abstract for our article:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Privacy and confidentiality are core considerations in education, while at the same time, using and sharing data—and, more broadly, open science—is increasingly valued by editors, funding agencies, and the public. This manuscript responds to an empirical investigation of students’ perceptions of the use of their data in learning analytics systems by Ifentahler and Schumacher (Educational Technology Research and Development, 64: 923-938, 2016). We summarize their work in the context of the COVID-19 pandemic and the resulting shift to digital modes of teaching and learning by many teachers, using the tension between privacy and open science to frame our response. We offer informed recommendations for educational technology researchers in light of Ifentahler and Schumacher’s findings as well as strategies for navigating the tension between these important values. We conclude with a call for educational technology scholars to meet the challenge of studying learning (and disruptions to learning) in light of COVID-19 while protecting the privacy of students in ways that go beyond what Institutional Review Boards consider to be within their purview.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;The entire response is &lt;a href=&#34;https://doi.org/10.1007/s11423-020-09860-8&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;on Springer&amp;rsquo;s website&lt;/a&gt; and is also always &lt;a href=&#34;https://www.jmichaelrosenberg.com/post-prints/rosenberg-staudt-willet-2020.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;available as a post-print here&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;other-responses-to-the-ifenthaler-and-schumacher-2016-article&#34;&gt;Other Responses to the Ifenthaler and Schumacher (2016) article&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Linda Corrin&amp;rsquo;s response: &lt;a href=&#34;https://doi.org/10.1007/s11423-020-09922-x&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Shifting to digital: A policy perspective on ‘Student perceptions of privacy principles for learning analytics’ (Ifenthaler &amp;amp; Schumacher 2016)&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Xavier Ochoa and Alyssa Wise&amp;rsquo;s response: &lt;a href=&#34;https://doi.org/10.1007/s11423-020-09882-2&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Supporting the shift to digital with student-centered learning analytics&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Royce Kimmon&amp;rsquo;s overview and commentary on the three responses to the article: &lt;a href=&#34;https://doi.org/10.1007/s11423-021-09950-1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Safeguarding student privacy in an age of analytics&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;This was fun to write. This call to consider previous, important studies in light of contemporary events (or advances in research) is a good one, and I&amp;rsquo;m glad to have had the chance to write a bit on the topics of open science and privacy (in balance, as it were!).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Balancing Privacy and Open Science in the Context of COVID-19: A Response to Ifenthaler &amp; Schumacher (2016)</title>
+      <link>http://bretsw.com/publication/rosenberg_staudtwillet_inpress/</link>
+      <pubDate>Sun, 25 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>http://bretsw.com/publication/rosenberg_staudtwillet_inpress/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
