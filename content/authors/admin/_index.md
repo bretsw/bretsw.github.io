@@ -72,6 +72,9 @@ social:
 - icon: cv
   icon_pack: ai
   link: https://www.fsu.edu/cvdb/KSTAUDTWILLET.rtf?0=
+- icon: open-materials
+  icon_pack: ai
+  link: https://docs.ropensci.org/tidytags/
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true

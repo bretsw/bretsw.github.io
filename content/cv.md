@@ -88,7 +88,8 @@ summary = ""
 - Smith, C., doctoral student.
 - Wick, J., doctoral student.
 
-Doctoral Committee Member
+
+## Doctoral Committee Member
 
 - He, D., doctoral candidate.
 - Johnston, R., doctoral candidate.  *Characteristics of High-Performing Volunteer Nonprofit Board Members*.
@@ -335,7 +336,7 @@ Staudt Willet, K. B., & Rosenberg, J. M. (2021). *tidytags: Importing and analyz
 
 ## The Profession
 
-### Guest Reviewer for Refereed Journals (23)
+### Guest Reviewer for Refereed Journals (23 reviews)
 
 - *AERA Open* (2021–present).
 - *Computers & Education* (2021–present).
