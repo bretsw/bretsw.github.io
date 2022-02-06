@@ -50,6 +50,8 @@ summary = ""
 
 ## Honors, Awards, and Prizes
 
+- **Marvalene Hughes Research in Education Conference Travel Award**, Florida State University, College of Education (2022). ($700). 
+- Nominated: **COE Teaching Award for Graduate Teaching** (not eligible to win), Florida State University, College of Education (2022). 
 - **Outstanding Service Award**, Association for Educational Communications & Technology (AECT) (2021). 
 - **Dissertation Completion Fellowship**, Michigan State University, College of Education (2021). ($7,000). 
 - **MSU AT&T Faculty-Staff Annual Competition in Instructional Technology**, Michigan State University (2021). ($500). 
