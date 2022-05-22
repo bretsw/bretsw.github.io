@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>EPET on Bret Staudt Willet, Ph.D.</title>
+    <link>http://bretsw.com/tags/epet/</link>
+    <description>Recent content in EPET on Bret Staudt Willet, Ph.D.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 30 Jul 2016 00:00:00 +0000</lastBuildDate><atom:link href="http://bretsw.com/tags/epet/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Early Research Interest</title>
+      <link>http://bretsw.com/post/early-research-interest/</link>
+      <pubDate>Sat, 30 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://bretsw.com/post/early-research-interest/</guid>
+      
+        <description>   </description>
+      
+    </item>
+    
+    <item>
+      <title>proCATstination</title>
+      <link>http://bretsw.com/post/procatstination/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://bretsw.com/post/procatstination/</guid>
+      
+        <description>   </description>
+      
+    </item>
+    
+  </channel>
+</rss>

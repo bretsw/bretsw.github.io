@@ -1,0 +1,612 @@
+<!DOCTYPE html>
+<html
+  dir="ltr"
+  lang="en-us"
+  data-theme=""
+  class="html"
+><head>
+  <title>
+    
+      
+        Teaching Notes from EME6356: Learning &amp; Web Analytics |
+
+      
+      K. Bret Staudt Willet
+
+
+    
+  </title>
+
+  
+  <meta charset="utf-8" /><meta name="generator" content="Hugo 0.92.2" /><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover" />
+  <meta name="author" content="K. Bret Staudt Willet" />
+  <meta
+    name="description"
+    content="
+      Assistant Professor
+Florida State University
+
+
+
+    "
+  />
+  
+  
+    
+    
+    <link
+      rel="stylesheet"
+      href="/scss/main.min.8586e53b3655402b04b8997a4ba0ea41beba05b00f63bcff0b1cad3f7b526ef9.css"
+      integrity="sha256-hYblOzZVQCsEuJl6S6DqQb66BbAPY7z/CxytP3tSbvk="
+      crossorigin="anonymous"
+      type="text/css"
+    />
+
+  
+
+  
+  <link
+    rel="stylesheet"
+    href="/css/markupHighlight.min.31b0a1f317f55c529a460897848c97436bb138b19c399b37de70d463a8bf6ed5.css"
+    integrity="sha256-MbCh8xf1XFKaRgiXhIyXQ2uxOLGcOZs33nDUY6i/btU="
+    crossorigin="anonymous"
+    type="text/css"
+  />
+  
+    
+    
+    <link
+      rel="stylesheet"
+      href="/css/syntax.min.dd5b47689eac4082335c3a7a4540adc5c08f2d9d6d6f6ba76a81e9f1901f0f9f.css"
+      integrity="sha256-3VtHaJ6sQIIzXDp6RUCtxcCPLZ1tb2unaoHp8ZAfD58="
+      crossorigin="anonymous"
+      media="screen"
+    />
+
+  
+  
+  <link
+    rel="stylesheet"
+    href="/fontawesome/css/fontawesome.min.69685904d5c2a0c6258d03c207b778c10466edf6cea928cc0164c376b0ad0930.css"
+    integrity="sha256-aWhZBNXCoMYljQPCB7d4wQRm7fbOqSjMAWTDdrCtCTA="
+    crossorigin="anonymous"
+    type="text/css"
+  />
+  
+  <link
+    rel="stylesheet"
+    href="/fontawesome/css/solid.min.6d585e78d28cce1200d39fb133c92ed83df01738da721d0f48fb6eac62d24e04.css"
+    integrity="sha256-bVheeNKMzhIA05&#43;xM8ku2D3wFzjach0PSPturGLSTgQ="
+    crossorigin="anonymous"
+    type="text/css"
+  />
+  
+  <link
+    rel="stylesheet"
+    href="/fontawesome/css/brands.min.6b00d96498d59caa0dbcf9b49d30d821915291f2ceb0e19248523c8607ff43fa.css"
+    integrity="sha256-awDZZJjVnKoNvPm0nTDYIZFSkfLOsOGSSFI8hgf/Q/o="
+    crossorigin="anonymous"
+    type="text/css"
+  />
+  
+  <link rel="shortcut icon" href="/favicons/favicon.ico" type="image/x-icon" />
+  <link rel="apple-touch-icon" sizes="180x180" href="/favicons/apple-touch-icon.png" />
+  <link rel="icon" type="image/png" sizes="32x32" href="/favicons/favicon-32x32.png" />
+  <link rel="icon" type="image/png" sizes="16x16" href="/favicons/favicon-16x16.png" />
+
+  <link rel="canonical" href="http://bretsw.com/post/eme6356-hub/" />
+
+  
+  
+  
+  
+  <script
+    type="text/javascript"
+    src="/js/anatole-header.min.46e6a54097480084f8f52c20ca1aa7425b4fad17029a887fd4017b12e311a72d.js"
+    integrity="sha256-RualQJdIAIT49SwgyhqnQltPrRcCmoh/1AF7EuMRpy0="
+    crossorigin="anonymous"
+  ></script>
+
+  
+    
+    
+    <script
+      type="text/javascript"
+      src="/js/anatole-theme-switcher.min.5557c8ff5617a01067ac258fd70b9b992506e379317b0da51e5e0f6e018b408a.js"
+      integrity="sha256-VVfI/1YXoBBnrCWP1wubmSUG43kxew2lHl4PbgGLQIo="
+      crossorigin="anonymous"
+    ></script>
+
+  
+
+  
+
+
+  
+  <meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="Teaching Notes from EME6356: Learning &amp; Web Analytics"/>
+<meta name="twitter:description" content="I wanted a place to compile all of my slide decks as I teach EME6356: Learning &amp; Web Analytics at Florida State University."/>
+
+
+
+  
+  <meta property="og:title" content="Teaching Notes from EME6356: Learning &amp; Web Analytics" />
+<meta property="og:description" content="I wanted a place to compile all of my slide decks as I teach EME6356: Learning &amp; Web Analytics at Florida State University." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://bretsw.com/post/eme6356-hub/" /><meta property="article:section" content="post" />
+<meta property="article:published_time" content="2022-04-29T00:00:00+00:00" />
+<meta property="article:modified_time" content="2022-04-29T00:00:00+00:00" /><meta property="og:site_name" content="Bret Staudt Willet, Ph.D." />
+
+
+
+
+  
+  
+  
+  
+  <script type="application/ld+json">
+    {
+        "@context": "http://schema.org",
+        "@type": "BlogPosting",
+        "articleSection": "post",
+        "name": "Teaching Notes from EME6356: Learning \u0026 Web Analytics",
+        "headline": "Teaching Notes from EME6356: Learning \u0026 Web Analytics",
+        "alternativeHeadline": "",
+        "description": "
+      
+        I wanted a place to compile all of my slide decks as I teach EME6356: Learning \u0026amp; Web Analytics at Florida State University.
+
+
+      
+
+
+    ",
+        "inLanguage": "en-us",
+        "isFamilyFriendly": "true",
+        "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "http:\/\/bretsw.com\/post\/eme6356-hub\/"
+        },
+        "author" : {
+            "@type": "Person",
+            "name": "K. Bret Staudt Willet"
+        },
+        "creator" : {
+            "@type": "Person",
+            "name": "K. Bret Staudt Willet"
+        },
+        "accountablePerson" : {
+            "@type": "Person",
+            "name": "K. Bret Staudt Willet"
+        },
+        "copyrightHolder" : {
+            "@type": "Person",
+            "name": "K. Bret Staudt Willet"
+        },
+        "copyrightYear" : "2022",
+        "dateCreated": "2022-04-29T00:00:00.00Z",
+        "datePublished": "2022-04-29T00:00:00.00Z",
+        "dateModified": "2022-04-29T00:00:00.00Z",
+        "publisher":{
+            "@type":"Organization",
+            "name": "K. Bret Staudt Willet",
+            "url": "http://bretsw.com",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "http:\/\/bretsw.com\/favicons\/favicon-32x32.png",
+                "width":"32",
+                "height":"32"
+            }
+        },
+        "image": 
+      [
+      ]
+
+    ,
+        "url" : "http:\/\/bretsw.com\/post\/eme6356-hub\/",
+        "wordCount" : "393",
+        "genre" : [ ],
+        "keywords" : [ 
+      
+      "teaching"
+
+    
+      
+        ,
+
+      
+      "notes"
+
+    
+      
+        ,
+
+      
+      "fsu"
+
+    
+      
+        ,
+
+      
+      "slide deck"
+
+    ]
+    }
+  </script>
+
+
+
+</head>
+<body
+    
+      class="body theme--light"
+
+    
+  >
+    <div class="wrapper">
+      <aside
+        
+          class="wrapper__sidebar"
+
+        
+      ><div
+  class="sidebar
+    animated fadeInDown
+
+  "
+>
+  <div class="sidebar__content">
+    <div class="sidebar__introduction">
+      <img
+        class="sidebar__introduction-profileimage"
+        src="/images/bretsw.jpg"
+        alt="profile picture"
+      />
+      <h1 class="sidebar__introduction-title">
+        <a href="/">Bret Staudt Willet, Ph.D.</a>
+      </h1>
+      <div class="sidebar__introduction-description">
+        <p>Assistant Professor<br />Florida State University<br /></p>
+      </div>
+    </div>
+    <ul class="sidebar__list">
+      
+        <li class="sidebar__list-item">
+          <a href="mailto:bret.staudtwillet@fsu.edu" rel="me" aria-label="Email" title="Email">
+            <i class="fas fa-envelope fa-2x" aria-hidden="true"></i>
+          </a>
+        </li>
+
+      
+        <li class="sidebar__list-item">
+          <a href="https://twitter.com/bretsw" rel="me" aria-label="Twitter" title="Twitter">
+            <i class="fab fa-twitter fa-2x" aria-hidden="true"></i>
+          </a>
+        </li>
+
+      
+        <li class="sidebar__list-item">
+          <a href="https://scholar.social/web/@bretsw" rel="me" aria-label="Mastodon" title="Mastodon">
+            <i class="fab fa-mastodon fa-2x" aria-hidden="true"></i>
+          </a>
+        </li>
+
+      
+        <li class="sidebar__list-item">
+          <a href="https://scholar.google.com/citations?user=P-65wkIAAAAJ&amp;hl=en" rel="me" aria-label="Google Scholar" title="Google Scholar">
+            <i class="fas fa-graduation-cap fa-2x" aria-hidden="true"></i>
+          </a>
+        </li>
+
+      
+        <li class="sidebar__list-item">
+          <a href="https://github.com/bretsw/" rel="me" aria-label="GitHub" title="GitHub">
+            <i class="fab fa-github fa-2x" aria-hidden="true"></i>
+          </a>
+        </li>
+
+      
+        <li class="sidebar__list-item">
+          <a href="https://www.linkedin.com/in/bretsw/" rel="me" aria-label="Linkedin" title="Linkedin">
+            <i class="fab fa-linkedin fa-2x" aria-hidden="true"></i>
+          </a>
+        </li>
+
+      
+        <li class="sidebar__list-item">
+          <a href="https://orcid.org/0000-0002-6984-416X" rel="me" aria-label="ORCiD" title="ORCiD">
+            <i class="fab fa-orcid fa-2x" aria-hidden="true"></i>
+          </a>
+        </li>
+
+      
+        <li class="sidebar__list-item">
+          <a href="https://www.fsu.edu/cvdb/KSTAUDTWILLET.rtf?0=" rel="me" aria-label="CV" title="CV">
+            <i class="fas fa-file-alt fa-2x" aria-hidden="true"></i>
+          </a>
+        </li>
+
+      
+    </ul>
+  </div><footer class="footer footer__sidebar">
+  <ul class="footer__list">
+    <li class="footer__item">
+      &copy;
+      
+        <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a> 2022
+
+      
+    </li>
+    
+  </ul>
+</footer>
+  
+  <script
+    type="text/javascript"
+    src="/js/medium-zoom.min.fae9ac8895995fe91958b3954be11e96025824a04770726a3531e119ddd2d576.js"
+    integrity="sha256-&#43;umsiJWZX&#43;kZWLOVS&#43;EelgJYJKBHcHJqNTHhGd3S1XY="
+    crossorigin="anonymous"
+  ></script></div>
+</aside>
+      <main
+        
+          class="wrapper__main"
+
+        
+      >
+        <header class="header"><div
+  class="
+    animated fadeInDown
+
+  "
+>
+  <a role="button" class="navbar-burger" data-target="navMenu" aria-label="menu" aria-expanded="false">
+    <span aria-hidden="true" class="navbar-burger__line"></span>
+    <span aria-hidden="true" class="navbar-burger__line"></span>
+    <span aria-hidden="true" class="navbar-burger__line"></span>
+  </a>
+  <nav class="nav">
+    <ul class="nav__list" id="navMenu">
+      
+      
+        
+        <li class="nav__list-item">
+          <a
+            
+            href="/"
+            
+            title=""
+            >Home</a
+          >
+        </li>
+
+      
+        
+        <li class="nav__list-item">
+          <a
+            
+            href="/cv/"
+            
+            title=""
+            >CV</a
+          >
+        </li>
+
+      
+        
+        <li class="nav__list-item">
+          <a
+            
+            href="/research/"
+            
+            title=""
+            >Research</a
+          >
+        </li>
+
+      
+        
+        <li class="nav__list-item">
+          <a
+            
+            href="/teaching/"
+            
+            title=""
+            >Teaching</a
+          >
+        </li>
+
+      
+        
+        <li class="nav__list-item">
+          <a
+            
+            href="/post/"
+            
+            title=""
+            >Posts</a
+          >
+        </li>
+
+      
+    </ul>
+    <ul class="nav__list nav__list--end">
+      
+      
+        <li class="nav__list-item">
+          <div class="themeswitch">
+            <a title="Switch Theme">
+              <i class="fas fa-adjust fa-fw" aria-hidden="true"></i>
+            </a>
+          </div>
+        </li>
+
+      
+    </ul>
+  </nav>
+</div>
+</header>
+  <div
+    class="post 
+      animated fadeInDown
+
+    "
+  >
+    
+      <div class="post__thumbnail-wrapper">
+        <img class="post__thumbnail" src="/images/6356-icon.jpg" alt="Thumbnail image" />
+      </div>
+
+    
+    <div class="post__content">
+      <h1>Teaching Notes From EME6356: Learning &amp; Web Analytics</h1>
+      
+        <ul class="post__meta">
+          <li class="post__meta-item">
+            <em class="fas fa-calendar-day post__meta-icon"></em>
+            <span class="post__meta-text"
+              >
+                4/29/2022
+
+
+              
+            </span>
+          </li>
+        </ul>
+
+      <p>I wanted a place to compile all of my slide decks as I teach <em>EME6356: Learning &amp; Web Analytics</em> at Florida State University. Enjoy!</p>
+<h2 id="course-description">Course Description</h2>
+<p>This course addresses the collection and use of data for decision making and assessment in learning and human performance contexts. Students will get hands-on experience with small data sets and will learn how big data sets are collected and used. The course will explore the role that analytics plays in education and related fields, identify the types of questions that might be answered via both quantitative and qualitative analytics, and engage in analytic- related problem solving. This course will examine case studies and provide students with practice using a variety of tools and services that can help them collect and analyze learning and web data. There are no pre-requisites, and although data will be used prior experience with statistics or research design is not necessary.</p>
+<h2 id="learning-objectives">Learning Objectives</h2>
+<p>At the completion of this course, students will be able to:</p>
+<ol>
+<li>Discuss major concepts related to analytics.</li>
+<li>Discuss the application of analytics to the fields of instructional systems design and performance technology.</li>
+<li>Apply the major concepts related to analytics to solving real world problems.</li>
+<li>Identify real world problems that might be addressed via analytics.</li>
+<li>Align problems with appropriate data sources, data collection methods, and analytic methods.</li>
+<li>Select the most appropriate analytic tool for a given context.</li>
+<li>Collect analytic data in a systematic manner.</li>
+<li>Analyze and interpret systematically collected analytic data.</li>
+<li>Develop context-appropriate reports that indicate how analytics address a particular problem.</li>
+</ol>
+<hr>
+<h2 id="module-1-introduction-to-analytics">Module 1: Introduction to Analytics</h2>
+<p><em>Tuesday, January 11, 2022</em></p>
+<p>View the slides at <a href="https://bretsw.github.io/eme6356-ss22-module1/">https://bretsw.github.io/eme6356-ss22-module1/</a>, or scroll through below:</p>
+<iframe id="Module 1 slide deck"
+    title="Module 1 slide deck"
+    width="720"
+    height="405"
+    src="https://bretsw.github.io/eme6356-ss22-module1/">
+</iframe>
+<hr>
+<h2 id="module-2-performance-analytics">Module 2: Performance Analytics</h2>
+<p><em>Tuesday, January 18, 2022</em></p>
+<p>View the slides at <a href="https://bretsw.github.io/eme6356-ss22-module2/">https://bretsw.github.io/eme6356-ss22-module2/</a>, or scroll through below:</p>
+<iframe id="Module 2 slide deck"
+    title="Module 2 slide deck"
+    width="720"
+    height="405"
+    src="https://bretsw.github.io/eme6356-ss22-module2/">
+</iframe>
+<hr>
+<h2 id="module-3-learning-analytics">Module 3: Learning Analytics</h2>
+<p><em>Tuesday, February 1, 2022</em></p>
+<p>View the slides at <a href="https://bretsw.github.io/eme6356-ss22-module3/">https://bretsw.github.io/eme6356-ss22-module3/</a>, or scroll through below:</p>
+<iframe id="Module 3 slide deck"
+    title="Module 3 slide deck"
+    width="720"
+    height="405"
+    src="https://bretsw.github.io/eme6356-ss22-module3/">
+</iframe>
+<hr>
+<h2 id="module-4-web-analytics">Module 4: Web Analytics</h2>
+<p><em>Tuesday, February 15, 2022</em></p>
+<p>View the slides at <a href="https://bretsw.github.io/eme6356-ss22-module4/">https://bretsw.github.io/eme6356-ss22-module4/</a>, or scroll through below:</p>
+<iframe id="Module 4 slide deck"
+    title="Module 4 slide deck"
+    width="720"
+    height="405"
+    src="https://bretsw.github.io/eme6356-ss22-module4/">
+</iframe>
+<hr>
+<h2 id="module-5-data-visualization">Module 5: Data Visualization</h2>
+<p><em>Tuesday, March 1, 2022</em></p>
+<p>View the slides at <a href="https://bretsw.github.io/eme6356-ss22-module5/">https://bretsw.github.io/eme6356-ss22-module5/</a>, or scroll through below:</p>
+<iframe id="Module 5 slide deck"
+    title="Module 5 slide deck"
+    width="720"
+    height="405"
+    src="https://bretsw.github.io/eme6356-ss22-module5/">
+</iframe>
+<hr>
+<h2 id="module-6-ethics-in-analytics">Module 6: Ethics in Analytics</h2>
+<p><em>Tuesday, March 22, 2022</em></p>
+<p>View the slides at <a href="https://bretsw.github.io/eme6356-ss22-module6/">https://bretsw.github.io/eme6356-ss22-module6/</a>, or scroll through below:</p>
+<iframe id="Module 6 slide deck"
+    title="Module 6 slide deck"
+    width="720"
+    height="405"
+    src="https://bretsw.github.io/eme6356-ss22-module6/">
+</iframe>
+<hr>
+<h2 id="module-7-future-of-analytics">Module 7: Future of Analytics</h2>
+<p><em>Tuesday, April 5, 2022</em></p>
+<p>View the slides at <a href="https://bretsw.github.io/eme6356-ss22-module7/">https://bretsw.github.io/eme6356-ss22-module7/</a>, or scroll through below:</p>
+<iframe id="Module 7 slide deck"
+    title="Module 7 slide deck"
+    width="720"
+    height="405"
+    src="https://bretsw.github.io/eme6356-ss22-module7/">
+</iframe>
+<hr>
+<h2 id="module-8-case-discussions">Module 8: Case Discussions</h2>
+<p><em>Tuesday, April 19, 2022</em></p>
+<p>View the slides at <a href="https://bretsw.github.io/eme6356-ss22-module8/">https://bretsw.github.io/eme6356-ss22-module8/</a>, or scroll through below:</p>
+<iframe id="Module 8 slide deck"
+    title="Module 8 slide deck"
+    width="720"
+    height="405"
+    src="https://bretsw.github.io/eme6356-ss22-module8/">
+</iframe>
+<hr>
+</div>
+    <div class="post__footer">
+      
+
+      
+        <span><a class="tag" href="/tags/teaching/">teaching</a><a class="tag" href="/tags/notes/">notes</a><a class="tag" href="/tags/fsu/">fsu</a><a class="tag" href="/tags/slide-deck/">slide deck</a></span>
+
+
+
+
+      
+    </div>
+
+    
+  </div>
+
+
+      </main>
+    </div><footer class="footer footer__base">
+  <ul class="footer__list">
+    <li class="footer__item">
+      &copy;
+      
+        <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a> 2022
+
+      
+    </li>
+    
+  </ul>
+</footer>
+  
+  <script
+    type="text/javascript"
+    src="/js/medium-zoom.min.fae9ac8895995fe91958b3954be11e96025824a04770726a3531e119ddd2d576.js"
+    integrity="sha256-&#43;umsiJWZX&#43;kZWLOVS&#43;EelgJYJKBHcHJqNTHhGd3S1XY="
+    crossorigin="anonymous"
+  ></script></body>
+</html>
