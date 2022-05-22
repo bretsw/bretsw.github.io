@@ -1,59 +1,12 @@
-+++
-title = "Research Statement"
-
-date = 2020-08-14T00:00:00
-lastmod = 2020-08-14T00:00:00
-draft = false
-
-tags = ["job doc", "research", "networked learning"]
-summary = "My research focuses on networked learning; specifically, I explore how social media platforms support online learning communities."
-
-[header]
-image = ""
-caption = ""
-
-[[gallery_item]]
-album = ""
-image = ""
-caption = ""
-
-[[gallery_item]]
-album = ""
-image = ""
-caption = ""
-
-[[gallery_item]]
-album = ""
-image = ""
-caption = ""
-
-# **Bold**
-# *Italic*
-# `Code`
-# ~~strikethrough~~
-
-# ```bash
-# Code block
-# ```
-        
-# [Hyperlink text](https://themes.gohugo.io/theme/academic/)
-# {{< gallery >}}
-
-# - Unordered list item 1
-# - Unordered list item 2
-
-# ## Header 2
-# ### Header 3
-
-# 1. Ordered list item 1
-#    * Indented list item
-# 2. Ordered list item 2
-
-+++
-
-![networked learning](/img/networked-learning.png)
-
-## Research Agenda
+---
+title: "Research Statement"
+date: 2020-08-14
+thumbnail: "images/networked-learning.png"
+Description: "My research focuses on networked learning; specifically, I explore how social media platforms support online learning communities."
+Tags: ["job doc", "research", "networked learning"]
+Categories: []
+DisableComments: true
+---
 
 I study online learning environments. I research *networked learning* at the intersection of educational psychology, instructional technology, and information science. My scholarship investigates the networked learning made possible by the novel social and environmental conditions afforded by the Internet. Specifically, I explore how social media platforms support online learning communities. In various projects, I have framed networked learning in terms of *self-directed learning* (i.e., an agentic perspective on socio-cognitive processes), *affinity spaces* (i.e., learning environments defined by mutual interests), *communities of practice* (i.e., apprenticeship groups), and *professional learning networks* (i.e., resources passed between interpersonal connections). I use diverse research methods, from interviews to collecting digital traces of online activity and interactions, such as millions of tweets or Reddit posts. I analyze these data with innovative computational methods including social network analysis, natural language processing, and machine learning classification.
 

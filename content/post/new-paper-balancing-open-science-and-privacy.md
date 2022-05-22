@@ -1,10 +1,12 @@
-+++
-title = "New paper: Balancing open science and privacy in the context of learning analytics"
-date = 2021-02-25T00:00:00
-lastmod = 2021-02-25T00:00:00
-draft = false
-tags = ["new paper", "learning analytics", "open science", "privacy"]
-+++
+---
+title: "New paper: Balancing open science and privacy in the context of learning analytics"
+date: 2021-02-25
+thumbnail: ""
+Description: ""
+Tags: ["new paper", "learning analytics", "open science", "privacy"]
+Categories: []
+DisableComments: true
+---
 
 ## Background
 

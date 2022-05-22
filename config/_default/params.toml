@@ -1,0 +1,93 @@
+title = "Bret Staudt Willet, Ph.D."
+author = "K. Bret Staudt Willet"
+description = """
+Assistant Professor
+Florida State University
+"""
+
+profilePicture = "images/bretsw.jpg"
+keywords = ""
+copyright = "[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) {{ YEAR }}"
+
+mainSections = []
+contentratio = 0.7
+hidesidebar = false  # hidesd the sidebar on content pages
+#images = ["images/site-feature-image.png"]
+doNotLoadAnimations = false
+favicon = "favicons/"
+
+customCss = ["css/syntax.css"]  # example ["css/custom.css"]
+customJs = []  # example ["js/custom.js"]
+
+# Form Spree Contact Form
+#contactFormAction = "https://formspree.io/f/moqrnvdd"
+
+# Google Fonts
+googleFonts = [] # "Lato:wght@300;700", "Nanum+Myeongjo:wght@400;800", "Cutive+Mono"
+
+#Google Site Verify
+#googleSiteVerify = "ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789"
+
+singleDateFormat = "1/2/2006"
+indexDateFormat = "1/2/2006"
+listDateFormat = "1/2/2006"
+
+# postSectionName = "blog"
+
+reversepagetitle = true # When set to 'true', the Window Title will be reversed to 'Title | Author' instead of the default 'Author | Title'
+
+# hidesidebar = true
+
+[simpleAnalytics]
+# enable = true
+# customurl = "https://analytics.example.com"
+
+[plausibleAnalytics]
+# domain = "example.com"
+# serverURL = "https://analytics.example.com"
+
+[umami]
+# serverURL = "example.com"
+# id = "94db1cb1-74f4-4a40-ad6c-962362670409"
+
+
+## Social links
+[[socialIcons]]
+icon = "fas fa-envelope"
+title = "Email"
+url = "mailto:bret.staudtwillet@fsu.edu"
+
+[[socialIcons]]
+icon = "fab fa-twitter"
+title = "Twitter"
+url = "https://twitter.com/bretsw"
+
+[[socialIcons]]
+icon = "fab fa-mastodon"
+title = "Mastodon"
+url = "https://scholar.social/web/@bretsw"
+
+[[socialIcons]]
+icon = "fas fa-graduation-cap"
+title = "Google Scholar"
+url = "https://scholar.google.com/citations?user=P-65wkIAAAAJ&hl=en"
+
+[[socialIcons]]
+icon = "fab fa-github"
+title = "GitHub"
+url = "https://github.com/bretsw/"
+
+[[socialIcons]]
+icon = "fab fa-linkedin"
+title = "Linkedin"
+url = "https://www.linkedin.com/in/bretsw/"
+
+[[socialIcons]]
+icon = "fab fa-orcid"
+title = "ORCiD"
+url = "https://orcid.org/0000-0002-6984-416X"
+
+[[socialIcons]]
+icon = "fas fa-file-alt"
+title = "CV"
+url = "https://www.fsu.edu/cvdb/KSTAUDTWILLET.rtf?0="

@@ -1,0 +1,29 @@
+  [[main]]
+  name = "Home"
+  identifier = "home"
+  weight = 100
+  url = "/"
+
+  [[main]]
+  name = "CV"
+  weight = 200
+  identifier = "cv"
+  url = "/cv/"
+
+  [[main]]
+  name = "Research"
+  weight = 300
+  identifier = "research"
+  url = "/research/"
+
+  [[main]]
+  name = "Teaching"
+  weight = 400
+  identifier = "teaching"
+  url = "/teaching/"
+
+  [[main]]
+  name = "Posts"
+  weight = 500
+  identifier = "posts"
+  url = "/post/"

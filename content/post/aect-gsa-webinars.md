@@ -1,55 +1,12 @@
-+++
-title = "AECT Graduate Student Assembly: Webinar Series"
-
-date = 2019-02-07T00:00:00
-lastmod = 2019-10-02T00:00:00
-draft = false
-
-tags = ["AECT", "GSA", "webinars"]
-summary = "A webinar series I facilitated for AECT's Graduate Student Assembly in 2019."
-
-[header]
-image = ""
-caption = ""
-
-[[gallery_item]]
-album = ""
-image = ""
-caption = ""
-
-[[gallery_item]]
-album = ""
-image = ""
-caption = ""
-
-[[gallery_item]]
-album = ""
-image = ""
-caption = ""
-
-# **Bold**
-# *Italic*
-# `Code`
-# ~~strikethrough~~
-
-# ```bash
-# Code block
-# ```
-        
-# [Hyperlink text](https://themes.gohugo.io/theme/academic/)
-# {{< gallery >}}
-
-# - Unordered list item 1
-# - Unordered list item 2
-
-# ## Header 2
-# ### Header 3
-
-# 1. Ordered list item 1
-#    * Indented list item
-# 2. Ordered list item 2
-
-+++
+---
+title: "AECT Graduate Student Assembly: Webinar Series"
+date: 2019-10-02
+thumbnail: ""
+Description: "A webinar series I facilitated for AECT's Graduate Student Assembly in 2019."
+Tags: ["AECT", "GSA", "webinars"]
+Categories: []
+DisableComments: true
+---
 
 ### February 7, 2019: How to Review AECT International Convention Proposals
 

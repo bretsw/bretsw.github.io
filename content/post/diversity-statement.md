@@ -1,18 +1,12 @@
-+++
-title = "Diversity Statement"
-
-date = 2020-08-14T00:00:00
-lastmod = 2020-08-18T00:00:00
-draft = false
-
-tags = ["job doc", "diversity", "inclusion", "equity"]
-summary = ""
-
-[header]
-image = ""
-caption = ""
-
-+++
+---
+title: "Diversity Statement"
+date: 2020-08-18
+thumbnail: ""
+Description: ""
+Tags: ["job doc", "diversity", "inclusion", "equity"]
+Categories: []
+DisableComments: true
+---
 
 In *Becoming Qualitative Researchers: An Introduction* (2016), Corrine Glesne argued that to establish the trustworthiness of qualitative research, a researcher must reflect on their **positionality**, answering, “Why do I notice what I notice?” (p. 153). 
 
@@ -46,7 +40,7 @@ In my doctoral program, because I moved into academia after a decade in manageme
 
 During the period of heightened activism in the U.S. since June 2020, I have been serving as the Executive Coach for [Black in Gaming](https://blackingaming.com/). This organization seeks to normalize Black cultural identification in the video game industry through education, outreach, representation, and entrepreneurial initiatives. A key partner from my former team is the Executive Director of Black in Gaming, and he reached out to me to help him strategically lead an organizational change process. With Black in Gaming, I have learned and practiced the advocacy I missed in my previous job.
 
-![diverse team](/img/diverse-team.jpg)
+![diverse team](/images/diverse-team.jpg)
 
 ## Commitments
 

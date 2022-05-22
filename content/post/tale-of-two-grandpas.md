@@ -1,55 +1,12 @@
-+++
-title = "A Tale of Two Grandpas"
-
-date = 2016-11-18T00:00:00
-lastmod = 2016-11-18T00:00:00
-draft = false
-
-tags = ["audio", "personal"]
-summary = "Remembering my grandfathers and reflecting on their lives."
-
-[header]
-image = ""
-caption = ""
-
-[[gallery_item]]
-album = ""
-image = ""
-caption = ""
-
-[[gallery_item]]
-album = ""
-image = ""
-caption = ""
-
-[[gallery_item]]
-album = ""
-image = ""
-caption = ""
-
-# **Bold**
-# *Italic*
-# `Code`
-# ~~strikethrough~~
-
-# ```bash
-# Code block
-# ```
-        
-# [Hyperlink text](https://themes.gohugo.io/theme/academic/)
-# {{< gallery >}}
-
-# - Unordered list item 1
-# - Unordered list item 2
-
-# ## Header 2
-# ### Header 3
-
-# 1. Ordered list item 1
-#    * Indented list item
-# 2. Ordered list item 2
-
-+++
+---
+title: "A Tale of Two Grandpas"
+date: 2016-11-18
+thumbnail: ""
+Description: "Remembering my grandfathers and reflecting on their lives."
+Tags: ["audio", "personal"]
+Categories: []
+DisableComments: true
+---
 
 <iframe 
         width="100%" 

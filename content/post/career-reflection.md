@@ -1,18 +1,12 @@
-+++
-title = "Career Reflection"
-
-date = 2020-08-22T00:00:00
-lastmod = 2020-08-22T00:00:00
-draft = false
-
-tags = ["job doc", "career", "reflection", "experience", "skills"]
-summary = ""
-
-[header]
-image = ""
-caption = ""
-
-+++
+---
+title: "Career Reflection"
+date: 2020-08-22
+thumbnail: ""
+Description: ""
+Tags: ["job doc", "career", "reflection", "experience", "skills"]
+Categories: []
+DisableComments: true
+---
 
 I’ve applied for a handful of academic jobs in the past six months, as many tenure track faculty positions as I could imagine fitting my experiences and skills. In the present higher-education-during-COVID-19 reality, that has amounted to six jobs to apply to (with hopefully more posted in the coming weeks). Three of those I applied to have since been removed from consideration by university-wide hiring freezes. 
 

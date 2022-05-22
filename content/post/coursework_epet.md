@@ -1,56 +1,12 @@
-+++
-title = "Coursework: PhD in Educational Psychology and Educational Technology"
-
-date = 2018-05-01T00:00:00
-lastmod = 2019-05-01T00:00:00
-draft = false
-
-tags = ["coursework", "transcript", "msu"]
-summary = ""
-
-[header]
-image = ""
-caption = ""
-
-[[gallery_item]]
-album = ""
-image = ""
-caption = ""
-
-[[gallery_item]]
-album = ""
-image = ""
-caption = ""
-
-[[gallery_item]]
-album = ""
-image = ""
-caption = ""
-
-# **Bold**
-# *Italic*
-# `Code`
-# ~~strikethrough~~
-
-# ```bash
-# Code block
-# ```
-        
-# [Hyperlink text](https://themes.gohugo.io/theme/academic/)
-# {{< gallery >}}
-
-# - Unordered list item 1
-# - Unordered list item 2
-
-# ## Header 2
-# ### Header 3
-
-# 1. Ordered list item 1
-#    * Indented list item
-# 2. Ordered list item 2
-
-
-+++
+---
+title: "Coursework: PhD in Educational Psychology and Educational Technology"
+date: 2019-05-01
+thumbnail: ""
+Description: ""
+Tags: ["coursework", "transcript", "msu"]
+Categories: []
+DisableComments: true
+---
 
 I have completed the coursework for my Ph.D. in [Educational Psychology and Educational Technology](http://education.msu.edu/cepse/epet/) through Michigan State University's College of Education.
 

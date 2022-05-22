@@ -1,0 +1,23 @@
+$accent--lightmode: #f3eee2; /*light gold*/
+$primary--lightmode: #464646; /*dark gray*/
+$primary-light--lightmode: #9f9f9f; /*gray*/
+$primary-lighter--lightmode: #eeeeee; /*light gray*/
+$shadow--lightmode: 0 8px 16px rgba(10, 10, 10, 0.1);
+
+$accent--darkmode: #152028;
+$primary--darkmode: #eeeeee;
+$primary-light--darkmode: #9f9f9f;
+$primary-lighter--darkmode: #464646;
+$shadow--darkmode: 0 8px 16px rgba(226, 226, 226, 0.1);
+
+$alert: #ceb888; /*FSU gold*/
+$info: #782f40; /*FSU garnet*/
+
+$thumbnail-height: 15em;
+$body-max-width: 1920px;
+
+$sidebar-ratio: calc(1 - #{$content-ratio});
+$content-max-width: calc(#{$body-max-width} * #{$content-ratio});
+$sidebar-max-width: calc(#{$body-max-width} - #{$content-max-width});
+$content-width: calc(#{$content-ratio} * 100%);
+$sidebar-width: calc(#{$sidebar-ratio} * 100%);

@@ -1,56 +1,12 @@
-+++
-title = "Alessia's Bulwark"
-
-date = 2015-04-30T00:00:00
-lastmod = 2015-04-30T00:00:00
-draft = false
-
-tags = ["MAET", "fiction", "real life", "online community"]
-summary = "A bit of fiction to realize truth."
-
-[header]
-image = "bokeh1.jpg"
-caption = ""
-
-[[gallery_item]]
-album = ""
-image = ""
-caption = ""
-
-[[gallery_item]]
-album = ""
-image = ""
-caption = ""
-
-[[gallery_item]]
-album = ""
-image = ""
-caption = ""
-
-# **Bold**
-# *Italic*
-# `Code`
-# ~~strikethrough~~
-
-# ```bash
-# Code block
-# ```
-        
-# [Hyperlink text](https://themes.gohugo.io/theme/academic/)
-# {{< gallery >}}
-
-# - Unordered list item 1
-# - Unordered list item 2
-
-# ## Header 2
-# ### Header 3
-
-# 1. Ordered list item 1
-#    * Indented list item
-# 2. Ordered list item 2
-
-
-+++
+---
+title: "Alessia's Bulwark"
+date: 2015-04-30
+thumbnail: "images/bokeh.jpg"
+Description: "A bit of fiction to realize truth."
+Tags: ["MAET", "fiction", "real life", "online community"]
+Categories: []
+DisableComments: true
+---
 
 “Art is a lie that makes us realize truth.”
 

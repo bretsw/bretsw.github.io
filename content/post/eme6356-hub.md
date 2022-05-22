@@ -1,18 +1,12 @@
-+++
-title = "Teaching Notes from EME6356: Learning & Web Analytics"
-
-date = 2021-08-23T08:00:00
-lastmod = "`r Sys.time()`"
-draft = false
-
-tags = ["teaching", "notes", "fsu", "slide deck"]
-summary = ""
-
-[header]
-image = "6356-icon.jpg"
-caption = ""
-
-+++
+---
+title: "Teaching Notes from EME6356: Learning & Web Analytics"
+date: 2022-04-29
+thumbnail: "images/6356-icon.jpg"
+Description: ""
+Tags: ["teaching", "notes", "fsu", "slide deck"]
+Categories: []
+DisableComments: true
+---
 
 I wanted a place to compile all of my slide decks as I teach *EME6356: Learning & Web Analytics* at Florida State University. Enjoy!
 
@@ -36,137 +30,122 @@ At the completion of this course, students will be able to:
 
 ---
 
-## **Module 1:** Introduction to Analytics
+## Module 1: Introduction to Analytics
 
-*Tuesday, August 24, 2021*
+*Tuesday, January 11, 2022*
 
-View the slides at https://bretsw.github.io/eme6356-fs21-module1/, or scroll through below:
+View the slides at https://bretsw.github.io/eme6356-ss22-module1/, or scroll through below:
 
 <iframe id="Module 1 slide deck"
     title="Module 1 slide deck"
     width="720"
     height="405"
-    src="https://bretsw.github.io/eme6356-fs21-module1/">
+    src="https://bretsw.github.io/eme6356-ss22-module1/">
 </iframe>
 
 ---
 
-## **Module 2:** Solving Problems with Analytics
+## Module 2: Performance Analytics
 
-*Tuesday, August 31, 2021*
+*Tuesday, January 18, 2022*
 
-View the slides at https://bretsw.github.io/eme6356-fs21-module2/, or scroll through below:
+View the slides at https://bretsw.github.io/eme6356-ss22-module2/, or scroll through below:
 
 <iframe id="Module 2 slide deck"
     title="Module 2 slide deck"
     width="720"
     height="405"
-    src="https://bretsw.github.io/eme6356-fs21-module2/">
+    src="https://bretsw.github.io/eme6356-ss22-module2/">
 </iframe>
 
 ---
 
-## **Module 3:** Analytics Tools for Data Collection and Analysis
+## Module 3: Learning Analytics
 
-*Tuesday, September 14, 2021*
+*Tuesday, February 1, 2022*
 
-View the slides at https://bretsw.github.io/eme6356-fs21-module3/, or scroll through below:
+View the slides at https://bretsw.github.io/eme6356-ss22-module3/, or scroll through below:
 
 <iframe id="Module 3 slide deck"
     title="Module 3 slide deck"
     width="720"
     height="405"
-    src="https://bretsw.github.io/eme6356-fs21-module3/">
+    src="https://bretsw.github.io/eme6356-ss22-module3/">
 </iframe>
 
 ---
 
-## **Module 4:** Social Media Analytics
+## Module 4: Web Analytics
 
-*Tuesday, September 28, 2021*
+*Tuesday, February 15, 2022*
 
-View the slides at https://bretsw.github.io/eme6356-fs21-module4/, or scroll through below:
+View the slides at https://bretsw.github.io/eme6356-ss22-module4/, or scroll through below:
 
 <iframe id="Module 4 slide deck"
     title="Module 4 slide deck"
     width="720"
     height="405"
-    src="https://bretsw.github.io/eme6356-fs21-module4/">
+    src="https://bretsw.github.io/eme6356-ss22-module4/">
 </iframe>
 
 ---
 
-## **Module 5:** Data Visualization
+## Module 5: Data Visualization
 
-*Tuesday, October 5, 2021*
+*Tuesday, March 1, 2022*
 
-View the slides at https://bretsw.github.io/eme6356-fs21-module5/, or scroll through below:
+View the slides at https://bretsw.github.io/eme6356-ss22-module5/, or scroll through below:
 
 <iframe id="Module 5 slide deck"
     title="Module 5 slide deck"
     width="720"
     height="405"
-    src="https://bretsw.github.io/eme6356-fs21-module5/">
+    src="https://bretsw.github.io/eme6356-ss22-module5/">
 </iframe>
 
 ---
 
-## **Module 6:** Educational Data Mining and Learning Analytics
+## Module 6: Ethics in Analytics
 
-*Tuesday, October 19, 2021*
+*Tuesday, March 22, 2022*
 
-View the slides at https://bretsw.github.io/eme6356-fs21-module6/, or scroll through below:
+View the slides at https://bretsw.github.io/eme6356-ss22-module6/, or scroll through below:
 
 <iframe id="Module 6 slide deck"
     title="Module 6 slide deck"
     width="720"
     height="405"
-    src="https://bretsw.github.io/eme6356-fs21-module6/">
+    src="https://bretsw.github.io/eme6356-ss22-module6/">
 </iframe>
 
 ---
 
-## **Module 7:** Challenges in Learning Analytics
+## Module 7: Future of Analytics
 
-*Tuesday, October 26, 2021*
+*Tuesday, April 5, 2022*
 
-View the slides at https://bretsw.github.io/eme6356-fs21-module7/, or scroll through below:
+View the slides at https://bretsw.github.io/eme6356-ss22-module7/, or scroll through below:
 
 <iframe id="Module 7 slide deck"
     title="Module 7 slide deck"
     width="720"
     height="405"
-    src="https://bretsw.github.io/eme6356-fs21-module7/">
+    src="https://bretsw.github.io/eme6356-ss22-module7/">
 </iframe>
 
 ---
 
-## **Module 8:** Case Discussions
+## Module 8: Case Discussions
 
-*Tuesday, November 9, 2021*
+*Tuesday, April 19, 2022*
 
-View the slides at https://bretsw.github.io/eme6356-fs21-module8/, or scroll through below:
+View the slides at https://bretsw.github.io/eme6356-ss22-module8/, or scroll through below:
 
 <iframe id="Module 8 slide deck"
     title="Module 8 slide deck"
     width="720"
     height="405"
-    src="https://bretsw.github.io/eme6356-fs21-module8/">
-</iframe>
-
----
-
-## **Module 9:** Future of Analytics in Society & Research
-
-*Tuesday, November 30, 2021*
-
-View the slides at https://bretsw.github.io/eme6356-fs21-module9/, or scroll through below:
-
-<iframe id="Module 9 slide deck"
-    title="Module 9 slide deck"
-    width="720"
-    height="405"
-    src="https://bretsw.github.io/eme6356-fs21-module9/">
+    src="https://bretsw.github.io/eme6356-ss22-module8/">
 </iframe>
 
 ---

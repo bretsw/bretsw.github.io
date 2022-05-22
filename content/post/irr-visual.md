@@ -1,18 +1,12 @@
-+++
-title = "Visualizing Inter-rater Reliability"
-
-date = 2020-10-09T00:00:00
-lastmod = 2020-10-09T00:00:00
-draft = false
-
-tags = ["dissertation", "R", "dataviz", "irr", "reliability"]
-summary = ""
-
-[header]
-image = ""
-caption = ""
-
-+++
+---
+title: "Visualizing Inter-Rater Reliability"
+date: 2020-10-09
+thumbnail: ""
+Description: ""
+Tags: ["dissertation", "R", "dataviz", "irr", "reliability"]
+Categories: []
+DisableComments: true
+---
 
 ## Background on Reporting Inter-rater Reliability
 
@@ -24,6 +18,6 @@ Reflecting on this whole process, I wanted to come up with a way to demonstrate 
 
 ## Visualization: Inter-rater Reliability Scores Plotted Across Five Rounds of Dual Coding
 
-![Inter-rater reliability plot](/img/irr-comparison-plot.png)
+![Inter-rater reliability plot](/images/irr-comparison-plot.png)
 
 *Note.* In my research, I follow a rule of thumb where two independent coders apply the codebook to 10% of the corpus in distinct rounds of coding until percent agreement on all codes is above 0.80 (i.e., 80%) and Cohen’s kappa for all codes is above 0.60.

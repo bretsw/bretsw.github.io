@@ -1,55 +1,12 @@
-+++
-title = "Motivation Interview"
-
-date = 2016-07-10T00:00:00
-lastmod = 2016-07-10T00:00:00
-draft = false
-
-tags = ["MAET", "audio", "FF14", "games"]
-summary = "Interview with a friend about why she plays games."
-
-[header]
-image = ""
-caption = ""
-
-[[gallery_item]]
-album = ""
-image = ""
-caption = ""
-
-[[gallery_item]]
-album = ""
-image = ""
-caption = ""
-
-[[gallery_item]]
-album = ""
-image = ""
-caption = ""
-
-# **Bold**
-# *Italic*
-# `Code`
-# ~~strikethrough~~
-
-# ```bash
-# Code block
-# ```
-        
-# [Hyperlink text](https://themes.gohugo.io/theme/academic/)
-# {{< gallery >}}
-
-# - Unordered list item 1
-# - Unordered list item 2
-
-# ## Header 2
-# ### Header 3
-
-# 1. Ordered list item 1
-#    * Indented list item
-# 2. Ordered list item 2
-
-+++
+---
+title: "Motivation Interview"
+date: 2016-07-10
+thumbnail: ""
+Description: "Interview with a friend about why she plays games."
+Tags: ["MAET", "audio", "FF14", "games"]
+Categories: []
+DisableComments: true
+---
 
 <iframe 
         width="100%" 

@@ -1,55 +1,12 @@
-+++
-title = "Coursework: Graduate Certificate in Serious Game Design and Research"
-
-date = 2014-04-30T00:00:00
-lastmod = 2014-04-30T00:00:00
-draft = false
-
-tags = ["coursework", "transcript", "msu"]
-summary = ""
-
-[header]
-image = ""
-caption = ""
-
-[[gallery_item]]
-album = ""
-image = ""
-caption = ""
-
-[[gallery_item]]
-album = ""
-image = ""
-caption = ""
-
-[[gallery_item]]
-album = ""
-image = ""
-caption = ""
-
-# **Bold**
-# *Italic*
-# `Code`
-# ~~strikethrough~~
-
-# ```bash
-# Code block
-# ```
-        
-# [Hyperlink text](https://themes.gohugo.io/theme/academic/)
-# {{< gallery >}}
-
-# - Unordered list item 1
-# - Unordered list item 2
-
-# ## Header 2
-# ### Header 3
-
-# 1. Ordered list item 1
-#    * Indented list item
-# 2. Ordered list item 2
-
-+++
+---
+title: "Coursework: Graduate Certificate in Serious Game Design and Research"
+date: 2014-04-30
+thumbnail: ""
+Description: ""
+Tags: ["coursework", "transcript", "msu"]
+Categories: []
+DisableComments: true
+---
 
 In 2014, I completed a 3-course Graduate Certificate in [Serious Game Design and Research](https://comartsci.msu.edu/academics/academic-departments/media-information/graduate/serious-game-design-ma-certificate) through Michigan State University's College of Communication Arts and Sciences. Here I offer a bit of my experience in each course.  
 *The "TC" before the course number stands for "Telecommunications," the old department name in the College of Communication Arts and Sciences before they changed it to "Media and Information."*

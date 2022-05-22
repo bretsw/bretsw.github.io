@@ -1,18 +1,12 @@
-+++
-title = "Teaching Notes from EME6357: Evaluation of Instruction & Training in Human-Performance Technology"
-
-date = 2021-08-23T08:00:00
-lastmod = "`r Sys.time()`"
-draft = false
-
-tags = ["teaching", "notes", "fsu", "slide deck"]
-summary = ""
-
-[header]
-image = "6357-icon.jpg"
-caption = ""
-
-+++
+---
+title: "Teaching Notes from EME6357: Evaluation of Instruction & Training in Human-Performance Technology"
+date: 2021-12-10
+thumbnail: "images/6357-icon.jpg"
+Description: ""
+Tags: ["teaching", "notes", "fsu", "slide deck"]
+Categories: []
+DisableComments: true
+---
 
 I wanted a place to compile all of my slide decks as I teach *EME6357: Evaluation of Instruction & Training in Human-Performance Technology* at Florida State University. Enjoy!
 
@@ -33,7 +27,7 @@ At the completion of this course, students will be able to:
 
 ---
 
-## **Module 0:** Course Welcome
+## Module 0: Course Welcome
 
 *Wednesday, August 25, 2021*
 
@@ -48,7 +42,7 @@ View the slides at https://bretsw.github.io/eme6357-module0/, or scroll through 
 
 ---
 
-## **Module 1:** What is Evaluation?
+## Module 1: What is Evaluation?
 
 *Wednesday, September 1, 2021*
 
@@ -63,7 +57,7 @@ View the slides at https://bretsw.github.io/eme6357-module1/, or scroll through 
 
 ---
 
-## **Module 2:** Systems Analysis & Training Programs
+## Module 2: Systems Analysis & Training Programs
 
 *Wednesday, September 22, 2021*
 
@@ -78,7 +72,7 @@ View the slides at https://bretsw.github.io/eme6357-module2/, or scroll through 
 
 ---
 
-## **Module 3:** Evaluation Methodology
+## Module 3: Evaluation Methodology
 
 *Wednesday, October 13, 2021*
 
@@ -93,10 +87,17 @@ View the slides at https://bretsw.github.io/eme6357-module3/, or scroll through 
 
 ---
 
-## **Module 4:** Creating an Evaluation Plan
+## Module 4: Creating an Evaluation Plan
 
 *Wednesday, November 10, 2021*
 
-[Coming soon!]
+View the slides at https://bretsw.github.io/eme6357-module4/, or scroll through below:
+
+<iframe id="Module 4 slide deck"
+    title="Module 4 slide deck"
+    width="720"
+    height="405"
+    src="https://bretsw.github.io/eme6357-module4/">
+</iframe>
 
 ---

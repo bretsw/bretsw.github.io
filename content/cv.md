@@ -1,27 +1,33 @@
-+++
-title = "CV"
-
-date = 2022-01-01T08:00:00
-lastmod = "`r Sys.time()`"
-draft = false
-
-tags = ["cv", "fsu"]
-summary = ""
-
-
-+++
+---
+author: Bret Staudt Willet
+title: 
+date: "`r Sys.time()`"
+description: CV
+contact: false
+tags: ["cv", "fsu"]
+---
 
 # K. Bret Staudt Willet, Ph.D. 
 
-**Assistant Professor, Florida State University**
+**Assistant Professor, Florida State University**  
+*Instructional Systems & Learning Technologies*  
+Department of Educational Psychology & Learning Systems  
+College of Education
+
+---
 
 [<i class="fas fa-envelope"></i>](mailto:bret.staudtwillet@fsu.edu) | 
 [<i class="fab fa-twitter"></i>](https://twitter.com/bretsw) | 
+[<i class="fab fa-mastodon"></i>](https://scholar.social/web/@bretsw) | 
+[<i class="fas fa-graduation-cap"></i>](https://scholar.google.com/citations?user=P-65wkIAAAAJ&hl=en) | 
 [<i class="fab fa-github"></i>](https://github.com/bretsw) |
 [<i class="fab fa-linkedin"></i>](https://linkedin.com/in/bretsw) | 
-[<i class="fas fa-graduation-cap"></i>](https://scholar.google.com/citations?user=P-65wkIAAAAJ&hl=en) | 
-[ORCiD](https://orcid.org/0000-0002-6984-416X) | 
-[CV (PDF)](https://www.fsu.edu/cvdb/KSTAUDTWILLET.rtf?0=)
+[<i class="fab fa-orcid"></i>](https://orcid.org/0000-0002-6984-416X) | 
+[<i class="fas fa-file-alt"></i>](https://www.fsu.edu/cvdb/KSTAUDTWILLET.rtf?0=)
+
+**Office:**  
+<i class="fas fa-phone"></i> 850-644-8785  
+<i class="fas fa-map-marker-alt"></i> Stone Building, 1114 W. Call St., Tallahassee, FL 32306
 
 ---
 
@@ -29,8 +35,8 @@ summary = ""
 
 ## Professional Preparation
 
-- **Ph.D. (2021)**, Michigan State University. Major: Educational Psychology & Educational Technology. Supervisor: Dr. Matthew Koehler & Dr. Christine Greenhow. 
-  - Staudt Willet, K. B. (2021). "I filled a lot of gaps": How and why early career teachers expand induction support systems with social media. (Doctoral dissertation, Michigan State University). Retrieved from ProQuest Dissertations & Theses Global, Publication No. 28414983.
+- **Ph.D. (2021)**, Michigan State University. Major: Educational Psychology & Educational Technology. Supervisors: Dr. Matthew Koehler & Dr. Christine Greenhow. 
+  - Staudt Willet, K. B. (2021). *"I filled a lot of gaps": How and why early career teachers expand induction support systems with social media*. (Doctoral dissertation, Michigan State University). Retrieved from ProQuest Dissertations & Theses Global, Publication No. 28414983.
 - **M.A. (2015)**, Michigan State University. Major: Educational Technology. 
 - **Graduate Certificate (2014)**, Michigan State University. Major: Serious Game Design and Research. 
 - **B.A. (2003)**, Bucknell University. Major: Mathematics & Sociology. 
@@ -50,6 +56,7 @@ summary = ""
 
 ## Honors, Awards, and Prizes
 
+- **Best Paper Award** for the Technology as an Agent of Change in Teaching & Learning Special Interest Group (TACTL SIG), American Educational Research Association (AERA) (2022).
 - **Marvalene Hughes Research in Education Conference Travel Award**, Florida State University, College of Education (2022). ($700). 
 - Nominated: **COE Teaching Award for Graduate Teaching** (not eligible to win), Florida State University, College of Education (2022). 
 - **Outstanding Service Award**, Association for Educational Communications & Technology (AECT) (2021). 
@@ -71,8 +78,10 @@ summary = ""
 
 - American Educational Research Association ([AERA](https://www.aera.net/)) 
 - Association for Educational Communications & Technology ([AECT](https://aect.org/))
-- Society for Information Technology and Teacher Education ([SITE](https://site.aace.org/))
 - Society for Learning Analytics Research ([SoLAR](https://www.solaresearch.org/)) 
+
+
+---
 
 
 # Teaching
@@ -85,25 +94,41 @@ summary = ""
 
 ## Doctoral Committee Chair
 
-- Fairclough, K., doctoral student.
-- Pashnyak, T., doctoral student.
-- Smith, C., doctoral student.
-- Wick, J., doctoral student.
+- Arthur, A., doctoral candidate.
+- Fairclough, K., doctoral candidate.
+- Madison, C., doctoral student.
+- Morris, V., doctoral student.
+- Na, H., doctoral student.
+- Pashnyak, T., doctoral student. (co-chair)
+- Smith, C., doctoral candidate. *Culturally Inclusive Instructional Strategies Implemented by Designers-by-Assignment in Higher Education Student Services*.
+- Stoutyesdyk, J., doctoral student.
+- Wick, J., doctoral candidate. *Give em’ What They Want: Middle School Teachers’ Perceptions of Professional Development and Teacher Autonomy*.
 
 
 ## Doctoral Committee Member
 
+- Archer, T., doctoral student.
+- Choi, H., doctoral candidate.
+- Graham, D., doctoral candidate.
 - He, D., doctoral candidate.
-- Johnston, R., doctoral candidate.  *Characteristics of High-Performing Volunteer Nonprofit Board Members*.
-- Jones, M., doctoral candidate.
-- Kent, H., doctoral candidate.
+- Johnston, R., doctoral candidate. *Characteristics of High-Performing Volunteer Nonprofit Board Members*.
+- Jones, M., doctoral candidate. *Supporting LGBTQ+ Students in Online Environments: A Qualitative Study of Higher Education Initiatives and Leadership Practices in Large Public Universities*
+- Kent, H., doctoral candidate. *Informal Learning to Support Volunteer Work*
+- Lewis, A., doctoral candidate.
+- Medina, J., doctoral candidate.
+- Pryor, T., doctoral candidate.
+- Sementelli, R., doctoral candidate
+- West, L., doctoral student.
+- Young, K., doctoral candidate.
 
 
-## Invited Guest Lectures (9)
+## Invited Guest Lectures (10)
 
-Staudt Willet, K. B. (2022). *The front page of the internet: Reflections from studying Reddit* [Guest lecture for Master's course Digital Media and Educational Psychology]. University of Tübingen, Germany, Online.
+Staudt Willet, K. B. (2022). *Picture this: Telling data stories through visualizations* [Guest lecture for Master's course Teaching with Technology]. Manhattanville College, Purchase, NY.
 
-Staudt Willet, K. B. (2021). *Finding the right balance: Risk and societal benefit from big data* [Guest lecture for Doctoral course Core Methods in Educational Data Mining]. Teachers College, Columbia University, Online. 
+Staudt Willet, K. B. (2022). *The front page of the internet: Reflections from studying Reddit* [Guest lecture for Master's course Digital Media and Educational Psychology]. University of Tübingen, Germany.
+
+Staudt Willet, K. B. (2021). *Finding the right balance: Risk and societal benefit from big data* [Guest lecture for Doctoral course Core Methods in Educational Data Mining]. Teachers College, Columbia University. 
 
 Staudt Willet, K. B. (2021). *Interviewing for faculty jobs* [Panel for doctoral students]. Instructional Systems & Learning Technologies program, Florida State University. 
 
@@ -120,11 +145,16 @@ Staudt Willet, K. B. (2019). *Insights for academic publishing* [Guest lecture f
 Staudt Willet, K. B. (2018). *Experiences from the practicum* [Panel for doctoral course CEP 955: Research Design and Methods for Educational Psychology and Educational Technology]. Educational Psychology & Educational Technology program, Michigan State University. 
 
 
+---
+
+
 # Research and Original Creative Work
 
 ## Publications
 
-### Refereed Journal Articles (16)
+### Refereed Journal Articles (17)
+
+Muljana, P. S., Staudt Willet, K. B., & Luo, T. (in press). Adjusting sails for changing winds: Exploring Reddit use for professional purposes in higher education. *Journal of Computing in Higher Education*.
 
 Krutka, D. G., Caines, A., Heath, M. K., & Staudt Willet, K. B. (2021). Black Mirror pedagogy: Dystopian stories for technoskeptical imaginations. *Journal of Interactive Pedagogy and Technology, 20*. Retrieved from https://jitp.commons.gc.cuny.edu/black-mirror-pedagogy-dystopian-stories-for-technoskeptical-imaginations/
 
@@ -214,9 +244,22 @@ Staudt Willet, K. B., Koehler, M. J., & Greenhalgh, S. P. (2017). A tweet by any
 Greenhow, C., Marich, H., & Staudt Willet, K. B. (2017). Social scholars: Re-envisioning graduate education in the age of social media. In P. Resta, & S. Smith (Eds.), *Society for Information Technology & Teacher Education (SITE) International Conference, Austin, TX* (pp. 856-861). Association for the Advancement of Computing in Education (AACE). Retrieved from https://www.learntechlib.org/p/177363/
 
 
+### Invited Reviews (1)
+
+Staudt Willet, K. B. (2022). Review of Griffin, M. M., & Zinskie, C. D. (Eds.). (2021). Social media: Influences on education. Information Age Publishing. *TechTrends, 66*, 380-382.
+
+
 ## Presentations
 
-### Refereed Papers at Conferences (21)
+### Refereed Papers at Conferences (25)
+
+Na, H., & Staudt Willet, K. B. (presented 2022, October). *A gentle bootcamp for beginning teachers: Subreddit r/Teachers*. Paper presented at Association for Educational Communications and Technology (AECT) International Convention, Association for Educational Communications and Technology (AECT), Las Vegas, NV. (International)
+
+Staudt Willet, K. B., & He, D. (presented 2022, October). *Making the invisible visible: Reframing how we see educators' professional activity*. Paper presented at Association for Educational Communications and Technology (AECT) International Convention, Association for Educational Communications and Technology (AECT), Las Vegas, NV. (International)
+
+Dennen, V., Staudt Willet, K. B., Mitchell, L., & Kent, H. (presented 2022, July). *Networks of interest and collaboration in a doctoral program*. Paper presented at Sunbelt 2022, International Network for Social Network Analysis (INSNA), Online. (International)
+
+Staudt Willet, K. B. (presented 2022, April). *More opportunities, more costs: Early career teachers' support systems on social media*. Paper presented at American Educational Research Association (AERA) Annual Meeting, American Educational Research Association (AERA), San Diego, CA. (International)
 
 Muljana, P., Staudt Willet, K. B., & Luo, T. (presented 2021, November). *Asking questions, seeking advice, and supporting one another: Higher education professionals on Reddit*. Paper presented at Association for Educational Communications and Technology (AECT) International Convention, Association for Educational Communications and Technology (AECT), Chicago, IL. (International)
 
@@ -268,7 +311,9 @@ Staudt Willet, K. B., Galvin, S., & Greenhow, C. M. (presented 2021, April). Fle
 Rutherford, T., Rosenberg, J. M., & Staudt Willet, K. B. (presented 2020, April). Which birds fill the branches of the AERA Twitter tree? Twitter networks around #AERA19. In P. N. Beymer, D. K. Benden, & M. L. Bernacki (Chair), *Affordances and modeling of intensive data*. Symposium conducted at the meeting of American Educational Research Association (AERA) Annual Meeting, Conference was canceled due to the COVID-19 pandemic. (International)
 
 
-### Refereed Presentations at Conferences (10)
+### Refereed Presentations at Conferences (11)
+
+Wiley, D., Caskurlu, S., Ifenthaler, D., Ocak, C., Staudt Willet, K. B., & Castellanos-Reyes, D. (presented 2022, October). *Learning analytics for continuous improvement: An instructional design perspective*. Presentation at Association for Educational Communications and Technology (AECT) International Convention, Association for Educational Communications and Technology (AECT), Las Vegas, NV. (International)
 
 Bagdy, L., Arrington, T. L., Bong, J. Y., Moore, A., & Staudt Willet, K. B. (presented 2021, November). *Qualifications and duties for IDT faculty: A job posting analysis and panel discussion*. Presentation at Association for Educational Communications and Technology (AECT) International Convention, Association for Educational Communications and Technology (AECT), Chicago, IL. (International)
 
@@ -291,7 +336,9 @@ Staudt Willet, K. B. (presented 2013, October). *Tension: My favorite game mecha
 Willet, K. B. (presented 2001, February). *The shortest closed path on an arithmetic surface*. Presentation at Moravian College Student Mathematics Conference, Moravian College, Bethlehem, PA. (State)
 
 
-## Invited Workshops (2)
+## Invited Workshops (3)
+
+Staudt Willet, K. B. (2022, March). *Remembering you're just one in 11: An introduction to social network analysis*. Workshop delivered at Association for Educational Communications and Technology (AECT) Research & Theory Division webinar series. (International) Retrieved from https://bretsw.github.io/aect22-workshop
 
 Caines, A., Heath, M., Krutka, D., & Staudt Willet, K. B. (2021, May). *Black Mirror mad libs: Interrogating technology through dystopian storytelling*. Workshop delivered at Equity Unbound, The American University in Cairo, Egypt, Online. (International) Retrieved from https://tinyurl.com/BlackMirrorTech
 
@@ -320,7 +367,16 @@ Staudt Willet, K. B. (2017, November). *Once more unto the practicum, dear frien
 
 ### Computer Software Development (1)
 
-Staudt Willet, K. B., & Rosenberg, J. M. (2021). *tidytags: Importing and analyzing Twitter data collected with Twitter Archiving Google Sheets* [Computer software]. R Open Science. Retrieved from https://bretsw.github.io/tidytags/
+Staudt Willet, K. B., & Rosenberg, J. M. (2021). *tidytags: Importing and analyzing Twitter data collected with Twitter Archiving Google Sheets* [Computer software]. R Open Science. Retrieved from https://docs.ropensci.org/tidytags/
+
+
+## Contracts and Grants
+
+### Contracts and Grants Funded
+
+Staudt Willet, K. B. (May 2022–Aug 2022). *FYAP: Beginning Teachers' Self-Directed Professional Learning Through Social Media: Impacts on Instructional Practice*. Funded by Florida State University, Council on Research and Creativity. Total award $20,000. 
+
+---
 
 
 # Service
@@ -329,28 +385,30 @@ Staudt Willet, K. B., & Rosenberg, J. M. (2021). *tidytags: Importing and analyz
 
 ### FSU Department Service
 
+- Member, Diversity, Equity, and Inclusion Committee (2022-present).
 - Member, Faculty Evaluation Committee (2021–present).
 
 ### FSU Program Service
 
+- Academic Director, ISLT PhD Program (2022-present)
 - Member, Faculty Search Committee (2021–2022).
 - Reviewer, Ph.D. Preliminary Exams Committee (2021).
 
 ## The Profession
 
-### Guest Reviewer for Refereed Journals (23 reviews)
+### Guest Reviewer for Refereed Journals (29 reviews)
 
 - *AERA Open* (2021–present).
+- *American Journal of Education* (2019-2020).
 - *Computers & Education* (2021–present).
 - *Contemporary Issues in Technology & Teacher Education* (2021–present).
+- *Internet & Higher Education* (2019–present).
 - *Journal of Computer Assisted Learning* (2021–present).
+- *Journal of Information Technology & Politics* (2020).
 - *Journal of Research on Technology in Education* (2021–present).
+- *Learning, Media & Technology* (2016).
 - *Teaching & Teacher Education* (2021-present).
 - *TechTrends* (2021–present).
-- *Internet & Higher Education* (2019–present).
-- *Journal of Information Technology & Politics* (2020).
-- *American Journal of Education* (2019-2020).
-- *Learning, Media & Technology* (2016).
 
 
 ### Service to Professional Associations

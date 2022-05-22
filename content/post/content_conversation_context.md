@@ -1,55 +1,12 @@
-+++
-title = "Content, Conversation, & Context: How Educators Talk to Each Other in Twitter #Edchat"
-
-date = 2019-11-11T00:00:00
-lastmod = 2019-11-11T00:00:00
-draft = false
-
-tags = []
-summary = "Talk for EPET PhD Brownbag series at Michigan State University on November 11, 2019."
-
-[header]
-image = "edchat_hashtag_thread_mashup_wide.png"
-caption = ""
-
-[[gallery_item]]
-album = ""
-image = ""
-caption = ""
-
-[[gallery_item]]
-album = ""
-image = ""
-caption = ""
-
-[[gallery_item]]
-album = ""
-image = ""
-caption = ""
-
-# **Bold**
-# *Italic*
-# `Code`
-# ~~strikethrough~~
-
-# ```bash
-# Code block
-# ```
-        
-# [Hyperlink text](https://themes.gohugo.io/theme/academic/)
-# {{< gallery >}}
-
-# - Unordered list item 1
-# - Unordered list item 2
-
-# ## Header 2
-# ### Header 3
-
-# 1. Ordered list item 1
-#    * Indented list item
-# 2. Ordered list item 2
-
-+++
+---
+title: "Content, Conversation, & Context: How Educators Talk to Each Other in Twitter #Edchat"
+date: 2019-11-11
+thumbnail: "images/edchat_hashtag_thread_mashup_wide.png"
+Description: "Talk for EPET PhD Brownbag series at Michigan State University on November 11, 2019."
+Tags: []
+Categories: []
+DisableComments: true
+---
 
 On November 11, 2019, I gave a talk on a recent research project as part of the Educational Psychology and Educational Technology (EPET) brownbag series at Michigan State University.
 
