@@ -62,8 +62,13 @@
     a {
       @include themed() {
         color: t('info');
-      }
-    }
+        }
+      &:hover {
+        @include themed() {
+          color: t('alert');
+          }
+        }
+  }
 
     .chroma {
       @include themed() {
@@ -74,12 +79,12 @@
     }
 
     code {
-      font-family: monospace;
+      font-family: 'Source Code Pro', monospace;
       padding: 0 2px;
 
       @include themed() {
         background-color: t('primary-lighter');
-        border: 1px solid t('primary-lighter');
+        border: 1px solid t('primary-light');
         border-radius: 2px;
       }
     }

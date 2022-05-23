@@ -4,14 +4,15 @@ $primary-light--lightmode: #9f9f9f; /*gray*/
 $primary-lighter--lightmode: #eeeeee; /*light gray*/
 $shadow--lightmode: 0 8px 16px rgba(10, 10, 10, 0.1);
 
-$accent--darkmode: #152028;
-$primary--darkmode: #eeeeee;
-$primary-light--darkmode: #9f9f9f;
-$primary-lighter--darkmode: #464646;
+$accent--darkmode: #464646; /*dark gray*/
+$primary--darkmode: #f3eee2; /*light gold*/
+$primary-light--darkmode: #eeeeee; /*light gray*/
+$primary-lighter--darkmode: #9f9f9f; /*gray*/
 $shadow--darkmode: 0 8px 16px rgba(226, 226, 226, 0.1);
 
 $alert: #ceb888; /*FSU gold*/
 $info: #782f40; /*FSU garnet*/
+$info--darkmode: #BA4F68; /*FSU garnet lighter shade*/
 
 $thumbnail-height: 15em;
 $body-max-width: 1920px;
