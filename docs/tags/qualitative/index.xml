@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>qualitative on Bret Staudt Willet, Ph.D.</title>
-    <link>http://bretsw.com/tags/qualitative/</link>
+    <link>https://bretsw.com/tags/qualitative/</link>
     <description>Recent content in qualitative on Bret Staudt Willet, Ph.D.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 17 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://bretsw.com/tags/qualitative/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 17 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://bretsw.com/tags/qualitative/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Dissertation Themes</title>
-      <link>http://bretsw.com/post/dissertation-themes/</link>
+      <link>https://bretsw.com/post/dissertation-themes/</link>
       <pubDate>Sat, 17 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://bretsw.com/post/dissertation-themes/</guid>
+      <guid>https://bretsw.com/post/dissertation-themes/</guid>
       
         <description>As I&amp;rsquo;ve wrapped up numerous cycles of qualitative coding of interview data for my dissertation, Into the edu-verse: New teachers seeking induction support on social media, I used geom_tile() in {ggplot2} to create heatmap plots to help me quickly visualize how thematic codes varied by interview participant.</description>
       

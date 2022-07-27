@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Bret Staudt Willet, Ph.D.</title>
-    <link>http://bretsw.com/post/</link>
+    <link>https://bretsw.com/post/</link>
     <description>Recent content in Posts on Bret Staudt Willet, Ph.D.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 29 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://bretsw.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 29 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://bretsw.com/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Teaching Notes from EME6356: Learning &amp; Web Analytics</title>
-      <link>http://bretsw.com/post/eme6356-hub/</link>
+      <link>https://bretsw.com/post/eme6356-hub/</link>
       <pubDate>Fri, 29 Apr 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://bretsw.com/post/eme6356-hub/</guid>
+      <guid>https://bretsw.com/post/eme6356-hub/</guid>
       
         <description>I wanted a place to compile all of my slide decks as I teach EME6356: Learning &amp;amp; Web Analytics at Florida State University.</description>
       
@@ -20,10 +20,10 @@
     
     <item>
       <title>Data Analytics Tools</title>
-      <link>http://bretsw.com/post/data-analytics-tools/</link>
+      <link>https://bretsw.com/post/data-analytics-tools/</link>
       <pubDate>Fri, 22 Apr 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://bretsw.com/post/data-analytics-tools/</guid>
+      <guid>https://bretsw.com/post/data-analytics-tools/</guid>
       
         <description>
  </description>
@@ -32,10 +32,10 @@
     
     <item>
       <title>Teaching Notes from EME6357: Evaluation of Instruction &amp; Training in Human-Performance Technology</title>
-      <link>http://bretsw.com/post/eme6357-hub/</link>
+      <link>https://bretsw.com/post/eme6357-hub/</link>
       <pubDate>Fri, 10 Dec 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://bretsw.com/post/eme6357-hub/</guid>
+      <guid>https://bretsw.com/post/eme6357-hub/</guid>
       
         <description>I wanted a place to compile all of my slide decks as I teach EME6357: Evaluation of Instruction &amp;amp; Training in Human-Performance Technology at Florida State University.</description>
       
@@ -43,10 +43,10 @@
     
     <item>
       <title>New paper: Balancing open science and privacy in the context of learning analytics</title>
-      <link>http://bretsw.com/post/new-paper-balancing-open-science-and-privacy/</link>
+      <link>https://bretsw.com/post/new-paper-balancing-open-science-and-privacy/</link>
       <pubDate>Thu, 25 Feb 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://bretsw.com/post/new-paper-balancing-open-science-and-privacy/</guid>
+      <guid>https://bretsw.com/post/new-paper-balancing-open-science-and-privacy/</guid>
       
         <description>Background I recently co-authored (with Josh Rosenberg a response to a valuable paper by Ifenthaler and Schumacher (2016) as a part of a special issue of Educational Technology Research &amp;amp; Development on &amp;ldquo;Shifting to Digital&amp;rdquo; in light of the COVID-19 pandemic.</description>
       
@@ -54,10 +54,10 @@
     
     <item>
       <title>My AECT 2020 Work</title>
-      <link>http://bretsw.com/post/aect-2020/</link>
+      <link>https://bretsw.com/post/aect-2020/</link>
       <pubDate>Mon, 02 Nov 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://bretsw.com/post/aect-2020/</guid>
+      <guid>https://bretsw.com/post/aect-2020/</guid>
       
         <description>Workshop - Simple Collection and Powerful Analysis of Twitter Data Using R Friday, October 30, 2020</description>
       
@@ -65,10 +65,10 @@
     
     <item>
       <title>Dissertation Themes</title>
-      <link>http://bretsw.com/post/dissertation-themes/</link>
+      <link>https://bretsw.com/post/dissertation-themes/</link>
       <pubDate>Sat, 17 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://bretsw.com/post/dissertation-themes/</guid>
+      <guid>https://bretsw.com/post/dissertation-themes/</guid>
       
         <description>As I&amp;rsquo;ve wrapped up numerous cycles of qualitative coding of interview data for my dissertation, Into the edu-verse: New teachers seeking induction support on social media, I used geom_tile() in {ggplot2} to create heatmap plots to help me quickly visualize how thematic codes varied by interview participant.</description>
       
@@ -76,10 +76,10 @@
     
     <item>
       <title>Visualizing Inter-Rater Reliability</title>
-      <link>http://bretsw.com/post/irr-visual/</link>
+      <link>https://bretsw.com/post/irr-visual/</link>
       <pubDate>Fri, 09 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://bretsw.com/post/irr-visual/</guid>
+      <guid>https://bretsw.com/post/irr-visual/</guid>
       
         <description>Background on Reporting Inter-rater Reliability Qualitative studies often report inter-reliability (IRR) scores as a measure of the trustworthiness of coding, or an assurance to readers that they might follow the researcher&amp;rsquo;s codebook and expect to find similar results.</description>
       
@@ -87,10 +87,10 @@
     
     <item>
       <title>Career Reflection</title>
-      <link>http://bretsw.com/post/career-reflection/</link>
+      <link>https://bretsw.com/post/career-reflection/</link>
       <pubDate>Sat, 22 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://bretsw.com/post/career-reflection/</guid>
+      <guid>https://bretsw.com/post/career-reflection/</guid>
       
         <description>I’ve applied for a handful of academic jobs in the past six months, as many tenure track faculty positions as I could imagine fitting my experiences and skills.</description>
       
@@ -98,10 +98,10 @@
     
     <item>
       <title>Diversity Statement</title>
-      <link>http://bretsw.com/post/diversity-statement/</link>
+      <link>https://bretsw.com/post/diversity-statement/</link>
       <pubDate>Tue, 18 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://bretsw.com/post/diversity-statement/</guid>
+      <guid>https://bretsw.com/post/diversity-statement/</guid>
       
         <description>In Becoming Qualitative Researchers: An Introduction (2016), Corrine Glesne argued that to establish the trustworthiness of qualitative research, a researcher must reflect on their positionality, answering, “Why do I notice what I notice?</description>
       
@@ -109,10 +109,10 @@
     
     <item>
       <title>Research Statement</title>
-      <link>http://bretsw.com/post/research-statement/</link>
+      <link>https://bretsw.com/post/research-statement/</link>
       <pubDate>Fri, 14 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://bretsw.com/post/research-statement/</guid>
+      <guid>https://bretsw.com/post/research-statement/</guid>
       
         <description>I study online learning environments. I research networked learning at the intersection of educational psychology, instructional technology, and information science.</description>
       
@@ -120,10 +120,10 @@
     
     <item>
       <title>Teaching Statement</title>
-      <link>http://bretsw.com/post/teaching-statement/</link>
+      <link>https://bretsw.com/post/teaching-statement/</link>
       <pubDate>Fri, 14 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://bretsw.com/post/teaching-statement/</guid>
+      <guid>https://bretsw.com/post/teaching-statement/</guid>
       
         <description>Teaching Philosophy My teaching philosophy is shaped by two primary principles.</description>
       
@@ -131,10 +131,10 @@
     
     <item>
       <title>Comparisons in Twitter #Edchat during COVID-19</title>
-      <link>http://bretsw.com/post/edchat-comparisons/</link>
+      <link>https://bretsw.com/post/edchat-comparisons/</link>
       <pubDate>Thu, 30 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://bretsw.com/post/edchat-comparisons/</guid>
+      <guid>https://bretsw.com/post/edchat-comparisons/</guid>
       
         <description>I am in the midst of two projects looking at how Twitter #Edchat tweets may have been affected by the COVID-19 pandemic.</description>
       
@@ -142,10 +142,10 @@
     
     <item>
       <title>Dissertation Proposal</title>
-      <link>http://bretsw.com/post/dissertation-proposal/</link>
+      <link>https://bretsw.com/post/dissertation-proposal/</link>
       <pubDate>Tue, 26 Nov 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://bretsw.com/post/dissertation-proposal/</guid>
+      <guid>https://bretsw.com/post/dissertation-proposal/</guid>
       
         <description>Into the Edu-verse: Early-Career Educators Seeking Induction Support on Social Media On November 26, 2019, I successfully defended my dissertation proposal for my PhD in Educational Psychology and Educational Technology through Michigan State University&amp;rsquo;s College of Education.</description>
       
@@ -153,10 +153,10 @@
     
     <item>
       <title>Content, Conversation, &amp; Context: How Educators Talk to Each Other in Twitter #Edchat</title>
-      <link>http://bretsw.com/post/content_conversation_context/</link>
+      <link>https://bretsw.com/post/content_conversation_context/</link>
       <pubDate>Mon, 11 Nov 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://bretsw.com/post/content_conversation_context/</guid>
+      <guid>https://bretsw.com/post/content_conversation_context/</guid>
       
         <description>On November 11, 2019, I gave a talk on a recent research project as part of the Educational Psychology and Educational Technology (EPET) brownbag series at Michigan State University.</description>
       
@@ -164,10 +164,10 @@
     
     <item>
       <title>AECT Graduate Student Assembly: Webinar Series</title>
-      <link>http://bretsw.com/post/aect-gsa-webinars/</link>
+      <link>https://bretsw.com/post/aect-gsa-webinars/</link>
       <pubDate>Wed, 02 Oct 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://bretsw.com/post/aect-gsa-webinars/</guid>
+      <guid>https://bretsw.com/post/aect-gsa-webinars/</guid>
       
         <description>February 7, 2019: How to Review AECT International Convention Proposals   March 27, 2019: How to Become and Effective and Efficient Academic Writer   May 8, 2019: Navigating Leadership Opportunities in AECT   July 24, 2019: Information and Communications Technology for Enhancing Education Internationally   August 22, 2019: Design and Research Guidelines for Diverse Makerspaces   October 2, 2019: What Happens in Vegas Does Not Stay in Vegas   </description>
       
@@ -175,10 +175,10 @@
     
     <item>
       <title>Coursework: PhD in Educational Psychology and Educational Technology</title>
-      <link>http://bretsw.com/post/coursework_epet/</link>
+      <link>https://bretsw.com/post/coursework_epet/</link>
       <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://bretsw.com/post/coursework_epet/</guid>
+      <guid>https://bretsw.com/post/coursework_epet/</guid>
       
         <description>I have completed the coursework for my Ph.D. in Educational Psychology and Educational Technology through Michigan State University&amp;rsquo;s College of Education.</description>
       
@@ -186,10 +186,10 @@
     
     <item>
       <title>A Tale of Two Grandpas</title>
-      <link>http://bretsw.com/post/tale-of-two-grandpas/</link>
+      <link>https://bretsw.com/post/tale-of-two-grandpas/</link>
       <pubDate>Fri, 18 Nov 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://bretsw.com/post/tale-of-two-grandpas/</guid>
+      <guid>https://bretsw.com/post/tale-of-two-grandpas/</guid>
       
         <description> </description>
       
@@ -197,10 +197,10 @@
     
     <item>
       <title>Passion Talks 2016: The Strength of the Weak Ties</title>
-      <link>http://bretsw.com/post/passion_talks_strength_of_weak_ties/</link>
+      <link>https://bretsw.com/post/passion_talks_strength_of_weak_ties/</link>
       <pubDate>Sat, 13 Aug 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://bretsw.com/post/passion_talks_strength_of_weak_ties/</guid>
+      <guid>https://bretsw.com/post/passion_talks_strength_of_weak_ties/</guid>
       
         <description> </description>
       
@@ -208,10 +208,10 @@
     
     <item>
       <title>Early Research Interest</title>
-      <link>http://bretsw.com/post/early-research-interest/</link>
+      <link>https://bretsw.com/post/early-research-interest/</link>
       <pubDate>Sat, 30 Jul 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://bretsw.com/post/early-research-interest/</guid>
+      <guid>https://bretsw.com/post/early-research-interest/</guid>
       
         <description>   </description>
       
@@ -219,10 +219,10 @@
     
     <item>
       <title>Motivation Interview</title>
-      <link>http://bretsw.com/post/motivation-interview/</link>
+      <link>https://bretsw.com/post/motivation-interview/</link>
       <pubDate>Sun, 10 Jul 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://bretsw.com/post/motivation-interview/</guid>
+      <guid>https://bretsw.com/post/motivation-interview/</guid>
       
         <description> </description>
       
@@ -230,10 +230,10 @@
     
     <item>
       <title>proCATstination</title>
-      <link>http://bretsw.com/post/procatstination/</link>
+      <link>https://bretsw.com/post/procatstination/</link>
       <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://bretsw.com/post/procatstination/</guid>
+      <guid>https://bretsw.com/post/procatstination/</guid>
       
         <description>   </description>
       
@@ -241,10 +241,10 @@
     
     <item>
       <title>Coursework: Master of Arts in Educational Technology</title>
-      <link>http://bretsw.com/post/coursework_maet/</link>
+      <link>https://bretsw.com/post/coursework_maet/</link>
       <pubDate>Sat, 15 Aug 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://bretsw.com/post/coursework_maet/</guid>
+      <guid>https://bretsw.com/post/coursework_maet/</guid>
       
         <description>In 2015, I completed a Master of Arts degree in Educational Technology through Michigan State University&amp;rsquo;s College of Education.</description>
       
@@ -252,10 +252,10 @@
     
     <item>
       <title>Alessia&#39;s Bulwark</title>
-      <link>http://bretsw.com/post/alessia_bulwark/</link>
+      <link>https://bretsw.com/post/alessia_bulwark/</link>
       <pubDate>Thu, 30 Apr 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://bretsw.com/post/alessia_bulwark/</guid>
+      <guid>https://bretsw.com/post/alessia_bulwark/</guid>
       
         <description>“Art is a lie that makes us realize truth.”
 Picasso’s famous words were among those jumbling in my head while watching Super Bowl commercials this year.</description>
@@ -264,10 +264,10 @@ Picasso’s famous words were among those jumbling in my head while watching Sup
     
     <item>
       <title>Online Communities</title>
-      <link>http://bretsw.com/post/online_communities/</link>
+      <link>https://bretsw.com/post/online_communities/</link>
       <pubDate>Sun, 07 Dec 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://bretsw.com/post/online_communities/</guid>
+      <guid>https://bretsw.com/post/online_communities/</guid>
       
         <description>Perceiving Community   Patterning Community   Embodying Community   Modeling Community   Synthesizing Community   </description>
       
@@ -275,10 +275,10 @@ Picasso’s famous words were among those jumbling in my head while watching Sup
     
     <item>
       <title>Coursework: Graduate Certificate in Serious Game Design and Research</title>
-      <link>http://bretsw.com/post/coursework_serious_game/</link>
+      <link>https://bretsw.com/post/coursework_serious_game/</link>
       <pubDate>Wed, 30 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://bretsw.com/post/coursework_serious_game/</guid>
+      <guid>https://bretsw.com/post/coursework_serious_game/</guid>
       
         <description>In 2014, I completed a 3-course Graduate Certificate in Serious Game Design and Research through Michigan State University&amp;rsquo;s College of Communication Arts and Sciences.</description>
       
@@ -286,10 +286,10 @@ Picasso’s famous words were among those jumbling in my head while watching Sup
     
     <item>
       <title>Learning to Read Socially</title>
-      <link>http://bretsw.com/post/learning-to-read-socially/</link>
+      <link>https://bretsw.com/post/learning-to-read-socially/</link>
       <pubDate>Sun, 09 Jun 2013 00:00:00 +0000</pubDate>
       
-      <guid>http://bretsw.com/post/learning-to-read-socially/</guid>
+      <guid>https://bretsw.com/post/learning-to-read-socially/</guid>
       
         <description>   </description>
       
@@ -297,10 +297,10 @@ Picasso’s famous words were among those jumbling in my head while watching Sup
     
     <item>
       <title>How to Tell a Good Story</title>
-      <link>http://bretsw.com/post/tell-a-good-story/</link>
+      <link>https://bretsw.com/post/tell-a-good-story/</link>
       <pubDate>Fri, 24 May 2013 00:00:00 +0000</pubDate>
       
-      <guid>http://bretsw.com/post/tell-a-good-story/</guid>
+      <guid>https://bretsw.com/post/tell-a-good-story/</guid>
       
         <description> </description>
       

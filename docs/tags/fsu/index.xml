@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>fsu on Bret Staudt Willet, Ph.D.</title>
-    <link>http://bretsw.com/tags/fsu/</link>
+    <link>https://bretsw.com/tags/fsu/</link>
     <description>Recent content in fsu on Bret Staudt Willet, Ph.D.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 29 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://bretsw.com/tags/fsu/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 29 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://bretsw.com/tags/fsu/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Teaching Notes from EME6356: Learning &amp; Web Analytics</title>
-      <link>http://bretsw.com/post/eme6356-hub/</link>
+      <link>https://bretsw.com/post/eme6356-hub/</link>
       <pubDate>Fri, 29 Apr 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://bretsw.com/post/eme6356-hub/</guid>
+      <guid>https://bretsw.com/post/eme6356-hub/</guid>
       
         <description>I wanted a place to compile all of my slide decks as I teach EME6356: Learning &amp;amp; Web Analytics at Florida State University.</description>
       
@@ -20,10 +20,10 @@
     
     <item>
       <title>Teaching Notes from EME6357: Evaluation of Instruction &amp; Training in Human-Performance Technology</title>
-      <link>http://bretsw.com/post/eme6357-hub/</link>
+      <link>https://bretsw.com/post/eme6357-hub/</link>
       <pubDate>Fri, 10 Dec 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://bretsw.com/post/eme6357-hub/</guid>
+      <guid>https://bretsw.com/post/eme6357-hub/</guid>
       
         <description>I wanted a place to compile all of my slide decks as I teach EME6357: Evaluation of Instruction &amp;amp; Training in Human-Performance Technology at Florida State University.</description>
       
@@ -31,10 +31,10 @@
     
     <item>
       <title></title>
-      <link>http://bretsw.com/cv/</link>
+      <link>https://bretsw.com/cv/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://bretsw.com/cv/</guid>
+      <guid>https://bretsw.com/cv/</guid>
       
         <description>K. Bret Staudt Willet, Ph.D. Assistant Professor, Florida State University</description>
       

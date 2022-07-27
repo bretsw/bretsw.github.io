@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>irr on Bret Staudt Willet, Ph.D.</title>
-    <link>http://bretsw.com/tags/irr/</link>
+    <link>https://bretsw.com/tags/irr/</link>
     <description>Recent content in irr on Bret Staudt Willet, Ph.D.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 09 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://bretsw.com/tags/irr/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 09 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://bretsw.com/tags/irr/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Visualizing Inter-Rater Reliability</title>
-      <link>http://bretsw.com/post/irr-visual/</link>
+      <link>https://bretsw.com/post/irr-visual/</link>
       <pubDate>Fri, 09 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://bretsw.com/post/irr-visual/</guid>
+      <guid>https://bretsw.com/post/irr-visual/</guid>
       
         <description>Background on Reporting Inter-rater Reliability Qualitative studies often report inter-reliability (IRR) scores as a measure of the trustworthiness of coding, or an assurance to readers that they might follow the researcher&amp;rsquo;s codebook and expect to find similar results.</description>
       

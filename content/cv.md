@@ -99,17 +99,16 @@ College of Education
 - Madison, C., doctoral student.
 - Morris, V., doctoral student.
 - Na, H., doctoral student.
-- Pashnyak, T., doctoral student. (co-chair)
 - Smith, C., doctoral candidate. *Culturally Inclusive Instructional Strategies Implemented by Designers-by-Assignment in Higher Education Student Services*.
 - Stoutyesdyk, J., doctoral student.
-- Wick, J., doctoral candidate. *Give em’ What They Want: Middle School Teachers’ Perceptions of Professional Development and Teacher Autonomy*.
+- Wick, J., doctoral candidate. *Middle School Teachers’ Perceptions on the Effectiveness and Relevance of Mandated Professional Development*.
 
 
 ## Doctoral Committee Member
 
 - Archer, T., doctoral student.
-- Choi, H., doctoral candidate.
-- Graham, D., doctoral candidate.
+- Choi, H., doctoral candidate. *Situational Motivation and Participation in Online Discussion: A Multiple Case Study*.
+- Graham, D., doctoral candidate. *Teacher Perception on the Use of Game-Based Learning in the Title 1 ELA Curriculum*.
 - He, D., doctoral candidate.
 - Johnston, R., doctoral candidate. *Characteristics of High-Performing Volunteer Nonprofit Board Members*.
 - Jones, M., doctoral candidate. *Supporting LGBTQ+ Students in Online Environments: A Qualitative Study of Higher Education Initiatives and Leadership Practices in Large Public Universities*

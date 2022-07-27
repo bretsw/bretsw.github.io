@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Bret Staudt Willet, Ph.D.</title>
-    <link>http://bretsw.com/categories/</link>
+    <link>https://bretsw.com/categories/</link>
     <description>Recent content in Categories on Bret Staudt Willet, Ph.D.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 30 Jul 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://bretsw.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 30 Jul 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://bretsw.com/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>dataviz</title>
-      <link>http://bretsw.com/categories/dataviz/</link>
+      <link>https://bretsw.com/categories/dataviz/</link>
       <pubDate>Thu, 30 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://bretsw.com/categories/dataviz/</guid>
+      <guid>https://bretsw.com/categories/dataviz/</guid>
       
         <description></description>
       
@@ -20,10 +20,10 @@
     
     <item>
       <title>heatmap</title>
-      <link>http://bretsw.com/categories/heatmap/</link>
+      <link>https://bretsw.com/categories/heatmap/</link>
       <pubDate>Thu, 30 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://bretsw.com/categories/heatmap/</guid>
+      <guid>https://bretsw.com/categories/heatmap/</guid>
       
         <description></description>
       
@@ -31,10 +31,10 @@
     
     <item>
       <title>twitter</title>
-      <link>http://bretsw.com/categories/twitter/</link>
+      <link>https://bretsw.com/categories/twitter/</link>
       <pubDate>Thu, 30 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://bretsw.com/categories/twitter/</guid>
+      <guid>https://bretsw.com/categories/twitter/</guid>
       
         <description></description>
       
