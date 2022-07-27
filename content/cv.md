@@ -106,7 +106,7 @@ College of Education
 
 ## Doctoral Committee Member
 
-- Archer, T., doctoral student.
+- Archer, T., doctoral candidate.
 - Choi, H., doctoral candidate. *Situational Motivation and Participation in Online Discussion: A Multiple Case Study*.
 - Graham, D., doctoral candidate. *Teacher Perception on the Use of Game-Based Learning in the Title 1 ELA Curriculum*.
 - He, D., doctoral candidate.
@@ -395,7 +395,7 @@ Staudt Willet, K. B. (May 2022–Aug 2022). *FYAP: Beginning Teachers' Self-Dire
 
 ## The Profession
 
-### Guest Reviewer for Refereed Journals (29 reviews)
+### Guest Reviewer for Refereed Journals (34 reviews)
 
 - *AERA Open* (2021–present).
 - *American Journal of Education* (2019-2020).
@@ -406,6 +406,7 @@ Staudt Willet, K. B. (May 2022–Aug 2022). *FYAP: Beginning Teachers' Self-Dire
 - *Journal of Information Technology & Politics* (2020).
 - *Journal of Research on Technology in Education* (2021–present).
 - *Learning, Media & Technology* (2016).
+- *Professional Development in Education* (2022-present).
 - *Teaching & Teacher Education* (2021-present).
 - *TechTrends* (2021–present).
 
