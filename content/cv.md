@@ -88,8 +88,10 @@ College of Education
 
 ## Courses Taught
 
-- Evaluation of Instruction & Training in Human-Performance Technology (EME6357)
 - Learning & Web Analytics (EME6356)
+- Synthesis, Analysis, and Argumentation in Instructional Systems Research (EME6665)
+- Evaluation of Instruction & Training in Human-Performance Technology (EME6357)
+
 
 
 ## Doctoral Committee Chair
@@ -389,7 +391,7 @@ Staudt Willet, K. B. (May 2022–Aug 2022). *FYAP: Beginning Teachers' Self-Dire
 
 ### FSU Program Service
 
-- Academic Director, ISLT PhD Program (2022-present)
+- Academic Director, ISLT Ph.D. Program (2022-present)
 - Member, Faculty Search Committee (2021–2022).
 - Reviewer, Ph.D. Preliminary Exams Committee (2021).
 
@@ -413,6 +415,7 @@ Staudt Willet, K. B. (May 2022–Aug 2022). *FYAP: Beginning Teachers' Self-Dire
 
 ### Service to Professional Associations
 
+- **President-Elect**, Research & Theory Division, Association for Educational Communications & Technology (AECT) (2022–2023).
 - **Conference Proposal Reviewer**, American Educational Research Association (AERA) (2020–present).
 - **Conference Proposal Reviewer**, Association for Educational Communications & Technology (AECT) (2019–present).
 - **Communications Officer**, Research & Theory Division, Association for Educational Communications & Technology (AECT) (2020–2021).
@@ -424,6 +427,6 @@ Staudt Willet, K. B. (May 2022–Aug 2022). *FYAP: Beginning Teachers' Self-Dire
 
 ## Consultation
 
-- **SciBlack**. Served as Founder, Organizer, and  Co-Director for the inaugural SciBlack Conference to take place in June 2022 (2021–present).
+- **SciBlack**. Served as Founder, Organizer, and  Co-Director for the inaugural SciBlack Conference to take place in June 2023 (2021–present).
 
 - **Black in Gaming (BIG) Foundation**. Served as a volunteer Executive Coach: (a) Trained and mentored members of the core leadership team. (b) Designed and implemented strategy for organizational culture and collaboration through remote and asynchronous work (2020–2021).

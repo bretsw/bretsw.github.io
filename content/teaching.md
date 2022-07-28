@@ -12,9 +12,9 @@ contact: false
 
 **EME6356: Learning & Web Analytics** - This course addresses the collection and use of data for decision making and assessment in learning and human performance contexts. Students will get hands-on experience with small data sets and will learn how big data sets are collected and used. The course will explore the role that analytics plays in education and related fields, identify the types of questions that might be answered via both quantitative and qualitative analytics, and engage in analytic- related problem solving. This course will examine case studies and provide students with practice using a variety of tools and services that can help them collect and analyze learning and web data. There are no pre-requisites, and although data will be used prior experience with statistics or research design is not necessary.
 
-**EME6357: Evaluation of Training & Instruction in Human Performance Technology** - This course focuses on the evaluation of training and instruction through a systemic analysis of the organization sponsoring the training program. The course also provides the knowledge and skills for conducting an HPT-based evaluation of training systems. Students actively participate in discussions, presentations, synthesis of materials, and the writing of papers.
-
 **EME6665: Synthesis, Analysis, and Argumentation in Instructional Systems Research** -  This course covers tools, techniques, and procedures for finding, synthesizing, analyzing, and summarizing research related to past and ongoing relevant topics in Instructional Systems.
+
+**EME6357: Evaluation of Training & Instruction in Human Performance Technology** - This course focuses on the evaluation of training and instruction through a systemic analysis of the organization sponsoring the training program. The course also provides the knowledge and skills for conducting an HPT-based evaluation of training systems. Students actively participate in discussions, presentations, synthesis of materials, and the writing of papers.
 
 ### Michigan State University
 
