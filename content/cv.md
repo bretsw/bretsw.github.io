@@ -155,7 +155,7 @@ Staudt Willet, K. B. (2018). *Experiences from the practicum* [Panel for doctora
 
 ### Refereed Journal Articles (17)
 
-Muljana, P. S., Staudt Willet, K. B., & Luo, T. (in press). Adjusting sails for changing winds: Exploring Reddit use for professional purposes in higher education. *Journal of Computing in Higher Education*.
+Muljana, P. S., Staudt Willet, K. B., & Luo, T. (2022). Adjusting sails for changing winds: Exploring Reddit use for professional purposes in higher education. *Journal of Computing in Higher Education*. doi:[10.1007/s12528-022-09317-2](https://doi.org/10.1007/s12528-022-09317-2)
 
 Krutka, D. G., Caines, A., Heath, M. K., & Staudt Willet, K. B. (2021). Black Mirror pedagogy: Dystopian stories for technoskeptical imaginations. *Journal of Interactive Pedagogy and Technology, 20*. Retrieved from https://jitp.commons.gc.cuny.edu/black-mirror-pedagogy-dystopian-stories-for-technoskeptical-imaginations/
 
