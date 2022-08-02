@@ -10,9 +10,11 @@ mainSectionsTitle = ""
 
 I am an Assistant Professor of [Instructional Systems & Learning Technologies](https://education.fsu.edu/instructional-systems-and-learning-technologies) at Florida State University.
 
-My research investigates **self-directed learning through social media**. I have several ongoing projects related to this research area. First, I examine networked learning in online communities, such as those hosted by Twitter and Reddit. Second, I study how new teachers expand their professional support systems during their induction transition. Third, I explore the connections between informal learning and invisible labor.
+My research investigates **self-directed learning**, especially by teachers. I'm most interested in what happens when our students, learners, and trainees finish the instruction and training we design for them. What do they do *after* they walk out the door or log off? How do they continue to develop the knowledge, skills, and abilities they need? Where do they look for resources? Who do they talk to?
 
-![Bret's areas of research](/images/research-areas.png)
+I have several ongoing projects on self-directed learning. First, I examine networked learning in online communities, such as those hosted by Twitter and Reddit. Second, I study how new teachers expand their professional support systems during their induction transition. Third, I seek to understand educators' experiences as data scientists. Fourth, I interrogate educators' informal learning as a form of invisible labor.
+
+![Bret's areas of research](/images/research-areas.jpg)
 
 I hold a [Ph.D. in Educational Psychology & Educational Technology](https://education.msu.edu/cepse/epet/), a [Master's Degree in Educational Technology](https://education.msu.edu/cepse/maet/), and a [Graduate Certificate in Serious Game Design and Research](https://comartsci.msu.edu/academics/academic-departments/media-information/graduate/serious-game-design-ma-certificate) from Michigan State University, and a dual bachelor’s degree in Mathematics and Sociology from Bucknell University. 
 
@@ -27,7 +29,9 @@ I consider my strongest credential to be my ongoing friendship with my very firs
 - Self-Directed Learning
 - Networked Learning
 - Informal Learning
+- Invisible Labor
 - Learning Analytics
+- Data Science
 - Social Media
 
 ---

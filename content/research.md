@@ -6,13 +6,13 @@ description: Overview of research and representative publications
 contact: false
 ---
 
-## Beginning Teachers’ Self-Directed Learning
+## New Teachers’ Induction Support Systems
 
 ![Transitions walking down hallway](/images/transition.jpg)
 
 ### Introduction
 
-Beginning teachers face numerous decisions as they transition from teacher preparation into enacting practice (i.e., their induction period). They must reconcile conflicting messages about what and how to teach from the academic world of the preparation program and the practical world of their school of employment. Interviews with new teachers provide evidence of why new teachers seek supports for professional leaning to complement formal induction programs offered by schools and districts. Findings demonstrate how new teachers’ agency is stretched as they navigate the edu-verse, a complex learning ecology of supports accessed locally and through social media.
+New teachers face numerous decisions as they transition from teacher preparation into enacting practice (i.e., their induction period). They must reconcile conflicting messages about what and how to teach from the academic world of the preparation program and the practical world of their school of employment. Interviews with new teachers provide evidence of why new teachers seek supports for professional leaning to complement formal induction programs offered by schools and districts. Findings demonstrate how new teachers’ agency is stretched as they navigate the edu-verse, a complex learning ecology of supports accessed locally and through social media.
 
 ### Representative Publications
 
@@ -20,11 +20,11 @@ Beginning teachers face numerous decisions as they transition from teacher prepa
 
 ### Works-in-Progress
 
-<i class="fas fa-file-alt"></i> Beginning teachers’ self-directed professional learning through social media: Impacts on instructional practice 
+<i class="fas fa-file-alt"></i> Social media’s impact on instruction: Beginning teachers’ self-directed professional learning
 
 ---
 
-## Informal Learning or Invisible Labor?
+## Educators' Informal Learning and Invisible Labor
 
 ![People blurry and out of focus](/images/invisible.jpg)
 
@@ -36,7 +36,7 @@ Beginning teachers face numerous decisions as they transition from teacher prepa
 
 ### Works-in-Progress
 
-<i class="fas fa-file-alt"></i> Coming soon
+<i class="fas fa-file-alt"></i> Interrogating education research through an invisible labor lens
 
 ---
 
@@ -56,11 +56,11 @@ Beginning teachers face numerous decisions as they transition from teacher prepa
 
 <i class="fas fa-file-alt"></i> Teachers without borders: Professional learning spanning social media, place, and time 
 
-<i class="fas fa-file-alt"></i> U.K. and U.S. Emergency Learning Networks on Twitter during COVID-19
+<i class="fas fa-file-alt"></i> U.K. and U.S. emergency learning networks on Twitter during COVID-19
 
 ---
 
-## Data Science in Education
+## Educators as Data Scientists
 
 ![Data on a computer screen](/images/data.png)
 
