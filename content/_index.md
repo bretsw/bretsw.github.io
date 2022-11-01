@@ -8,13 +8,21 @@ mainSectionsTitle = ""
 [{{< fa globe >}} Read CV](cv/) | 
 [{{< fa file-download >}} Download CV](https://www.fsu.edu/cvdb/KSTAUDTWILLET.rtf?0=)
 
+---
+
 I am an Assistant Professor of [Instructional Systems & Learning Technologies](https://education.fsu.edu/instructional-systems-and-learning-technologies) at Florida State University.
 
-My research investigates **self-directed learning**, especially by teachers. I'm most interested in what happens when our students, learners, and trainees finish the instruction and training we design for them. What do they do *after* they walk out the door or log off? How do they continue to develop the knowledge, skills, and abilities they need? Where do they look for resources? Who do they talk to?
+My research investigates **self-directed networked learning**. I'm most interested in what happens when our students, learners, and trainees finish the instruction and training we design for them. What do they do *after* they walk out the door or log off? How do they continue to develop the knowledge, skills, and abilities they need? Where do they look for resources? Who do they talk to?
 
-I have several ongoing projects on self-directed learning. First, I examine networked learning in online communities, such as those hosted by Twitter and Reddit. Second, I study how new teachers expand their professional support systems during their induction transition. Third, I seek to understand educators' experiences as data scientists. Fourth, I interrogate educators' informal learning as a form of invisible labor.
+My work on self-directed networked learning covers several dimensions, outlined by the categories proposed *professional learning networks* (PLNs): the connections and interactions between resources, people, and spaces. I study resources, people, and spaces with methods drawn from learning analytics and social network analysis. 
+
+My projects explore **resources** in terms of informal learning (e.g., possibilities for beginning teachers developing support systems) and invisible labor (e.g., perils for figuring things out outside work hours), **people** in terms of social connections and interactions (e.g., online groups, communities of practice, educators learning to identify as data scientists), and **spaces** in terms of affinity spaces hosted in web forums and social media (e.g., Reddit, Twitter).
+
+### Self-Directed Networked Learning:
 
 ![Bret's areas of research](/images/research-areas.jpg)
+
+---
 
 I hold a [Ph.D. in Educational Psychology & Educational Technology](https://education.msu.edu/cepse/epet/), a [Master's Degree in Educational Technology](https://education.msu.edu/cepse/maet/), and a [Graduate Certificate in Serious Game Design and Research](https://comartsci.msu.edu/academics/academic-departments/media-information/graduate/serious-game-design-ma-certificate) from Michigan State University, and a dual bachelor’s degree in Mathematics and Sociology from Bucknell University. 
 
@@ -30,9 +38,14 @@ I consider my strongest credential to be my ongoing friendship with my very firs
 - Networked Learning
 - Informal Learning
 - Invisible Labor
-- Learning Analytics
-- Data Science
 - Social Media
+
+## Methods
+
+- Learning Analytics
+- Social Network Analysis
+- Data Science
+
 
 ---
 
