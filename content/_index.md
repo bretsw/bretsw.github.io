@@ -88,7 +88,6 @@ I consider my strongest credential to be my ongoing friendship with my very firs
 - [**AERA**](https://www.aera.net/) | American Educational Research Association
   - *Design & Technology* SIG
   - *Technology as an Agent of Change in Teaching & Learning* (TACTL) SIG  
-  - *Division C* – Learning & Instruction
 - [**SoLAR**](https://www.solaresearch.org/) | Society for Learning Analytics Research
 
 ---
