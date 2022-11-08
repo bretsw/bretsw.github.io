@@ -17,12 +17,13 @@ College of Education
 ---
 
 [<i class="fas fa-envelope"></i>](mailto:bret.staudtwillet@fsu.edu) | 
-[<i class="fab fa-twitter"></i>](https://twitter.com/bretsw) | 
-[<i class="fab fa-mastodon"></i>](https://scholar.social/web/@bretsw) | 
-[<i class="fas fa-graduation-cap"></i>](https://scholar.google.com/citations?user=P-65wkIAAAAJ&hl=en) | 
-[<i class="fab fa-github"></i>](https://github.com/bretsw) |
+[<i class="fab fa-mastodon"></i>](https://scholar.social/@bretsw) | 
 [<i class="fab fa-linkedin"></i>](https://linkedin.com/in/bretsw) | 
 [<i class="fab fa-orcid"></i>](https://orcid.org/0000-0002-6984-416X) | 
+[<i class="fas fa-graduation-cap"></i>](https://scholar.google.com/citations?user=P-65wkIAAAAJ&hl=en) | 
+[<i class="fas fa-users"></i>](https://erso-group.org/) | 
+[<i class="fab fa-github"></i>](https://github.com/bretsw) |
+[<i class="fas fa-box-open"></i>](https://docs.ropensci.org/tidytags/) |
 [<i class="fas fa-file-alt"></i>](https://www.fsu.edu/cvdb/KSTAUDTWILLET.rtf?0=)
 
 **Office:**  
@@ -94,7 +95,7 @@ College of Education
 
 
 
-## Doctoral Committee Chair
+## Doctoral Committee Chair (8)
 
 - Arthur, A., doctoral candidate.
 - Fairclough, K., doctoral candidate.
@@ -106,21 +107,24 @@ College of Education
 - Wick, J., doctoral candidate. *Middle School Teachers’ Perceptions on the Effectiveness and Relevance of Mandated Professional Development*.
 
 
-## Doctoral Committee Member
+## Doctoral Committee Member (16)
 
 - Archer, T., doctoral candidate.
-- Choi, H., doctoral candidate. *Situational Motivation and Participation in Online Discussion: A Multiple Case Study*.
+- Bean, W., doctoral candidate (Sport Psychology).
+- Clifford, S., doctoral candidate. *The Impact of Trainer Self-Efficacy and Technology Adoption on Learning Performance*.
 - Graham, D., doctoral candidate. *Teacher Perception on the Use of Game-Based Learning in the Title 1 ELA Curriculum*.
 - He, D., doctoral candidate.
 - Johnston, R., doctoral candidate. *Characteristics of High-Performing Volunteer Nonprofit Board Members*.
 - Jones, M., doctoral candidate. *Supporting LGBTQ+ Students in Online Environments: A Qualitative Study of Higher Education Initiatives and Leadership Practices in Large Public Universities*
-- Kent, H., doctoral candidate. *Informal Learning to Support Volunteer Work*
 - Lewis, A., doctoral candidate.
+- Lott, S., doctoral candidate.
 - Medina, J., doctoral candidate.
 - Pryor, T., doctoral candidate.
-- Sementelli, R., doctoral candidate
-- West, L., doctoral student.
+- Sementelli, R., doctoral candidate.
+- West, L., doctoral candidate.
 - Young, K., doctoral candidate.
+- <i class="fas fa-graduation-cap"></i> Choi, H., Ph.D. graduate 2022. *Situational Motivation and Participation in Online Discussion: A Multiple Case Study*.
+- <i class="fas fa-graduation-cap"></i> Kent, H., Ph.D. graduate 2022. *Informal Learning to Support Volunteer Work*
 
 
 ## Invited Guest Lectures (10)

@@ -58,6 +58,21 @@ title = "Email"
 url = "mailto:bret.staudtwillet@fsu.edu"
 
 [[socialIcons]]
+icon = "fab fa-mastodon"
+title = "Mastodon Scholar.Social"
+url = "https://scholar.social/@bretsw"
+
+[[socialIcons]]
+icon = "fab fa-linkedin"
+title = "Linkedin"
+url = "https://www.linkedin.com/in/bretsw/"
+
+[[socialIcons]]
+icon = "fab fa-orcid"
+title = "ORCiD"
+url = "https://orcid.org/0000-0002-6984-416X"
+
+[[socialIcons]]
 icon = "fas fa-graduation-cap"
 title = "Google Scholar"
 url = "https://scholar.google.com/citations?user=P-65wkIAAAAJ&hl=en"
@@ -71,16 +86,6 @@ url = "https://erso-group.org/"
 icon = "fab fa-github"
 title = "GitHub"
 url = "https://github.com/bretsw/"
-
-[[socialIcons]]
-icon = "fab fa-orcid"
-title = "ORCiD"
-url = "https://orcid.org/0000-0002-6984-416X"
-
-[[socialIcons]]
-icon = "fab fa-linkedin"
-title = "Linkedin"
-url = "https://www.linkedin.com/in/bretsw/"
 
 [[socialIcons]]
 icon = "fas fa-box-open"
