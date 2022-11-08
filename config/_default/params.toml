@@ -14,10 +14,10 @@ contentratio = 0.7
 hidesidebar = false  # hidesd the sidebar on content pages
 #images = ["images/site-feature-image.png"]
 doNotLoadAnimations = false
-favicon = "favicons/"
+favicon = "favicons/favicon.ico"
 
-customCss = ["css/syntax.css"]  # example ["css/custom.css"]
-customJs = []  # example ["js/custom.js"]
+customCss = ["css/hugo-easy-gallery.css", "css/syntax.css"]  # example ["css/custom.css"]
+customJs = ["js/load-photoswipe.js"]  # example ["js/custom.js"]
 
 # Form Spree Contact Form
 #contactFormAction = "https://formspree.io/f/moqrnvdd"

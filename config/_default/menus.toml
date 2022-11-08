@@ -27,3 +27,9 @@
   weight = 500
   identifier = "posts"
   url = "/post/"
+
+  [[main]]
+  name = "Gallery"
+  weight = 600
+  identifier = "gallery"
+  url = "/gallery/"
