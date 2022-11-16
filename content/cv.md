@@ -95,7 +95,7 @@ College of Education
 
 
 
-## Doctoral Committee Chair (8)
+## Doctoral Committee Chair (8 current)
 
 - Arthur, A., doctoral candidate.
 - Fairclough, K., doctoral candidate.
@@ -107,15 +107,13 @@ College of Education
 - Wick, J., doctoral candidate. *Middle School Teachers’ Perceptions on the Effectiveness and Relevance of Mandated Professional Development*.
 
 
-## Doctoral Committee Member (16)
+## Doctoral Committee Member (12 current, 4 graduates)
 
 - Archer, T., doctoral candidate.
 - Bean, W., doctoral candidate (Sport Psychology).
 - Clifford, S., doctoral candidate. *The Impact of Trainer Self-Efficacy and Technology Adoption on Learning Performance*.
-- Graham, D., doctoral candidate. *Teacher Perception on the Use of Game-Based Learning in the Title 1 ELA Curriculum*.
 - He, D., doctoral candidate.
 - Johnston, R., doctoral candidate. *Characteristics of High-Performing Volunteer Nonprofit Board Members*.
-- Jones, M., doctoral candidate. *Supporting LGBTQ+ Students in Online Environments: A Qualitative Study of Higher Education Initiatives and Leadership Practices in Large Public Universities*
 - Lewis, A., doctoral candidate.
 - Lott, S., doctoral candidate.
 - Medina, J., doctoral candidate.
@@ -124,7 +122,9 @@ College of Education
 - West, L., doctoral candidate.
 - Young, K., doctoral candidate.
 - <i class="fas fa-graduation-cap"></i> Choi, H., Ph.D. graduate 2022. *Situational Motivation and Participation in Online Discussion: A Multiple Case Study*.
-- <i class="fas fa-graduation-cap"></i> Kent, H., Ph.D. graduate 2022. *Informal Learning to Support Volunteer Work*
+- <i class="fas fa-graduation-cap"></i> Graham, D., Ed.D. graduate 2022. *Teacher Perception on the Use of Game-Based Learning in the Title 1 ELA Curriculum*.
+- <i class="fas fa-graduation-cap"></i> Jones, M., Ed.D. graduate 2022. *Supporting LGBTQ+ Students in Online Environments: A Qualitative Study of Higher Education Initiatives and Leadership Practices in Large Public Universities*.
+- <i class="fas fa-graduation-cap"></i> Kent, H., Ph.D. graduate 2022. *Informal Learning to Support Volunteer Work*.
 
 
 ## Invited Guest Lectures (10)
