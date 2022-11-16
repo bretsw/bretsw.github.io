@@ -36,11 +36,16 @@ College of Education
 
 ## Professional Preparation
 
-- **Ph.D. (2021)**, Michigan State University. Major: Educational Psychology & Educational Technology. Supervisors: Dr. Matthew Koehler & Dr. Christine Greenhow. 
+- **Ph.D. (2021)**, Michigan State University.
+  - Major: Educational Psychology & Educational Technology. 
+  - Advisors: Dr. Matthew Koehler & Dr. Christine Greenhow. 
   - Staudt Willet, K. B. (2021). *"I filled a lot of gaps": How and why early career teachers expand induction support systems with social media*. (Doctoral dissertation, Michigan State University). Retrieved from ProQuest Dissertations & Theses Global, Publication No. 28414983.
-- **M.A. (2015)**, Michigan State University. Major: Educational Technology. 
-- **Graduate Certificate (2014)**, Michigan State University. Major: Serious Game Design and Research. 
-- **B.A. (2003)**, Bucknell University. Major: Mathematics & Sociology. 
+- **M.A. (2015)**, Michigan State University.
+  - Major: Educational Technology. 
+- **Graduate Certificate (2014)**, Michigan State University.
+  - Major: Serious Game Design and Research. 
+- **B.A. (2003)**, Bucknell University.
+  - Major: Mathematics & Sociology. 
 
 
 ## Nondegree Education and Training
