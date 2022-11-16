@@ -57,7 +57,8 @@ College of Education
 
 ## Honors, Awards, and Prizes
 
-- **Best Paper Award** for the Technology as an Agent of Change in Teaching & Learning Special Interest Group (TACTL SIG), American Educational Research Association (AERA) (2022).
+- **Qualitative Inquiry Award** from the AECT Foundation and Research & Theory Division, Association for Educational Communications & Technology (2022). ($750).
+- **Best Paper Award** from the Technology as an Agent of Change in Teaching & Learning Special Interest Group (TACTL SIG), American Educational Research Association (AERA) (2022).
 - **Marvalene Hughes Research in Education Conference Travel Award**, Florida State University, College of Education (2022). ($700). 
 - Nominated: **COE Teaching Award for Graduate Teaching** (not eligible to win), Florida State University, College of Education (2022). 
 - **Outstanding Service Award**, Association for Educational Communications & Technology (AECT) (2021). 
