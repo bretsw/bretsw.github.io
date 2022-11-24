@@ -10,9 +10,9 @@ mainSectionsTitle = ""
 
 ---
 
-I am an Assistant Professor of [Instructional Systems & Learning Technologies](https://education.fsu.edu/instructional-systems-and-learning-technologies) at Florida State University.
+I am an Assistant Professor of [Instructional Systems & Learning Technologies](https://education.fsu.edu/instructional-systems-and-learning-technologies) at Florida State University. My preferred pronouns are **he/him**.
 
-My research investigates **self-directed networked learning**. I'm most interested in what happens when our students, learners, and trainees finish the instruction and training we design for them. What do they do *after* they walk out the door or log off? How do they continue to develop the knowledge, skills, and abilities they need? Where do they look for resources? Who do they talk to?
+My research investigates **self-directed networked learning**. I'm most interested  in what happens when students, learners, and trainees finish formal instruction, preparation, and training. What do they do *after* they walk out the door or log off? How do they continue to develop their knowledge, skills, and abilities? Where do they look for resources? Who do they talk to?
 
 My work on self-directed networked learning covers several dimensions, outlined by the categories proposed *professional learning networks* (PLNs): the connections and interactions between resources, people, and spaces. I study resources, people, and spaces with methods drawn from learning analytics and social network analysis. 
 
