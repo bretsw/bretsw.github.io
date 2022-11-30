@@ -133,7 +133,9 @@ College of Education
 - <i class="fas fa-graduation-cap"></i> Kent, H., Ph.D. graduate 2022. *Informal Learning to Support Volunteer Work*.
 
 
-## Invited Guest Lectures (10)
+## Invited Guest Lectures (11)
+
+Staudt Willet, K. B. (2022). *Insights for academic publishing* [Guest lecture for doctoral course CEP 956: Mind, Media and Learning]. Educational Psychology & Educational Technology program, Michigan State University. 
 
 Staudt Willet, K. B. (2022). *Picture this: Telling data stories through visualizations* [Guest lecture for Master's course Teaching with Technology]. Manhattanville College, Purchase, NY.
 
