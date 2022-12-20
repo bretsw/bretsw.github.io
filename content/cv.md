@@ -50,6 +50,7 @@ College of Education
 
 ## Nondegree Education and Training
 
+- *Applying the QM Rubric.* Quality Matters. (2022).
 - *Data Science: Foundations Using R.* Coursera. (2017-2020).
 - *Methods for Analyzing and Modeling Textual Data.* Summer School Series on Methods for Computational Social Science. (2018).
 - *Game Design and Facilitation.* The Thiagi Group. (2012).
@@ -62,23 +63,23 @@ College of Education
 
 ## Honors, Awards, and Prizes
 
-- **Qualitative Inquiry Award** from the AECT Foundation and Research & Theory Division, Association for Educational Communications & Technology (2022). ($750).
-- **Best Paper Award** from the Technology as an Agent of Change in Teaching & Learning Special Interest Group (TACTL SIG), American Educational Research Association (AERA) (2022).
-- **Marvalene Hughes Research in Education Conference Travel Award**, Florida State University, College of Education (2022). ($700). 
+- <i class="fas fa-award" style="color:#ceb888"></i> **Qualitative Inquiry Award** from the AECT Foundation and Research & Theory Division, Association for Educational Communications & Technology (2022). ($750).
+- <i class="fas fa-award" style="color:#ceb888"></i> **Best Paper Award** from the Technology as an Agent of Change in Teaching & Learning Special Interest Group (TACTL SIG), American Educational Research Association (AERA) (2022).
+- <i class="fas fa-award" style="color:#ceb888"></i> **Marvalene Hughes Research in Education Conference Travel Award**, Florida State University, College of Education (2022). ($700). 
 - Nominated: **COE Teaching Award for Graduate Teaching** (not eligible to win), Florida State University, College of Education (2022). 
-- **Outstanding Service Award**, Association for Educational Communications & Technology (AECT) (2021). 
-- **Dissertation Completion Fellowship**, Michigan State University, College of Education (2021). ($7,000). 
-- **MSU AT&T Faculty-Staff Annual Competition in Instructional Technology**, Michigan State University (2021). ($500). 
-- **Featured Research** at the 2020 AECT International Convention, Association for Educational Communications and Technology (AECT) (2020). 
-- **Outstanding Paper Award** at the 2020 SITE International Conference, Society for Information Technology & Teacher Education (SITE) (2020). 
-- **Clifford E. Erickson Memorial Fund Scholarship**, Michigan State University, College of Education (2020). ($5,500). 
-- **Research Practicum/Dissertation Development Fellowship**, Michigan State University, College of Education (2020). ($1,300). 
-- **Outstanding Paper Award** at the 2019 SITE International Conference, Society for Information Technology & Teacher Education (SITE) (2019). 
-- **Disciplinary Leadership Award**, Michigan State University, Council of Graduate Students (2019). ($2,000). 
-- **Research Practicum/Dissertation Development Fellowship**, Michigan State University, College of Education (2019). ($2,000). 
-- **Professional Development Award**, Michigan State University, Council of Graduate Students (2018). ($500). 
-- **Summer Research Renewable Fellowship**, Michigan State University, College of Education (2018). ($12,000). 
-- **Outstanding Paper Award** at the 2017 SITE International Conference, Society for Information Technology & Teacher Education (SITE) (2017). 
+- <i class="fas fa-award" style="color:#ceb888"></i> **Outstanding Service Award**, Association for Educational Communications & Technology (AECT) (2021). 
+- <i class="fas fa-award" style="color:#ceb888"></i> **Dissertation Completion Fellowship**, Michigan State University, College of Education (2021). ($7,000). 
+- <i class="fas fa-award" style="color:#ceb888"></i> **MSU AT&T Faculty-Staff Annual Competition in Instructional Technology**, Michigan State University (2021). ($500). 
+- <i class="fas fa-award" style="color:#ceb888"></i> **Featured Research** at the 2020 AECT International Convention, Association for Educational Communications and Technology (AECT) (2020). 
+- <i class="fas fa-award" style="color:#ceb888"></i> **Outstanding Paper Award** at the 2020 SITE International Conference, Society for Information Technology & Teacher Education (SITE) (2020). 
+- <i class="fas fa-award" style="color:#ceb888"></i> **Clifford E. Erickson Memorial Fund Scholarship**, Michigan State University, College of Education (2020). ($5,500). 
+- <i class="fas fa-award" style="color:#ceb888"></i> **Research Practicum/Dissertation Development Fellowship**, Michigan State University, College of Education (2020). ($1,300). 
+- <i class="fas fa-award" style="color:#ceb888"></i> **Outstanding Paper Award** at the 2019 SITE International Conference, Society for Information Technology & Teacher Education (SITE) (2019). 
+- <i class="fas fa-award" style="color:#ceb888"></i> **Disciplinary Leadership Award**, Michigan State University, Council of Graduate Students (2019). ($2,000). 
+- <i class="fas fa-award" style="color:#ceb888"></i> **Research Practicum/Dissertation Development Fellowship**, Michigan State University, College of Education (2019). ($2,000). 
+- <i class="fas fa-award" style="color:#ceb888"></i> **Professional Development Award**, Michigan State University, Council of Graduate Students (2018). ($500). 
+- <i class="fas fa-award" style="color:#ceb888"></i> **Summer Research Renewable Fellowship**, Michigan State University, College of Education (2018). ($12,000). 
+- <i class="fas fa-award" style="color:#ceb888"></i> **Outstanding Paper Award** at the 2017 SITE International Conference, Society for Information Technology & Teacher Education (SITE) (2017). 
 
 
 ## Current Membership in Professional Organizations
@@ -127,10 +128,10 @@ College of Education
 - Sementelli, R., doctoral candidate.
 - West, L., doctoral candidate.
 - Young, K., doctoral candidate.
-- <i class="fas fa-graduation-cap"></i> Choi, H., Ph.D. graduate 2022. *Situational Motivation and Participation in Online Discussion: A Multiple Case Study*.
-- <i class="fas fa-graduation-cap"></i> Graham, D., Ed.D. graduate 2022. *Teacher Perception on the Use of Game-Based Learning in the Title 1 ELA Curriculum*.
-- <i class="fas fa-graduation-cap"></i> Jones, M., Ed.D. graduate 2022. *Supporting LGBTQ+ Students in Online Environments: A Qualitative Study of Higher Education Initiatives and Leadership Practices in Large Public Universities*.
-- <i class="fas fa-graduation-cap"></i> Kent, H., Ph.D. graduate 2022. *Informal Learning to Support Volunteer Work*.
+- <i class="fas fa-graduation-cap" style="color:#782f40"></i> Choi, H., Ph.D. graduate 2022. *Situational Motivation and Participation in Online Discussion: A Multiple Case Study*.
+- <i class="fas fa-graduation-cap" style="color:#782f40"></i> Graham, D., Ed.D. graduate 2022. *Teacher Perception on the Use of Game-Based Learning in the Title 1 ELA Curriculum*.
+- <i class="fas fa-graduation-cap" style="color:#782f40"></i> Jones, M., Ed.D. graduate 2022. *Supporting LGBTQ+ Students in Online Environments: A Qualitative Study of Higher Education Initiatives and Leadership Practices in Large Public Universities*.
+- <i class="fas fa-graduation-cap" style="color:#782f40"></i> Kent, H., Ph.D. graduate 2022. *Informal Learning to Support Volunteer Work*.
 
 
 ## Invited Guest Lectures (11)
@@ -221,9 +222,9 @@ Staudt Willet, K. B., Koehler, M. J., & Greenhalgh, S. P. (2017). A tweet by any
 
 ### Refereed Book Chapters (2)
 
-Greenhow, C. M., Galvin, S. M., Staudt Willet, K. B., & Chapman, A. L. (in press). Social media and learning. In Judy M. Parr (Ed.), *International encyclopedia of education* (4th volume). Elsevier Ltd.
+Greenhow, C. M., Galvin, S. M., Staudt Willet, K. B., & Chapman, A. L. (2023). Social media and learning. In R. J. Tierney, F. Rizvi, & K. Ercikan (Eds.), *International encyclopedia of education* (4th ed., pp. 431-442). Elsevier. doi:[10.1016/B978-0-12-818630-5.14040-0](https://doi.org/10.1016/B978-0-12-818630-5.14040-0)
 
-Greenhalgh, S. P., Koehler, M. J., Rosenberg, J. M., & Staudt Willet, K. B. (2021). Considerations for using social media data in learning design and technology research. In Enilda Romero-Hall (Ed.), *Research methods in learning design & technology* (pp. 64-77). Routledge. 
+Greenhalgh, S. P., Koehler, M. J., Rosenberg, J. M., & Staudt Willet, K. B. (2021). Considerations for using social media data in learning design and technology research. In Enilda Romero-Hall (Ed.), *Research methods in learning design & technology* (pp. 64-77). Routledge.
 
 
 ### Refereed Proceedings (15)
@@ -387,9 +388,18 @@ Staudt Willet, K. B., & Rosenberg, J. M. (2021). *tidytags: Importing and analyz
 
 ## Contracts and Grants
 
-### Contracts and Grants Funded
+### Contracts and Grants Funded ($581,822)
 
-Staudt Willet, K. B. (May 2022–Aug 2022). *FYAP: Beginning Teachers' Self-Directed Professional Learning Through Social Media: Impacts on Instructional Practice*. Funded by Florida State University, Council on Research and Creativity. Total award $20,000. 
+<i class="fas fa-dollar-sign" style="color:green"></i> Rodrigues, J., Farley-Ripple, E. N., Malin, J. R., Rosenberg, J. M., Staudt Willet, K. B., & May, H. (Sep 2023–Aug 2026). *NSF WTG: Diffusion of Research on Supporting Mathematics Achievement for Youth with Disabilities through Twitter Translational Visual Abstracts*. Funded by National Science Foundation; Science of Science: Discovery, Communication, and Impact (SoS:DCI). **Total award $311,844.**
+
+<i class="fas fa-dollar-sign" style="color:green"></i> Wofford, A., Perez-Felkner, L., & Staudt Willet, K. B. (Jan 2023–Jun 2025). *Sloan: Aligning Graduate Education and Workforce Opportunities: A Robust, Equity-Focused Landscape Scan of Computing Terminology*. Funded by Alfred P. Sloan Foundation. **Total award $249,978** 
+
+<i class="fas fa-dollar-sign" style="color:green"></i> Staudt Willet, K. B. (May 2022–Aug 2022). *CRC FYAP: Beginning Teachers' Self-Directed Professional Learning Through Social Media: Impacts on Instructional Practice*. Funded by Florida State University, Council on Research and Creativity. **Total award $20,000.**
+
+### Contracts and Grants Denied
+
+Staudt Willet, K. B., Kim, A., & Xue, H. (Sep 2022). *SEED: Leveling Up the Self-Directed Learning of Early Career Black Game Developers*. Submitted to Florida State University, Council on Research and Creativity. Total requested $62,150.
+
 
 ---
 
@@ -411,12 +421,13 @@ Staudt Willet, K. B. (May 2022–Aug 2022). *FYAP: Beginning Teachers' Self-Dire
 
 ## The Profession
 
-### Guest Reviewer for Refereed Journals (34 reviews)
+### Guest Reviewer for Refereed Journals (39 reviews)
 
 - *AERA Open* (2021–present).
 - *American Journal of Education* (2019-2020).
 - *Computers & Education* (2021–present).
 - *Contemporary Issues in Technology & Teacher Education* (2021–present).
+- *EdTechnica* (2022).
 - *Internet & Higher Education* (2019–present).
 - *Journal of Computer Assisted Learning* (2021–present).
 - *Journal of Information Technology & Politics* (2020).
