@@ -57,6 +57,8 @@ I consider my strongest credential to be my ongoing friendship with my very firs
 
 {{< fa graduation-cap >}} **B.A.** in Mathematics & Sociology | Bucknell University (2003)
 
+{{< fa tools >}} [Applying the QM Rubric](https://www.qualitymatters.org/professional-development/workshops/higher-ed-appqmr) | Quality Matters (2022)
+
 {{< fa tools >}} [Data Science: Foundations using R Specialization](https://www.coursera.org/specializations/data-science-foundations-r) | Coursera, Johns Hopkins University (2017-2020)
 
 {{< fa tools >}} [Methods for Analyzing and Modeling Textual Data](http://summerschool.computationalsocialscience.eu/2018/) | Summer School Series on Methods for Computational Social Science (2018)
