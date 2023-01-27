@@ -110,7 +110,7 @@ College of Education
 - Morris, V., doctoral student.
 - Na, H., doctoral student.
 - Smith, C., doctoral candidate. *Culturally Inclusive Instructional Strategies Implemented by Designers-by-Assignment in Higher Education Student Services*.
-- Stoutyesdyk, J., doctoral student.
+- Stoutjesdyk, J., doctoral student.
 - Wick, J., doctoral candidate. *Middle School Teachers’ Perceptions on the Effectiveness and Relevance of Mandated Professional Development*.
 
 
@@ -390,15 +390,15 @@ Staudt Willet, K. B., & Rosenberg, J. M. (2021). *tidytags: Importing and analyz
 
 ### Contracts and Grants Funded ($581,822)
 
-<i class="fas fa-dollar-sign" style="color:green"></i> Rodrigues, J., Farley-Ripple, E. N., Malin, J. R., Rosenberg, J. M., Staudt Willet, K. B., & May, H. (Sep 2023–Aug 2026). *NSF WTG: Diffusion of Research on Supporting Mathematics Achievement for Youth with Disabilities through Twitter Translational Visual Abstracts*. Funded by National Science Foundation; Science of Science: Discovery, Communication, and Impact (SoS:DCI). **Total award $311,844.**
+<i class="fas fa-dollar-sign" style="color:green"></i> Rodrigues, J., Farley-Ripple, E. N., Malin, J. R. (Sep 2023–Aug 2026). *NSF WTG: Diffusion of Research on Supporting Mathematics Achievement for Youth with Disabilities through Twitter Translational Visual Abstracts*. Funded by National Science Foundation; Science of Science: Discovery, Communication, and Impact (SoS:DCI). **Total award $311,844.** *I will serve as an expert consultant for this grant.*
 
-<i class="fas fa-dollar-sign" style="color:green"></i> Wofford, A., Perez-Felkner, L., & Staudt Willet, K. B. (Jan 2023–Jun 2025). *Sloan: Aligning Graduate Education and Workforce Opportunities: A Robust, Equity-Focused Landscape Scan of Computing Terminology*. Funded by Alfred P. Sloan Foundation. **Total award $249,978** 
+<i class="fas fa-dollar-sign" style="color:green"></i> Wofford, A., Perez-Felkner, L., & Staudt Willet, K. B. (Jan 2023–Jun 2025). *Sloan: Aligning Graduate Education and Workforce Opportunities: A Robust, Equity-Focused Landscape Scan of Computing Terminology*. Funded by Alfred P. Sloan Foundation. **Total award $249,978** *I will serve as a Co-PI for this grant.*
 
-<i class="fas fa-dollar-sign" style="color:green"></i> Staudt Willet, K. B. (May 2022–Aug 2022). *CRC FYAP: Beginning Teachers' Self-Directed Professional Learning Through Social Media: Impacts on Instructional Practice*. Funded by Florida State University, Council on Research and Creativity. **Total award $20,000.**
+<i class="fas fa-dollar-sign" style="color:green"></i> Staudt Willet, K. B. (May 2022–Aug 2022). *CRC FYAP: Beginning Teachers' Self-Directed Professional Learning Through Social Media: Impacts on Instructional Practice*. Funded by Florida State University, Council on Research and Creativity. **Total award $20,000.** *I was the PI for this grant.*
 
 ### Contracts and Grants Denied
 
-Staudt Willet, K. B., Kim, A., & Xue, H. (Sep 2022). *SEED: Leveling Up the Self-Directed Learning of Early Career Black Game Developers*. Submitted to Florida State University, Council on Research and Creativity. Total requested $62,150.
+Staudt Willet, K. B., Kim, A., & Xue, H. (Sep 2022). *SEED: Leveling Up the Self-Directed Learning of Early Career Black Game Developers*. Submitted to Florida State University, Council on Research and Creativity. Total requested $62,150. *I was the PI for this grant proposal.*
 
 
 ---
