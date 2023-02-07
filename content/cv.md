@@ -166,7 +166,9 @@ Staudt Willet, K. B. (2018). *Experiences from the practicum* [Panel for doctora
 
 ## Publications
 
-### Refereed Journal Articles (18)
+### Refereed Journal Articles (19)
+
+Staudt Willet, K. B. (in press). Early career teachers’ expansion of professional learning networks with social media. *Professional Development in Education*. doi:[10.1080/19415257.2023.2178481](https://doi.org/10.1080/19415257.2023.2178481)
 
 Na, H., & Staudt Willet, K. B. (2022). Affinity and anonymity benefitting early career teachers in the r/Teachers subreddit. *Journal of Research on Technology in Education* doi:[10.1080/15391523.2022.2150727](https://doi.org/10.1080/15391523.2022.2150727)
 
