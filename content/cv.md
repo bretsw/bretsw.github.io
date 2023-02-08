@@ -390,9 +390,11 @@ Staudt Willet, K. B., & Rosenberg, J. M. (2021). *tidytags: Importing and analyz
 
 ## Contracts and Grants
 
-### Contracts and Grants Funded ($581,822)
+### Contracts and Grants Funded ($584,822)
 
 <i class="fas fa-dollar-sign" style="color:green"></i> Rodrigues, J., Farley-Ripple, E. N., Malin, J. R. (Sep 2023–Aug 2026). *NSF WTG: Diffusion of Research on Supporting Mathematics Achievement for Youth with Disabilities through Twitter Translational Visual Abstracts*. Funded by National Science Foundation; Science of Science: Discovery, Communication, and Impact (SoS:DCI). **Total award $311,844.** *I will serve as an expert consultant for this grant.*
+
+<i class="fas fa-dollar-sign" style="color:green"></i> Staudt Willet, K. B. (Feb 2023). *Open Access Publishing fund: Early career teachers’ expansion of professional learning networks with social media; Article published in Professional Development in Education*. Funded by Florida State University, College of Education. **Total award $3,000.**
 
 <i class="fas fa-dollar-sign" style="color:green"></i> Wofford, A., Perez-Felkner, L., & Staudt Willet, K. B. (Jan 2023–Jun 2025). *Sloan: Aligning Graduate Education and Workforce Opportunities: A Robust, Equity-Focused Landscape Scan of Computing Terminology*. Funded by Alfred P. Sloan Foundation. **Total award $249,978** *I will serve as a Co-PI for this grant.*
 
