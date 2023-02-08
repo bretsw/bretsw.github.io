@@ -6,7 +6,29 @@
     <description>Recent content on Bret Staudt Willet, Ph.D.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 30 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://bretsw.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 08 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://bretsw.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Datasets for Coding and Statistics Practice</title>
+      <link>https://bretsw.com/post/datasets/</link>
+      <pubDate>Wed, 08 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://bretsw.com/post/datasets/</guid>
+      
+        <description>Datasets Built into R Packages  Starwars: https://github.com/tidyverse/dplyr/blob/main/data-raw/starwars.csv Cars: https://github.com/tidyverse/ggplot2/blob/main/data-raw/mpg.csv Diamonds: https://github.</description>
+      
+    </item>
+    
+    <item>
+      <title>Ask a Scientist Gaming Livestream</title>
+      <link>https://bretsw.com/post/ask-a-scientist/</link>
+      <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://bretsw.com/post/ask-a-scientist/</guid>
+      
+        <description>   </description>
+      
+    </item>
+    
     <item>
       <title>New paper: Affinity and anonymity benefitting early career teachers in the r/teachers subreddit</title>
       <link>https://bretsw.com/post/new-paper-affinity-anonymity-reddit/</link>
@@ -15,6 +37,17 @@
       <guid>https://bretsw.com/post/new-paper-affinity-anonymity-reddit/</guid>
       
         <description>Background My first Ph.D. student, Hunhui Na, and I recently co-authored an article titled &amp;ldquo;Affinity and anonymity benefitting early career teachers in the r/teachers subreddit&amp;rdquo; in the Journal of Research on Technology in Education.</description>
+      
+    </item>
+    
+    <item>
+      <title>AECT 2022 - Learning Analytics Panel</title>
+      <link>https://bretsw.com/post/aect-2022-learning-analytics-panel/</link>
+      <pubDate>Wed, 26 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://bretsw.com/post/aect-2022-learning-analytics-panel/</guid>
+      
+        <description>Learning Analytics for Continuous Improvement: An Instructional Design Perspective Learning analytics has been a hot topic in the last decade.</description>
       
     </item>
     
@@ -49,6 +82,17 @@
       
         <description>
  </description>
+      
+    </item>
+    
+    <item>
+      <title>Social Network Analysis Workshop</title>
+      <link>https://bretsw.com/post/aect-sna-workshop/</link>
+      <pubDate>Fri, 04 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://bretsw.com/post/aect-sna-workshop/</guid>
+      
+        <description>Workshop Hub Remembering You&amp;rsquo;re Just One in 11: An Introduction to Social Network Analysis</description>
       
     </item>
     
