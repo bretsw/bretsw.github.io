@@ -23,6 +23,13 @@ DisableComments: true
 - Flowers: https://archive.ics.uci.edu/ml/datasets/Iris
 - Dry Beans: https://archive.ics.uci.edu/ml/datasets/Dry+Bean+Dataset
 - Wine: https://archive.ics.uci.edu/ml/datasets/Wine
- 
+
+## U.S. Federal Datasets
+- NOAA Storm Events Database: https://www.ncdc.noaa.gov/stormevents/
+
 ## OpenIntro Datasets
 - Index: https://www.openintro.org/data/
+
+## Published Research Datasets
+- SAGE: https://methods.sagepub.com/datasets/discipline
+
