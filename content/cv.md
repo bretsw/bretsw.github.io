@@ -63,23 +63,25 @@ College of Education
 
 ## Honors, Awards, and Prizes
 
+- <i class="fas fa-award" style="color:#ceb888"></i> **Marvalene Hughes Research in Education Conference Travel Award**, Florida State University, College of Education (2023). ($2,000). 
+- Nominated: **COE Teaching Award for Graduate Teaching**, Florida State University, College of Education (2023).
 - <i class="fas fa-award" style="color:#ceb888"></i> **Qualitative Inquiry Award** from the AECT Foundation and Research & Theory Division, Association for Educational Communications & Technology (2022). ($750).
 - <i class="fas fa-award" style="color:#ceb888"></i> **Best Paper Award** from the Technology as an Agent of Change in Teaching & Learning Special Interest Group (TACTL SIG), American Educational Research Association (AERA) (2022).
 - <i class="fas fa-award" style="color:#ceb888"></i> **Marvalene Hughes Research in Education Conference Travel Award**, Florida State University, College of Education (2022). ($700). 
-- Nominated: **COE Teaching Award for Graduate Teaching** (not eligible to win), Florida State University, College of Education (2022). 
-- <i class="fas fa-award" style="color:#ceb888"></i> **Outstanding Service Award**, Association for Educational Communications & Technology (AECT) (2021). 
-- <i class="fas fa-award" style="color:#ceb888"></i> **Dissertation Completion Fellowship**, Michigan State University, College of Education (2021). ($7,000). 
+- Nominated: **COE Teaching Award for Graduate Teaching** (not eligible to win), Florida State University, College of Education (2022).
+- <i class="fas fa-award" style="color:#ceb888"></i> **Outstanding Service Award**, Association for Educational Communications & Technology (AECT) (2021).
+- <i class="fas fa-award" style="color:#ceb888"></i> **Dissertation Completion Fellowship**, Michigan State University, College of Education (2021). ($7,000).
 - <i class="fas fa-award" style="color:#ceb888"></i> **MSU AT&T Faculty-Staff Annual Competition in Instructional Technology**, Michigan State University (2021). ($500). 
-- <i class="fas fa-award" style="color:#ceb888"></i> **Featured Research** at the 2020 AECT International Convention, Association for Educational Communications and Technology (AECT) (2020). 
-- <i class="fas fa-award" style="color:#ceb888"></i> **Outstanding Paper Award** at the 2020 SITE International Conference, Society for Information Technology & Teacher Education (SITE) (2020). 
-- <i class="fas fa-award" style="color:#ceb888"></i> **Clifford E. Erickson Memorial Fund Scholarship**, Michigan State University, College of Education (2020). ($5,500). 
+- <i class="fas fa-award" style="color:#ceb888"></i> **Featured Research** at the 2020 AECT International Convention, Association for Educational Communications and Technology (AECT) (2020).
+- <i class="fas fa-award" style="color:#ceb888"></i> **Outstanding Paper Award** at the 2020 SITE International Conference, Society for Information Technology & Teacher Education (SITE) (2020).
+- <i class="fas fa-award" style="color:#ceb888"></i> **Clifford E. Erickson Memorial Fund Scholarship**, Michigan State University, College of Education (2020). ($5,500).
 - <i class="fas fa-award" style="color:#ceb888"></i> **Research Practicum/Dissertation Development Fellowship**, Michigan State University, College of Education (2020). ($1,300). 
-- <i class="fas fa-award" style="color:#ceb888"></i> **Outstanding Paper Award** at the 2019 SITE International Conference, Society for Information Technology & Teacher Education (SITE) (2019). 
-- <i class="fas fa-award" style="color:#ceb888"></i> **Disciplinary Leadership Award**, Michigan State University, Council of Graduate Students (2019). ($2,000). 
+- <i class="fas fa-award" style="color:#ceb888"></i> **Outstanding Paper Award** at the 2019 SITE International Conference, Society for Information Technology & Teacher Education (SITE) (2019).
+- <i class="fas fa-award" style="color:#ceb888"></i> **Disciplinary Leadership Award**, Michigan State University, Council of Graduate Students (2019). ($2,000).
 - <i class="fas fa-award" style="color:#ceb888"></i> **Research Practicum/Dissertation Development Fellowship**, Michigan State University, College of Education (2019). ($2,000). 
-- <i class="fas fa-award" style="color:#ceb888"></i> **Professional Development Award**, Michigan State University, Council of Graduate Students (2018). ($500). 
-- <i class="fas fa-award" style="color:#ceb888"></i> **Summer Research Renewable Fellowship**, Michigan State University, College of Education (2018). ($12,000). 
-- <i class="fas fa-award" style="color:#ceb888"></i> **Outstanding Paper Award** at the 2017 SITE International Conference, Society for Information Technology & Teacher Education (SITE) (2017). 
+- <i class="fas fa-award" style="color:#ceb888"></i> **Professional Development Award**, Michigan State University, Council of Graduate Students (2018). ($500).
+- <i class="fas fa-award" style="color:#ceb888"></i> **Summer Research Renewable Fellowship**, Michigan State University, College of Education (2018). ($12,000).
+- <i class="fas fa-award" style="color:#ceb888"></i> **Outstanding Paper Award** at the 2017 SITE International Conference, Society for Information Technology & Teacher Education (SITE) (2017).
 
 
 ## Current Membership in Professional Organizations
@@ -120,7 +122,7 @@ College of Education
 - Bean, W., doctoral candidate (Sport Psychology).
 - Clifford, S., doctoral candidate. *The Impact of Trainer Self-Efficacy and Technology Adoption on Learning Performance*.
 - Crombie, M. doctoral candidate.
-- Debord, E., doctoral candidate.
+- DeBord, E., doctoral candidate.
 - He, D., doctoral candidate.
 - Johnston, R., doctoral candidate. *Characteristics of High-Performing Volunteer Nonprofit Board Members*.
 - Lewis, A., doctoral candidate.
@@ -396,7 +398,7 @@ Staudt Willet, K. B. (2017, November). *Once more unto the practicum, dear frien
 
 ### Computer Software Development (1)
 
-Staudt Willet, K. B., & Rosenberg, J. M. (2021). *tidytags: Importing and analyzing Twitter data collected with Twitter Archiving Google Sheets* [Computer software]. R Open Science. Retrieved from https://docs.ropensci.org/tidytags/
+Staudt Willet, K. B., & Rosenberg, J. M. (2022). *tidytags: Importing and analyzing Twitter data collected with Twitter Archiving Google Sheets* [Computer software]. R Open Science. Retrieved from https://docs.ropensci.org/tidytags/
 
 
 ## Contracts and Grants
@@ -432,25 +434,25 @@ Staudt Willet, K. B., Kim, A., & Xue, H. (Sep 2022). *SEED: Leveling Up the Self
 
 - Academic Director, ISLT Ph.D. Program (2022-present)
 - Member, Faculty Search Committee (2021–2022).
-- Reviewer, Ph.D. Preliminary Exams Committee (2021).
+- Reviewer, Ph.D. Preliminary Exams Committee (2021-2022).
 
 ## The Profession
 
 ### Guest Reviewer for Refereed Journals (40 reviews)
 
-- *AERA Open* (2021–present).
+- *AERA Open* (2021).
 - *American Journal of Education* (2019-2020).
 - *Computers & Education* (2021–present).
-- *Contemporary Issues in Technology & Teacher Education* (2021–present).
+- *Contemporary Issues in Technology & Teacher Education* (2021).
 - *EdTechnica* (2022).
 - *Internet & Higher Education* (2019–present).
-- *Journal of Computer Assisted Learning* (2021–present).
+- *Journal of Computer Assisted Learning* (2021).
 - *Journal of Information Technology & Politics* (2020).
 - *Journal of Research on Technology in Education* (2021–present).
 - *Learning, Media & Technology* (2016).
 - *Professional Development in Education* (2022-present).
 - *Teaching & Teacher Education* (2021-present).
-- *TechTrends* (2021–present).
+- *TechTrends* (2021).
 
 
 ### Service to Professional Associations
@@ -463,6 +465,13 @@ Staudt Willet, K. B., Kim, A., & Xue, H. (Sep 2022). *SEED: Leveling Up the Self
 - **Conference Proposal Reviewer**, Society for Information Technology and Teacher Education (SITE) (2020–2021).
 - **Secretary**, Research & Theory Division, Association for Educational Communications & Technology (AECT) (2019–2020).
 - **Planning Committee Member**, SITE Interactive Conference, Society for Information Technology and Teacher Education (SITE) (2020).
+
+
+### Service to the Community
+
+- **Treasurer-Elect**, Parent-Teacher Organization (PTO), Kate Sullivan Elementary School (Leon County Schools) (2022–2023).
+
+- **Member**, Teacher Appreciation Committee, Kate Sullivan Elementary School (Leon County Schools) (2022–2023).
 
 
 ## Consultation
