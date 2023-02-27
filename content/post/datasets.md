@@ -26,6 +26,7 @@ DisableComments: true
 
 ## U.S. Federal Datasets
 - NOAA Storm Events Database: https://www.ncdc.noaa.gov/stormevents/
+- Bureau of Labor Statistics: https://www.bls.gov/emp/tables/occupational-projections-and-characteristics.htm
 
 ## OpenIntro Datasets
 - Index: https://www.openintro.org/data/
