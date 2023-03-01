@@ -1,17 +1,17 @@
 ---
-title: "New paper: Affinity and anonymity benefitting early career teachers in the r/teachers subreddit"
+title: "New paper: Affinity and anonymity benefitting early career teachers in the r/Teachers subreddit"
 date: 2022-11-30
 author: "Dr. Bret Staudt Willet"
-thumbnail: ""
+thumbnail: "/images/typewriter-banner.jpg"
 Description: ""
-Tags: ["new paper", "affinity spaces", "anonymity", "Reddit", "social media"]
+Tags: ["new paper", "teachers", "affinity spaces", "anonymity", "Reddit", "social media"]
 Categories: []
 DisableComments: true
 ---
 
 ## Background
 
-My first Ph.D. student, Hunhui Na, and I recently co-authored an article titled "Affinity and anonymity benefitting early career teachers in the r/teachers subreddit" in the *Journal of Research on Technology in Education*.
+My first Ph.D. student, Hunhui Na, and I recently co-authored an article titled "Affinity and anonymity benefitting early career teachers in the r/Teachers subreddit" in the *Journal of Research on Technology in Education* (DOI:[10.1080/15391523.2022.2150727](https://doi.org/10.1080/15391523.2022.2150727)).
 
 Here is the abstract for our article:
 

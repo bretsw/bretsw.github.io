@@ -1,7 +1,7 @@
 ---
 title: "New paper: Balancing open science and privacy in the context of learning analytics"
 date: 2021-02-25
-thumbnail: ""
+thumbnail: "/images/typewriter-banner.jpg"
 Description: ""
 Tags: ["new paper", "learning analytics", "open science", "privacy"]
 Categories: []
