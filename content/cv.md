@@ -104,19 +104,19 @@ College of Education
 
 
 
-## Doctoral Committee Chair (8 current)
+## Doctoral Committee Chair (7 current, 1 graduate)
 
 - Arthur, A., doctoral candidate.
 - Fairclough, K., doctoral candidate.
 - Madison, C., doctoral candidate.
 - Morris, V., doctoral candidate.
 - Na, H., doctoral student.
-- Smith, C., doctoral candidate. *Culturally Inclusive Instructional Strategies Implemented by Designers-by-Assignment in Higher Education Student Services*.
 - Stoutjesdyk, J., doctoral candidate.
 - Wick, J., doctoral candidate. *Middle School Teachers’ Perceptions on the Effectiveness and Relevance of Mandated Professional Development*.
+- <i class="fas fa-graduation-cap" style="color:#782f40"></i> Smith, C., Ed.D. graduate 2023. *Culturally Inclusive Instructional Strategies Implemented by Designers-by-Assignment in Higher Education Student Services*.
 
 
-## Doctoral Committee Member (15 current, 4 graduates)
+## Doctoral Committee Member (14 current, 5 graduates)
 
 - Archer, T., doctoral candidate.
 - Bean, W., doctoral candidate (Sport Psychology).
@@ -127,12 +127,12 @@ College of Education
 - Johnston, R., doctoral candidate. *Characteristics of High-Performing Volunteer Nonprofit Board Members*.
 - Lewis, A., doctoral candidate.
 - Lott, S., doctoral candidate.
-- Medina, J., doctoral candidate. *Informal Learning in the Workplace: A Study of a Municipal Utility in the Southeast*.
 - Pappas, S., doctoral candidate.
 - Pryor, T., doctoral candidate.
 - Sementelli, R., doctoral candidate.
 - West, L., doctoral candidate.
 - Young, K., doctoral candidate.
+- <i class="fas fa-graduation-cap" style="color:#782f40"></i> Medina, J., Ed.D. graduate 2023. *Informal Learning in the Workplace: A Study of a Municipal Utility in the Southeast*.
 - <i class="fas fa-graduation-cap" style="color:#782f40"></i> Choi, H., Ph.D. graduate 2022. *Situational Motivation and Participation in Online Discussion: A Multiple Case Study*.
 - <i class="fas fa-graduation-cap" style="color:#782f40"></i> Graham, D., Ed.D. graduate 2022. *Teacher Perception on the Use of Game-Based Learning in the Title 1 ELA Curriculum*.
 - <i class="fas fa-graduation-cap" style="color:#782f40"></i> Jones, M., Ed.D. graduate 2022. *Supporting LGBTQ+ Students in Online Environments: A Qualitative Study of Higher Education Initiatives and Leadership Practices in Large Public Universities*.
@@ -179,7 +179,7 @@ Na, H., & Staudt Willet, K. B. (2022). Affinity and anonymity benefitting early 
 
 Muljana, P. S., Staudt Willet, K. B., & Luo, T. (2022). Adjusting sails for changing winds: Exploring Reddit use for professional purposes in higher education. *Journal of Computing in Higher Education, 34*(3), 679–707. doi:[10.1007/s12528-022-09317-2](https://doi.org/10.1007/s12528-022-09317-2)
 
-Krutka, D. G., Caines, A., Heath, M. K., & Staudt Willet, K. B. (2021). Black Mirror pedagogy: Dystopian stories for technoskeptical imaginations. *Journal of Interactive Pedagogy and Technology, 20*. Retrieved from https://jitp.commons.gc.cuny.edu/black-mirror-pedagogy-dystopian-stories-for-technoskeptical-imaginations/
+Krutka, D. G., Caines, A., Heath, M. K., & Staudt Willet, K. B. (2021). Black Mirror pedagogy: Dystopian stories for technoskeptical imaginations. *Journal of Interactive Pedagogy and Technology, 20*. Retrieved from https://cuny.manifoldapp.org/read/black-mirror-pedagogy-dystopian-stories-for-technoskeptical-imaginations-5df256c8-ca16-45e1-9d1a-e68593443990/section/962a7c17-50d0-4e7a-aafe-483d077ed4bb
 
 Carpenter, J. P., & Staudt Willet, K. B. (2021). The teachers' lounge and the debate hall: Anonymous self-directed learning in two teaching-related subreddits. *Teaching and Teacher Education, 104*, 103371. doi:[10.1016/j.tate.2021.103371](https://doi.org/10.1016/j.tate.2021.103371)
 
