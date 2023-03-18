@@ -14,4 +14,4 @@ See https://github.com/liwenyip/hugo-easy-gallery
 
 ## Midjourney AI Art
 
-{{< gallery dir="/images/midjourney/" hover-effect="zoom" />}} 
+{{< gallery dir="/images/midjourney/" hover-effect="zoom" />}}
