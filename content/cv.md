@@ -104,16 +104,16 @@ College of Education
 
 
 
-## Doctoral Committee Chair (7 current, 1 graduate)
+## Doctoral Committee Chair (6 current, 2 graduates)
 
 - Arthur, A., doctoral candidate.
 - Fairclough, K., doctoral candidate.
 - Madison, C., doctoral candidate.
 - Morris, V., doctoral candidate.
-- Na, H., doctoral student.
+- Na, H., doctoral candidate.
 - Stoutjesdyk, J., doctoral candidate.
-- Wick, J., doctoral candidate. *Middle School Teachers’ Perceptions on the Effectiveness and Relevance of Mandated Professional Development*.
 - <i class="fas fa-graduation-cap" style="color:#782f40"></i> Smith, C., Ed.D. graduate 2023. *Culturally Inclusive Instructional Strategies Implemented by Designers-by-Assignment in Higher Education Student Services*.
+- <i class="fas fa-graduation-cap" style="color:#782f40"></i> Wick, J., Ed.D. graduate 2023. *Middle School Teachers’ Perceptions on the Effectiveness and Relevance of Mandated Professional Development*.
 
 
 ## Doctoral Committee Member (14 current, 5 graduates)
@@ -457,6 +457,7 @@ Staudt Willet, K. B., Kim, A., & Xue, H. (Sep 2022). *SEED: Leveling Up the Self
 
 ### Service to Professional Associations
 
+- **Chair**, Devs with Kids SIG, International Game Developers Association (IGDA) (2023).
 - **President-Elect**, Research & Theory Division, Association for Educational Communications & Technology (AECT) (2022–2023).
 - **Conference Proposal Reviewer**, American Educational Research Association (AERA) (2020–present).
 - **Conference Proposal Reviewer**, Association for Educational Communications & Technology (AECT) (2019–present).
