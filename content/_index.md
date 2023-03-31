@@ -12,19 +12,13 @@ mainSectionsTitle = ""
 
 I am an Assistant Professor of [Instructional Systems & Learning Technologies](https://education.fsu.edu/instructional-systems-and-learning-technologies) at Florida State University. My preferred pronouns are **he/him/his**.
 
-My research investigates **self-directed networked learning**. I'm most interested  in what happens when students, learners, and trainees finish formal instruction, preparation, and training. What do they do *after* they walk out the door or log off? How do they continue to develop their knowledge, skills, and abilities? Where do they look for resources? Who do they talk to?
+At different times and in different parts of my professional life, I take on roles of **researcher**, **educator**, and **consultant**. In each of these roles, I aspire to embody **culturally sustaining** practices.
 
-My work on self-directed networked learning covers several dimensions, outlined by the categories proposed *professional learning networks* (PLNs): the connections and interactions between resources, people, and spaces. I study resources, people, and spaces with methods drawn from learning analytics and social network analysis. 
+My research investigates **self-directed learning**, a subset of informal and networked learning. I'm most interested in what happens when students, learners, and trainees finish formal instruction, preparation, and training. What do they do *after* they walk out the door or log off? How do they continue to develop their knowledge, skills, and abilities? Where do they look for resources? Who do they talk to?
 
-My projects explore **resources** in terms of informal learning (e.g., possibilities for beginning teachers developing support systems) and invisible labor (e.g., perils for figuring things out outside work hours), **people** in terms of social connections and interactions (e.g., online groups, communities of practice, educators learning to identify as data scientists), and **spaces** in terms of affinity spaces hosted in web forums and social media (e.g., Reddit, Twitter).
+I frequently investigate self-directed learning with the tools of **educational data science**, including learning analytics, social network analysis, discourse analysis, natural language processing, and educational data mining.
 
-### Self-Directed Networked Learning:
-
-![Bret's areas of research](/images/research-areas.jpg)
-
----
-
-I hold a [Ph.D. in Educational Psychology & Educational Technology](https://education.msu.edu/cepse/epet/), a [Master's Degree in Educational Technology](https://education.msu.edu/cepse/maet/), and a [Graduate Certificate in Serious Game Design and Research](https://comartsci.msu.edu/academics/academic-departments/media-information/graduate/serious-game-design-ma-certificate) from Michigan State University, and a dual bachelor’s degree in Mathematics and Sociology from Bucknell University. 
+I hold a [Ph.D. in Educational Psychology & Educational Technology](https://education.msu.edu/cepse/epet/), a [Master's Degree in Educational Technology](https://education.msu.edu/cepse/maet/), and a [Graduate Certificate in Serious Game Design and Research](https://comartsci.msu.edu/academics/academic-departments/media-information/graduate/serious-game-design-ma-certificate) from Michigan State University, as well as a dual bachelor’s degree in Mathematics and Sociology from Bucknell University. 
 
 I consider my strongest credential to be my ongoing friendship with my very first online friend, who I met in an AOL chatroom in the early 1990s.
 
@@ -32,20 +26,24 @@ I consider my strongest credential to be my ongoing friendship with my very firs
 
 ---
 
-## Interests
+## Roles and Skills
 
-- Self-Directed Learning
-- Networked Learning
-- Informal Learning
-- Invisible Labor
-- Social Media
+{{< fa chalkboard-teacher >}} **Educator:** Design of Instruction + Teaching
 
-## Methods
+{{< fa people-arrows >}} **Researcher:** Design of Inquiry + Data Analytics
 
-- Learning Analytics
-- Social Network Analysis
-- Data Science
+{{< fa compass >}} **Consultant:** Design of Training + Executive Coaching
 
+---
+
+## Research Interests
+
+- **Self-Directed Learning**
+  - Networked Learning
+  - Informal Learning
+- **Educational Data Science**
+  - Learning Analytics
+  - Social Network Analysis
 
 ---
 
@@ -67,22 +65,6 @@ I consider my strongest credential to be my ongoing friendship with my very firs
 
 ---
 
-## Skills
-
-{{< fa people-arrows >}} Research Design
-
-{{< fa fab r-project >}} Data Analytics
-
-{{< fa chalkboard-teacher >}} Instructional Design
-
-{{< fa users >}} Training
-
-{{< fa compass >}} Executive Coaching
-
-{{< fa rocket >}} Launching Initiatives
-
----
-
 ## Professional Affiliations
 
 - [**AECT**](https://aect.org/) | Association for Educational Communications & Technology
@@ -90,6 +72,10 @@ I consider my strongest credential to be my ongoing friendship with my very firs
 - [**AERA**](https://www.aera.net/) | American Educational Research Association
   - *Design & Technology* SIG
   - *Technology as an Agent of Change in Teaching & Learning* (TACTL) SIG  
+- [**IGDA**](https://igda.org/) | International Game Developers Association
+  - *Analytics SIG*
+  - *Black in Games SIG*
+  - *Devs with Kids SIG*
 - [**SoLAR**](https://www.solaresearch.org/) | Society for Learning Analytics Research
 
 ---

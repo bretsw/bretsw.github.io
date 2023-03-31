@@ -63,6 +63,7 @@ College of Education
 
 ## Honors, Awards, and Prizes
 
+- <i class="fas fa-award" style="color:#ceb888"></i> **Dean’s Circle Research Transition Incentive Funding**, Florida State University, College of Education (2023). ($1,000). 
 - <i class="fas fa-award" style="color:#ceb888"></i> **Marvalene Hughes Research in Education Conference Travel Award**, Florida State University, College of Education (2023). ($2,000). 
 - Nominated: **COE Teaching Award for Graduate Teaching**, Florida State University, College of Education (2023).
 - <i class="fas fa-award" style="color:#ceb888"></i> **Qualitative Inquiry Award** from the AECT Foundation and Research & Theory Division, Association for Educational Communications & Technology (2022). ($750).
