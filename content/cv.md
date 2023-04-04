@@ -117,15 +117,13 @@ College of Education
 - <i class="fas fa-graduation-cap" style="color:#782f40"></i> Wick, J., Ed.D. graduate 2023. *Middle School Teachers’ Perceptions on the Effectiveness and Relevance of Mandated Professional Development*.
 
 
-## Doctoral Committee Member (14 current, 5 graduates)
+## Doctoral Committee Member (12 current, 7 graduates)
 
 - Archer, T., doctoral candidate.
 - Bean, W., doctoral candidate (Sport Psychology).
-- Clifford, S., doctoral candidate. *The Impact of Trainer Self-Efficacy and Technology Adoption on Learning Performance*.
 - Crombie, M. doctoral candidate.
 - DeBord, E., doctoral candidate.
 - He, D., doctoral candidate.
-- Johnston, R., doctoral candidate. *Characteristics of High-Performing Volunteer Nonprofit Board Members*.
 - Lewis, A., doctoral candidate.
 - Lott, S., doctoral candidate.
 - Pappas, S., doctoral candidate.
@@ -133,6 +131,8 @@ College of Education
 - Sementelli, R., doctoral candidate.
 - West, L., doctoral candidate.
 - Young, K., doctoral candidate.
+- <i class="fas fa-graduation-cap" style="color:#782f40"></i> Clifford, S., Ed.D. graduate 2023. *The Impact of Trainer Self-Efficacy and Technology Adoption on Learning Performance*.
+- <i class="fas fa-graduation-cap" style="color:#782f40"></i> Johnston, R., Ph.D. graduate 2023. *Characteristics of High-Performing Volunteer Nonprofit Board Members*.
 - <i class="fas fa-graduation-cap" style="color:#782f40"></i> Medina, J., Ed.D. graduate 2023. *Informal Learning in the Workplace: A Study of a Municipal Utility in the Southeast*.
 - <i class="fas fa-graduation-cap" style="color:#782f40"></i> Choi, H., Ph.D. graduate 2022. *Situational Motivation and Participation in Online Discussion: A Multiple Case Study*.
 - <i class="fas fa-graduation-cap" style="color:#782f40"></i> Graham, D., Ed.D. graduate 2022. *Teacher Perception on the Use of Game-Based Learning in the Title 1 ELA Curriculum*.
