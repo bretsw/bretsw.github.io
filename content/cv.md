@@ -439,11 +439,12 @@ Staudt Willet, K. B., Kim, A., & Xue, H. (Sep 2022). *SEED: Leveling Up the Self
 
 ## The Profession
 
-### Guest Reviewer for Refereed Journals (40 reviews)
+### Guest Reviewer for Refereed Journals (46 reviews)
 
 - *AERA Open* (2021).
 - *American Journal of Education* (2019-2020).
 - *Computers & Education* (2021–present).
+- *Contemporary Educational Technology* (2023-present).
 - *Contemporary Issues in Technology & Teacher Education* (2021).
 - *EdTechnica* (2022).
 - *Internet & Higher Education* (2019–present).

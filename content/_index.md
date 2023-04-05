@@ -32,7 +32,7 @@ I consider my strongest credential to be my ongoing friendship with my very firs
 
 {{< fa people-arrows >}} **Researcher:** Design of Inquiry + Data Analytics
 
-{{< fa compass >}} **Consultant:** Design of Training + Executive Coaching
+{{< fa compass >}} **Consultant:** Design of Training + Leadership Development
 
 ---
 
