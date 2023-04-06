@@ -20,7 +20,7 @@ I am interested in how self-directed learners navigate the affordances and const
 
 I frequently investigate self-directed learning with the tools of **educational data science**, including learning analytics, social network analysis, discourse analysis, natural language processing, and educational data mining.
 
-I hold a [Ph.D. in Educational Psychology & Educational Technology](https://education.msu.edu/cepse/epet/), a [Master's Degree in Educational Technology](https://education.msu.edu/cepse/maet/), and a [Graduate Certificate in Serious Game Design and Research](https://comartsci.msu.edu/academics/academic-departments/media-information/graduate/serious-game-design-ma-certificate) from Michigan State University, as well as a dual bachelor’s degree in Mathematics and Sociology from Bucknell University. 
+I hold a [Ph.D. in Educational Psychology & Educational Technology](https://education.msu.edu/cepse/epet/), a [Master's Degree in Educational Technology](https://education.msu.edu/cepse/maet/), and a [Graduate Certificate in Serious Game Design & Research](https://comartsci.msu.edu/academics/academic-departments/media-information/graduate/serious-game-design-ma-certificate) from Michigan State University, as well as a dual bachelor’s degree in Mathematics and Sociology from Bucknell University. 
 
 I consider my strongest credential to be my ongoing friendship with my very first online friend, who I met in an AOL chatroom in the early 1990s.
 
@@ -30,9 +30,9 @@ I consider my strongest credential to be my ongoing friendship with my very firs
 
 ## Roles and Skills
 
-{{< fa chalkboard-teacher >}} **Educator:** Design of Instruction + Teaching
-
 {{< fa people-arrows >}} **Researcher:** Design of Inquiry + Data Analytics
+
+{{< fa chalkboard-teacher >}} **Educator:** Design of Instruction + Teaching
 
 {{< fa compass >}} **Consultant:** Design of Training + Leadership Development
 
@@ -59,9 +59,9 @@ I consider my strongest credential to be my ongoing friendship with my very firs
 
 {{< fa tools >}} [Applying the QM Rubric](https://www.qualitymatters.org/professional-development/workshops/higher-ed-appqmr) | Quality Matters (2022)
 
-{{< fa tools >}} [Data Science: Foundations using R Specialization](https://www.coursera.org/specializations/data-science-foundations-r) | Coursera, Johns Hopkins University (2017-2020)
+{{< fa tools >}} [Data Science: Foundations Using R Specialization](https://www.coursera.org/specializations/data-science-foundations-r) | Coursera, Johns Hopkins University (2017-2020)
 
-{{< fa tools >}} [Methods for Analyzing and Modeling Textual Data](http://summerschool.computationalsocialscience.eu/2018/) | Summer School Series on Methods for Computational Social Science (2018)
+{{< fa tools >}} [Methods for Analyzing & Modeling Textual Data](http://summerschool.computationalsocialscience.eu/2018/) | Summer School Series on Methods for Computational Social Science (2018)
 
 {{< fa tools >}} **Graduate Certificate** in [Serious Game Design & Research](https://comartsci.msu.edu/academics/academic-departments/media-information/graduate/serious-games-graduate-certificate) | Michigan State University (2014)
 
