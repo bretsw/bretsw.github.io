@@ -14,7 +14,9 @@ I am an Assistant Professor of [Instructional Systems & Learning Technologies](h
 
 At different times and in different parts of my professional life, I take on roles of **researcher**, **educator**, and **consultant**. In each of these roles, I aspire to embody **culturally sustaining** practices.
 
-My research investigates **self-directed learning**, a subset of informal and networked learning. I'm most interested in what happens when students, learners, and trainees finish formal instruction, preparation, and training. What do they do *after* they walk out the door or log off? How do they continue to develop their knowledge, skills, and abilities? Where do they look for resources? Who do they talk to?
+My research investigates **self-directed learning**, a subset of informal and networked learning. I am fascinated by how people figure things out on their own. I'm most interested in what happens when students, learners, and trainees finish formal instruction, preparation, and training. What do they do *after* they walk out the door or log off? How do they continue to develop their knowledge, skills, and abilities? Where do they look for resources? Who do they talk to? 
+
+I am interested in how self-directed learners navigate the affordances and constraints of social connections through the internet and exploration through games.
 
 I frequently investigate self-directed learning with the tools of **educational data science**, including learning analytics, social network analysis, discourse analysis, natural language processing, and educational data mining.
 
