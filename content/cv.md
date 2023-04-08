@@ -43,7 +43,7 @@ College of Education
 - **M.A. (2015)**, Michigan State University.
   - Major: Educational Technology. 
 - **Graduate Certificate (2014)**, Michigan State University.
-  - Major: Serious Game Design and Research. 
+  - Major: Serious Game Design & Research. 
 - **B.A. (2003)**, Bucknell University.
   - Major: Mathematics & Sociology. 
 
@@ -52,7 +52,7 @@ College of Education
 
 - *Applying the QM Rubric.* Quality Matters. (2022).
 - *Data Science: Foundations Using R.* Coursera. (2017-2020).
-- *Methods for Analyzing and Modeling Textual Data.* Summer School Series on Methods for Computational Social Science. (2018).
+- *Methods for Analyzing & Modeling Textual Data.* Summer School Series on Methods for Computational Social Science. (2018).
 - *Game Design and Facilitation.* The Thiagi Group. (2012).
 
 
@@ -63,7 +63,6 @@ College of Education
 
 ## Honors, Awards, and Prizes
 
-- <i class="fas fa-award" style="color:#ceb888"></i> **Dean’s Circle Research Transition Incentive Funding**, Florida State University, College of Education (2023). ($1,000). 
 - <i class="fas fa-award" style="color:#ceb888"></i> **Marvalene Hughes Research in Education Conference Travel Award**, Florida State University, College of Education (2023). ($2,000). 
 - Nominated: **COE Teaching Award for Graduate Teaching**, Florida State University, College of Education (2023).
 - <i class="fas fa-award" style="color:#ceb888"></i> **Qualitative Inquiry Award** from the AECT Foundation and Research & Theory Division, Association for Educational Communications & Technology (2022). ($750).
@@ -71,17 +70,13 @@ College of Education
 - <i class="fas fa-award" style="color:#ceb888"></i> **Marvalene Hughes Research in Education Conference Travel Award**, Florida State University, College of Education (2022). ($700). 
 - Nominated: **COE Teaching Award for Graduate Teaching** (not eligible to win), Florida State University, College of Education (2022).
 - <i class="fas fa-award" style="color:#ceb888"></i> **Outstanding Service Award**, Association for Educational Communications & Technology (AECT) (2021).
-- <i class="fas fa-award" style="color:#ceb888"></i> **Dissertation Completion Fellowship**, Michigan State University, College of Education (2021). ($7,000).
 - <i class="fas fa-award" style="color:#ceb888"></i> **MSU AT&T Faculty-Staff Annual Competition in Instructional Technology**, Michigan State University (2021). ($500). 
 - <i class="fas fa-award" style="color:#ceb888"></i> **Featured Research** at the 2020 AECT International Convention, Association for Educational Communications and Technology (AECT) (2020).
 - <i class="fas fa-award" style="color:#ceb888"></i> **Outstanding Paper Award** at the 2020 SITE International Conference, Society for Information Technology & Teacher Education (SITE) (2020).
 - <i class="fas fa-award" style="color:#ceb888"></i> **Clifford E. Erickson Memorial Fund Scholarship**, Michigan State University, College of Education (2020). ($5,500).
-- <i class="fas fa-award" style="color:#ceb888"></i> **Research Practicum/Dissertation Development Fellowship**, Michigan State University, College of Education (2020). ($1,300). 
 - <i class="fas fa-award" style="color:#ceb888"></i> **Outstanding Paper Award** at the 2019 SITE International Conference, Society for Information Technology & Teacher Education (SITE) (2019).
 - <i class="fas fa-award" style="color:#ceb888"></i> **Disciplinary Leadership Award**, Michigan State University, Council of Graduate Students (2019). ($2,000).
-- <i class="fas fa-award" style="color:#ceb888"></i> **Research Practicum/Dissertation Development Fellowship**, Michigan State University, College of Education (2019). ($2,000). 
 - <i class="fas fa-award" style="color:#ceb888"></i> **Professional Development Award**, Michigan State University, Council of Graduate Students (2018). ($500).
-- <i class="fas fa-award" style="color:#ceb888"></i> **Summer Research Renewable Fellowship**, Michigan State University, College of Education (2018). ($12,000).
 - <i class="fas fa-award" style="color:#ceb888"></i> **Outstanding Paper Award** at the 2017 SITE International Conference, Society for Information Technology & Teacher Education (SITE) (2017).
 
 
@@ -89,6 +84,7 @@ College of Education
 
 - American Educational Research Association ([AERA](https://www.aera.net/)) 
 - Association for Educational Communications & Technology ([AECT](https://aect.org/))
+- International Game Developers Association ([**IGDA**](https://igda.org/))
 - Society for Learning Analytics Research ([SoLAR](https://www.solaresearch.org/)) 
 
 
@@ -404,19 +400,24 @@ Staudt Willet, K. B., & Rosenberg, J. M. (2022). *tidytags: Importing and analyz
 
 ## Contracts and Grants
 
-### Contracts and Grants Funded ($584,822)
+### Contracts and Grants Funded ($608,122)
 
-<i class="fas fa-dollar-sign" style="color:green"></i> Rodrigues, J., Farley-Ripple, E. N., Malin, J. R. (Sep 2023–Aug 2026). *NSF WTG: Diffusion of Research on Supporting Mathematics Achievement for Youth with Disabilities through Twitter Translational Visual Abstracts*. Funded by National Science Foundation; Science of Science: Discovery, Communication, and Impact (SoS:DCI). **Total award $311,844.** *I will serve as an expert consultant for this grant.*
+- <i class="fas fa-dollar-sign" style="color:green"></i> Rodrigues, J., Farley-Ripple, E. N., Malin, J. R. (Sep 2023–Aug 2026). *NSF WTG: Diffusion of Research on Supporting Mathematics Achievement for Youth with Disabilities through Twitter Translational Visual Abstracts*. Funded by National Science Foundation; Science of Science: Discovery, Communication, and Impact (SoS:DCI). **Total award $311,844.** *I am an expert consultant for this grant.*
+- <i class="fas fa-dollar-sign" style="color:green"></i> Staudt Willet, K. B. (Apr 2023). *Dean’s Circle Research Transition Incentive Funding*. Funded by Florida State University, College of Education. **Total award $1,000.** *I was the PI for this grant.*
+- <i class="fas fa-dollar-sign" style="color:green"></i> Staudt Willet, K. B. (Feb 2023). *Open Access Publishing fund: Early career teachers’ expansion of professional learning networks with social media; Article published in Professional Development in Education*. Funded by Florida State University, College of Education. **Total award $3,000.** *I was the PI for this grant.*
+- <i class="fas fa-dollar-sign" style="color:green"></i> Wofford, A., Perez-Felkner, L., & Staudt Willet, K. B. (Jan 2023–Jun 2025). *Sloan: Aligning Graduate Education and Workforce Opportunities: A Robust, Equity-Focused Landscape Scan of Computing Terminology*. Funded by Alfred P. Sloan Foundation. **Total award $249,978** *I am a Co-PI for this grant.*
+- <i class="fas fa-dollar-sign" style="color:green"></i> Staudt Willet, K. B. (May 2022–Aug 2022). *CRC FYAP: Beginning Teachers' Self-Directed Professional Learning Through Social Media: Impacts on Instructional Practice*. Funded by Florida State University, Council on Research and Creativity. **Total award $20,000.** *I was the PI for this grant.*
+- <i class="fas fa-dollar-sign" style="color:green"></i> Staudt Willet, K. B. (Jan 2021–Apr 2021). *Dissertation Completion Fellowship: Into the Edu-verse: Early-Career Educators Seeking Induction Support on Social Media*. Funded by Michigan State University, College of Education. **Total award $7,000.** *I was the PI for this grant.*
+- <i class="fas fa-dollar-sign" style="color:green"></i> Staudt Willet, K. B. (2020). *Research Practicum/Dissertation Development Fellowship*. Funded by Michigan State University, College of Education. **Total award $1,300.** *I was the PI for this grant.*
+- <i class="fas fa-dollar-sign" style="color:green"></i> Staudt Willet, K. B. (Jan 2019). *Research Practicum/Dissertation Development Fellowship*. Funded by Michigan State University, College of Education. **Total award $2,000.** *I was the PI for this grant.*
+- <i class="fas fa-dollar-sign" style="color:green"></i> Staudt Willet, K. B. (May 2018–Aug 2019). *Summer Research Renewable Fellowship: How Educators Connect with Each Other on Social Media as Part of Their Lifelong Learning: Social Interactions in Twitter \#Edchat*. Funded by Michigan State University, College of Education. **Total award $12,000.** *I was the PI for this grant.*
 
-<i class="fas fa-dollar-sign" style="color:green"></i> Staudt Willet, K. B. (Feb 2023). *Open Access Publishing fund: Early career teachers’ expansion of professional learning networks with social media; Article published in Professional Development in Education*. Funded by Florida State University, College of Education. **Total award $3,000.**
-
-<i class="fas fa-dollar-sign" style="color:green"></i> Wofford, A., Perez-Felkner, L., & Staudt Willet, K. B. (Jan 2023–Jun 2025). *Sloan: Aligning Graduate Education and Workforce Opportunities: A Robust, Equity-Focused Landscape Scan of Computing Terminology*. Funded by Alfred P. Sloan Foundation. **Total award $249,978** *I will serve as a Co-PI for this grant.*
-
-<i class="fas fa-dollar-sign" style="color:green"></i> Staudt Willet, K. B. (May 2022–Aug 2022). *CRC FYAP: Beginning Teachers' Self-Directed Professional Learning Through Social Media: Impacts on Instructional Practice*. Funded by Florida State University, Council on Research and Creativity. **Total award $20,000.** *I was the PI for this grant.*
 
 ### Contracts and Grants Denied
 
-Staudt Willet, K. B., Kim, A., & Xue, H. (Sep 2022). *SEED: Leveling Up the Self-Directed Learning of Early Career Black Game Developers*. Submitted to Florida State University, Council on Research and Creativity. Total requested $62,150. *I was the PI for this grant proposal.*
+- Staudt Willet, K. B., Kim, A., & Xue, H. (Sep 2022). *SEED: Leveling Up the Self-Directed Learning of Early Career Black Game Developers*. Submitted to Florida State University, Council on Research and Creativity. Total requested $62,150. *I was the PI for this grant proposal.*
+- Staudt Willet, K. B. (Oct 2019). *NAEd/Spencer Dissertation Fellowship: Into the Edu-verse: Early-Career Educators Seeking Induction Support on Social Media*. Submitted to the National Academy of Education. Total requested $27,500. *I was the PI for this grant proposal.*
+
 
 
 ---
