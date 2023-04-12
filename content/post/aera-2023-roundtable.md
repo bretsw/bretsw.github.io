@@ -25,9 +25,12 @@ In this paper, we discuss the outcomes from an intervention where graduate stude
 
 ## Pre-Print
 
-<iframe
-  src="https://bretsw.com/files/aera23-roundtable.pdf" 
-  width = "100%"
-  height="480px"
+<iframe src="https://mfr.osf.io/render?url=https://osf.io/download/tbcwu/?direct%26mode=render"
+    width="100%"
+    scrolling="yes"
+    height="640px"
+    marginheight="0"
+    frameborder="0"
+    allowfullscreen
+    webkitallowfullscreen
 >
-</iframe>
