@@ -71,7 +71,7 @@ College of Education
 - <i class="fas fa-award" style="color:#ceb888"></i> **Marvalene Hughes Research in Education Conference Travel Award**, Florida State University, College of Education (2022). ($700). 
 - Nominated: **COE Teaching Award for Graduate Teaching** (not eligible to win), Florida State University, College of Education (2022).
 - <i class="fas fa-award" style="color:#ceb888"></i> **Outstanding Service Award**, Association for Educational Communications & Technology (AECT) (2021).
-- <i class="fas fa-award" style="color:#ceb888"></i> **MSU AT&T Faculty-Staff Annual Competition in Instructional Technology**, Michigan State University (2021). ($500). 
+- <i class="fas fa-award" style="color:#ceb888"></i> **Best Fully Online Course - CEP 817**, MSU AT&T Faculty-Staff Annual Competition in Instructional Technology, Michigan State University (2021). ($500). 
 - <i class="fas fa-award" style="color:#ceb888"></i> **Featured Research** at the 2020 AECT International Convention, Association for Educational Communications and Technology (AECT) (2020).
 - <i class="fas fa-award" style="color:#ceb888"></i> **Outstanding Paper Award** at the 2020 SITE International Conference, Society for Information Technology & Teacher Education (SITE) (2020).
 - <i class="fas fa-award" style="color:#ceb888"></i> **Clifford E. Erickson Memorial Fund Scholarship**, Michigan State University, College of Education (2020). ($5,500).
@@ -102,11 +102,14 @@ College of Education
 
 
 
-## Doctoral Committee Chair (6 current, 2 graduates)
+## Doctoral Committee Chair (9 current, 2 graduates)
 
+- Aguilar, V., doctoral student.
 - Arthur, A., doctoral candidate.
+- Catteeuw, C., doctoral student.
 - Fairclough, K., doctoral candidate.
 - Madison, C., doctoral candidate.
+- McClendon, J., doctoral student.
 - Morris, V., doctoral candidate.
 - Na, H., doctoral candidate.
 - Stoutjesdyk, J., doctoral candidate.
