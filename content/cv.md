@@ -172,7 +172,9 @@ Staudt Willet, K. B. (2018). *Experiences from the practicum* [Panel for doctora
 
 ## Publications
 
-### Refereed Journal Articles (19)
+### Refereed Journal Articles (20)
+
+Greenhow, C., Lewin, C., & Staudt Willet, K. B. (in press). Teachers without borders: Professional learning spanning social media, place, and time. *Learning, Media and Technology.*
 
 Staudt Willet, K. B. (2023). Early career teachers’ expansion of professional learning networks with social media. *Professional Development in Education*. doi:[10.1080/19415257.2023.2178481](https://doi.org/10.1080/19415257.2023.2178481)
 
@@ -438,7 +440,9 @@ Staudt Willet, K. B., & Rosenberg, J. M. (2022). *tidytags: Importing and analyz
 
 ### FSU Program Service
 
-- Academic Director, ISLT Ph.D. Program (2022-present)
+- Academic Director, ISLT Ph.D. Program (2022-present).
+- Liaison, Morgan Studio (2022-present).
+- Coordinator, ISLT Brown Bag Series (2022-2023).
 - Member, Faculty Search Committee (2021–2022).
 - Reviewer, Ph.D. Preliminary Exams Committee (2021-2022).
 
