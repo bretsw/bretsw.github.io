@@ -174,7 +174,7 @@ Staudt Willet, K. B. (2018). *Experiences from the practicum* [Panel for doctora
 
 ### Refereed Journal Articles (20)
 
-Greenhow, C., Lewin, C., & Staudt Willet, K. B. (in press). Teachers without borders: Professional learning spanning social media, place, and time. *Learning, Media and Technology.*
+Greenhow, C., Lewin, C., & Staudt Willet, K. B. (2023). Teachers without borders: Professional learning spanning social media, place, and time. *Learning, Media and Technology.* doi:[10.1080/17439884.2023.2209326](https://doi.org/10.1080/17439884.2023.2209326)
 
 Staudt Willet, K. B. (2023). Early career teachers’ expansion of professional learning networks with social media. *Professional Development in Education*. doi:[10.1080/19415257.2023.2178481](https://doi.org/10.1080/19415257.2023.2178481)
 
@@ -447,6 +447,11 @@ Staudt Willet, K. B., & Rosenberg, J. M. (2022). *tidytags: Importing and analyz
 - Reviewer, Ph.D. Preliminary Exams Committee (2021-2022).
 
 ## The Profession
+
+### Editorial Board Membership(s)
+
+- *Journal of Research on Technology in Education* (2023–present).
+
 
 ### Guest Reviewer for Refereed Journals (46 reviews)
 
