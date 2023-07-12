@@ -277,7 +277,16 @@ Staudt Willet, K. B. (2022). Review of Griffin, M. M., & Zinskie, C. D. (Eds.). 
 
 ## Presentations
 
-### Refereed Papers at Conferences (27)
+### Refereed Papers at Conferences (27+3)
+
+He, D., & Staudt Willet, K. B. (to be presented 2023, October). *Interrogating education research through an invisible labor lens*. Paper presented at Association for Educational Communications and Technology (AECT) International Convention, Association for Educational Communications and Technology (AECT), Orlando, FL. (National)
+
+Smith, C., & Staudt Willet, K. B. (to be presented 2023, October). *A model for culturally sustaining instructional design*. Paper presented at Association for Educational Communications and Technology (AECT) International Convention, Association for Educational Communications and Technology (AECT), Orlando, FL. (National)
+
+Staudt Willet, K. B., & Na, H. (to be presented 2023, October). *Chatting about ChatGPT: Posts and comments in 25 education-related subreddits*. Paper presented at Association for Educational Communications and Technology (AECT) International Convention, Association for Educational Communications and Technology (AECT), Orlando, FL. (National)
+
+
+
 
 Akcaoglu, M., & Staudt Willet, K. B. (presented 2023, April). *The nature of online discussions: Structure, content, and discourse in whole class versus small groups*. Paper presented at American Educational Research Association (AERA) Annual Meeting, American Educational Research Association (AERA), Chicago, IL. (National)
 
@@ -421,6 +430,7 @@ Staudt Willet, K. B., & Rosenberg, J. M. (2022). *tidytags: Importing and analyz
 
 ### Contracts and Grants Denied
 
+- Staudt Willet, K. B., Kim, A., & Xue, H. (Jan 2023). *SEED: Leveling Up the Culturally Sustaining Self-Directed Learning of Black Game Developers*. Submitted to Florida State University, Council on Research and Creativity. Total requested $97,368. *I was the PI for this grant proposal.*
 - Staudt Willet, K. B., Kim, A., & Xue, H. (Sep 2022). *SEED: Leveling Up the Self-Directed Learning of Early Career Black Game Developers*. Submitted to Florida State University, Council on Research and Creativity. Total requested $62,150. *I was the PI for this grant proposal.*
 - Staudt Willet, K. B. (Oct 2019). *NAEd/Spencer Dissertation Fellowship: Into the Edu-verse: Early-Career Educators Seeking Induction Support on Social Media*. Submitted to the National Academy of Education. Total requested $27,500. *I was the PI for this grant proposal.*
 
