@@ -63,6 +63,7 @@ College of Education
 
 ## Honors, Awards, and Prizes
 
+- <i class="fas fa-award" style="color:#ceb888"></i> **McJulien Scholar Best Paper Award** from the Culture, Learning, & Technology Division, Association for Educational Communications & Technology (AECT) (2023).
 - <i class="fas fa-award" style="color:#ceb888"></i> **Early Career Scholar Award** from the Technology as an Agent of Change in Teaching & Learning Special Interest Group (TACTL SIG), American Educational Research Association (AERA) (2023).
 - <i class="fas fa-award" style="color:#ceb888"></i> **Marvalene Hughes Research in Education Conference Travel Award**, Florida State University, College of Education (2023). ($2,000).
 - Nominated: **COE Teaching Award for Graduate Teaching**, Florida State University, College of Education (2023).
@@ -70,7 +71,7 @@ College of Education
 - <i class="fas fa-award" style="color:#ceb888"></i> **Best Paper Award** from the Technology as an Agent of Change in Teaching & Learning Special Interest Group (TACTL SIG), American Educational Research Association (AERA) (2022).
 - <i class="fas fa-award" style="color:#ceb888"></i> **Marvalene Hughes Research in Education Conference Travel Award**, Florida State University, College of Education (2022). ($700). 
 - Nominated: **COE Teaching Award for Graduate Teaching** (not eligible to win), Florida State University, College of Education (2022).
-- <i class="fas fa-award" style="color:#ceb888"></i> **Outstanding Service Award**, Association for Educational Communications & Technology (AECT) (2021).
+- <i class="fas fa-award" style="color:#ceb888"></i> **Outstanding Service Award** from the Research & Theory Division, Association for Educational Communications & Technology (AECT) (2021).
 - <i class="fas fa-award" style="color:#ceb888"></i> **Best Fully Online Course - CEP 817**, MSU AT&T Faculty-Staff Annual Competition in Instructional Technology, Michigan State University (2021). ($500). 
 - <i class="fas fa-award" style="color:#ceb888"></i> **Featured Research** at the 2020 AECT International Convention, Association for Educational Communications and Technology (AECT) (2020).
 - <i class="fas fa-award" style="color:#ceb888"></i> **Outstanding Paper Award** at the 2020 SITE International Conference, Society for Information Technology & Teacher Education (SITE) (2020).
@@ -99,6 +100,7 @@ College of Education
 - Learning & Web Analytics (EME6356)
 - Synthesis, Analysis, and Argumentation in Instructional Systems Research (EME6665)
 - Applied Research Methods in Learning Design & Performance Technology (EDF5492)
+- Inquiry and Measurement for Practitioners (EDF5442)
 - Introduction to Instructional Systems (EME5601)
 - Evaluation of Instruction & Training in Human-Performance Technology (EME6357)
 
@@ -118,9 +120,9 @@ College of Education
 - <i class="fas fa-graduation-cap" style="color:#782f40"></i> Wick, J., Ed.D. graduate 2023. *Middle School Teachers’ Perceptions on the Effectiveness and Relevance of Mandated Professional Development*.
 
 
-## Doctoral Committee Member (12 current, 7 graduates)
+## Doctoral Committee Member (13 current, 7 graduates)
 
-- Archer, T., doctoral candidate.
+- Archer, T., doctoral candidate (Higher Education).
 - Bean, W., doctoral candidate (Sport Psychology).
 - Crombie, M. doctoral candidate.
 - DeBord, E., doctoral candidate.
@@ -131,6 +133,7 @@ College of Education
 - Pryor, T., doctoral candidate.
 - Sementelli, R., doctoral candidate.
 - West, L., doctoral candidate.
+- Xu, J., doctoral student.
 - Young, K., doctoral candidate.
 - <i class="fas fa-graduation-cap" style="color:#782f40"></i> Clifford, S., Ed.D. graduate 2023. *The Impact of Trainer Self-Efficacy and Technology Adoption on Learning Performance*.
 - <i class="fas fa-graduation-cap" style="color:#782f40"></i> Johnston, R., Ph.D. graduate 2023. *Characteristics of High-Performing Volunteer Nonprofit Board Members*.
@@ -175,7 +178,7 @@ Staudt Willet, K. B. (2018). *Experiences from the practicum* [Panel for doctora
 
 ### Refereed Journal Articles (21)
 
-Smith, C., & Staudt Willet, K. B. (2023). A model for culturally sustaining instructional design. *Journal of Applied Instructional Design*.
+Smith, C., & Staudt Willet, K. B. (2023). A model for culturally sustaining instructional design. *Journal of Applied Instructional Design, 12*(2). doi:[10.59668/722.13027](https://doi.org/10.59668/722.13027)
 
 Greenhow, C., Lewin, C., & Staudt Willet, K. B. (2023). Teachers without borders: Professional learning spanning social media, place, and time. *Learning, Media and Technology.* doi:[10.1080/17439884.2023.2209326](https://doi.org/10.1080/17439884.2023.2209326)
 
@@ -446,10 +449,14 @@ Staudt Willet, K. B., & Rosenberg, J. M. (2022). *tidytags: Importing and analyz
 
 ## Florida State University
 
+### FSU College Service
+
+- Member, Faculty Advisory Committee (2023-present)
+
 ### FSU Department Service
 
 - Member, Diversity, Equity, and Inclusion Committee (2022-present).
-- Member, Faculty Evaluation Committee (2021–present).
+- Member, Faculty Evaluation Committee (2021–2023).
 
 ### FSU Program Service
 
@@ -466,7 +473,7 @@ Staudt Willet, K. B., & Rosenberg, J. M. (2022). *tidytags: Importing and analyz
 - *Journal of Research on Technology in Education* (2023–present).
 
 
-### Guest Reviewer for Refereed Journals (46 reviews)
+### Guest Reviewer for Refereed Journals (58 reviews)
 
 - *AERA Open* (2021).
 - *American Journal of Education* (2019-2020).
@@ -488,13 +495,14 @@ Staudt Willet, K. B., & Rosenberg, J. M. (2022). *tidytags: Importing and analyz
 
 - **Chair**, Devs with Kids SIG, International Game Developers Association (IGDA) (2023).
 - **President-Elect**, Research & Theory Division, Association for Educational Communications & Technology (AECT) (2022–2023).
+- **Conference Planning Committee Member**, Association for Educational Communications & Technology (AECT) (2022–2023).
 - **Conference Proposal Reviewer**, American Educational Research Association (AERA) (2020–present).
 - **Conference Proposal Reviewer**, Association for Educational Communications & Technology (AECT) (2019–present).
 - **Communications Officer**, Research & Theory Division, Association for Educational Communications & Technology (AECT) (2020–2021).
 - **Co-Chair**, Social Media SIG, Society for Information Technology and Teacher Education (SITE) (2019–2021).
 - **Conference Proposal Reviewer**, Society for Information Technology and Teacher Education (SITE) (2020–2021).
 - **Secretary**, Research & Theory Division, Association for Educational Communications & Technology (AECT) (2019–2020).
-- **Planning Committee Member**, SITE Interactive Conference, Society for Information Technology and Teacher Education (SITE) (2020).
+- **Conference Planning Committee Member**, SITE Interactive Conference, Society for Information Technology and Teacher Education (SITE) (2020).
 
 
 ### Service to the Community
