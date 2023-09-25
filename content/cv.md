@@ -17,18 +17,14 @@ College of Education
 ---
 
 [<i class="fas fa-envelope"></i>](mailto:bret.staudtwillet@fsu.edu) | 
-[<i class="fab fa-mastodon"></i>](https://scholar.social/@bretsw) | 
-[<i class="fab fa-linkedin"></i>](https://linkedin.com/in/bretsw) | 
 [<i class="fab fa-orcid"></i>](https://orcid.org/0000-0002-6984-416X) | 
 [<i class="fas fa-graduation-cap"></i>](https://scholar.google.com/citations?user=P-65wkIAAAAJ&hl=en) | 
-[<i class="fas fa-users"></i>](https://erso-group.org/) | 
+[<i class="fas fa-users"></i>](https://recastgroup.github.io/) | 
+[<i class="fab fa-linkedin"></i>](https://linkedin.com/in/bretsw) | 
 [<i class="fab fa-github"></i>](https://github.com/bretsw) |
-[<i class="fas fa-box-open"></i>](https://docs.ropensci.org/tidytags/) |
 [<i class="fas fa-file-alt"></i>](https://www.fsu.edu/cvdb/KSTAUDTWILLET.rtf?0=)
 
-**Office:**  
-<i class="fas fa-phone"></i> 850-644-8785  
-<i class="fas fa-map-marker-alt"></i> Stone Building, 1114 W. Call St., Tallahassee, FL 32306
+**Office:** <i class="fas fa-map-marker-alt"></i> Stone Building, 1114 W. Call St., Tallahassee, FL 32306
 
 ---
 

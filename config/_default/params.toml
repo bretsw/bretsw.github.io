@@ -58,16 +58,6 @@ title = "Email"
 url = "mailto:bret.staudtwillet@fsu.edu"
 
 [[socialIcons]]
-icon = "fab fa-mastodon"
-title = "Mastodon Scholar.Social"
-url = "https://scholar.social/@bretsw"
-
-[[socialIcons]]
-icon = "fab fa-linkedin"
-title = "Linkedin"
-url = "https://www.linkedin.com/in/bretsw/"
-
-[[socialIcons]]
 icon = "fab fa-orcid"
 title = "ORCiD"
 url = "https://orcid.org/0000-0002-6984-416X"
@@ -79,18 +69,18 @@ url = "https://scholar.google.com/citations?user=P-65wkIAAAAJ&hl=en"
 
 [[socialIcons]]
 icon = "fas fa-users"
-title = "ERSO research group"
-url = "https://erso-group.org/"
+title = "RECAST research group"
+url = "https://recastgroup.github.io/"
+
+[[socialIcons]]
+icon = "fab fa-linkedin"
+title = "Linkedin"
+url = "https://www.linkedin.com/in/bretsw/"
 
 [[socialIcons]]
 icon = "fab fa-github"
 title = "GitHub"
 url = "https://github.com/bretsw/"
-
-[[socialIcons]]
-icon = "fas fa-box-open"
-title = "tidytags R package"
-url = "https://docs.ropensci.org/tidytags/"
 
 [[socialIcons]]
 icon = "fas fa-file-alt"
