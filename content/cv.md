@@ -95,8 +95,8 @@ College of Education
 
 - Learning & Web Analytics (EME6356)
 - Synthesis, Analysis, and Argumentation in Instructional Systems Research (EME6665)
-- Applied Research Methods in Learning Design & Performance Technology (EDF5492)
 - Inquiry and Measurement for Practitioners (EDF5442)
+- Applied Research Methods in Learning Design & Performance Technology (EDF5492)
 - Introduction to Instructional Systems (EME5601)
 - Evaluation of Instruction & Training in Human-Performance Technology (EME6357)
 
@@ -277,18 +277,18 @@ Greenhow, C., Marich, H., & Staudt Willet, K. B. (2017). Social scholars: Re-env
 Staudt Willet, K. B. (2022). Review of Griffin, M. M., & Zinskie, C. D. (Eds.). (2021). Social media: Influences on education. Information Age Publishing. *TechTrends, 66*, 380-382.
 
 
+
 ## Presentations
 
-### Refereed Papers at Conferences (30)
+### Refereed Papers at Conferences (31)
 
-He, D., & Staudt Willet, K. B. (to be presented 2023, October). *Interrogating education research through an invisible labor lens*. Paper presented at Association for Educational Communications and Technology (AECT) International Convention, Association for Educational Communications and Technology (AECT), Orlando, FL. (National)
+He, D., & Staudt Willet, K. B. (2023, October). *Interrogating education research through an invisible labor lens*. Paper presented at Association for Educational Communications and Technology (AECT) International Convention, Association for Educational Communications and Technology (AECT), Orlando, FL. (National)
 
-Smith, C., & Staudt Willet, K. B. (to be presented 2023, October). *A model for culturally sustaining instructional design*. Paper presented at Association for Educational Communications and Technology (AECT) International Convention, Association for Educational Communications and Technology (AECT), Orlando, FL. (National)
+Na, H., & Staudt Willet, K. B. (2023, October). *Exploring educators' perceptions of ChatGPT: For whom is it useful and easy to use?*. Paper presented at Association for Educational Communications and Technology (AECT) International Convention, Association for Educational Communications and Technology (AECT), Orlando, FL. (National)
 
-Staudt Willet, K. B., & Na, H. (to be presented 2023, October). *Chatting about ChatGPT: Posts and comments in 25 education-related subreddits*. Paper presented at Association for Educational Communications and Technology (AECT) International Convention, Association for Educational Communications and Technology (AECT), Orlando, FL. (National)
+Smith, C., & Staudt Willet, K. B. (2023, October). *A model for culturally sustaining instructional design*. Paper presented at Association for Educational Communications and Technology (AECT) International Convention, Association for Educational Communications and Technology (AECT), Orlando, FL. (National)
 
-
-
+Staudt Willet, K. B., & Na, H. (2023, October). *Chatting about ChatGPT: Posts and comments in 25 education-related subreddits*. Paper presented at Association for Educational Communications and Technology (AECT) International Convention, Association for Educational Communications and Technology (AECT), Orlando, FL. (National)
 
 Akcaoglu, M., & Staudt Willet, K. B. (presented 2023, April). *The nature of online discussions: Structure, content, and discourse in whole class versus small groups*. Paper presented at American Educational Research Association (AERA) Annual Meeting, American Educational Research Association (AERA), Chicago, IL. (National)
 
@@ -345,6 +345,7 @@ Greenhow, C. M., Brandon, D. L., Greenhalgh, S. P., Koehler, M. J., Staudt Wille
 Greenhalgh, S. P., Staudt Willet, K. B., Rosenberg, J. M., & Koehler, M. J. (presented 2017, November). *No accounting for theory? The case for an affinity space approach to educational hashtag research*. Paper presented at Association for Educational Communications and Technology (AECT) International Convention, Association for Educational Communications and Technology (AECT), Jacksonville, FL. (National)
 
 
+
 ### Refereed Papers at Symposia (3)
 
 Staudt Willet, K. B. (presented 2023, April). Social media's impact on instruction: Beginning teachers' self-directed professional learning. In Eric Richter & Jeffrey P. Carpenter (Chair), *International perspective on advantages and disadvantages of teachers' social media use*. Symposium conducted at the meeting of American Educational Research Association (AERA) Annual Meeting, Chicago, IL. (National)
@@ -354,7 +355,11 @@ Staudt Willet, K. B., Galvin, S., & Greenhow, C. M. (presented 2021, April). Fle
 Rutherford, T., Rosenberg, J. M., & Staudt Willet, K. B. (presented 2020, April). Which birds fill the branches of the AERA Twitter tree? Twitter networks around #AERA19. In P. N. Beymer, D. K. Benden, & M. L. Bernacki (Chair), *Affordances and modeling of intensive data*. Symposium conducted at the meeting of American Educational Research Association (AERA) Annual Meeting, Conference was canceled due to the COVID-19 pandemic. (National)
 
 
-### Refereed Presentations at Conferences (12)
+### Refereed Presentations at Conferences (14)
+
+Feigenbaum, L., Brewer, V., Sprenkle, S., He, D., Staudt Willet, K. B., & Dennen, V. (2023, October). *Using social network analysis to explore interest, collaborations, and needs for Ed.D. cohort community*. Poster presentation at Association for Educational Communications and Technology (AECT) International Convention, Association for Educational Communications and Technology (AECT), Orlando, FL. (National)
+
+Smith, C., & Staudt Willet, K. B. (2023, October). *Culturally sustaining strategies implemented by designers-by-assignment in higher education student services*. Poster presentation at Association for Educational Communications and Technology (AECT) International Convention, Association for Educational Communications and Technology (AECT), Orlando, FL. (National)
 
 Staudt Willet, K. B. (presented 2023, March). *Making the invisible visible: Devs with kids roundtable (presented by the IGDA)*. Roundtable at Game Developers Conference (GDC), San Francisco, CA. (National)
 
@@ -381,6 +386,7 @@ Staudt Willet, K. B. (presented 2013, October). *Tension: My favorite game mecha
 Willet, K. B. (presented 2001, February). *The shortest closed path on an arithmetic surface*. Presentation at Moravian College Student Mathematics Conference, Moravian College, Bethlehem, PA. (State)
 
 
+
 ## Invited Workshops (3)
 
 Staudt Willet, K. B. (2022, March). *Remembering you're just one in 11: An introduction to social network analysis*. Workshop delivered at Association for Educational Communications and Technology (AECT) Research & Theory Division webinar series. (National) https://bretsw.github.io/aect22-workshop
@@ -390,11 +396,13 @@ Caines, A., Heath, M., Krutka, D., & Staudt Willet, K. B. (2021, May). *Black Mi
 Staudt Willet, K. B., Rosenberg, J. M., & Greenhalgh, S. P. (2020, March). *R u ready 4 R? Introduction to analyzing educational Internet data using R*. Workshop delivered at Students, Social Media & Schools research group at Florida State University, Online. (Local) https://bretsw.github.io/fsu-workshop/
 
 
+
 ## Refereed Workshops (2)
 
 Staudt Willet, K. B., Greenhalgh, S. P., & Rosenberg, J. M. (2020, November). *Simple collection and powerful analysis of Twitter data using R*. Workshop delivered at Association for Educational Communications and Technology (AECT) International Convention, Online. (National) https://bretsw.github.io/aect20-workshop/
 
 Staudt Willet, K. B., Greenhalgh, S. P., & Rosenberg, J. M. (2019, October). *Online data and open source tools: Analyzing educational Internet data using R*. Workshop delivered at Association for Educational Communications and Technology (AECT) International Convention, Las Vegas, NV. (National) https://bretsw.github.io/aect19-workshop/
+
 
 
 ## Invited Lectures and Readings of Original Work (4)
@@ -408,6 +416,7 @@ Staudt Willet, K. B. (2018, November). *Bigger is not always better: Revisiting 
 Staudt Willet, K. B. (2017, November). *Once more unto the practicum, dear friends: Research lessons from studying social interactions on social media* [Presentation for Educational Psychology & Educational Technology PhD program brownbag]. Delivered at Educational Psychology & Educational Technology program, Michigan State University, Online. (Local)
 
 
+
 ## Information and Communication Technology
 
 ### Computer Software Development (1)
@@ -419,8 +428,8 @@ Staudt Willet, K. B., & Rosenberg, J. M. (2022). *tidytags: Importing and analyz
 
 ### Contracts and Grants Funded ($608,122)
 
-- <i class="fas fa-dollar-sign" style="color:green"></i> Rodrigues, J., Farley-Ripple, E. N., Malin, J. R. (Mar 2023–Feb 2026). *NSF WTG: Diffusion of Research on Supporting Mathematics Achievement for Youth with Disabilities through Twitter Translational Visual Abstracts*. Funded by National Science Foundation; Science of Science: Discovery, Communication, and Impact (SoS:DCI). **Total award $311,844.** *I am an expert consultant for this grant.*
 - <i class="fas fa-dollar-sign" style="color:green"></i> Staudt Willet, K. B. (Apr 2023). *Dean’s Circle Research Transition Incentive Funding*. Funded by Florida State University, College of Education. **Total award $1,000.** *I was the PI for this grant.*
+- <i class="fas fa-dollar-sign" style="color:green"></i> Rodrigues, J., Farley-Ripple, E. N., Malin, J. R. (Mar 2023–Feb 2026). *NSF WTG: Diffusion of Research on Supporting Mathematics Achievement for Youth with Disabilities through Twitter Translational Visual Abstracts*. Funded by National Science Foundation; Science of Science: Discovery, Communication, and Impact (SoS:DCI). **Total award $311,844.** *I am an expert consultant for this grant.*
 - <i class="fas fa-dollar-sign" style="color:green"></i> Staudt Willet, K. B. (Feb 2023). *Open Access Publishing fund: Early career teachers’ expansion of professional learning networks with social media; Article published in Professional Development in Education*. Funded by Florida State University, College of Education. **Total award $3,000.** *I was the PI for this grant.*
 - <i class="fas fa-dollar-sign" style="color:green"></i> Wofford, A., Perez-Felkner, L., & Staudt Willet, K. B. (Jan 2023–Jun 2025). *Sloan: Aligning Graduate Education and Workforce Opportunities: A Robust, Equity-Focused Landscape Scan of Computing Terminology*. Funded by Alfred P. Sloan Foundation. **Total award $249,978** *I am a Co-PI for this grant.*
 - <i class="fas fa-dollar-sign" style="color:green"></i> Staudt Willet, K. B. (May 2022–Aug 2022). *CRC FYAP: Beginning Teachers' Self-Directed Professional Learning Through Social Media: Impacts on Instructional Practice*. Funded by Florida State University, Council on Research and Creativity. **Total award $20,000.** *I was the PI for this grant.*
@@ -469,7 +478,7 @@ Staudt Willet, K. B., & Rosenberg, J. M. (2022). *tidytags: Importing and analyz
 - *Journal of Research on Technology in Education* (2023–present).
 
 
-### Guest Reviewer for Refereed Journals (58 reviews)
+### Guest Reviewer for Refereed Journals (60 reviews)
 
 - *AERA Open* (2021).
 - *American Journal of Education* (2019-2020).
@@ -478,18 +487,22 @@ Staudt Willet, K. B., & Rosenberg, J. M. (2022). *tidytags: Importing and analyz
 - *Contemporary Issues in Technology & Teacher Education* (2021).
 - *EdTechnica* (2022).
 - *Internet & Higher Education* (2019–present).
+- *Journal of Applied Instructional Design* (2023-present).
 - *Journal of Computer Assisted Learning* (2021).
 - *Journal of Information Technology & Politics* (2020).
 - *Journal of Research on Technology in Education* (2021–present).
+- *Journal of Science Education & Technology* (2023-present).
 - *Learning, Media & Technology* (2016).
 - *Professional Development in Education* (2022-present).
+- *Routledge Open Research* (2023-present).
 - *Teaching & Teacher Education* (2021-present).
 - *TechTrends* (2021).
 
 
 ### Service to Professional Associations
 
-- **Chair**, Devs with Kids SIG, International Game Developers Association (IGDA) (2023).
+- **President**, Research & Theory Division, Association for Educational Communications & Technology (AECT) (2023-2024).
+- **Chair**, Devs with Kids SIG, International Game Developers Association (IGDA) (2022-present).
 - **President-Elect**, Research & Theory Division, Association for Educational Communications & Technology (AECT) (2022–2023).
 - **Conference Planning Committee Member**, Association for Educational Communications & Technology (AECT) (2022–2023).
 - **Conference Proposal Reviewer**, American Educational Research Association (AERA) (2020–present).
@@ -503,6 +516,8 @@ Staudt Willet, K. B., & Rosenberg, J. M. (2022). *tidytags: Importing and analyz
 
 ### Service to the Community
 
+- **Treasurer**, Parent-Teacher Organization (PTO), Kate Sullivan Elementary School (Leon County Schools) (2023–present).
+
 - **Treasurer-Elect**, Parent-Teacher Organization (PTO), Kate Sullivan Elementary School (Leon County Schools) (2022–2023).
 
 - **Member**, Teacher Appreciation Committee, Kate Sullivan Elementary School (Leon County Schools) (2022–2023).
@@ -510,6 +525,6 @@ Staudt Willet, K. B., & Rosenberg, J. M. (2022). *tidytags: Importing and analyz
 
 ## Consultation
 
-- **SciBlack**. Served as Founder, Organizer, and  Co-Director for the inaugural SciBlack Conference to take place in June 2023 (2021–present).
+- **Co-Founder and Organizer**, SciBlack (2021–present).
 
-- **Black in Gaming (BIG) Foundation**. Served as a volunteer Executive Coach: (a) Trained and mentored members of the core leadership team. (b) Designed and implemented strategy for organizational culture and collaboration through remote and asynchronous work (2020–2021).
+- **Executive Coach**, Black in Gaming (BIG) Foundation: (a) Trained and mentored members of the core leadership team. (b) Designed and implemented strategy for organizational culture and collaboration through remote and asynchronous work (2020–2021).
