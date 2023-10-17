@@ -116,13 +116,14 @@ College of Education
 - <i class="fas fa-graduation-cap" style="color:#782f40"></i> Wick, J., Ed.D. graduate 2023. *Middle School Teachers’ Perceptions on the Effectiveness and Relevance of Mandated Professional Development*.
 
 
-## Doctoral Committee Member (13 current, 7 graduates)
+## Doctoral Committee Member (14 current, 7 graduates)
 
 - Archer, T., doctoral candidate (Higher Education).
-- Bean, W., doctoral candidate (Sport Psychology).
+- Bean, W., doctoral student (Sport Psychology).
 - Crombie, M. doctoral candidate.
 - DeBord, E., doctoral candidate.
 - He, D., doctoral candidate.
+- Hrabcak, J., doctoral student (Sport Psychology).
 - Lewis, A., doctoral candidate.
 - Lott, S., doctoral candidate.
 - Pappas, S., doctoral candidate.
@@ -174,9 +175,9 @@ Staudt Willet, K. B. (2018). *Experiences from the practicum* [Panel for doctora
 
 ### Refereed Journal Articles (21)
 
-Smith, C., & Staudt Willet, K. B. (2023). A model for culturally sustaining instructional design. *Journal of Applied Instructional Design, 12*(2). doi:[10.59668/722.13027](https://doi.org/10.59668/722.13027)
+Greenhow, C., Lewin, C., & Staudt Willet, K. B. (2023). Teachers without borders: Professional learning spanning social media, place, and time. *Learning, Media and Technology, 48*(4), 666-684. doi:[10.1080/17439884.2023.2209326](https://doi.org/10.1080/17439884.2023.2209326)
 
-Greenhow, C., Lewin, C., & Staudt Willet, K. B. (2023). Teachers without borders: Professional learning spanning social media, place, and time. *Learning, Media and Technology.* doi:[10.1080/17439884.2023.2209326](https://doi.org/10.1080/17439884.2023.2209326)
+Smith, C., & Staudt Willet, K. B. (2023). A model for culturally sustaining instructional design. *Journal of Applied Instructional Design, 12*(2). doi:[10.59668/722.13027](https://doi.org/10.59668/722.13027)
 
 Staudt Willet, K. B. (2023). Early career teachers’ expansion of professional learning networks with social media. *Professional Development in Education*. doi:[10.1080/19415257.2023.2178481](https://doi.org/10.1080/19415257.2023.2178481)
 
