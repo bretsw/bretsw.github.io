@@ -12,7 +12,7 @@ tags: ["cv", "fsu"]
 **Assistant Professor, Florida State University**  
 *Instructional Systems & Learning Technologies*  
 Department of Educational Psychology & Learning Systems  
-College of Education
+College of Education, Health, and Human Sciences
 
 ---
 
@@ -82,7 +82,7 @@ College of Education
 
 - American Educational Research Association ([AERA](https://www.aera.net/)) 
 - Association for Educational Communications & Technology ([AECT](https://aect.org/))
-- International Game Developers Association ([**IGDA**](https://igda.org/))
+- International Game Developers Association ([IGDA](https://igda.org/))
 - Society for Learning Analytics Research ([SoLAR](https://www.solaresearch.org/)) 
 
 

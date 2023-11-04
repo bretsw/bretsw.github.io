@@ -1,5 +1,5 @@
 ---
-title: "Teaching Notes from EME6356: Learning & Web Analytics"
+title: "Teaching Notes from EME6356: Learning & Web Analytics (Spring 2022)"
 date: 2022-04-29
 thumbnail: "images/6356-icon.jpg"
 Description: ""
