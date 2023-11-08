@@ -173,13 +173,15 @@ Staudt Willet, K. B. (2018). *Experiences from the practicum* [Panel for doctora
 
 ## Publications
 
-### Refereed Journal Articles (21)
+### Refereed Journal Articles (22)
 
 Greenhow, C., Lewin, C., & Staudt Willet, K. B. (2023). Teachers without borders: Professional learning spanning social media, place, and time. *Learning, Media and Technology, 48*(4), 666-684. doi:[10.1080/17439884.2023.2209326](https://doi.org/10.1080/17439884.2023.2209326)
 
 Smith, C., & Staudt Willet, K. B. (2023). A model for culturally sustaining instructional design. *Journal of Applied Instructional Design, 12*(2). doi:[10.59668/722.13027](https://doi.org/10.59668/722.13027)
 
 Staudt Willet, K. B. (2023). Early career teachers’ expansion of professional learning networks with social media. *Professional Development in Education*. doi:[10.1080/19415257.2023.2178481](https://doi.org/10.1080/19415257.2023.2178481)
+
+Staudt Willet, K. B., & Rosenberg, J. M. (in press). The design and effects of data science workshops for early career researchers. *Journal of Formative Design in Learning*.
 
 Na, H., & Staudt Willet, K. B. (2022). Affinity and anonymity benefitting early career teachers in the r/Teachers subreddit. *Journal of Research on Technology in Education* doi:[10.1080/15391523.2022.2150727](https://doi.org/10.1080/15391523.2022.2150727)
 

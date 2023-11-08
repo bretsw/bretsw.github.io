@@ -113,9 +113,16 @@ View the slides at https://bretsw.com/eme5601-fs23-module5/, or scroll through b
 
 Read:
 
-- **Rothwell et al. (2016): Chapters 8-9, 11=12**
+- **Rothwell et al. (2016): Chapters 8-9, 11-12**
 
-Slides coming soon.
+View the slides at https://bretsw.com/eme5601-fs23-module6/, or scroll through below:
+
+<iframe id="Module 6 Slide Deck" 
+  title="Module 6 Slide Deck" 
+  src="https://bretsw.com/eme5601-fs23-module6/" 
+  width="720" 
+  height="405">
+</iframe>
 
 ---
 
