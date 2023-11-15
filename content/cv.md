@@ -482,14 +482,14 @@ Staudt Willet, K. B., & Rosenberg, J. M. (2022). *tidytags: Importing and analyz
 - Member, Faculty Search Committee (2021–2022).
 - Reviewer, Ph.D. Preliminary Exams Committee (2021-2022).
 
+
 ## The Profession
 
 ### Editorial Board Membership(s)
 
 - *Journal of Research on Technology in Education* (2023–present).
 
-
-### Guest Reviewer for Refereed Journals (60 reviews)
+### Guest Reviewer for Refereed Journals (62 reviews)
 
 - *AERA Open* (2021).
 - *American Journal of Education* (2019-2020).
@@ -535,6 +535,8 @@ Staudt Willet, K. B., & Rosenberg, J. M. (2022). *tidytags: Importing and analyz
 
 
 ## Consultation
+
+- **Front-End Developer**, "Quantifying the Robustness of Causal Inferences: Extensions and Application to Existing Databases" [IES grant](https://ies.ed.gov/funding/grantsearch/details.asp?ID=5723) (Frank, Maroulis, Saw, Xu, & Rosenberg, 2023-2024)
 
 - **Co-Founder and Organizer**, SciBlack (2021–present).
 
