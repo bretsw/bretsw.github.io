@@ -112,7 +112,7 @@ College of Education, Health, and Human Sciences
 - Madison, C., doctoral candidate.
 - Morris, V., doctoral candidate.
 - Na, H., doctoral candidate.
-- Stoutjesdyk, J., doctoral candidate.
+- Stoutjesdyk, J., doctoral candidate. *An Investigation into Florida High School English Teachers' Response to CS/HB 1467*.
 - <i class="fas fa-graduation-cap" style="color:#782f40"></i> Smith, C., Ed.D. graduate 2023. *Culturally Inclusive Instructional Strategies Implemented by Designers-by-Assignment in Higher Education Student Services*.
 - <i class="fas fa-graduation-cap" style="color:#782f40"></i> Wick, J., Ed.D. graduate 2023. *Middle School Teachers’ Perceptions on the Effectiveness and Relevance of Mandated Professional Development*.
 
@@ -182,7 +182,8 @@ Smith, C., & Staudt Willet, K. B. (2023). A model for culturally sustaining inst
 
 Staudt Willet, K. B. (2023). Early career teachers’ expansion of professional learning networks with social media. *Professional Development in Education*. doi:[10.1080/19415257.2023.2178481](https://doi.org/10.1080/19415257.2023.2178481)
 
-Staudt Willet, K. B., & Rosenberg, J. M. (in press). The design and effects of data science workshops for early career researchers. *Journal of Formative Design in Learning*.
+Staudt Willet, K. B., & Rosenberg, J. M. (2023). The design and effects of data science workshops for early career researchers. *Journal of Formative Design in Learning*.
+doi:[10.1007/s41686-023-00083-7](https://doi.org/10.1007/s41686-023-00083-7)
 
 Na, H., & Staudt Willet, K. B. (2022). Affinity and anonymity benefitting early career teachers in the r/Teachers subreddit. *Journal of Research on Technology in Education* doi:[10.1080/15391523.2022.2150727](https://doi.org/10.1080/15391523.2022.2150727)
 
@@ -536,7 +537,7 @@ Staudt Willet, K. B., & Rosenberg, J. M. (2022). *tidytags: Importing and analyz
 
 ## Consultation
 
-- **Front-End Developer**, "Quantifying the Robustness of Causal Inferences: Extensions and Application to Existing Databases" [IES grant](https://ies.ed.gov/funding/grantsearch/details.asp?ID=5723) (Frank, Maroulis, Saw, Xu, & Rosenberg, 2023-2024)
+- **Front-End Developer**, IES Grant, [Quantifying the Robustness of Causal Inferences: Extensions and Application to Existing Databases](https://ies.ed.gov/funding/grantsearch/details.asp?ID=5723) (Frank, Maroulis, Saw, Xu, & Rosenberg): Front-End Developer: Redesigned and rebuilt interface for Konfound [web app](https://konfound-project.shinyapps.io/konfound-it/) and website (2023-2024).
 
 - **Co-Founder and Organizer**, SciBlack (2021–present).
 
