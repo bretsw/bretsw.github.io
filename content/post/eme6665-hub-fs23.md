@@ -1,6 +1,6 @@
 ---
 title: "Teaching Notes from EME6665: Synthesis, Analysis, and Argumentation in Instructional Systems Research (Fall 2023)"
-date: 2023-11-01
+date: 2023-12-01
 thumbnail: "images/6665-logo.png"
 Description: ""
 Tags: ["teaching", "notes", "fsu", "slide deck"]
@@ -105,7 +105,14 @@ View the slides at https://bretsw.com/eme6665-fs23-module6/, or scroll through b
 
 ## Module 7: Weaving Together Chapter One
 
-Slides coming soon.
+View the slides at https://bretsw.com/eme6665-fs23-module7/, or scroll through below:
+
+<iframe id="Module 7 slide deck"
+    title="Module 7 slide deck"
+    width="720"
+    height="405"
+    src="https://bretsw.com/eme6665-fs23-module7/">
+</iframe>
 
 ---
 

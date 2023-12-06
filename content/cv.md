@@ -103,7 +103,7 @@ College of Education, Health, and Human Sciences
 
 
 
-## Doctoral Committee Chair (8 current, 2 graduates)
+## Doctoral Committee Chair (7 current, 3 graduates)
 
 - Aguilar, V., doctoral student.
 - Arthur, A., doctoral candidate.
@@ -112,15 +112,15 @@ College of Education, Health, and Human Sciences
 - Madison, C., doctoral candidate.
 - Morris, V., doctoral candidate.
 - Na, H., doctoral candidate.
-- Stoutjesdyk, J., doctoral candidate. *An Investigation into Florida High School English Teachers' Response to CS/HB 1467*.
 - <i class="fas fa-graduation-cap" style="color:#782f40"></i> Smith, C., Ed.D. graduate 2023. *Culturally Inclusive Instructional Strategies Implemented by Designers-by-Assignment in Higher Education Student Services*.
+- <i class="fas fa-graduation-cap" style="color:#782f40"></i> Stoutjesdyk, J., Ed.D. graduate 2023. *An Investigation into Florida High School English Teachers' Response to CS/HB 1467*.
 - <i class="fas fa-graduation-cap" style="color:#782f40"></i> Wick, J., Ed.D. graduate 2023. *Middle School Teachers’ Perceptions on the Effectiveness and Relevance of Mandated Professional Development*.
 
 
 ## Doctoral Committee Member (14 current, 7 graduates)
 
 - Archer, T., doctoral candidate (Higher Education).
-- Bean, W., doctoral student (Sport Psychology).
+- Bean, W., doctoral candidate (Sport Psychology).
 - Crombie, M. doctoral candidate.
 - DeBord, E., doctoral candidate.
 - He, D., doctoral candidate.
@@ -133,13 +133,14 @@ College of Education, Health, and Human Sciences
 - West, L., doctoral candidate.
 - Xu, J., doctoral student.
 - Young, K., doctoral candidate.
-- <i class="fas fa-graduation-cap" style="color:#782f40"></i> Clifford, S., Ed.D. graduate 2023. *The Impact of Trainer Self-Efficacy and Technology Adoption on Learning Performance*.
-- <i class="fas fa-graduation-cap" style="color:#782f40"></i> Johnston, R., Ph.D. graduate 2023. *Characteristics of High-Performing Volunteer Nonprofit Board Members*.
-- <i class="fas fa-graduation-cap" style="color:#782f40"></i> Medina, J., Ed.D. graduate 2023. *Informal Learning in the Workplace: A Study of a Municipal Utility in the Southeast*.
 - <i class="fas fa-graduation-cap" style="color:#782f40"></i> Choi, H., Ph.D. graduate 2022. *Situational Motivation and Participation in Online Discussion: A Multiple Case Study*.
+- <i class="fas fa-graduation-cap" style="color:#782f40"></i> Clifford, S., Ed.D. graduate 2023. *The Impact of Trainer Self-Efficacy and Technology Adoption on Learning Performance*.
 - <i class="fas fa-graduation-cap" style="color:#782f40"></i> Graham, D., Ed.D. graduate 2022. *Teacher Perception on the Use of Game-Based Learning in the Title 1 ELA Curriculum*.
+- <i class="fas fa-graduation-cap" style="color:#782f40"></i> Johnston, R., Ph.D. graduate 2023. *Characteristics of High-Performing Volunteer Nonprofit Board Members*.
 - <i class="fas fa-graduation-cap" style="color:#782f40"></i> Jones, M., Ed.D. graduate 2022. *Supporting LGBTQ+ Students in Online Environments: A Qualitative Study of Higher Education Initiatives and Leadership Practices in Large Public Universities*.
 - <i class="fas fa-graduation-cap" style="color:#782f40"></i> Kent, H., Ph.D. graduate 2022. *Informal Learning to Support Volunteer Work*.
+- <i class="fas fa-graduation-cap" style="color:#782f40"></i> Medina, J., Ed.D. graduate 2023. *Informal Learning in the Workplace: A Study of a Municipal Utility in the Southeast*.
+
 
 
 ## Invited Guest Lectures (11)

@@ -1,6 +1,6 @@
 ---
 title: "Teaching Notes from EME5601: Introduction to Instructional Systems (Fall 2023)"
-date: 2023-11-01
+date: 2023-12-01
 thumbnail: "images/5601-logo.png"
 Description: ""
 Tags: ["teaching", "notes", "fsu", "slide deck"]
@@ -38,7 +38,7 @@ Read:
 
 ---
 
-## Module 2: Systems Analsis
+## Module 2: Systems Analysis
 
 Read:
 
@@ -132,6 +132,13 @@ Read:
 
 - **Rothwell et al. (2016): Chapters 13-16**
 
-Slides coming soon.
+View the slides at https://bretsw.com/eme5601-fs23-module7/, or scroll through below:
+
+<iframe id="Module 7 Slide Deck" 
+  title="Module 7 Slide Deck" 
+  src="https://bretsw.com/eme5601-fs23-module7/" 
+  width="720" 
+  height="405">
+</iframe>
 
 ---
