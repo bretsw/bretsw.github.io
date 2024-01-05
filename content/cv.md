@@ -366,9 +366,11 @@ Staudt Willet, K. B., Galvin, S., & Greenhow, C. M. (presented 2021, April). Fle
 Rutherford, T., Rosenberg, J. M., & Staudt Willet, K. B. (presented 2020, April). Which birds fill the branches of the AERA Twitter tree? Twitter networks around #AERA19. In P. N. Beymer, D. K. Benden, & M. L. Bernacki (Chair), *Affordances and modeling of intensive data*. Symposium conducted at the meeting of American Educational Research Association (AERA) Annual Meeting, Conference was canceled due to the COVID-19 pandemic. (National)
 
 
-### Refereed Presentations at Conferences (54)
+### Refereed Presentations at Conferences (55)
 
-Staudt Willet, K. B., Carpenter, J. P., & Na, H. (presented 2024, April). *Nobody Goes There Anymore, It's Too Crowded: Historic Retrospective of Twitter #Edchat*. Poster presentation at American Educational Research Association (AERA) Annual Meeting, American Educational Research Association (AERA), Philadelphia, PA. (National)
+Staudt Willet, K. B., Carpenter, J. P., & Na, H. (presented 2024, April). *Nobody goes there anymore, it's too crowded: Historic retrospective of Twitter #Edchat*. Poster presentation at American Educational Research Association (AERA) Annual Meeting, American Educational Research Association (AERA), Philadelphia, PA. (National)
+
+Wofford, A., Perez-Felkner, L., Staudt Willet, K. B., & Nhien, C. (presented 2024, March). Examining organizational structures at minority-serving institutions: *An analysis of terminology in computing-related graduate education*. Poster presentation at Association for Education Finance & Policy (AEFP) Annual Conference, Association for Education Finance & Policy (AEFP), Baltimore, MD. (National)
 
 Feigenbaum, L., Brewer, V., Sprenkle, S., He, D., Staudt Willet, K. B., & Dennen, V. (presented 2023, October). *Using social network analysis to explore interest, collaborations, and needs for Ed.D. cohort community*. Poster presentation at Association for Educational Communications and Technology (AECT) International Convention, Association for Educational Communications and Technology (AECT), Orlando, FL. (National)
 
