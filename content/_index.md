@@ -12,6 +12,10 @@ mainSectionsTitle = ""
 
 I am an Assistant Professor of [Instructional Systems & Learning Technologies](https://education.fsu.edu/instructional-systems-and-learning-technologies) at Florida State University. My preferred pronouns are **he/him/his**.
 
+My Florida State University homepage is [here](https://cehhs.fsu.edu/faculty-and-staff/dr-bret-staudt-willet).
+
+The Research & Exploration of Culturally Affirming Self-Teaching (RECAST) Group website is [here](https://recast.team/).
+
 At different times and in different parts of my professional life, I take on roles of **researcher**, **educator**, and **consultant**. In each of these roles, I aspire to embody **culturally sustaining** practices.
 
 My research investigates **self-directed learning**, a subset of informal and networked learning. I am fascinated by how people figure things out on their own. I'm most interested in what happens when students, learners, and trainees finish formal instruction, preparation, and training. What do they do *after* they walk out the door or log off? How do they continue to develop their knowledge, skills, and abilities? Where do they look for resources? Who do they talk to? 

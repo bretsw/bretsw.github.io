@@ -471,6 +471,11 @@ Staudt Willet, K. B., & Rosenberg, J. M. (2022). *tidytags: Importing and analyz
 
 ### Contracts and Grants Pending
 
+Frank, K., Maroulis, S., Xu, R., Rosenberg, J. M., Saw, G., Lin, Q., & Staudt Willet, K. B. (Jan 2024). IES: Sensitivity Analysis for Statistical Advances that Inform Evidence Use and Knowledge Mobilization. Submitted to Institute for Education Sciences. *I would serve as a co-PI on this grant project.*
+
+Myers, J., Ecton, W. G., Fendler, R., Grace, C., & Staudt Willet, K. B. (Jul 2023). Project EVIDENT: Evaluating Visual Information and Data to Enhance oNline Thinking. Submitted to USDOEd American History and Civics-National Activities grant. Total requested: $320,584. *I would serve as a co-PI on this grant project.*
+
+Staudt Willet, K. B. (Jul 2023). NSF CAREER: Developing STEM Teachers' Culturally Affirming Self-Teaching (CAST) Through a Mobile Game. Submitted to National Science Foundation. Total requested: $870,598. *I would serve as the solo PI on this grant project.*
 
 
 ### Contracts and Grants Denied
@@ -508,7 +513,12 @@ Staudt Willet, K. B., & Rosenberg, J. M. (2022). *tidytags: Importing and analyz
 
 ## The Profession
 
-### Editorial Board Membership(s)
+### Guest Editing for Refereed Journals
+
+- Greenhow, C. M., Staudt Willet, K. B., & Carpenter, J. P. (Eds.). (2023-2024). Learning with social media in an algorithmic age: Opportunities and challenges for education [Special Issue]. *Information and Learning Sciences*.
+
+
+### Editorial Board Memberships
 
 - *Journal of Research on Technology in Education* (2023–present).
 
@@ -520,6 +530,7 @@ Staudt Willet, K. B., & Rosenberg, J. M. (2022). *tidytags: Importing and analyz
 - *Contemporary Educational Technology* (2023-present).
 - *Contemporary Issues in Technology & Teacher Education* (2021).
 - *EdTechnica* (2022).
+- *International Journal of Educational Technology in Higher Education* (2023–present).
 - *Internet & Higher Education* (2019–present).
 - *Journal of Applied Instructional Design* (2023-present).
 - *Journal of Computer Assisted Learning* (2021).
@@ -560,7 +571,7 @@ Staudt Willet, K. B., & Rosenberg, J. M. (2022). *tidytags: Importing and analyz
 
 ## Consultation
 
-- **Front-End Developer**, IES Grant, [Quantifying the Robustness of Causal Inferences: Extensions and Application to Existing Databases](https://ies.ed.gov/funding/grantsearch/details.asp?ID=5723) (Frank, Maroulis, Saw, Xu, & Rosenberg): designed and rebuilt interface for Konfound [web app](https://konfound-project.shinyapps.io/konfound-it/) and [website](https://konfound-project.github.io/) (2023-present).
+- **Front-End Developer**, IES Grant, [Quantifying the Robustness of Causal Inferences: Extensions and Application to Existing Databases](https://ies.ed.gov/funding/grantsearch/details.asp?ID=5723) (Frank, Maroulis, Saw, Xu, & Rosenberg): Designed and rebuilt interface for Konfound [web app](https://konfound-project.shinyapps.io/konfound-it/) and [website](https://konfound-project.github.io/) (2023-present).
 
 - **Data Scientist**, NSF/WTG Grant, [Diffusion of Research on Supporting Mathematics Achievement for Youth with Disabilities through Twitter Translational Visual Abstracts](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2244734) (Rodrigues, Farley-Ripple, & Malin): Collected and analyzed data for the social media intervention portion of the project.
  Mar 2023–Feb 2026).
