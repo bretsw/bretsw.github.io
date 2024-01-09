@@ -97,6 +97,7 @@ College of Education, Health, and Human Sciences
 - Learning & Web Analytics (EME6356)
 - Introduction to Instructional Systems (EME5601)
 - Synthesis, Analysis, and Argumentation in Instructional Systems Research (EME6665)
+- Instructional Systems Research Seminar (EDG6362)
 - Inquiry and Measurement for Practitioners (EDF5442)
 - Applied Research Methods in Learning Design & Performance Technology (EDF5492)
 - Evaluation of Instruction & Training in Human-Performance Technology (EME6357)
@@ -143,7 +144,11 @@ College of Education, Health, and Human Sciences
 
 
 
-## Invited Guest Lectures (11)
+## Invited Guest Lectures (13)
+
+Staudt Willet, K. B., & He, D. (2023). *Task/project management in grad school* [Guest lecture for doctoral students]. Instructional Systems & Learning Technologies program, Florida State University.
+
+Greenhalgh, S., Hu, A., Rosenberg, J., & Staudt Willet, K. B. (2023). *A conversation about what ChatGPT is, how it is impacting universities, and how might we make "good" use of it* [Panel]. College of Education, Michigan State University. 
 
 Staudt Willet, K. B. (2022). *Insights for academic publishing* [Guest lecture for doctoral course CEP 956: Mind, Media and Learning]. Educational Psychology & Educational Technology program, Michigan State University. 
 
@@ -183,7 +188,7 @@ Smith, C., & Staudt Willet, K. B. (2023). A model for culturally sustaining inst
 
 Staudt Willet, K. B. (2023). Early career teachers’ expansion of professional learning networks with social media. *Professional Development in Education*. doi:[10.1080/19415257.2023.2178481](https://doi.org/10.1080/19415257.2023.2178481)
 
-Staudt Willet, K. B., & Rosenberg, J. M. (2023). The design and effects of data science workshops for early career researchers. *Journal of Formative Design in Learning*.
+Staudt Willet, K. B., & Rosenberg, J. M. (2023). The design and effects of data science workshops for early career researchers. *Journal of Formative Design in Learning, 7*, 83-97.
 doi:[10.1007/s41686-023-00083-7](https://doi.org/10.1007/s41686-023-00083-7)
 
 Na, H., & Staudt Willet, K. B. (2022). Affinity and anonymity benefitting early career teachers in the r/Teachers subreddit. *Journal of Research on Technology in Education* doi:[10.1080/15391523.2022.2150727](https://doi.org/10.1080/15391523.2022.2150727)
@@ -238,11 +243,13 @@ Staudt Willet, K. B., Koehler, M. J., & Greenhalgh, S. P. (2018). A tweet by any
 Staudt Willet, K. B., Koehler, M. J., & Greenhalgh, S. P. (2017). A tweet by any other frame: Comparing three theoretical frameworks for studying educator interactions on Twitter. In L. Liu, & D. Gibson (Eds.), *Research highlights in technology and teacher education 2017* (pp. 63-70). Association for the Advancement of Computing in Education (AACE). http://www.learntechlib.com/p/180960/
 
 
+
 ### Refereed Book Chapters (2)
 
 Greenhow, C. M., Galvin, S. M., Staudt Willet, K. B., & Chapman, A. L. (2023). Social media and learning. In R. J. Tierney, F. Rizvi, & K. Ercikan (Eds.), *International encyclopedia of education* (4th ed., pp. 431-442). Elsevier. doi:[10.1016/B978-0-12-818630-5.14040-0](https://doi.org/10.1016/B978-0-12-818630-5.14040-0)
 
 Greenhalgh, S. P., Koehler, M. J., Rosenberg, J. M., & Staudt Willet, K. B. (2021). Considerations for using social media data in learning design and technology research. In Enilda Romero-Hall (Ed.), *Research methods in learning design & technology* (pp. 64-77). Routledge.
+
 
 
 ### Refereed Proceedings (15)
@@ -278,6 +285,7 @@ Staudt Willet, K. B., Koehler, M. J., & Greenhalgh, S. P. (2017). A tweet by any
 Greenhow, C., Marich, H., & Staudt Willet, K. B. (2017). Social scholars: Re-envisioning graduate education in the age of social media. In P. Resta, & S. Smith (Eds.), *Society for Information Technology & Teacher Education (SITE) International Conference, Austin, TX* (pp. 856-861). Association for the Advancement of Computing in Education (AACE). https://www.learntechlib.org/p/177363/
 
 
+
 ### Invited Reviews (1)
 
 Staudt Willet, K. B. (2022). Review of Griffin, M. M., & Zinskie, C. D. (Eds.). (2021). Social media: Influences on education. Information Age Publishing. *TechTrends, 66*, 380-382.
@@ -300,7 +308,7 @@ Na, H., & Staudt Willet, K. B. (2023, October). *Exploring educators' perception
 
 Smith, C., & Staudt Willet, K. B. (2023, October). *A model for culturally sustaining instructional design*. Paper presented at Association for Educational Communications and Technology (AECT) International Convention, Association for Educational Communications and Technology (AECT), Orlando, FL. (National)
 
-Staudt Willet, K. B., & Na, H. (2023, October). *Chatting about ChatGPT: Posts and comments in 25 education-related subreddits*. Paper presented at Association for Educational Communications and Technology (AECT) International Convention, Association for Educational Communications and Technology (AECT), Orlando, FL. (National)
+Staudt Willet, K. B., & Na, H. (2023, October). *Chatting about ChatGPT: Posts and comments in 25 education-related subreddits*. Paper presented at Association for Educational Communications and Technology (AECT) International Convention, Association for Educational Communications and Technology (AECT), Orlando, FL. (National) https://bretsw.com/aect23-chatgpt/
 
 Akcaoglu, M., & Staudt Willet, K. B. (presented 2023, April). *The nature of online discussions: Structure, content, and discourse in whole class versus small groups*. Paper presented at American Educational Research Association (AERA) Annual Meeting, American Educational Research Association (AERA), Chicago, IL. (National)
 
@@ -357,20 +365,28 @@ Greenhow, C. M., Brandon, D. L., Greenhalgh, S. P., Koehler, M. J., Staudt Wille
 Greenhalgh, S. P., Staudt Willet, K. B., Rosenberg, J. M., & Koehler, M. J. (presented 2017, November). *No accounting for theory? The case for an affinity space approach to educational hashtag research*. Paper presented at Association for Educational Communications and Technology (AECT) International Convention, Association for Educational Communications and Technology (AECT), Jacksonville, FL. (National)
 
 
+
 ### Refereed Papers at Symposia (3)
 
-Staudt Willet, K. B. (presented 2023, April). Social media's impact on instruction: Beginning teachers' self-directed professional learning. In Eric Richter & Jeffrey P. Carpenter (Chair), *International perspective on advantages and disadvantages of teachers' social media use*. Symposium conducted at the meeting of American Educational Research Association (AERA) Annual Meeting, Chicago, IL. (National)
+Staudt Willet, K. B. (presented 2023, April). Social media's impact on instruction: Beginning teachers' self-directed professional learning. In Eric Richter & Jeffrey P. Carpenter (Chair), *International perspective on advantages and disadvantages of teachers' social media use*. Symposium conducted at the meeting of American Educational Research Association (AERA) Annual Meeting, Chicago, IL. (National) https://bretsw.com/aera23-teachers-social-media/
 
 Staudt Willet, K. B., Galvin, S., & Greenhow, C. M. (presented 2021, April). Flexible professional learning networks: Teachers turn to #Edchat during pandemic-disrupted education. In Martin Rehm, Ken Frank, & Kaitlin Torphy (Chair), *Social opportunity spaces: How social media can inform / shape educational policy processes*. Symposium conducted at the meeting of American Educational Research Association (AERA) Annual Meeting, Online. (National)
 
 Rutherford, T., Rosenberg, J. M., & Staudt Willet, K. B. (presented 2020, April). Which birds fill the branches of the AERA Twitter tree? Twitter networks around #AERA19. In P. N. Beymer, D. K. Benden, & M. L. Bernacki (Chair), *Affordances and modeling of intensive data*. Symposium conducted at the meeting of American Educational Research Association (AERA) Annual Meeting, Conference was canceled due to the COVID-19 pandemic. (National)
 
 
-### Refereed Presentations at Conferences (55)
+
+### Invited Presentations at Conferences (1)
+
+Staudt Willet, K. B. (2023). *Discussant reflections: Teacher use of social media for teaching and professional development*. Discussant notes presented at American Educational Research Association (AERA) Annual Meeting, American Educational Research Association (AERA), Chicago, IL. (National). https://bretsw.com/aera23-teachers-social-media/
+
+
+
+### Refereed Presentations at Conferences (16)
 
 Staudt Willet, K. B., Carpenter, J. P., & Na, H. (presented 2024, April). *Nobody goes there anymore, it's too crowded: Historic retrospective of Twitter #Edchat*. Poster presentation at American Educational Research Association (AERA) Annual Meeting, American Educational Research Association (AERA), Philadelphia, PA. (National)
 
-Wofford, A., Perez-Felkner, L., Staudt Willet, K. B., & Nhien, C. (presented 2024, March). Examining organizational structures at minority-serving institutions: *An analysis of terminology in computing-related graduate education*. Poster presentation at Association for Education Finance & Policy (AEFP) Annual Conference, Association for Education Finance & Policy (AEFP), Baltimore, MD. (National)
+Wofford, A., Perez-Felkner, L., Staudt Willet, K. B., & Nhien, C. (presented 2024, March). *Examining organizational structures at minority-serving institutions: An analysis of terminology in computing-related graduate education*. Poster presentation at Association for Education Finance & Policy (AEFP) Annual Conference, Association for Education Finance & Policy (AEFP), Baltimore, MD. (National)
 
 Feigenbaum, L., Brewer, V., Sprenkle, S., He, D., Staudt Willet, K. B., & Dennen, V. (presented 2023, October). *Using social network analysis to explore interest, collaborations, and needs for Ed.D. cohort community*. Poster presentation at Association for Educational Communications and Technology (AECT) International Convention, Association for Educational Communications and Technology (AECT), Orlando, FL. (National)
 
@@ -441,10 +457,9 @@ Staudt Willet, K. B., & Rosenberg, J. M. (2022). *tidytags: Importing and analyz
 
 ## Contracts and Grants
 
-### Contracts and Grants Funded ($608,122)
+### Contracts and Grants Funded ($296,278)
 
 - <i class="fas fa-dollar-sign" style="color:green"></i> Staudt Willet, K. B. (Apr 2023). *Dean’s Circle Research Transition Incentive Funding*. Funded by Florida State University, College of Education. **Total award $1,000.** *I was the PI for this grant.*
-- <i class="fas fa-dollar-sign" style="color:green"></i> Rodrigues, J., Farley-Ripple, E. N., Malin, J. R. (Mar 2023–Feb 2026). *NSF WTG: Diffusion of Research on Supporting Mathematics Achievement for Youth with Disabilities through Twitter Translational Visual Abstracts*. Funded by National Science Foundation; Science of Science: Discovery, Communication, and Impact (SoS:DCI). **Total award $311,844.** *I am an expert consultant for this grant.*
 - <i class="fas fa-dollar-sign" style="color:green"></i> Staudt Willet, K. B. (Feb 2023). *Open Access Publishing fund: Early career teachers’ expansion of professional learning networks with social media; Article published in Professional Development in Education*. Funded by Florida State University, College of Education. **Total award $3,000.** *I was the PI for this grant.*
 - <i class="fas fa-dollar-sign" style="color:green"></i> Wofford, A., Perez-Felkner, L., & Staudt Willet, K. B. (Jan 2023–Jun 2025). *Sloan: Aligning Graduate Education and Workforce Opportunities: A Robust, Equity-Focused Landscape Scan of Computing Terminology*. Funded by Alfred P. Sloan Foundation. **Total award $249,978** *I am a Co-PI for this grant.*
 - <i class="fas fa-dollar-sign" style="color:green"></i> Staudt Willet, K. B. (May 2022–Aug 2022). *CRC FYAP: Beginning Teachers' Self-Directed Professional Learning Through Social Media: Impacts on Instructional Practice*. Funded by Florida State University, Council on Research and Creativity. **Total award $20,000.** *I was the PI for this grant.*
@@ -452,6 +467,10 @@ Staudt Willet, K. B., & Rosenberg, J. M. (2022). *tidytags: Importing and analyz
 - <i class="fas fa-dollar-sign" style="color:green"></i> Staudt Willet, K. B. (Jan 2020). *Research Practicum/Dissertation Development Fellowship*. Funded by Michigan State University, College of Education. **Total award $1,300.** *I was the PI for this grant.*
 - <i class="fas fa-dollar-sign" style="color:green"></i> Staudt Willet, K. B. (Jan 2019). *Research Practicum/Dissertation Development Fellowship*. Funded by Michigan State University, College of Education. **Total award $2,000.** *I was the PI for this grant.*
 - <i class="fas fa-dollar-sign" style="color:green"></i> Staudt Willet, K. B. (May 2018–Aug 2019). *Summer Research Renewable Fellowship: How Educators Connect with Each Other on Social Media as Part of Their Lifelong Learning: Social Interactions in Twitter \#Edchat*. Funded by Michigan State University, College of Education. **Total award $12,000.** *I was the PI for this grant.*
+
+
+### Contracts and Grants Pending
+
 
 
 ### Contracts and Grants Denied
@@ -493,7 +512,7 @@ Staudt Willet, K. B., & Rosenberg, J. M. (2022). *tidytags: Importing and analyz
 
 - *Journal of Research on Technology in Education* (2023–present).
 
-### Guest Reviewer for Refereed Journals (62 reviews)
+### Guest Reviewer for Refereed Journals (64 reviews)
 
 - *AERA Open* (2021).
 - *American Journal of Education* (2019-2020).
@@ -509,6 +528,7 @@ Staudt Willet, K. B., & Rosenberg, J. M. (2022). *tidytags: Importing and analyz
 - *Journal of Science Education & Technology* (2023-present).
 - *Learning, Media & Technology* (2016).
 - *Professional Development in Education* (2022-present).
+- *Review of Educational Research* (2023-present).
 - *Routledge Open Research* (2023-present).
 - *Teaching & Teacher Education* (2021-present).
 - *TechTrends* (2021).
@@ -540,7 +560,10 @@ Staudt Willet, K. B., & Rosenberg, J. M. (2022). *tidytags: Importing and analyz
 
 ## Consultation
 
-- **Front-End Developer**, IES Grant, [Quantifying the Robustness of Causal Inferences: Extensions and Application to Existing Databases](https://ies.ed.gov/funding/grantsearch/details.asp?ID=5723) (Frank, Maroulis, Saw, Xu, & Rosenberg): Front-End Developer: Redesigned and rebuilt interface for Konfound [web app](https://konfound-project.shinyapps.io/konfound-it/) and website (2023-2024).
+- **Front-End Developer**, IES Grant, [Quantifying the Robustness of Causal Inferences: Extensions and Application to Existing Databases](https://ies.ed.gov/funding/grantsearch/details.asp?ID=5723) (Frank, Maroulis, Saw, Xu, & Rosenberg): designed and rebuilt interface for Konfound [web app](https://konfound-project.shinyapps.io/konfound-it/) and [website](https://konfound-project.github.io/) (2023-present).
+
+- **Data Scientist**, NSF/WTG Grant, [Diffusion of Research on Supporting Mathematics Achievement for Youth with Disabilities through Twitter Translational Visual Abstracts](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2244734) (Rodrigues, Farley-Ripple, & Malin): Collected and analyzed data for the social media intervention portion of the project.
+ Mar 2023–Feb 2026).
 
 - **Co-Founder and Organizer**, SciBlack (2021–present).
 
