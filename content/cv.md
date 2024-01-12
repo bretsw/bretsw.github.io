@@ -471,7 +471,7 @@ Staudt Willet, K. B., & Rosenberg, J. M. (2022). *tidytags: Importing and analyz
 
 ### Contracts and Grants Pending
 
-Frank, K., Maroulis, S., Xu, R., Rosenberg, J. M., Saw, G., Lin, Q., & Staudt Willet, K. B. (Jan 2024). IES: Sensitivity Analysis for Statistical Advances that Inform Evidence Use and Knowledge Mobilization. Submitted to Institute for Education Sciences. *I would serve as a co-PI on this grant project.*
+Frank, K., Maroulis, S., Xu, R., Rosenberg, J. M., Saw, G., Lin, Q., & Staudt Willet, K. B. (Jan 2024). IES: Sensitivity Analysis for Statistical Advances that Inform Evidence Use and Knowledge Mobilization. Submitted to Institute for Education Sciences. Total requested: $898,387. *I would serve as a co-PI on this grant project.*
 
 Myers, J., Ecton, W. G., Fendler, R., Grace, C., & Staudt Willet, K. B. (Jul 2023). Project EVIDENT: Evaluating Visual Information and Data to Enhance oNline Thinking. Submitted to USDOEd American History and Civics-National Activities grant. Total requested: $320,584. *I would serve as a co-PI on this grant project.*
 
