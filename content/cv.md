@@ -302,6 +302,8 @@ Smith, C., & Staudt Willet, K. B. (presented 2024, April). *Finding culturally i
 
 Wei, S., Staudt Willet, K. B., & Bi, R. (presented 2024, April). *AI literacy in the wild: Discourse in an online forum of AI painting*. Paper presented at American Educational Research Association (AERA) Annual Meeting, American Educational Research Association (AERA), Philadelphia, PA. (National)
 
+Staudt Willet, K. B. (presented 2024, February). *Beginning teachers' self-directed learning: Improving instructional practice through social media use*. Paper presented at 37th International Self-Directed Learning Symposium, International Society for Self-Directed Learning (ISSDL), Cocoa Beach, FL. (National)
+
 He, D., & Staudt Willet, K. B. (2023, October). *Interrogating education research through an invisible labor lens*. Paper presented at Association for Educational Communications and Technology (AECT) International Convention, Association for Educational Communications and Technology (AECT), Orlando, FL. (National)
 
 Na, H., & Staudt Willet, K. B. (2023, October). *Exploring educators' perceptions of ChatGPT: For whom is it useful and easy to use?*. Paper presented at Association for Educational Communications and Technology (AECT) International Convention, Association for Educational Communications and Technology (AECT), Orlando, FL. (National)
@@ -375,6 +377,9 @@ Staudt Willet, K. B., Galvin, S., & Greenhow, C. M. (presented 2021, April). Fle
 Rutherford, T., Rosenberg, J. M., & Staudt Willet, K. B. (presented 2020, April). Which birds fill the branches of the AERA Twitter tree? Twitter networks around #AERA19. In P. N. Beymer, D. K. Benden, & M. L. Bernacki (Chair), *Affordances and modeling of intensive data*. Symposium conducted at the meeting of American Educational Research Association (AERA) Annual Meeting, Conference was canceled due to the COVID-19 pandemic. (National)
 
 
+### Invited Keynote and Plenary Presentations at Conferences (1)
+
+Staudt Willet, K. B. (2023). *Teachers' self-directed learning: Possibilities and perils*. Plenary presentation at II International Online Congress on Social Networks and Teacher Training. University of Sevilla, Spain. (International). https://bretsw.com/sevilla23/
 
 ### Invited Presentations at Conferences (1)
 
@@ -579,3 +584,12 @@ Staudt Willet, K. B. (Jul 2023). NSF CAREER: Developing STEM Teachers' Culturall
 - **Co-Founder and Organizer**, SciBlack (2021–present).
 
 - **Executive Coach**, Black in Gaming (BIG) Foundation: (a) Trained and mentored members of the core leadership team. (b) Designed and implemented strategy for organizational culture and collaboration through remote and asynchronous work (2020–2021).
+
+
+##Additional Service Not Reported Elsewhere
+
+- Staudt Willet, K. B. (2023). [Public outreach] *Question Booth at Tallahassee First Friday Monthly Festival*. Ask-A-Scientist.
+
+- Staudt Willet, K. B. (2023). [Guest presentation] *Introducing Instructional Systems & Learning Technologies (ISLT)*. Leadership Tallahassee.
+
+- Staudt Willet, K. B. (2023). [Public outreach] *Gaming Livestream on Twitch.tv*. Ask-A-Scientist. https://bretsw.com/post/ask-a-scientist/
