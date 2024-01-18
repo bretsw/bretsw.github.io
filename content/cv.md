@@ -568,28 +568,21 @@ Staudt Willet, K. B. (Jul 2023). NSF CAREER: Developing STEM Teachers' Culturall
 ### Service to the Community
 
 - **Treasurer**, Parent-Teacher Organization (PTO), Kate Sullivan Elementary School (Leon County Schools) (2023–present).
-
 - **Treasurer-Elect**, Parent-Teacher Organization (PTO), Kate Sullivan Elementary School (Leon County Schools) (2022–2023).
-
 - **Member**, Teacher Appreciation Committee, Kate Sullivan Elementary School (Leon County Schools) (2022–2023).
 
 
 ## Consultation
 
 - **Front-End Developer**, IES Grant, [Quantifying the Robustness of Causal Inferences: Extensions and Application to Existing Databases](https://ies.ed.gov/funding/grantsearch/details.asp?ID=5723) (Frank, Maroulis, Saw, Xu, & Rosenberg): Designed and rebuilt interface for Konfound [web app](https://konfound-project.shinyapps.io/konfound-it/) and [website](https://konfound-project.github.io/) (2023-present).
-
 - **Data Scientist**, NSF/WTG Grant, [Diffusion of Research on Supporting Mathematics Achievement for Youth with Disabilities through Twitter Translational Visual Abstracts](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2244734) (Rodrigues, Farley-Ripple, & Malin): Collected and analyzed data for the social media intervention portion of the project.
  Mar 2023–Feb 2026).
-
 - **Co-Founder and Organizer**, SciBlack (2021–present).
-
 - **Executive Coach**, Black in Gaming (BIG) Foundation: (a) Trained and mentored members of the core leadership team. (b) Designed and implemented strategy for organizational culture and collaboration through remote and asynchronous work (2020–2021).
 
 
-##Additional Service Not Reported Elsewhere
+## Additional Service Not Reported Elsewhere
 
 - Staudt Willet, K. B. (2023). [Public outreach] *Question Booth at Tallahassee First Friday Monthly Festival*. Ask-A-Scientist.
-
 - Staudt Willet, K. B. (2023). [Guest presentation] *Introducing Instructional Systems & Learning Technologies (ISLT)*. Leadership Tallahassee.
-
 - Staudt Willet, K. B. (2023). [Public outreach] *Gaming Livestream on Twitch.tv*. Ask-A-Scientist. https://bretsw.com/post/ask-a-scientist/
