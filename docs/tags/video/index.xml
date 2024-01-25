@@ -6,7 +6,18 @@
     <description>Recent content in video on Bret Staudt Willet, Ph.D.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 01 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://bretsw.com/tags/video/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 23 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://bretsw.com/tags/video/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Farewell tidytags</title>
+      <link>https://bretsw.com/post/farewell-tidytags/</link>
+      <pubDate>Tue, 23 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://bretsw.com/post/farewell-tidytags/</guid>
+      
+        <description>I am sad to announce that Josh Rosenberg and I have decided to archive our R package, tidytags.</description>
+      
+    </item>
+    
     <item>
       <title>Ask a Scientist Gaming Livestream</title>
       <link>https://bretsw.com/post/ask-a-scientist/</link>
