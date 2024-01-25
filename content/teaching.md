@@ -12,9 +12,19 @@ contact: false
 
 **EME6356: Learning & Web Analytics** - This course addresses the collection and use of data for decision making and assessment in learning and human performance contexts. Students will get hands-on experience with small data sets and will learn how big data sets are collected and used. The course will explore the role that analytics plays in education and related fields, identify the types of questions that might be answered via both quantitative and qualitative analytics, and engage in analytic- related problem solving. This course will examine case studies and provide students with practice using a variety of tools and services that can help them collect and analyze learning and web data. There are no pre-requisites, and although data will be used prior experience with statistics or research design is not necessary.
 
+**EME5601: Introduction to Instructional Systems** - The goal of this course is for you to develop adequate knowledge of the systematic approach to instructional design, the contexts of application of this approach, and the roles of professionals in this field to be able to adapt and apply the process in a flexible and innovative manner, especially to large-scale projects.
+
 **EME6665: Synthesis, Analysis, and Argumentation in Instructional Systems Research** -  This course covers tools, techniques, and procedures for finding, synthesizing, analyzing, and summarizing research related to past and ongoing relevant topics in Instructional Systems.
 
+**EDG6362: Instructional Systems Research Seminar** - This course aims to heighten students’ awareness of the critical issues in instructional systems. It will examine how research methodologies have been used to study these issues, will explore how research programs and theories are progressively honed, and will help students begin to define programmatic areas of disciplined inquiry.
+
+**EDF5442: Inquiry and Measurement for Practitioners** - This is a foundational course that addresses inquiry and measurement concepts at a level appropriate for Master’s students. Through this course you will learn concepts and acquire skills that will help you make data-based decisions related to learning and human performance.
+
+**EDF5492: Applied Research Methods in Learning Design & Performance Technology** - This course is a survey of applied research methods commonly used to support problem-solving in learning design and performance technology contexts.
+
 **EME6357: Evaluation of Training & Instruction in Human Performance Technology** - This course focuses on the evaluation of training and instruction through a systemic analysis of the organization sponsoring the training program. The course also provides the knowledge and skills for conducting an HPT-based evaluation of training systems. Students actively participate in discussions, presentations, synthesis of materials, and the writing of papers.
+
+---
 
 ### Michigan State University
 
@@ -27,6 +37,8 @@ contact: false
 **CEP820: Teaching Students Online** - Course topics include foundations for online learning, course management systems, various models of online course design, instructor-student communication, assessment, universal design for learning, and online classroom management. Students playfully explore Google Apps, course management systems, screencasting tools, and file management systems. The semester-long project is to design a curriculum for an online course module consisting of 3-5 interconnected lessons, which may include training sessions or non-traditional courses.
 
 ![Bret's teaching](/images/bretsw-teaching.jpg)
+
+---
 
 ## Teaching Philosophy
 

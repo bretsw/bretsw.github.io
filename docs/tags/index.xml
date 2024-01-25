@@ -6,24 +6,68 @@
     <description>Recent content in Tags on Bret Staudt Willet, Ph.D.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 23 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://bretsw.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 25 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://bretsw.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>gaming</title>
-      <link>https://bretsw.com/tags/gaming/</link>
-      <pubDate>Tue, 23 Jan 2024 00:00:00 +0000</pubDate>
+      <title>fsu</title>
+      <link>https://bretsw.com/tags/fsu/</link>
+      <pubDate>Thu, 25 Jan 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://bretsw.com/tags/gaming/</guid>
+      <guid>https://bretsw.com/tags/fsu/</guid>
       
         <description></description>
       
     </item>
     
     <item>
-      <title>livestream</title>
-      <link>https://bretsw.com/tags/livestream/</link>
+      <title>notes</title>
+      <link>https://bretsw.com/tags/notes/</link>
+      <pubDate>Thu, 25 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://bretsw.com/tags/notes/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>slide deck</title>
+      <link>https://bretsw.com/tags/slide-deck/</link>
+      <pubDate>Thu, 25 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://bretsw.com/tags/slide-deck/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>teaching</title>
+      <link>https://bretsw.com/tags/teaching/</link>
+      <pubDate>Thu, 25 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://bretsw.com/tags/teaching/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>package</title>
+      <link>https://bretsw.com/tags/package/</link>
       <pubDate>Tue, 23 Jan 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://bretsw.com/tags/livestream/</guid>
+      <guid>https://bretsw.com/tags/package/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>R</title>
+      <link>https://bretsw.com/tags/r/</link>
+      <pubDate>Tue, 23 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://bretsw.com/tags/r/</guid>
       
         <description></description>
       
@@ -41,55 +85,22 @@
     </item>
     
     <item>
-      <title>video</title>
-      <link>https://bretsw.com/tags/video/</link>
+      <title>software</title>
+      <link>https://bretsw.com/tags/software/</link>
       <pubDate>Tue, 23 Jan 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://bretsw.com/tags/video/</guid>
+      <guid>https://bretsw.com/tags/software/</guid>
       
         <description></description>
       
     </item>
     
     <item>
-      <title>fsu</title>
-      <link>https://bretsw.com/tags/fsu/</link>
-      <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
+      <title>Twitter</title>
+      <link>https://bretsw.com/tags/twitter/</link>
+      <pubDate>Tue, 23 Jan 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://bretsw.com/tags/fsu/</guid>
-      
-        <description></description>
-      
-    </item>
-    
-    <item>
-      <title>notes</title>
-      <link>https://bretsw.com/tags/notes/</link>
-      <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://bretsw.com/tags/notes/</guid>
-      
-        <description></description>
-      
-    </item>
-    
-    <item>
-      <title>slide deck</title>
-      <link>https://bretsw.com/tags/slide-deck/</link>
-      <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://bretsw.com/tags/slide-deck/</guid>
-      
-        <description></description>
-      
-    </item>
-    
-    <item>
-      <title>teaching</title>
-      <link>https://bretsw.com/tags/teaching/</link>
-      <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://bretsw.com/tags/teaching/</guid>
+      <guid>https://bretsw.com/tags/twitter/</guid>
       
         <description></description>
       
@@ -272,11 +283,33 @@
     </item>
     
     <item>
-      <title>R</title>
-      <link>https://bretsw.com/tags/r/</link>
-      <pubDate>Wed, 08 Feb 2023 00:00:00 +0000</pubDate>
+      <title>gaming</title>
+      <link>https://bretsw.com/tags/gaming/</link>
+      <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://bretsw.com/tags/r/</guid>
+      <guid>https://bretsw.com/tags/gaming/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>livestream</title>
+      <link>https://bretsw.com/tags/livestream/</link>
+      <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://bretsw.com/tags/livestream/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>video</title>
+      <link>https://bretsw.com/tags/video/</link>
+      <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://bretsw.com/tags/video/</guid>
       
         <description></description>
       

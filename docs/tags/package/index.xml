@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>package on Bret Staudt Willet, Ph.D.</title>
+    <link>https://bretsw.com/tags/package/</link>
+    <description>Recent content in package on Bret Staudt Willet, Ph.D.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 23 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://bretsw.com/tags/package/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Farewell tidytags</title>
+      <link>https://bretsw.com/post/farewell-tidytags/</link>
+      <pubDate>Tue, 23 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://bretsw.com/post/farewell-tidytags/</guid>
+      
+        <description>I am sad to announce that Josh Rosenberg and I have decided to archive our R package, tidytags.</description>
+      
+    </item>
+    
+  </channel>
+</rss>

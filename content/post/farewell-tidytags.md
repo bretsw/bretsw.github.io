@@ -3,7 +3,7 @@ title: "Farewell tidytags"
 date: 2024-01-23
 thumbnail: ""
 Description: ""
-Tags: ["research", "video", "livestream", "gaming"]
+Tags: ["research", "software", "R", "package", "Twitter"]
 Categories: []
 DisableComments: true
 ---
