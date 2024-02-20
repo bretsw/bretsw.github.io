@@ -118,7 +118,7 @@ College of Education, Health, and Human Sciences
 - <i class="fas fa-graduation-cap" style="color:#782f40"></i> Wick, J., Ed.D. graduate 2023. *Middle School Teachers’ Perceptions on the Effectiveness and Relevance of Mandated Professional Development*.
 
 
-## Doctoral Committee Member (14 current, 7 graduates)
+## Doctoral Committee Member (13 current, 8 graduates)
 
 - Archer, T., doctoral candidate (Higher Education).
 - Bean, W., doctoral candidate (Sport Psychology).
@@ -128,11 +128,10 @@ College of Education, Health, and Human Sciences
 - Hrabcak, J., doctoral student (Sport Psychology).
 - Lewis, A., doctoral candidate.
 - Lott, S., doctoral candidate.
-- Pappas, S., doctoral candidate.
 - Pryor, T., doctoral candidate.
 - Sementelli, R., doctoral candidate.
 - West, L., doctoral candidate.
-- Xu, J., doctoral student.
+- Xu, J., doctoral candidate.
 - Young, K., doctoral candidate.
 - <i class="fas fa-graduation-cap" style="color:#782f40"></i> Choi, H., Ph.D. graduate 2022. *Situational Motivation and Participation in Online Discussion: A Multiple Case Study*.
 - <i class="fas fa-graduation-cap" style="color:#782f40"></i> Clifford, S., Ed.D. graduate 2023. *The Impact of Trainer Self-Efficacy and Technology Adoption on Learning Performance*.
@@ -141,10 +140,12 @@ College of Education, Health, and Human Sciences
 - <i class="fas fa-graduation-cap" style="color:#782f40"></i> Jones, M., Ed.D. graduate 2022. *Supporting LGBTQ+ Students in Online Environments: A Qualitative Study of Higher Education Initiatives and Leadership Practices in Large Public Universities*.
 - <i class="fas fa-graduation-cap" style="color:#782f40"></i> Kent, H., Ph.D. graduate 2022. *Informal Learning to Support Volunteer Work*.
 - <i class="fas fa-graduation-cap" style="color:#782f40"></i> Medina, J., Ed.D. graduate 2023. *Informal Learning in the Workplace: A Study of a Municipal Utility in the Southeast*.
+- <i class="fas fa-graduation-cap" style="color:#782f40"></i> Pappas, S., Ed.D. graduate 2024. *What Motivates Business Students' Internship Enrollment Decisions? Exploring Factors Influential to Decision-Making*.
 
 
+## Invited Guest Lectures (14)
 
-## Invited Guest Lectures (13)
+Staudt Willet, K. B. (2024). *Self-directed learning for mechanical engineering problem-solving* [Guest lecture for graduate students]. Mechanical Engineering department, FAMU-FSU College of Engineering.
 
 Staudt Willet, K. B., & He, D. (2023). *Task/project management in grad school* [Guest lecture for doctoral students]. Instructional Systems & Learning Technologies program, Florida State University.
 
