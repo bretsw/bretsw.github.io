@@ -18,7 +18,9 @@ I am very excited to announce a new research study, *Game Developers' Self-Direc
 
 ## Introduction
 
-In this study, we want to find out more about how game developers engage in self-directed learning to acquire and enhance their skills. I am asking you to be in this study because you are a professional working in the games industry. If you agree to participate, I will ask you to answer some questions about your own experiences and processes of learning in the video games industry. I will make an audio recording of your responses. Later, I will share a transcript of the interview with you to check that you said what you intended to say. Your involvement in the study is expected to last less than one hour. If you want to stop at any time, just tell me and we will stop.  
+In this study, we want to find out more about how game developers engage in self-directed learning to acquire and enhance their skills. I am asking you to be in this study because you are a professional working in the games industry. If you agree to participate, I will ask you to answer some questions about your own experiences and processes of learning in the video games industry. 
+
+Your involvement in the study will last less than one hour. If you want to stop at any time, just tell me and we will stop. You don’t have to be in this research study. You can say yes now and still change your mind later, at any point.
 
 <img src="/images/SDL.png" width="300">
 
@@ -41,6 +43,6 @@ Although existing research has explored self-directed learning in workplace cont
 
 By revealing patterns and trends in self-directed learning among game developers, the study may inform the design of more tailored and effective educational programs, resources, and support systems. This, in turn, could enhance the professional development and skill acquisition of future game developers, leading to a more skilled and innovative workforce within the industry. Furthermore, the research findings may contribute to the advancement of theoretical frameworks and understanding of self-directed learning processes, benefiting researchers and educators in related fields.
 
-**Reference:**
+## Reference
 
 Yeo, R.K. (2008). How does learning (not) take place in problem-based learning activities in workplace contexts? *Human Resource Development International, 11*, 317–330.  https://doi.org/10.1080/13678860802102609
