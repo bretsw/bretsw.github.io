@@ -526,16 +526,20 @@ Staudt Willet, K. B. (Jul 2023). NSF CAREER: Developing STEM Teachers' Culturall
 
 ### Editorial Board Memberships
 
+- *British Journal of Educational Technology* (2024-present).
 - *Journal of Research on Technology in Education* (2023–present).
 
 ### Guest Reviewer for Refereed Journals (64 reviews)
 
 - *AERA Open* (2021).
 - *American Journal of Education* (2019-2020).
+- *British Journal of Educational Technology* (2024-present).
 - *Computers & Education* (2021–present).
 - *Contemporary Educational Technology* (2023-present).
 - *Contemporary Issues in Technology & Teacher Education* (2021).
 - *EdTechnica* (2022).
+= *Educational Technology Research & Development* (2024-present).
+- *Heliyon* (2024-present).
 - *International Journal of Educational Technology in Higher Education* (2023–present).
 - *Internet & Higher Education* (2019–present).
 - *Journal of Applied Instructional Design* (2023-present).
@@ -543,16 +547,19 @@ Staudt Willet, K. B. (Jul 2023). NSF CAREER: Developing STEM Teachers' Culturall
 - *Journal of Information Technology & Politics* (2020).
 - *Journal of Research on Technology in Education* (2021–present).
 - *Journal of Science Education & Technology* (2023-present).
+- *Journal of Science Teaching* (2024-present).
 - *Learning, Media & Technology* (2016).
 - *Professional Development in Education* (2022-present).
 - *Review of Educational Research* (2023-present).
 - *Routledge Open Research* (2023-present).
 - *Teaching & Teacher Education* (2021-present).
-- *TechTrends* (2021).
+- *TechTrends* (2021-present).
 
 
 ### Service to Professional Associations
 
+- **Chair-Elect**, Technology as an Agent of Change in Teaching & Learning Special Interest Group (TACTL SIG), American Educational Research Association (AERA) (2024-2025).
+- **Past-President**, Research & Theory Division, Association for Educational Communications & Technology (AECT) (2024-2025).
 - **President**, Research & Theory Division, Association for Educational Communications & Technology (AECT) (2023-2024).
 - **Chair**, Devs with Kids SIG, International Game Developers Association (IGDA) (2022-present).
 - **President-Elect**, Research & Theory Division, Association for Educational Communications & Technology (AECT) (2022–2023).
