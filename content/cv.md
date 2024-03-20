@@ -61,11 +61,9 @@ College of Education, Health, and Human Sciences
 
 - <i class="fas fa-award" style="color:#ceb888"></i> **McJulien Scholar Best Paper Award** from the Culture, Learning, & Technology Division, Association for Educational Communications & Technology (AECT) (2023).
 - <i class="fas fa-award" style="color:#ceb888"></i> **Early Career Scholar Award** from the Technology as an Agent of Change in Teaching & Learning Special Interest Group (TACTL SIG), American Educational Research Association (AERA) (2023).
-- <i class="fas fa-award" style="color:#ceb888"></i> **Marvalene Hughes Research in Education Conference Travel Award**, Florida State University, College of Education (2023). ($2,000).
 - Nominated: **COE Teaching Award for Graduate Teaching**, Florida State University, College of Education (2023).
 - <i class="fas fa-award" style="color:#ceb888"></i> **Qualitative Inquiry Award** from the AECT Foundation and Research & Theory Division, Association for Educational Communications & Technology (2022). ($750).
 - <i class="fas fa-award" style="color:#ceb888"></i> **Best Paper Award** from the Technology as an Agent of Change in Teaching & Learning Special Interest Group (TACTL SIG), American Educational Research Association (AERA) (2022).
-- <i class="fas fa-award" style="color:#ceb888"></i> **Marvalene Hughes Research in Education Conference Travel Award**, Florida State University, College of Education (2022). ($700). 
 - Nominated: **COE Teaching Award for Graduate Teaching** (not eligible to win), Florida State University, College of Education (2022).
 - <i class="fas fa-award" style="color:#ceb888"></i> **Outstanding Service Award** from the Research & Theory Division, Association for Educational Communications & Technology (AECT) (2021).
 - <i class="fas fa-award" style="color:#ceb888"></i> **Best Fully Online Course - CEP 817**, MSU AT&T Faculty-Staff Annual Competition in Instructional Technology, Michigan State University (2021). ($500). 
@@ -143,11 +141,9 @@ College of Education, Health, and Human Sciences
 - <i class="fas fa-graduation-cap" style="color:#782f40"></i> Pappas, S., Ed.D. graduate 2024. *What Motivates Business Students' Internship Enrollment Decisions? Exploring Factors Influential to Decision-Making*.
 
 
-## Invited Guest Lectures (14)
+## Invited Guest Lectures (12)
 
 Staudt Willet, K. B. (2024). *Self-directed learning for mechanical engineering problem-solving* [Guest lecture for graduate students]. Mechanical Engineering department, FAMU-FSU College of Engineering.
-
-Staudt Willet, K. B., & He, D. (2023). *Task/project management in grad school* [Guest lecture for doctoral students]. Instructional Systems & Learning Technologies program, Florida State University.
 
 Greenhalgh, S., Hu, A., Rosenberg, J., & Staudt Willet, K. B. (2023). *A conversation about what ChatGPT is, how it is impacting universities, and how might we make "good" use of it* [Panel]. College of Education, Michigan State University. 
 
@@ -160,8 +156,6 @@ Staudt Willet, K. B. (2022). *The front page of the internet: Reflections from s
 Staudt Willet, K. B. (2021). *Finding the right balance: Risk and societal benefit from big data* [Guest lecture for Doctoral course Core Methods in Educational Data Mining]. Teachers College, Columbia University. 
 
 Staudt Willet, K. B. (2021). *Interviewing for faculty jobs* [Panel for doctoral students]. Instructional Systems & Learning Technologies program, Florida State University. 
-
-Staudt Willet, K. B. (2021). *Faculty job search* [Panel for doctoral students]. Instructional Systems & Learning Technologies program, Florida State University. 
 
 Staudt Willet, K. B. (2020). *Welcome to the good place?: Teachers' networked learning on social media* [Guest lecture for Master's course Teaching with Technology]. Manhattanville College, Purchase, NY. 
 
@@ -183,11 +177,11 @@ Staudt Willet, K. B. (2018). *Experiences from the practicum* [Panel for doctora
 
 ### Refereed Journal Articles (22)
 
+Staudt Willet, K. B. (2024). Early career teachers’ expansion of professional learning networks with social media. *Professional Development in Education, 50*(2), 386-402. doi:[10.1080/19415257.2023.2178481](https://doi.org/10.1080/19415257.2023.2178481)
+
 Greenhow, C., Lewin, C., & Staudt Willet, K. B. (2023). Teachers without borders: Professional learning spanning social media, place, and time. *Learning, Media and Technology, 48*(4), 666-684. doi:[10.1080/17439884.2023.2209326](https://doi.org/10.1080/17439884.2023.2209326)
 
 Smith, C., & Staudt Willet, K. B. (2023). A model for culturally sustaining instructional design. *Journal of Applied Instructional Design, 12*(2). doi:[10.59668/722.13027](https://doi.org/10.59668/722.13027)
-
-Staudt Willet, K. B. (2023). Early career teachers’ expansion of professional learning networks with social media. *Professional Development in Education*. doi:[10.1080/19415257.2023.2178481](https://doi.org/10.1080/19415257.2023.2178481)
 
 Staudt Willet, K. B., & Rosenberg, J. M. (2023). The design and effects of data science workshops for early career researchers. *Journal of Formative Design in Learning, 7*, 83-97.
 doi:[10.1007/s41686-023-00083-7](https://doi.org/10.1007/s41686-023-00083-7)
@@ -529,7 +523,7 @@ Staudt Willet, K. B. (Jul 2023). NSF CAREER: Developing STEM Teachers' Culturall
 - *British Journal of Educational Technology* (2024-present).
 - *Journal of Research on Technology in Education* (2023–present).
 
-### Guest Reviewer for Refereed Journals (64 reviews)
+### Guest Reviewer for Refereed Journals (72 reviews)
 
 - *AERA Open* (2021).
 - *American Journal of Education* (2019-2020).
@@ -547,8 +541,9 @@ Staudt Willet, K. B. (Jul 2023). NSF CAREER: Developing STEM Teachers' Culturall
 - *Journal of Information Technology & Politics* (2020).
 - *Journal of Research on Technology in Education* (2021–present).
 - *Journal of Science Education & Technology* (2023-present).
-- *Journal of Science Teaching* (2024-present).
+- *Journal of Statistics and Data Science Education* (2024-present).
 - *Learning, Media & Technology* (2016).
+- *Online Learning Journal* (2024-present).
 - *Professional Development in Education* (2022-present).
 - *Review of Educational Research* (2023-present).
 - *Routledge Open Research* (2023-present).
