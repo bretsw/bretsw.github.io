@@ -521,6 +521,7 @@ Staudt Willet, K. B. (Jul 2023). NSF CAREER: Developing STEM Teachers' Culturall
 ### Editorial Board Memberships
 
 - *British Journal of Educational Technology* (2024-present).
+- *International Journal of Self-Directed Learning* (2024-present).
 - *Journal of Research on Technology in Education* (2023–present).
 
 ### Guest Reviewer for Refereed Journals (72 reviews)
