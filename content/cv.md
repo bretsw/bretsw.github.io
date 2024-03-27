@@ -106,27 +106,26 @@ College of Education, Health, and Human Sciences
 
 - Aguilar, V., doctoral student.
 - Arthur, A., doctoral candidate.
-- Catteeuw, C., doctoral student.
+- Catteeuw, C., doctoral candidate.
 - Fairclough, K., doctoral candidate.
-- Madison, C., doctoral candidate.
-- Morris, V., doctoral candidate.
+- Madison, C., doctoral candidate. *Pedagogical content knowledge deveopment in elementary mathematics teachers: A qualitative study on teacher perspective on instructional practice*.
+- Morris, V., doctoral candidate. *High-achieving teenage students use social media to complete advanced placement coursework and practice academic integrity*.
 - Na, H., doctoral candidate.
 - <i class="fas fa-graduation-cap" style="color:#782f40"></i> Smith, C., Ed.D. graduate 2023. *Culturally Inclusive Instructional Strategies Implemented by Designers-by-Assignment in Higher Education Student Services*.
 - <i class="fas fa-graduation-cap" style="color:#782f40"></i> Stoutjesdyk, J., Ed.D. graduate 2023. *An Investigation into Florida High School English Teachers' Response to CS/HB 1467*.
 - <i class="fas fa-graduation-cap" style="color:#782f40"></i> Wick, J., Ed.D. graduate 2023. *Middle School Teachers’ Perceptions on the Effectiveness and Relevance of Mandated Professional Development*.
 
 
-## Doctoral Committee Member (13 current, 8 graduates)
+## Doctoral Committee Member (12 current, 9 graduates)
 
 - Archer, T., doctoral candidate (Higher Education).
 - Bean, W., doctoral candidate (Sport Psychology).
 - Crombie, M. doctoral candidate.
 - DeBord, E., doctoral candidate.
-- He, D., doctoral candidate.
 - Hrabcak, J., doctoral student (Sport Psychology).
 - Lewis, A., doctoral candidate.
 - Lott, S., doctoral candidate.
-- Pryor, T., doctoral candidate.
+- Pryor, T., doctoral candidate. *Cultural responsiveness in instructional design: A study of instructional designers' use of strategies in the non-academic, adult learning context*.
 - Sementelli, R., doctoral candidate.
 - West, L., doctoral candidate.
 - Xu, J., doctoral candidate.
@@ -134,6 +133,7 @@ College of Education, Health, and Human Sciences
 - <i class="fas fa-graduation-cap" style="color:#782f40"></i> Choi, H., Ph.D. graduate 2022. *Situational Motivation and Participation in Online Discussion: A Multiple Case Study*.
 - <i class="fas fa-graduation-cap" style="color:#782f40"></i> Clifford, S., Ed.D. graduate 2023. *The Impact of Trainer Self-Efficacy and Technology Adoption on Learning Performance*.
 - <i class="fas fa-graduation-cap" style="color:#782f40"></i> Graham, D., Ed.D. graduate 2022. *Teacher Perception on the Use of Game-Based Learning in the Title 1 ELA Curriculum*.
+- <i class="fas fa-graduation-cap" style="color:#782f40"></i> He, D., Ph.D. graduate 2024. *Support-seeking on social media: Navigating acculturation and academic integration among international graduate students*.
 - <i class="fas fa-graduation-cap" style="color:#782f40"></i> Johnston, R., Ph.D. graduate 2023. *Characteristics of High-Performing Volunteer Nonprofit Board Members*.
 - <i class="fas fa-graduation-cap" style="color:#782f40"></i> Jones, M., Ed.D. graduate 2022. *Supporting LGBTQ+ Students in Online Environments: A Qualitative Study of Higher Education Initiatives and Leadership Practices in Large Public Universities*.
 - <i class="fas fa-graduation-cap" style="color:#782f40"></i> Kent, H., Ph.D. graduate 2022. *Informal Learning to Support Volunteer Work*.
