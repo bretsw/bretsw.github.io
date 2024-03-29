@@ -102,15 +102,16 @@ College of Education, Health, and Human Sciences
 
 
 
-## Doctoral Committee Chair (7 current, 3 graduates)
+## Doctoral Committee Chair (6 current, 4 graduates)
 
 - Aguilar, V., doctoral student.
 - Arthur, A., doctoral candidate.
 - Catteeuw, C., doctoral candidate.
 - Fairclough, K., doctoral candidate.
-- Madison, C., doctoral candidate. *Pedagogical content knowledge deveopment in elementary mathematics teachers: A qualitative study on teacher perspective on instructional practice*.
-- Morris, V., doctoral candidate. *High-achieving teenage students use social media to complete advanced placement coursework and practice academic integrity*.
+- Madison, C., doctoral candidate. *Pedagogical content knowledge development in elementary mathematics teachers: A qualitative study on teacher perspective on instructional practice*.
 - Na, H., doctoral candidate.
+
+- <i class="fas fa-graduation-cap" style="color:#782f40"></i> Morris, V., Ed.D. graduate 2024. *High-achieving teenage students' use of social media and technology to complete advanced placement coursework*.
 - <i class="fas fa-graduation-cap" style="color:#782f40"></i> Smith, C., Ed.D. graduate 2023. *Culturally Inclusive Instructional Strategies Implemented by Designers-by-Assignment in Higher Education Student Services*.
 - <i class="fas fa-graduation-cap" style="color:#782f40"></i> Stoutjesdyk, J., Ed.D. graduate 2023. *An Investigation into Florida High School English Teachers' Response to CS/HB 1467*.
 - <i class="fas fa-graduation-cap" style="color:#782f40"></i> Wick, J., Ed.D. graduate 2023. *Middle School Teachers’ Perceptions on the Effectiveness and Relevance of Mandated Professional Development*.
@@ -130,6 +131,7 @@ College of Education, Health, and Human Sciences
 - West, L., doctoral candidate.
 - Xu, J., doctoral candidate.
 - Young, K., doctoral candidate.
+
 - <i class="fas fa-graduation-cap" style="color:#782f40"></i> Choi, H., Ph.D. graduate 2022. *Situational Motivation and Participation in Online Discussion: A Multiple Case Study*.
 - <i class="fas fa-graduation-cap" style="color:#782f40"></i> Clifford, S., Ed.D. graduate 2023. *The Impact of Trainer Self-Efficacy and Technology Adoption on Learning Performance*.
 - <i class="fas fa-graduation-cap" style="color:#782f40"></i> Graham, D., Ed.D. graduate 2022. *Teacher Perception on the Use of Game-Based Learning in the Title 1 ELA Curriculum*.
@@ -175,7 +177,9 @@ Staudt Willet, K. B. (2018). *Experiences from the practicum* [Panel for doctora
 
 ## Publications
 
-### Refereed Journal Articles (22)
+### Refereed Journal Articles (23)
+
+Na, H., Staudt Willet, K. B., Shi, H., Hur, J., He, D., & Kim, C. (in press). Initial discussions of ChatGPT in education-related subreddits. *Journal of Research on Technology in Education*.
 
 Staudt Willet, K. B. (2024). Early career teachers’ expansion of professional learning networks with social media. *Professional Development in Education, 50*(2), 386-402. doi:[10.1080/19415257.2023.2178481](https://doi.org/10.1080/19415257.2023.2178481)
 
@@ -186,7 +190,7 @@ Smith, C., & Staudt Willet, K. B. (2023). A model for culturally sustaining inst
 Staudt Willet, K. B., & Rosenberg, J. M. (2023). The design and effects of data science workshops for early career researchers. *Journal of Formative Design in Learning, 7*, 83-97.
 doi:[10.1007/s41686-023-00083-7](https://doi.org/10.1007/s41686-023-00083-7)
 
-Na, H., & Staudt Willet, K. B. (2022). Affinity and anonymity benefitting early career teachers in the r/Teachers subreddit. *Journal of Research on Technology in Education* doi:[10.1080/15391523.2022.2150727](https://doi.org/10.1080/15391523.2022.2150727)
+Na, H., & Staudt Willet, K. B. (2022). Affinity and anonymity benefitting early career teachers in the r/Teachers subreddit. *Journal of Research on Technology in Education*. doi:[10.1080/15391523.2022.2150727](https://doi.org/10.1080/15391523.2022.2150727)
 
 Muljana, P. S., Staudt Willet, K. B., & Luo, T. (2022). Adjusting sails for changing winds: Exploring Reddit use for professional purposes in higher education. *Journal of Computing in Higher Education, 34*(3), 679–707. doi:[10.1007/s12528-022-09317-2](https://doi.org/10.1007/s12528-022-09317-2)
 
