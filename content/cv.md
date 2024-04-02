@@ -179,7 +179,7 @@ Staudt Willet, K. B. (2018). *Experiences from the practicum* [Panel for doctora
 
 ### Refereed Journal Articles (23)
 
-Na, H., Staudt Willet, K. B., Shi, H., Hur, J., He, D., & Kim, C. (in press). Initial discussions of ChatGPT in education-related subreddits. *Journal of Research on Technology in Education*.
+Na, H., Staudt Willet, K. B., Shi, H., Hur, J., He, D., & Kim, C. (in press). Initial discussions of ChatGPT in education-related subreddits. *Journal of Research on Technology in Education*. doi:[10.1080/15391523.2024.2338091](https://doi.org/10.1080/15391523.2024.2338091)
 
 Staudt Willet, K. B. (2024). Early career teachers’ expansion of professional learning networks with social media. *Professional Development in Education, 50*(2), 386-402. doi:[10.1080/19415257.2023.2178481](https://doi.org/10.1080/19415257.2023.2178481)
 
