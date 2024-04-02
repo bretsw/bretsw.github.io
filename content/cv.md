@@ -102,22 +102,26 @@ College of Education, Health, and Human Sciences
 
 
 
-## Doctoral Committee Chair (6 current, 4 graduates)
+## Doctoral Committee Chair (9 current, 5 graduates)
 
 - Aguilar, V., doctoral student.
+- Aich, S., doctoral student.
 - Arthur, A., doctoral candidate.
 - Catteeuw, C., doctoral candidate.
+- Costa, A., doctoral student.
 - Fairclough, K., doctoral candidate.
-- Madison, C., doctoral candidate. *Pedagogical content knowledge development in elementary mathematics teachers: A qualitative study on teacher perspective on instructional practice*.
+- Harle, J., doctoral student.
 - Na, H., doctoral candidate.
+- Rodriguez, C., doctoral student.
 
+- <i class="fas fa-graduation-cap" style="color:#782f40"></i> Madison, C., Ed.D. graduate 2024. *Pedagogical content knowledge in elementary mathematics teachers: A qualitative study on teacher perspective and instructional practice*.
 - <i class="fas fa-graduation-cap" style="color:#782f40"></i> Morris, V., Ed.D. graduate 2024. *High-achieving teenage students' use of social media and technology to complete advanced placement coursework*.
 - <i class="fas fa-graduation-cap" style="color:#782f40"></i> Smith, C., Ed.D. graduate 2023. *Culturally Inclusive Instructional Strategies Implemented by Designers-by-Assignment in Higher Education Student Services*.
 - <i class="fas fa-graduation-cap" style="color:#782f40"></i> Stoutjesdyk, J., Ed.D. graduate 2023. *An Investigation into Florida High School English Teachers' Response to CS/HB 1467*.
 - <i class="fas fa-graduation-cap" style="color:#782f40"></i> Wick, J., Ed.D. graduate 2023. *Middle School Teachers’ Perceptions on the Effectiveness and Relevance of Mandated Professional Development*.
 
 
-## Doctoral Committee Member (12 current, 9 graduates)
+## Doctoral Committee Member (11 current, 10 graduates)
 
 - Archer, T., doctoral candidate (Higher Education).
 - Bean, W., doctoral candidate (Sport Psychology).
@@ -126,7 +130,6 @@ College of Education, Health, and Human Sciences
 - Hrabcak, J., doctoral student (Sport Psychology).
 - Lewis, A., doctoral candidate.
 - Lott, S., doctoral candidate.
-- Pryor, T., doctoral candidate. *Cultural responsiveness in instructional design: A study of instructional designers' use of strategies in the non-academic, adult learning context*.
 - Sementelli, R., doctoral candidate.
 - West, L., doctoral candidate.
 - Xu, J., doctoral candidate.
@@ -141,6 +144,8 @@ College of Education, Health, and Human Sciences
 - <i class="fas fa-graduation-cap" style="color:#782f40"></i> Kent, H., Ph.D. graduate 2022. *Informal Learning to Support Volunteer Work*.
 - <i class="fas fa-graduation-cap" style="color:#782f40"></i> Medina, J., Ed.D. graduate 2023. *Informal Learning in the Workplace: A Study of a Municipal Utility in the Southeast*.
 - <i class="fas fa-graduation-cap" style="color:#782f40"></i> Pappas, S., Ed.D. graduate 2024. *What Motivates Business Students' Internship Enrollment Decisions? Exploring Factors Influential to Decision-Making*.
+- <i class="fas fa-graduation-cap" style="color:#782f40"></i> Pryor, T., Ed.D. graduate 2024. *Cultural responsiveness in instructional design: A study of instructional designers' use of strategies in the non-academic, adult learning context*.
+
 
 
 ## Invited Guest Lectures (12)
