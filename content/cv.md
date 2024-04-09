@@ -148,6 +148,8 @@ College of Education, Health, and Human Sciences
 
 ## Invited Guest Lectures (12)
 
+Staudt Willet, K. B. (2024). *Advice for academic publishing* [Guest lecture for doctoral course CEP 956: Mind, Media and Learning]. Educational Psychology & Educational Technology program, Michigan State University. 
+
 Staudt Willet, K. B. (2024). *Self-directed learning for mechanical engineering problem-solving* [Guest lecture for graduate students]. Mechanical Engineering department, FAMU-FSU College of Engineering.
 
 Greenhalgh, S., Hu, A., Rosenberg, J., & Staudt Willet, K. B. (2023). *A conversation about what ChatGPT is, how it is impacting universities, and how might we make "good" use of it* [Panel]. College of Education, Michigan State University. 
@@ -159,8 +161,6 @@ Staudt Willet, K. B. (2022). *Picture this: Telling data stories through visuali
 Staudt Willet, K. B. (2022). *The front page of the internet: Reflections from studying Reddit* [Guest lecture for Master's course Digital Media and Educational Psychology]. University of Tübingen, Germany.
 
 Staudt Willet, K. B. (2021). *Finding the right balance: Risk and societal benefit from big data* [Guest lecture for Doctoral course Core Methods in Educational Data Mining]. Teachers College, Columbia University. 
-
-Staudt Willet, K. B. (2021). *Interviewing for faculty jobs* [Panel for doctoral students]. Instructional Systems & Learning Technologies program, Florida State University. 
 
 Staudt Willet, K. B. (2020). *Welcome to the good place?: Teachers' networked learning on social media* [Guest lecture for Master's course Teaching with Technology]. Manhattanville College, Purchase, NY. 
 
@@ -182,7 +182,7 @@ Staudt Willet, K. B. (2018). *Experiences from the practicum* [Panel for doctora
 
 ### Refereed Journal Articles (23)
 
-Na, H., Staudt Willet, K. B., Shi, H., Hur, J., He, D., & Kim, C. (in press). Initial discussions of ChatGPT in education-related subreddits. *Journal of Research on Technology in Education*. doi:[10.1080/15391523.2024.2338091](https://doi.org/10.1080/15391523.2024.2338091)
+Na, H., Staudt Willet, K. B., Shi, H., Hur, J., He, D., & Kim, C. (2024). Initial discussions of ChatGPT in education-related subreddits. *Journal of Research on Technology in Education*. doi:[10.1080/15391523.2024.2338091](https://doi.org/10.1080/15391523.2024.2338091)
 
 Staudt Willet, K. B. (2024). Early career teachers’ expansion of professional learning networks with social media. *Professional Development in Education, 50*(2), 386-402. doi:[10.1080/19415257.2023.2178481](https://doi.org/10.1080/19415257.2023.2178481)
 

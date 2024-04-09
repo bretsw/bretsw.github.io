@@ -10,6 +10,11 @@ mainSectionsTitle = ""
 
 ---
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-tvNCCMEjU?si=cOoV1mQ2UAj_DB5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+Read my full interview with Melissa Powell in *The Torch* magazine: [Learning Without Limits](https://issuu.com/fsu_education/docs/thetorchspring24_finaldigital) (2024, pp. 16-19).
+---
+
 I am an Assistant Professor of [Instructional Systems & Learning Technologies](https://education.fsu.edu/instructional-systems-and-learning-technologies) at Florida State University. My preferred pronouns are **he/him/his**.
 
 My Florida State University homepage is [here](https://cehhs.fsu.edu/faculty-and-staff/dr-bret-staudt-willet).
