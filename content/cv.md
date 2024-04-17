@@ -59,6 +59,7 @@ College of Education, Health, and Human Sciences
 
 ## Honors, Awards, and Prizes
 
+- Nominated: **University Graduate Teaching Award**, Florida State University (2024).
 - <i class="fas fa-award" style="color:#ceb888"></i> **McJulien Scholar Best Paper Award** from the Culture, Learning, & Technology Division, Association for Educational Communications & Technology (AECT) (2023).
 - <i class="fas fa-award" style="color:#ceb888"></i> **Early Career Scholar Award** from the Technology as an Agent of Change in Teaching & Learning Special Interest Group (TACTL SIG), American Educational Research Association (AERA) (2023).
 - Nominated: **COE Teaching Award for Graduate Teaching**, Florida State University, College of Education (2023).
@@ -82,109 +83,29 @@ College of Education, Health, and Human Sciences
 - Association for Educational Communications & Technology ([AECT](https://aect.org/))
 - International Game Developers Association ([IGDA](https://igda.org/))
 - International Society for Self-Directed Learning ([ISSDL](https://www.sdlglobal.com/))
-- Society for Learning Analytics Research ([SoLAR](https://www.solaresearch.org/)) 
+
 
 
 ---
 
 
-# Teaching
 
-## Courses Taught
-
-- Learning & Web Analytics (EME6356)
-- Introduction to Instructional Systems (EME5601)
-- Synthesis, Analysis, and Argumentation in Instructional Systems Research (EME6665)
-- Instructional Systems Research Seminar (EDG6362)
-- Inquiry and Measurement for Practitioners (EDF5442)
-- Applied Research Methods in Learning Design & Performance Technology (EDF5492)
-- Evaluation of Instruction & Training in Human-Performance Technology (EME6357)
+# Research
 
 
-
-## Doctoral Committee Chair (9 current, 5 graduates)
-
-- Aguilar, V., doctoral student.
-- Aich, S., doctoral student.
-- Arthur, A., doctoral candidate.
-- Catteeuw, C., doctoral candidate.
-- Costa, A., doctoral student.
-- Fairclough, K., doctoral candidate.
-- Harle, J., doctoral student.
-- Na, H., doctoral candidate.
-- Rodriguez, C., doctoral student.
-- <i class="fas fa-graduation-cap" style="color:#782f40"></i> Madison, C., Ed.D. graduate 2024. *Pedagogical content knowledge in elementary mathematics teachers: A qualitative study on teacher perspective and instructional practice*.
-- <i class="fas fa-graduation-cap" style="color:#782f40"></i> Morris, V., Ed.D. graduate 2024. *High-achieving teenage students' use of social media and technology to complete advanced placement coursework*.
-- <i class="fas fa-graduation-cap" style="color:#782f40"></i> Smith, C., Ed.D. graduate 2023. *Culturally Inclusive Instructional Strategies Implemented by Designers-by-Assignment in Higher Education Student Services*.
-- <i class="fas fa-graduation-cap" style="color:#782f40"></i> Stoutjesdyk, J., Ed.D. graduate 2023. *An Investigation into Florida High School English Teachers' Response to CS/HB 1467*.
-- <i class="fas fa-graduation-cap" style="color:#782f40"></i> Wick, J., Ed.D. graduate 2023. *Middle School Teachers’ Perceptions on the Effectiveness and Relevance of Mandated Professional Development*.
-
-
-## Doctoral Committee Member (11 current, 10 graduates)
-
-- Archer, T., doctoral candidate (Higher Education).
-- Bean, W., doctoral candidate (Sport Psychology).
-- Crombie, M. doctoral candidate.
-- DeBord, E., doctoral candidate.
-- Hrabcak, J., doctoral student (Sport Psychology).
-- Lewis, A., doctoral candidate.
-- Lott, S., doctoral candidate.
-- Sementelli, R., doctoral candidate.
-- West, L., doctoral candidate.
-- Xu, J., doctoral candidate.
-- Young, K., doctoral candidate.
-- <i class="fas fa-graduation-cap" style="color:#782f40"></i> Choi, H., Ph.D. graduate 2022. *Situational Motivation and Participation in Online Discussion: A Multiple Case Study*.
-- <i class="fas fa-graduation-cap" style="color:#782f40"></i> Clifford, S., Ed.D. graduate 2023. *The Impact of Trainer Self-Efficacy and Technology Adoption on Learning Performance*.
-- <i class="fas fa-graduation-cap" style="color:#782f40"></i> Graham, D., Ed.D. graduate 2022. *Teacher Perception on the Use of Game-Based Learning in the Title 1 ELA Curriculum*.
-- <i class="fas fa-graduation-cap" style="color:#782f40"></i> He, D., Ph.D. graduate 2024. *Support-seeking on social media: Navigating acculturation and academic integration among international graduate students*.
-- <i class="fas fa-graduation-cap" style="color:#782f40"></i> Johnston, R., Ph.D. graduate 2023. *Characteristics of High-Performing Volunteer Nonprofit Board Members*.
-- <i class="fas fa-graduation-cap" style="color:#782f40"></i> Jones, M., Ed.D. graduate 2022. *Supporting LGBTQ+ Students in Online Environments: A Qualitative Study of Higher Education Initiatives and Leadership Practices in Large Public Universities*.
-- <i class="fas fa-graduation-cap" style="color:#782f40"></i> Kent, H., Ph.D. graduate 2022. *Informal Learning to Support Volunteer Work*.
-- <i class="fas fa-graduation-cap" style="color:#782f40"></i> Medina, J., Ed.D. graduate 2023. *Informal Learning in the Workplace: A Study of a Municipal Utility in the Southeast*.
-- <i class="fas fa-graduation-cap" style="color:#782f40"></i> Pappas, S., Ed.D. graduate 2024. *What Motivates Business Students' Internship Enrollment Decisions? Exploring Factors Influential to Decision-Making*.
-- <i class="fas fa-graduation-cap" style="color:#782f40"></i> Pryor, T., Ed.D. graduate 2024. *Cultural responsiveness in instructional design: A study of instructional designers' use of strategies in the non-academic, adult learning context*.
-
-
-
-## Invited Guest Lectures (12)
-
-Staudt Willet, K. B. (2024). *Advice for academic publishing* [Guest lecture for doctoral course CEP 956: Mind, Media and Learning]. Educational Psychology & Educational Technology program, Michigan State University. 
-
-Staudt Willet, K. B. (2024). *Self-directed learning for mechanical engineering problem-solving* [Guest lecture for graduate students]. Mechanical Engineering department, FAMU-FSU College of Engineering.
-
-Greenhalgh, S., Hu, A., Rosenberg, J., & Staudt Willet, K. B. (2023). *A conversation about what ChatGPT is, how it is impacting universities, and how might we make "good" use of it* [Panel]. College of Education, Michigan State University. 
-
-Staudt Willet, K. B. (2022). *Insights for academic publishing* [Guest lecture for doctoral course CEP 956: Mind, Media and Learning]. Educational Psychology & Educational Technology program, Michigan State University. 
-
-Staudt Willet, K. B. (2022). *Picture this: Telling data stories through visualizations* [Guest lecture for Master's course Teaching with Technology]. Manhattanville College, Purchase, NY.
-
-Staudt Willet, K. B. (2022). *The front page of the internet: Reflections from studying Reddit* [Guest lecture for Master's course Digital Media and Educational Psychology]. University of Tübingen, Germany.
-
-Staudt Willet, K. B. (2021). *Finding the right balance: Risk and societal benefit from big data* [Guest lecture for Doctoral course Core Methods in Educational Data Mining]. Teachers College, Columbia University. 
-
-Staudt Willet, K. B. (2020). *Welcome to the good place?: Teachers' networked learning on social media* [Guest lecture for Master's course Teaching with Technology]. Manhattanville College, Purchase, NY. 
-
-Staudt Willet, K. B. (2020). *You are stronger than you think: Insights for academic publishing* [Guest lecture for doctoral course CEP 956: Mind, Media and Learning]. Educational Psychology & Educational Technology program, Michigan State University. 
-
-Staudt Willet, K. B., & Bork, W. (2019). *Electronic assessment* [Presentation for Master of Arts in Educational Technology (MAET) instructor huddle]. Educational Psychology & Educational Technology program, Michigan State University. 
-
-Staudt Willet, K. B. (2019). *Insights for academic publishing* [Guest lecture for doctoral course CEP 956: Mind, Media and Learning]. Educational Psychology & Educational Technology program, Michigan State University. 
-
-Staudt Willet, K. B. (2018). *Experiences from the practicum* [Panel for doctoral course CEP 955: Research Design and Methods for Educational Psychology and Educational Technology]. Educational Psychology & Educational Technology program, Michigan State University. 
-
-
----
-
-
-# Research and Original Creative Work
 
 ## Publications
 
-### Refereed Journal Articles (23)
+
+### Refereed Journal Articles (25)
 
 Na, H., Staudt Willet, K. B., Shi, H., Hur, J., He, D., & Kim, C. (2024). Initial discussions of ChatGPT in education-related subreddits. *Journal of Research on Technology in Education*. doi:[10.1080/15391523.2024.2338091](https://doi.org/10.1080/15391523.2024.2338091)
 
 Staudt Willet, K. B. (2024). Early career teachers’ expansion of professional learning networks with social media. *Professional Development in Education, 50*(2), 386-402. doi:[10.1080/19415257.2023.2178481](https://doi.org/10.1080/19415257.2023.2178481)
+
+Staudt Willet, K. B., & He, D. (in press). Educators’ invisible labor: A systematic review. *Review of Education*.
+
+Staudt Willet, K. B., & Na, H. (in press). Generative AI generating buzz: Volume, engagement, and content of initial reactions to ChatGPT in discussions across education-related subreddits. *Online Learning*.
 
 Greenhow, C., Lewin, C., & Staudt Willet, K. B. (2023). Teachers without borders: Professional learning spanning social media, place, and time. *Learning, Media and Technology, 48*(4), 666-684. doi:[10.1080/17439884.2023.2209326](https://doi.org/10.1080/17439884.2023.2209326)
 
@@ -490,6 +411,92 @@ Staudt Willet, K. B. (Jul 2023). NSF CAREER: Developing STEM Teachers' Culturall
 - Staudt Willet, K. B., Kim, A., & Xue, H. (Jan 2023). *SEED: Leveling Up the Culturally Sustaining Self-Directed Learning of Black Game Developers*. Submitted to Florida State University, Council on Research and Creativity. Total requested $97,368. *I was the PI for this grant proposal.*
 - Staudt Willet, K. B., Kim, A., & Xue, H. (Sep 2022). *SEED: Leveling Up the Self-Directed Learning of Early Career Black Game Developers*. Submitted to Florida State University, Council on Research and Creativity. Total requested $62,150. *I was the PI for this grant proposal.*
 - Staudt Willet, K. B. (Oct 2019). *NAEd/Spencer Dissertation Fellowship: Into the Edu-verse: Early-Career Educators Seeking Induction Support on Social Media*. Submitted to the National Academy of Education. Total requested $27,500. *I was the PI for this grant proposal.*
+
+
+
+# Teaching
+
+## Courses Taught
+
+- Learning & Web Analytics (EME6356)
+- Introduction to Instructional Systems (EME5601)
+- Synthesis, Analysis, and Argumentation in Instructional Systems Research (EME6665)
+- Instructional Systems Research Seminar (EDG6362)
+- Inquiry and Measurement for Practitioners (EDF5442)
+- Applied Research Methods in Learning Design & Performance Technology (EDF5492)
+- Evaluation of Instruction & Training in Human-Performance Technology (EME6357)
+
+
+
+## Doctoral Committee Chair (9 current, 5 graduates)
+
+- Aguilar, V., doctoral student.
+- Aich, S., doctoral student.
+- Arthur, A., doctoral candidate.
+- Catteeuw, C., doctoral candidate.
+- Costa, A., doctoral student.
+- Fairclough, K., doctoral candidate.
+- Harle, J., doctoral student.
+- Na, H., doctoral candidate.
+- Rodriguez, C., doctoral student.
+- <i class="fas fa-graduation-cap" style="color:#782f40"></i> Madison, C., Ed.D. graduate 2024. *Pedagogical content knowledge in elementary mathematics teachers: A qualitative study on teacher perspective and instructional practice*.
+- <i class="fas fa-graduation-cap" style="color:#782f40"></i> Morris, V., Ed.D. graduate 2024. *High-achieving teenage students' use of social media and technology to complete advanced placement coursework*.
+- <i class="fas fa-graduation-cap" style="color:#782f40"></i> Smith, C., Ed.D. graduate 2023. *Culturally Inclusive Instructional Strategies Implemented by Designers-by-Assignment in Higher Education Student Services*.
+- <i class="fas fa-graduation-cap" style="color:#782f40"></i> Stoutjesdyk, J., Ed.D. graduate 2023. *An Investigation into Florida High School English Teachers' Response to CS/HB 1467*.
+- <i class="fas fa-graduation-cap" style="color:#782f40"></i> Wick, J., Ed.D. graduate 2023. *Middle School Teachers’ Perceptions on the Effectiveness and Relevance of Mandated Professional Development*.
+
+
+## Doctoral Committee Member (11 current, 10 graduates)
+
+- Archer, T., doctoral candidate (Higher Education).
+- Bean, W., doctoral candidate (Sport Psychology).
+- Crombie, M. doctoral candidate.
+- DeBord, E., doctoral candidate.
+- Hrabcak, J., doctoral student (Sport Psychology).
+- Lewis, A., doctoral candidate.
+- Lott, S., doctoral candidate.
+- Sementelli, R., doctoral candidate.
+- West, L., doctoral candidate.
+- Xu, J., doctoral candidate.
+- Young, K., doctoral candidate.
+- <i class="fas fa-graduation-cap" style="color:#782f40"></i> Choi, H., Ph.D. graduate 2022. *Situational Motivation and Participation in Online Discussion: A Multiple Case Study*.
+- <i class="fas fa-graduation-cap" style="color:#782f40"></i> Clifford, S., Ed.D. graduate 2023. *The Impact of Trainer Self-Efficacy and Technology Adoption on Learning Performance*.
+- <i class="fas fa-graduation-cap" style="color:#782f40"></i> Graham, D., Ed.D. graduate 2022. *Teacher Perception on the Use of Game-Based Learning in the Title 1 ELA Curriculum*.
+- <i class="fas fa-graduation-cap" style="color:#782f40"></i> He, D., Ph.D. graduate 2024. *Support-seeking on social media: Navigating acculturation and academic integration among international graduate students*.
+- <i class="fas fa-graduation-cap" style="color:#782f40"></i> Johnston, R., Ph.D. graduate 2023. *Characteristics of High-Performing Volunteer Nonprofit Board Members*.
+- <i class="fas fa-graduation-cap" style="color:#782f40"></i> Jones, M., Ed.D. graduate 2022. *Supporting LGBTQ+ Students in Online Environments: A Qualitative Study of Higher Education Initiatives and Leadership Practices in Large Public Universities*.
+- <i class="fas fa-graduation-cap" style="color:#782f40"></i> Kent, H., Ph.D. graduate 2022. *Informal Learning to Support Volunteer Work*.
+- <i class="fas fa-graduation-cap" style="color:#782f40"></i> Medina, J., Ed.D. graduate 2023. *Informal Learning in the Workplace: A Study of a Municipal Utility in the Southeast*.
+- <i class="fas fa-graduation-cap" style="color:#782f40"></i> Pappas, S., Ed.D. graduate 2024. *What Motivates Business Students' Internship Enrollment Decisions? Exploring Factors Influential to Decision-Making*.
+- <i class="fas fa-graduation-cap" style="color:#782f40"></i> Pryor, T., Ed.D. graduate 2024. *Cultural responsiveness in instructional design: A study of instructional designers' use of strategies in the non-academic, adult learning context*.
+
+
+
+## Invited Guest Lectures (12)
+
+Staudt Willet, K. B. (2024). *Advice for academic publishing* [Guest lecture for doctoral course CEP 956: Mind, Media and Learning]. Educational Psychology & Educational Technology program, Michigan State University. 
+
+Staudt Willet, K. B. (2024). *Self-directed learning for mechanical engineering problem-solving* [Guest lecture for graduate students]. Mechanical Engineering department, FAMU-FSU College of Engineering.
+
+Greenhalgh, S., Hu, A., Rosenberg, J., & Staudt Willet, K. B. (2023). *A conversation about what ChatGPT is, how it is impacting universities, and how might we make "good" use of it* [Panel]. College of Education, Michigan State University. 
+
+Staudt Willet, K. B. (2022). *Insights for academic publishing* [Guest lecture for doctoral course CEP 956: Mind, Media and Learning]. Educational Psychology & Educational Technology program, Michigan State University. 
+
+Staudt Willet, K. B. (2022). *Picture this: Telling data stories through visualizations* [Guest lecture for Master's course Teaching with Technology]. Manhattanville College, Purchase, NY.
+
+Staudt Willet, K. B. (2022). *The front page of the internet: Reflections from studying Reddit* [Guest lecture for Master's course Digital Media and Educational Psychology]. University of Tübingen, Germany.
+
+Staudt Willet, K. B. (2021). *Finding the right balance: Risk and societal benefit from big data* [Guest lecture for Doctoral course Core Methods in Educational Data Mining]. Teachers College, Columbia University. 
+
+Staudt Willet, K. B. (2020). *Welcome to the good place?: Teachers' networked learning on social media* [Guest lecture for Master's course Teaching with Technology]. Manhattanville College, Purchase, NY. 
+
+Staudt Willet, K. B. (2020). *You are stronger than you think: Insights for academic publishing* [Guest lecture for doctoral course CEP 956: Mind, Media and Learning]. Educational Psychology & Educational Technology program, Michigan State University. 
+
+Staudt Willet, K. B., & Bork, W. (2019). *Electronic assessment* [Presentation for Master of Arts in Educational Technology (MAET) instructor huddle]. Educational Psychology & Educational Technology program, Michigan State University. 
+
+Staudt Willet, K. B. (2019). *Insights for academic publishing* [Guest lecture for doctoral course CEP 956: Mind, Media and Learning]. Educational Psychology & Educational Technology program, Michigan State University. 
+
+Staudt Willet, K. B. (2018). *Experiences from the practicum* [Panel for doctoral course CEP 955: Research Design and Methods for Educational Psychology and Educational Technology]. Educational Psychology & Educational Technology program, Michigan State University. 
 
 
 
