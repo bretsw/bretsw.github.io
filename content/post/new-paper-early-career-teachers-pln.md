@@ -11,7 +11,7 @@ DisableComments: true
 
 ## Background
 
-I recently had an article titled "Early career teachers’ expansion of professional learning networks with social media" published in the journal *Professional Development in Education* (DOI:[10.1080/19415257.2023.2178481](https://doi.org/10.1080/19415257.2023.2178481). I am particularly excited about this publication for a few reasons:
+I recently had an article titled "Early career teachers’ expansion of professional learning networks with social media" published in the journal *Professional Development in Education* (DOI:[10.1080/19415257.2023.2178481](https://doi.org/10.1080/19415257.2023.2178481)). I am particularly excited about this publication for a few reasons:
 
 First, this article reports the heart of my dissertation work from a few years ago. It has taken a long time and several rejections to get to this final form, which is some of the best writing I've done. I appreciate the many reviewers along the way who have provided invaluable feedback. 
 
