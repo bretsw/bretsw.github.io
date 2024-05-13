@@ -97,13 +97,15 @@ College of Education, Health, and Human Sciences
 ## Publications
 
 
-### Refereed Journal Articles (25)
+### Refereed Journal Articles (26)
+
+Na, H., & Staudt Willet, K. B. (in press). Understanding beginning teachers' socio-ecological challenges: Self-directed learning in the r/Teachers subreddit. *Information and Learning Sciences*. 
 
 Na, H., Staudt Willet, K. B., Shi, H., Hur, J., He, D., & Kim, C. (2024). Initial discussions of ChatGPT in education-related subreddits. *Journal of Research on Technology in Education*. doi:[10.1080/15391523.2024.2338091](https://doi.org/10.1080/15391523.2024.2338091)
 
 Staudt Willet, K. B. (2024). Early career teachers’ expansion of professional learning networks with social media. *Professional Development in Education, 50*(2), 386-402. doi:[10.1080/19415257.2023.2178481](https://doi.org/10.1080/19415257.2023.2178481)
 
-Staudt Willet, K. B., & He, D. (in press). Educators’ invisible labor: A systematic review. *Review of Education*.
+Staudt Willet, K. B., & He, D. (2024). Educators’ invisible labor: A systematic review. *Review of Education, 12*(2), e3473. doi:[10.1002/rev3.3473]( https://doi.org/10.1002/rev3.3473)
 
 Staudt Willet, K. B., & Na, H. (in press). Generative AI generating buzz: Volume, engagement, and content of initial reactions to ChatGPT in discussions across education-related subreddits. *Online Learning*.
 
