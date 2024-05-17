@@ -432,14 +432,14 @@ Staudt Willet, K. B. (Jul 2023). NSF CAREER: Developing STEM Teachers' Culturall
 
 ## Doctoral Committee Chair (9 current, 5 graduates)
 
-- Aguilar, V., doctoral student.
+- Aguilar, V., doctoral candidate. *Using self-directed learning to prepare elementary preservice teachers to work with English language learners*.
 - Aich, S., doctoral student.
 - Arthur, A., doctoral candidate.
-- Catteeuw, C., doctoral candidate.
+- Catteeuw, C., doctoral candidate. *Examining teachers transitioning to instructional design through professional learning networks (PLN) on Linkedin*.
 - Costa, A., doctoral student.
-- Fairclough, K., doctoral candidate.
+- Fairclough, K., doctoral candidate. *Supervisory competence in behavior analysts using self-directed learning through social media*.
 - Harle, J., doctoral student.
-- Na, H., doctoral candidate.
+- Na, H., doctoral candidate. *The relationships between computational thinking development and online interactions in a Scratch online self-directed learning environment*.
 - Rodriguez, C., doctoral student.
 - <i class="fas fa-graduation-cap" style="color:#782f40"></i> Madison, C., Ed.D. graduate 2024. *Pedagogical content knowledge in elementary mathematics teachers: A qualitative study on teacher perspective and instructional practice*.
 - <i class="fas fa-graduation-cap" style="color:#782f40"></i> Morris, V., Ed.D. graduate 2024. *High-achieving teenage students' use of social media and technology to complete advanced placement coursework*.
@@ -448,7 +448,7 @@ Staudt Willet, K. B. (Jul 2023). NSF CAREER: Developing STEM Teachers' Culturall
 - <i class="fas fa-graduation-cap" style="color:#782f40"></i> Wick, J., Ed.D. graduate 2023. *Middle School Teachers’ Perceptions on the Effectiveness and Relevance of Mandated Professional Development*.
 
 
-## Doctoral Committee Member (11 current, 10 graduates)
+## Doctoral Committee Member (10 current, 11 graduates)
 
 - Archer, T., doctoral candidate (Higher Education).
 - Bean, W., doctoral candidate (Sport Psychology).
@@ -458,7 +458,6 @@ Staudt Willet, K. B. (Jul 2023). NSF CAREER: Developing STEM Teachers' Culturall
 - Lewis, A., doctoral candidate.
 - Lott, S., doctoral candidate.
 - Sementelli, R., doctoral candidate.
-- West, L., doctoral candidate.
 - Xu, J., doctoral candidate.
 - Young, K., doctoral candidate.
 - <i class="fas fa-graduation-cap" style="color:#782f40"></i> Choi, H., Ph.D. graduate 2022. *Situational Motivation and Participation in Online Discussion: A Multiple Case Study*.
@@ -471,7 +470,7 @@ Staudt Willet, K. B. (Jul 2023). NSF CAREER: Developing STEM Teachers' Culturall
 - <i class="fas fa-graduation-cap" style="color:#782f40"></i> Medina, J., Ed.D. graduate 2023. *Informal Learning in the Workplace: A Study of a Municipal Utility in the Southeast*.
 - <i class="fas fa-graduation-cap" style="color:#782f40"></i> Pappas, S., Ed.D. graduate 2024. *What Motivates Business Students' Internship Enrollment Decisions? Exploring Factors Influential to Decision-Making*.
 - <i class="fas fa-graduation-cap" style="color:#782f40"></i> Pryor, T., Ed.D. graduate 2024. *Cultural responsiveness in instructional design: A study of instructional designers' use of strategies in the non-academic, adult learning context*.
-
+- <i class="fas fa-graduation-cap" style="color:#782f40"></i> West, L., Ph.D. graduate 2024. *Dynamic visuospatial support for Mandarin tone learning in a language-driven game*.
 
 
 ## Invited Guest Lectures (12)
