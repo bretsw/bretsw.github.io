@@ -99,7 +99,7 @@ College of Education, Health, and Human Sciences
 
 ### Refereed Journal Articles (26)
 
-Na, H., & Staudt Willet, K. B. (in press). Understanding beginning teachers' socio-ecological challenges: Self-directed learning in the r/Teachers subreddit. *Information and Learning Sciences*. 
+Na, H., & Staudt Willet, K. B. (2024). Understanding beginning teachers' socio-ecological challenges: Self-directed learning in the r/Teachers subreddit. *Information and Learning Sciences*. doi:[10.1108/ILS-12-2023-0197](https://doi.org/10.1108/ILS-12-2023-0197)
 
 Na, H., Staudt Willet, K. B., Shi, H., Hur, J., He, D., & Kim, C. (2024). Initial discussions of ChatGPT in education-related subreddits. *Journal of Research on Technology in Education*. doi:[10.1080/15391523.2024.2338091](https://doi.org/10.1080/15391523.2024.2338091)
 
@@ -219,7 +219,11 @@ Staudt Willet, K. B. (2022). Review of Griffin, M. M., & Zinskie, C. D. (Eds.). 
 
 ## Presentations
 
-### Refereed Papers at Conferences (34)
+### Refereed Papers at Conferences (36)
+
+Staudt Willet, K. B., Carpenter, J. P., & Na, H. (to be presented 2024, October). *This is where we leave you: Historic retrospective of X/Twitter #Edchat*. Paper presented at Association for Educational Communications and Technology (AECT) International Convention, Association for Educational Communications and Technology (AECT), Kansas City, MO. (National)
+
+Staudt Willet, K. B., Wofford, A., Perez-Felkner, L., & Nhien, C. (to be presented 2024, October). *Understanding curricular knowledge through terminology in graduate computing course titles at minority-serving institutions*. Paper presented at Association for Educational Communications and Technology (AECT) International Convention, Association for Educational Communications and Technology (AECT), Kansas City, MO. (National)
 
 Na, H., Staudt Willet, K. B., He, D., Kim, C., Shi, H., & Hur, J. (presented 2024, April). *Unpacking discussions of ChatGPT in 25 education-related subreddits*. Paper presented at American Educational Research Association (AERA) Annual Meeting, American Educational Research Association (AERA), Philadelphia, PA. (National)
 
@@ -306,13 +310,16 @@ Rutherford, T., Rosenberg, J. M., & Staudt Willet, K. B. (presented 2020, April)
 
 Staudt Willet, K. B. (2023). *Teachers' self-directed learning: Possibilities and perils*. Plenary presentation at II International Online Congress on Social Networks and Teacher Training. University of Sevilla, Spain. (International). https://bretsw.com/sevilla23/
 
+
 ### Invited Presentations at Conferences (1)
 
 Staudt Willet, K. B. (2023). *Discussant reflections: Teacher use of social media for teaching and professional development*. Discussant notes presented at American Educational Research Association (AERA) Annual Meeting, American Educational Research Association (AERA), Chicago, IL. (National). https://bretsw.com/aera23-teachers-social-media/
 
 
 
-### Refereed Presentations at Conferences (16)
+### Refereed Presentations at Conferences (17)
+
+Kim, I., Na, H., & Staudt Willet, K. B.(to be presented 2024, October). *Professional learning through social media by K-12 in-service teachers in South Korea*. Poster presentation at Association for Educational Communications and Technology (AECT) International Convention, Association for Educational Communications and Technology (AECT), Kansas City, MO. (National)
 
 Staudt Willet, K. B., Carpenter, J. P., & Na, H. (presented 2024, April). *Nobody goes there anymore, it's too crowded: Historic retrospective of Twitter #Edchat*. Poster presentation at American Educational Research Association (AERA) Annual Meeting, American Educational Research Association (AERA), Philadelphia, PA. (National)
 
@@ -430,11 +437,12 @@ Staudt Willet, K. B. (Jul 2023). NSF CAREER: Developing STEM Teachers' Culturall
 
 
 
-## Doctoral Committee Chair (9 current, 5 graduates)
+## Doctoral Committee Chair (10 current, 5 graduates)
 
 - Aguilar, V., doctoral candidate. *Using self-directed learning to prepare elementary preservice teachers to work with English language learners*.
 - Aich, S., doctoral student.
 - Arthur, A., doctoral candidate.
+- Bai, C., doctoral student.
 - Catteeuw, C., doctoral candidate. *Examining teachers transitioning to instructional design through professional learning networks (PLN) on Linkedin*.
 - Costa, A., doctoral student.
 - Fairclough, K., doctoral candidate. *Supervisory competence in behavior analysts using self-directed learning through social media*.
@@ -448,7 +456,7 @@ Staudt Willet, K. B. (Jul 2023). NSF CAREER: Developing STEM Teachers' Culturall
 - <i class="fas fa-graduation-cap" style="color:#782f40"></i> Wick, J., Ed.D. graduate 2023. *Middle School Teachers’ Perceptions on the Effectiveness and Relevance of Mandated Professional Development*.
 
 
-## Doctoral Committee Member (10 current, 11 graduates)
+## Doctoral Committee Member (12 current, 11 graduates)
 
 - Archer, T., doctoral candidate (Higher Education).
 - Bean, W., doctoral candidate (Sport Psychology).
@@ -458,8 +466,10 @@ Staudt Willet, K. B. (Jul 2023). NSF CAREER: Developing STEM Teachers' Culturall
 - Lewis, A., doctoral candidate.
 - Lott, S., doctoral candidate.
 - Sementelli, R., doctoral candidate.
+- Shi, H., doctoral candidate.
 - Xu, J., doctoral candidate.
 - Young, K., doctoral candidate.
+- Zhang, N., doctoral candidate.
 - <i class="fas fa-graduation-cap" style="color:#782f40"></i> Choi, H., Ph.D. graduate 2022. *Situational Motivation and Participation in Online Discussion: A Multiple Case Study*.
 - <i class="fas fa-graduation-cap" style="color:#782f40"></i> Clifford, S., Ed.D. graduate 2023. *The Impact of Trainer Self-Efficacy and Technology Adoption on Learning Performance*.
 - <i class="fas fa-graduation-cap" style="color:#782f40"></i> Graham, D., Ed.D. graduate 2022. *Teacher Perception on the Use of Game-Based Learning in the Title 1 ELA Curriculum*.
