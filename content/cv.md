@@ -59,7 +59,7 @@ College of Education, Health, and Human Sciences
 
 ## Honors, Awards, and Prizes
 
-- Nominated: **University Graduate Teaching Award**, Florida State University (2024).
+- Nominated: **University Teaching and Advising Award: Outstanding Graduate Teaching**, Florida State University (2024).
 - <i class="fas fa-award" style="color:#ceb888"></i> **McJulien Scholar Best Paper Award** from the Culture, Learning, & Technology Division, Association for Educational Communications & Technology (AECT) (2023).
 - <i class="fas fa-award" style="color:#ceb888"></i> **Early Career Scholar Award** from the Technology as an Agent of Change in Teaching & Learning Special Interest Group (TACTL SIG), American Educational Research Association (AERA) (2023).
 - Nominated: **COE Teaching Award for Graduate Teaching**, Florida State University, College of Education (2023).
@@ -394,32 +394,35 @@ Staudt Willet, K. B., & Rosenberg, J. M. (2022). *tidytags: Importing and analyz
 
 ## Contracts and Grants
 
-### Contracts and Grants Funded ($296,278)
+### Contracts and Grants Funded ($297,478)
 
-- <i class="fas fa-dollar-sign" style="color:green"></i> Staudt Willet, K. B. (Apr 2023). *Dean’s Circle Research Transition Incentive Funding*. Funded by Florida State University, College of Education. **Total award $1,000.** *I was the PI for this grant.*
-- <i class="fas fa-dollar-sign" style="color:green"></i> Staudt Willet, K. B. (Feb 2023). *Open Access Publishing fund: Early career teachers’ expansion of professional learning networks with social media; Article published in Professional Development in Education*. Funded by Florida State University, College of Education. **Total award $3,000.** *I was the PI for this grant.*
-- <i class="fas fa-dollar-sign" style="color:green"></i> Wofford, A., Perez-Felkner, L., & Staudt Willet, K. B. (Jan 2023–Jun 2025). *Sloan: Aligning Graduate Education and Workforce Opportunities: A Robust, Equity-Focused Landscape Scan of Computing Terminology*. Funded by Alfred P. Sloan Foundation. **Total award $249,978** *I am a Co-PI for this grant.*
-- <i class="fas fa-dollar-sign" style="color:green"></i> Staudt Willet, K. B. (May 2022–Aug 2022). *CRC FYAP: Beginning Teachers' Self-Directed Professional Learning Through Social Media: Impacts on Instructional Practice*. Funded by Florida State University, Council on Research and Creativity. **Total award $20,000.** *I was the PI for this grant.*
-- <i class="fas fa-dollar-sign" style="color:green"></i> Staudt Willet, K. B. (Jan 2021–Apr 2021). *Dissertation Completion Fellowship: Into the Edu-verse: Early-Career Educators Seeking Induction Support on Social Media*. Funded by Michigan State University, College of Education. **Total award $7,000.** *I was the PI for this grant.*
-- <i class="fas fa-dollar-sign" style="color:green"></i> Staudt Willet, K. B. (Jan 2020). *Research Practicum/Dissertation Development Fellowship*. Funded by Michigan State University, College of Education. **Total award $1,300.** *I was the PI for this grant.*
-- <i class="fas fa-dollar-sign" style="color:green"></i> Staudt Willet, K. B. (Jan 2019). *Research Practicum/Dissertation Development Fellowship*. Funded by Michigan State University, College of Education. **Total award $2,000.** *I was the PI for this grant.*
-- <i class="fas fa-dollar-sign" style="color:green"></i> Staudt Willet, K. B. (May 2018–Aug 2019). *Summer Research Renewable Fellowship: How Educators Connect with Each Other on Social Media as Part of Their Lifelong Learning: Social Interactions in Twitter \#Edchat*. Funded by Michigan State University, College of Education. **Total award $12,000.** *I was the PI for this grant.*
+- <i class="fas fa-dollar-sign" style="color:green"></i> Staudt Willet, K. B. (Apr 2024). Dean’s Circle Research Transition Incentive Funding. Funded by Florida State University, College of Education, Health, & Human Sciences. **Total award $1,200.** *I was the PI for this grant.*
+- <i class="fas fa-dollar-sign" style="color:green"></i> Staudt Willet, K. B. (Apr 2023). Dean’s Circle Research Transition Incentive Funding. Funded by Florida State University, College of Education. **Total award $1,000.** *I was the PI for this grant.*
+- <i class="fas fa-dollar-sign" style="color:green"></i> Staudt Willet, K. B. (Feb 2023). Open Access Publishing fund: Early career teachers’ expansion of professional learning networks with social media; Article published in Professional Development in Education. Funded by Florida State University, College of Education. **Total award $3,000.** *I was the PI for this grant.*
+- <i class="fas fa-dollar-sign" style="color:green"></i> Wofford, A., Perez-Felkner, L., & Staudt Willet, K. B. (Jan 2023–Jun 2025). Sloan: Aligning Graduate Education and Workforce Opportunities: A Robust, Equity-Focused Landscape Scan of Computing Terminology. Funded by Alfred P. Sloan Foundation. **Total award $249,978** *I am a Co-PI for this grant.*
+- <i class="fas fa-dollar-sign" style="color:green"></i> Staudt Willet, K. B. (May 2022–Aug 2022). CRC FYAP: Beginning Teachers' Self-Directed Professional Learning Through Social Media: Impacts on Instructional Practice. Funded by Florida State University, Council on Research and Creativity. **Total award $20,000.** *I was the PI for this grant.*
+- <i class="fas fa-dollar-sign" style="color:green"></i> Staudt Willet, K. B. (Jan 2021–Apr 2021). Dissertation Completion Fellowship: Into the Edu-verse: Early-Career Educators Seeking Induction Support on Social Media. Funded by Michigan State University, College of Education. **Total award $7,000.** *I was the PI for this grant.*
+- <i class="fas fa-dollar-sign" style="color:green"></i> Staudt Willet, K. B. (Jan 2020). Research Practicum/Dissertation Development Fellowship. Funded by Michigan State University, College of Education. **Total award $1,300.** *I was the PI for this grant.*
+- <i class="fas fa-dollar-sign" style="color:green"></i> Staudt Willet, K. B. (Jan 2019). Research Practicum/Dissertation Development Fellowship. Funded by Michigan State University, College of Education. **Total award $2,000.** *I was the PI for this grant.*
+- <i class="fas fa-dollar-sign" style="color:green"></i> Staudt Willet, K. B. (May 2018–Aug 2019). Summer Research Renewable Fellowship: How Educators Connect with Each Other on Social Media as Part of Their Lifelong Learning: Social Interactions in Twitter \#Edchat. Funded by Michigan State University, College of Education. **Total award $12,000.** *I was the PI for this grant.*
 
 
 ### Contracts and Grants Pending
 
-Frank, K., Maroulis, S., Xu, R., Rosenberg, J. M., Saw, G., Lin, Q., & Staudt Willet, K. B. (Jan 2024). IES: Sensitivity Analysis for Statistical Advances that Inform Evidence Use and Knowledge Mobilization. Submitted to Institute for Education Sciences. Total requested: $898,387. *I would serve as a co-PI on this grant project.*
-
 Myers, J., Ecton, W. G., Fendler, R., Grace, C., & Staudt Willet, K. B. (Jul 2023). Project EVIDENT: Evaluating Visual Information and Data to Enhance oNline Thinking. Submitted to USDOEd American History and Civics-National Activities grant. Total requested: $320,584. *I would serve as a co-PI on this grant project.*
 
-Staudt Willet, K. B. (Jul 2023). NSF CAREER: Developing STEM Teachers' Culturally Affirming Self-Teaching (CAST) Through a Mobile Game. Submitted to National Science Foundation. Total requested: $870,598. *I would serve as the solo PI on this grant project.*
+Staudt Willet, K. B. (Jul 2024). NSF CAREER: STEM Teachers’ Context-Aware Self-Teaching Developed Through Intensive Events. Submitted to National Science Foundation. Total requested: $___. *I would serve as the solo PI on this grant project.*
 
 
 ### Contracts and Grants Denied
 
-- Staudt Willet, K. B., Kim, A., & Xue, H. (Jan 2023). *SEED: Leveling Up the Culturally Sustaining Self-Directed Learning of Black Game Developers*. Submitted to Florida State University, Council on Research and Creativity. Total requested $97,368. *I was the PI for this grant proposal.*
-- Staudt Willet, K. B., Kim, A., & Xue, H. (Sep 2022). *SEED: Leveling Up the Self-Directed Learning of Early Career Black Game Developers*. Submitted to Florida State University, Council on Research and Creativity. Total requested $62,150. *I was the PI for this grant proposal.*
-- Staudt Willet, K. B. (Oct 2019). *NAEd/Spencer Dissertation Fellowship: Into the Edu-verse: Early-Career Educators Seeking Induction Support on Social Media*. Submitted to the National Academy of Education. Total requested $27,500. *I was the PI for this grant proposal.*
+- Frank, K., Maroulis, S., Xu, R., Rosenberg, J. M., Saw, G., Lin, Q., & Staudt Willet, K. B. (Jan 2024). IES: Sensitivity Analysis for Statistical Advances that Inform Evidence Use and Knowledge Mobilization. Submitted to Institute for Education Sciences. Total requested: $898,387. *I was a co-PI for this grant proposal.*
+- Staudt Willet, K. B. (Oct 2019). NAEd/Spencer Dissertation Fellowship: Into the Edu-verse: Early-Career Educators Seeking Induction Support on Social Media. Submitted to the National Academy of Education. Total requested $27,500. *I was the PI for this grant proposal.*
+- Staudt Willet, K. B. (Jul 2023). NSF CAREER: Developing STEM Teachers' Culturally Affirming Self-Teaching (CAST) Through a Mobile Game. Submitted to National Science Foundation. Total requested: $870,598. *I was the PI for this grant proposal.*
+- Staudt Willet, K. B., Kim, A., & Xue, H. (Sep 2022). SEED: Leveling Up the Self-Directed Learning of Early Career Black Game Developers. Submitted to Florida State University, Council on Research and Creativity. Total requested $62,150. *I was the PI for this grant proposal.*
+- Staudt Willet, K. B., Kim, A., & Xue, H. (Jan 2023). SEED: Leveling Up the Culturally Sustaining Self-Directed Learning of Black Game Developers. Submitted to Florida State University, Council on Research and Creativity. Total requested $97,368. *I was the PI for this grant proposal.*
+
+
 
 
 
@@ -456,22 +459,24 @@ Staudt Willet, K. B. (Jul 2023). NSF CAREER: Developing STEM Teachers' Culturall
 - <i class="fas fa-graduation-cap" style="color:#782f40"></i> Wick, J., Ed.D. graduate 2023. *Middle School Teachers’ Perceptions on the Effectiveness and Relevance of Mandated Professional Development*.
 
 
-## Doctoral Committee Member (12 current, 11 graduates)
+## Doctoral Committee Member (13 current, 12 graduates)
 
 - Archer, T., doctoral candidate (Higher Education).
 - Bean, W., doctoral candidate (Sport Psychology).
 - Crombie, M. doctoral candidate.
-- DeBord, E., doctoral candidate.
 - Hrabcak, J., doctoral student (Sport Psychology).
 - Lewis, A., doctoral candidate.
 - Lott, S., doctoral candidate.
+- Robbins, A., doctoral candidate.
 - Sementelli, R., doctoral candidate.
 - Shi, H., doctoral candidate.
+- Word, K., doctoral candidate.
 - Xu, J., doctoral candidate.
 - Young, K., doctoral candidate.
 - Zhang, N., doctoral candidate.
 - <i class="fas fa-graduation-cap" style="color:#782f40"></i> Choi, H., Ph.D. graduate 2022. *Situational Motivation and Participation in Online Discussion: A Multiple Case Study*.
 - <i class="fas fa-graduation-cap" style="color:#782f40"></i> Clifford, S., Ed.D. graduate 2023. *The Impact of Trainer Self-Efficacy and Technology Adoption on Learning Performance*.
+- <i class="fas fa-graduation-cap" style="color:#782f40"></i> DeBord, E., Ed.D. graduate 2024. *Azure for Education: Exploring the Benefits of a Cross-organizational Technology-focused Community of Practice*.
 - <i class="fas fa-graduation-cap" style="color:#782f40"></i> Graham, D., Ed.D. graduate 2022. *Teacher Perception on the Use of Game-Based Learning in the Title 1 ELA Curriculum*.
 - <i class="fas fa-graduation-cap" style="color:#782f40"></i> He, D., Ph.D. graduate 2024. *Support-seeking on social media: Navigating acculturation and academic integration among international graduate students*.
 - <i class="fas fa-graduation-cap" style="color:#782f40"></i> Johnston, R., Ph.D. graduate 2023. *Characteristics of High-Performing Volunteer Nonprofit Board Members*.
