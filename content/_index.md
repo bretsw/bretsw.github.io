@@ -20,13 +20,13 @@ I am an Assistant Professor of [Instructional Systems & Learning Technologies](h
 
 My Florida State University homepage is [here](https://cehhs.fsu.edu/faculty-and-staff/dr-bret-staudt-willet).
 
-The Research & Exploration of Culturally Affirming Self-Teaching (RECAST) Group website is [here](https://recast.team/).
+The Research & Exploration of Context-Aware Self-Teaching (RECAST) Group website is [here](https://recast.team/).
 
 At different times and in different parts of my professional life, I take on roles of **researcher**, **educator**, and **consultant**. In each of these roles, I aspire to embody **culturally sustaining** practices.
 
 My research investigates **self-directed learning**, a subset of informal and networked learning. I am fascinated by how people figure things out on their own. I'm most interested in what happens when students, learners, and trainees finish formal instruction, preparation, and training. What do they do *after* they walk out the door or log off? How do they continue to develop their knowledge, skills, and abilities? Where do they look for resources? Who do they talk to? 
 
-I am interested in how self-directed learners navigate the affordances and constraints of social connections through the internet and exploration through games.
+I am interested in how self-directed learners navigate social connections through the internet, exploration through games, and innovation through intensive events.
 
 I frequently investigate self-directed learning with the tools of **educational data science**, including learning analytics, social network analysis, discourse analysis, natural language processing, and educational data mining.
 
@@ -44,7 +44,7 @@ I consider my strongest credential to be my ongoing friendship with my very firs
 
 {{< fa chalkboard-teacher >}} **Educator:** Design of Instruction + Teaching
 
-{{< fa compass >}} **Consultant:** Design of Training + Leadership Development
+{{< fa compass >}} **Consultant:** Design Thinking + Systems Thinking
 
 ---
 
@@ -88,7 +88,7 @@ I consider my strongest credential to be my ongoing friendship with my very firs
   - *Analytics SIG*
   - *Black in Games SIG*
   - *Devs with Kids SIG*
-- [**SoLAR**](https://www.solaresearch.org/) | Society for Learning Analytics Research
+- [**ISSDL**](https://www.sdlglobal.com/) | International Society for Self-Directed Learning
 
 ---
 
