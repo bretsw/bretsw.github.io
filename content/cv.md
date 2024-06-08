@@ -107,7 +107,7 @@ Staudt Willet, K. B. (2024). Early career teachers’ expansion of professional 
 
 Staudt Willet, K. B., & He, D. (2024). Educators’ invisible labor: A systematic review. *Review of Education, 12*(2), e3473. doi:[10.1002/rev3.3473]( https://doi.org/10.1002/rev3.3473)
 
-Staudt Willet, K. B., & Na, H. (in press). Generative AI generating buzz: Volume, engagement, and content of initial reactions to ChatGPT in discussions across education-related subreddits. *Online Learning*.
+Staudt Willet, K. B., & Na, H. (2024). Generative AI generating buzz: Volume, engagement, and content of initial reactions to ChatGPT in discussions across education-related subreddits. *Online Learning, 28*(2). doi:[10.24059/olj.v28i2.4434](https://doi.org/10.24059/olj.v28i2.4434)
 
 Greenhow, C., Lewin, C., & Staudt Willet, K. B. (2023). Teachers without borders: Professional learning spanning social media, place, and time. *Learning, Media and Technology, 48*(4), 666-684. doi:[10.1080/17439884.2023.2209326](https://doi.org/10.1080/17439884.2023.2209326)
 
