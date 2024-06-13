@@ -28,6 +28,13 @@ DisableComments: true
 - NOAA Storm Events Database: https://www.ncdc.noaa.gov/stormevents/
 - Bureau of Labor Statistics: https://www.bls.gov/emp/tables/occupational-projections-and-characteristics.htm
 
+## Kaggle Datasets
+- https://www.kaggle.com/datasets
+- Students Exam Scores: Extended Dataset - https://www.kaggle.com/datasets/desalegngeb/students-exam-scores
+- LearnPlatform COVID-19 Impact on Digital Learning - https://www.kaggle.com/competitions/learnplatform-covid19-impact-on-digital-learning/data
+- Country Statistics - UNData: https://www.kaggle.com/datasets/sudalairajkumar/undata-country-profiles
+- World Universities Rankings Advanced Analysis - https://www.kaggle.com/code/gpreda/world-university-rankings-advanced-analysis/report
+
 ## OpenIntro Datasets
 - Index: https://www.openintro.org/data/
 
