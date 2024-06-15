@@ -59,22 +59,32 @@ College of Education, Health, and Human Sciences
 
 ## Honors, Awards, and Prizes
 
-- Nominated: **University Teaching and Advising Award: Outstanding Graduate Teaching**, Florida State University (2024).
+### Research Awards
+
 - <i class="fas fa-award" style="color:#ceb888"></i> **McJulien Scholar Best Paper Award** from the Culture, Learning, & Technology Division, Association for Educational Communications & Technology (AECT) (2023).
 - <i class="fas fa-award" style="color:#ceb888"></i> **Early Career Scholar Award** from the Technology as an Agent of Change in Teaching & Learning Special Interest Group (TACTL SIG), American Educational Research Association (AERA) (2023).
-- Nominated: **COE Teaching Award for Graduate Teaching**, Florida State University, College of Education (2023).
 - <i class="fas fa-award" style="color:#ceb888"></i> **Qualitative Inquiry Award** from the AECT Foundation and Research & Theory Division, Association for Educational Communications & Technology (2022). ($750).
 - <i class="fas fa-award" style="color:#ceb888"></i> **Best Paper Award** from the Technology as an Agent of Change in Teaching & Learning Special Interest Group (TACTL SIG), American Educational Research Association (AERA) (2022).
-- Nominated: **COE Teaching Award for Graduate Teaching** (not eligible to win), Florida State University, College of Education (2022).
-- <i class="fas fa-award" style="color:#ceb888"></i> **Outstanding Service Award** from the Research & Theory Division, Association for Educational Communications & Technology (AECT) (2021).
-- <i class="fas fa-award" style="color:#ceb888"></i> **Best Fully Online Course - CEP 817**, MSU AT&T Faculty-Staff Annual Competition in Instructional Technology, Michigan State University (2021). ($500). 
 - <i class="fas fa-award" style="color:#ceb888"></i> **Featured Research** at the 2020 AECT International Convention, Association for Educational Communications and Technology (AECT) (2020).
-- <i class="fas fa-award" style="color:#ceb888"></i> **Outstanding Paper Award** at the 2020 SITE International Conference, Society for Information Technology & Teacher Education (SITE) (2020).
 - <i class="fas fa-award" style="color:#ceb888"></i> **Clifford E. Erickson Memorial Fund Scholarship**, Michigan State University, College of Education (2020). ($5,500).
+- <i class="fas fa-award" style="color:#ceb888"></i> **Outstanding Paper Award** at the 2020 SITE International Conference, Society for Information Technology & Teacher Education (SITE) (2020).
 - <i class="fas fa-award" style="color:#ceb888"></i> **Outstanding Paper Award** at the 2019 SITE International Conference, Society for Information Technology & Teacher Education (SITE) (2019).
+- <i class="fas fa-award" style="color:#ceb888"></i> **Outstanding Paper Award** at the 2017 SITE International Conference, Society for Information Technology & Teacher Education (SITE) (2017).
+
+### Teaching Awards
+
+- Nominated: **University Teaching and Advising Award: Outstanding Graduate Teaching**, Florida State University (2024).
+- Nominated: **COE Teaching Award for Graduate Teaching**, Florida State University, College of Education (2023).
+- Nominated: **COE Teaching Award for Graduate Teaching** (not eligible to win), Florida State University, College of Education (2022).
+- <i class="fas fa-award" style="color:#ceb888"></i> **Best Fully Online Course - CEP 817**, MSU AT&T Faculty-Staff Annual Competition in Instructional Technology, Michigan State University (2021). ($500). 
+
+
+### Service Awards
+
+- <i class="fas fa-award" style="color:#ceb888"></i> **Outstanding Service Award** from the Research & Theory Division, Association for Educational Communications & Technology (AECT) (2021).
 - <i class="fas fa-award" style="color:#ceb888"></i> **Disciplinary Leadership Award**, Michigan State University, Council of Graduate Students (2019). ($2,000).
 - <i class="fas fa-award" style="color:#ceb888"></i> **Professional Development Award**, Michigan State University, Council of Graduate Students (2018). ($500).
-- <i class="fas fa-award" style="color:#ceb888"></i> **Outstanding Paper Award** at the 2017 SITE International Conference, Society for Information Technology & Teacher Education (SITE) (2017).
+
 
 
 ## Current Membership in Professional Organizations
@@ -151,6 +161,7 @@ Greenhow, C., Gleason, B., & Staudt Willet, K. B. (2019). Social scholarship rev
 Greenhalgh, S. P., Staudt Willet, K. B., Rosenberg, J. M., & Koehler, M. J. (2018). Tweet, and we shall find: Using digital methods to locate participants in educational hashtags. *TechTrends, 62*, 501-508. doi:[10.1007/s11528-018-0313-6](https://doi.org/10.1007/s11528-018-0313-6)
 
 Greenhow, C. M., Gleason, B., Marich, H., & Staudt Willet, K. B. (2017). Educating social scholars: Examining novice researchers' practices with social media. *Qwerty – Open and Interdisciplinary Journal of Technology, Culture and Education, 12*(2), 30-45. http://www.ckbg.org/qwerty/index.php/qwerty/article/view/269/
+
 
 
 ### Invited Book Chapters (6)
@@ -306,9 +317,11 @@ Staudt Willet, K. B., Galvin, S., & Greenhow, C. M. (presented 2021, April). Fle
 Rutherford, T., Rosenberg, J. M., & Staudt Willet, K. B. (presented 2020, April). Which birds fill the branches of the AERA Twitter tree? Twitter networks around #AERA19. In P. N. Beymer, D. K. Benden, & M. L. Bernacki (Chair), *Affordances and modeling of intensive data*. Symposium conducted at the meeting of American Educational Research Association (AERA) Annual Meeting, Conference was canceled due to the COVID-19 pandemic. (National)
 
 
+
 ### Invited Keynote and Plenary Presentations at Conferences (1)
 
 Staudt Willet, K. B. (2023). *Teachers' self-directed learning: Possibilities and perils*. Plenary presentation at II International Online Congress on Social Networks and Teacher Training. University of Sevilla, Spain. (International). https://bretsw.com/sevilla23/
+
 
 
 ### Invited Presentations at Conferences (1)
@@ -317,11 +330,15 @@ Staudt Willet, K. B. (2023). *Discussant reflections: Teacher use of social medi
 
 
 
-### Refereed Presentations at Conferences (17)
+### Refereed Presentations at Conferences (19)
 
-Kim, I., Na, H., & Staudt Willet, K. B.(to be presented 2024, October). *Professional learning through social media by K-12 in-service teachers in South Korea*. Poster presentation at Association for Educational Communications and Technology (AECT) International Convention, Association for Educational Communications and Technology (AECT), Kansas City, MO. (National)
+Turcotte, N., Staudt Willet, K. B., & Asino, T. (to be presented 2024, October). *Ecocritical and ethical concerns with emerging technologies: Conversations we need to be having*. Panel presentation at Association for Educational Communications and Technology (AECT) International Convention, Association for Educational Communications and Technology (AECT), Kansas City, MO. (National)
+
+Kim, I., Na, H., & Staudt Willet, K. B. (to be presented 2024, October). *Professional learning through social media by K-12 in-service teachers in South Korea*. Poster presentation at Association for Educational Communications and Technology (AECT) International Convention, Association for Educational Communications and Technology (AECT), Kansas City, MO. (National)
 
 Staudt Willet, K. B., Carpenter, J. P., & Na, H. (presented 2024, April). *Nobody goes there anymore, it's too crowded: Historic retrospective of Twitter #Edchat*. Poster presentation at American Educational Research Association (AERA) Annual Meeting, American Educational Research Association (AERA), Philadelphia, PA. (National)
+
+Staudt Willet, K. B. (presented 2024, March). *Devs with kids roundtable: The kids might be alright, but what about you? (presented by the IGDA)*. Roundtable at Game Developers Conference (GDC), San Francisco, CA. (National)
 
 Wofford, A., Perez-Felkner, L., Staudt Willet, K. B., & Nhien, C. (presented 2024, March). *Examining organizational structures at minority-serving institutions: An analysis of terminology in computing-related graduate education*. Poster presentation at Association for Education Finance & Policy (AEFP) Annual Conference, Association for Education Finance & Policy (AEFP), Baltimore, MD. (National)
 
@@ -331,15 +348,15 @@ Smith, C., & Staudt Willet, K. B. (presented 2023, October). *Culturally sustain
 
 Staudt Willet, K. B. (presented 2023, March). *Making the invisible visible: Devs with kids roundtable (presented by the IGDA)*. Roundtable at Game Developers Conference (GDC), San Francisco, CA. (National)
 
-Wiley, D., Caskurlu, S., Ifenthaler, D., Ocak, C., Staudt Willet, K. B., & Castellanos-Reyes, D. (presented 2022, October). *Learning analytics for continuous improvement: An instructional design perspective*. Presentation at Association for Educational Communications and Technology (AECT) International Convention, Association for Educational Communications and Technology (AECT), Las Vegas, NV. (National)
+Wiley, D., Caskurlu, S., Ifenthaler, D., Ocak, C., Staudt Willet, K. B., & Castellanos-Reyes, D. (presented 2022, October). *Learning analytics for continuous improvement: An instructional design perspective*. Panel presentation at Association for Educational Communications and Technology (AECT) International Convention, Association for Educational Communications and Technology (AECT), Las Vegas, NV. (National)
 
-Bagdy, L., Arrington, T. L., Bong, J. Y., Moore, A., & Staudt Willet, K. B. (presented 2021, November). *Qualifications and duties for IDT faculty: A job posting analysis and panel discussion*. Presentation at Association for Educational Communications and Technology (AECT) International Convention, Association for Educational Communications and Technology (AECT), Chicago, IL. (National)
+Bagdy, L., Arrington, T. L., Bong, J. Y., Moore, A., & Staudt Willet, K. B. (presented 2021, November). *Qualifications and duties for IDT faculty: A job posting analysis and panel discussion*. Panel presentation at Association for Educational Communications and Technology (AECT) International Convention, Association for Educational Communications and Technology (AECT), Chicago, IL. (National)
 
 Rosenberg, J. M., Galas, E., & Staudt Willet, K. B. (presented 2021, June). *Who are the data scientists in education? An investigation of the identities and work of individuals in diverse roles*. Poster presentation at Annual Meeting of the International Society of the Learning Sciences (ISLS), International Society of the Learning Sciences (ISLS), Online. (International)
 
-Budhrani, K., Ross, K., Mulajana, P., Dyer, R., Jones, M., & Staudt Willet, K. B. (presented 2020, November). *Factors influencing doctoral students' perseverance in online instructional technology programs*. Presentation at Association for Educational Communications and Technology (AECT) International Convention, Association for Educational Communications and Technology (AECT), Online. (National)
+Budhrani, K., Ross, K., Mulajana, P., Dyer, R., Jones, M., & Staudt Willet, K. B. (presented 2020, November). *Factors influencing doctoral students' perseverance in online instructional technology programs*. Panel presentation at Association for Educational Communications and Technology (AECT) International Convention, Association for Educational Communications and Technology (AECT), Online. (National)
 
-Romero-Hall, E., Arslan-Ari, I., Gentry, W., Greenhalgh, S. P., Jung, Y. J., Stefaniak, J., Tiwari, S., Koehler, M. J., Rosenberg, J. M., Staudt Willet, K. B., Lockee, B., Zimmerman, H., Pérez-Edgar, K., Grant, M. M., & Ari, F. (presented 2020, November). *Let's talk about research methods: Where are we today?* Presentation at Association for Educational Communications and Technology (AECT) International Convention, Association for Educational Communications and Technology (AECT), Online. (National)
+Romero-Hall, E., Arslan-Ari, I., Gentry, W., Greenhalgh, S. P., Jung, Y. J., Stefaniak, J., Tiwari, S., Koehler, M. J., Rosenberg, J. M., Staudt Willet, K. B., Lockee, B., Zimmerman, H., Pérez-Edgar, K., Grant, M. M., & Ari, F. (presented 2020, November). *Let's talk about research methods: Where are we today?* Panel presentation at Association for Educational Communications and Technology (AECT) International Convention, Association for Educational Communications and Technology (AECT), Online. (National)
 
 Staudt Willet, K. B., Heath, M. K., & Krutka, D. G. (presented 2020, April). *The need for technoethics in teacher education: A critical analysis of literature*. Poster presentation at American Educational Research Association (AERA) Annual Meeting, American Educational Research Association (AERA), Conference was canceled due to the COVID-19 pandemic. (National)
 
