@@ -230,11 +230,15 @@ Staudt Willet, K. B. (2022). Review of Griffin, M. M., & Zinskie, C. D. (Eds.). 
 
 ## Presentations
 
-### Refereed Papers at Conferences (36)
+### Refereed Papers at Conferences (38)
+
+Na, H., Staudt Willet, K. B., & Kim, C. (to be presented 2024, October). *Learning geometry through different types of augmented reality in classrooms*. Paper presented at Association for Educational Communications and Technology (AECT) International Convention, Association for Educational Communications and Technology (AECT), Kansas City, MO. (National)
 
 Staudt Willet, K. B., Carpenter, J. P., & Na, H. (to be presented 2024, October). *This is where we leave you: Historic retrospective of X/Twitter #Edchat*. Paper presented at Association for Educational Communications and Technology (AECT) International Convention, Association for Educational Communications and Technology (AECT), Kansas City, MO. (National)
 
 Staudt Willet, K. B., Wofford, A., Perez-Felkner, L., & Nhien, C. (to be presented 2024, October). *Understanding curricular knowledge through terminology in graduate computing course titles at minority-serving institutions*. Paper presented at Association for Educational Communications and Technology (AECT) International Convention, Association for Educational Communications and Technology (AECT), Kansas City, MO. (National)
+
+Wei, S., Bi, R., & Staudt Willet, K. B. (to be presented 2024, October). *AI literacy in the wild: Topics discussed in an affinity space*. Paper presented at Association for Educational Communications and Technology (AECT) International Convention, Association for Educational Communications and Technology (AECT), Kansas City, MO. (National)
 
 Na, H., Staudt Willet, K. B., He, D., Kim, C., Shi, H., & Hur, J. (presented 2024, April). *Unpacking discussions of ChatGPT in 25 education-related subreddits*. Paper presented at American Educational Research Association (AERA) Annual Meeting, American Educational Research Association (AERA), Philadelphia, PA. (National)
 
