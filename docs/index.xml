@@ -6,7 +6,18 @@
     <description>Recent content on Bret Staudt Willet, Ph.D.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 08 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://bretsw.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 21 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://bretsw.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Datasets for Coding and Statistics Practice</title>
+      <link>https://bretsw.com/post/datasets/</link>
+      <pubDate>Fri, 21 Jun 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://bretsw.com/post/datasets/</guid>
+      
+        <description>Datasets Built into R Packages Starwars: https://github.com/tidyverse/dplyr/blob/main/data-raw/starwars.csv Cars: https://github.com/tidyverse/ggplot2/blob/main/data-raw/mpg.csv Diamonds: https://github.</description>
+      
+    </item>
+    
     <item>
       <title>New paper: Initial discussions of ChatGPT in education-related subreddits</title>
       <link>https://bretsw.com/post/new-paper-chatgpt-reddit/</link>
@@ -147,17 +158,6 @@
       <guid>https://bretsw.com/post/new-paper-early-career-teachers-pln/</guid>
       
         <description>Background I recently had an article titled &amp;ldquo;Early career teachers’ expansion of professional learning networks with social media&amp;rdquo; published in the journal Professional Development in Education (DOI:10.</description>
-      
-    </item>
-    
-    <item>
-      <title>Datasets for Coding and Statistics Practice</title>
-      <link>https://bretsw.com/post/datasets/</link>
-      <pubDate>Wed, 08 Feb 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://bretsw.com/post/datasets/</guid>
-      
-        <description>Datasets Built into R Packages Starwars: https://github.com/tidyverse/dplyr/blob/main/data-raw/starwars.csv Cars: https://github.com/tidyverse/ggplot2/blob/main/data-raw/mpg.csv Diamonds: https://github.</description>
       
     </item>
     

@@ -32,10 +32,10 @@ College of Education, Health, and Human Sciences
 
 ## Professional Preparation
 
-- **Ph.D. (2021)**, Michigan State University.
-  - Major: Educational Psychology & Educational Technology. 
-  - Advisors: Dr. Matthew Koehler & Dr. Christine Greenhow. 
-  - Staudt Willet, K. B. (2021). *"I filled a lot of gaps": How and why early career teachers expand induction support systems with social media*. (Doctoral dissertation, Michigan State University). ProQuest Dissertations & Theses Global, Publication No. 28414983.
+- **Ph.D. (2021)**, Michigan State University
+  - Major: Educational Psychology & Educational Technology
+  - Advisors: [Dr. Matthew Koehler](https://www.matt-koehler.com/) & [Dr. Christine Greenhow](http://www.cgreenhow.org/)
+  - Staudt Willet, K. B. (2021). *"I filled a lot of gaps": How and why early career teachers expand induction support systems with social media*. (Doctoral dissertation, Michigan State University). doi:[10.25335/ym8j-0a23](https://doi.org/doi:10.25335/ym8j-0a23)
 - **M.A. (2015)**, Michigan State University.
   - Major: Educational Technology. 
 - **Graduate Certificate (2014)**, Michigan State University.
