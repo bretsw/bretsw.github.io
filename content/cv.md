@@ -230,7 +230,9 @@ Staudt Willet, K. B. (2022). Review of Griffin, M. M., & Zinskie, C. D. (Eds.). 
 
 ## Presentations
 
-### Refereed Papers at Conferences (38)
+### Refereed Papers at Conferences (40)
+
+Wofford, A., Fatima, A., Wu, X., Perez-Felkner, L., Nhien, C., & Staudt Willet, K. B. (to be presented 2024, November). *Exploring the role of minority-serving institutions in access to computing doctoral education*. Association for the Study of Higher Education (ASHE), Minneapolis, MN. (National)
 
 Na, H., Staudt Willet, K. B., & Kim, C. (to be presented 2024, October). *Learning geometry through different types of augmented reality in classrooms*. Paper presented at Association for Educational Communications and Technology (AECT) International Convention, Association for Educational Communications and Technology (AECT), Kansas City, MO. (National)
 
