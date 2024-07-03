@@ -230,9 +230,11 @@ Staudt Willet, K. B. (2022). Review of Griffin, M. M., & Zinskie, C. D. (Eds.). 
 
 ## Presentations
 
-### Refereed Papers at Conferences (40)
+### Refereed Papers at Conferences (41)
 
 Wofford, A., Fatima, A., Wu, X., Perez-Felkner, L., Nhien, C., & Staudt Willet, K. B. (to be presented 2024, November). *Exploring the role of minority-serving institutions in access to computing doctoral education*. Association for the Study of Higher Education (ASHE), Minneapolis, MN. (National)
+
+Dennen, V., Staudt Willet, K. B., & Wang, Z. (to be presented 2024, October). *The ethics of ChatGPT use for higher education coursework: A student perspective*. Paper presented at Association for Educational Communications and Technology (AECT) International Convention, Association for Educational Communications and Technology (AECT), Kansas City, MO. (National). *Selected as a Presidential Presentation for AECT 2024.*
 
 Na, H., Staudt Willet, K. B., & Kim, C. (to be presented 2024, October). *Learning geometry through different types of augmented reality in classrooms*. Paper presented at Association for Educational Communications and Technology (AECT) International Convention, Association for Educational Communications and Technology (AECT), Kansas City, MO. (National)
 
@@ -338,9 +340,9 @@ Staudt Willet, K. B. (2023). *Discussant reflections: Teacher use of social medi
 
 ### Refereed Presentations at Conferences (19)
 
-Turcotte, N., Staudt Willet, K. B., & Asino, T. (to be presented 2024, October). *Ecocritical and ethical concerns with emerging technologies: Conversations we need to be having*. Panel presentation at Association for Educational Communications and Technology (AECT) International Convention, Association for Educational Communications and Technology (AECT), Kansas City, MO. (National)
-
 Kim, I., Na, H., & Staudt Willet, K. B. (to be presented 2024, October). *Professional learning through social media by K-12 in-service teachers in South Korea*. Poster presentation at Association for Educational Communications and Technology (AECT) International Convention, Association for Educational Communications and Technology (AECT), Kansas City, MO. (National)
+
+Turcotte, N., Staudt Willet, K. B., Dudek, J., & Asino, T. (to be presented 2024, October). *Ecocritical and ethical concerns with emerging technologies: Conversations we need to be having*. Panel presentation at Association for Educational Communications and Technology (AECT) International Convention, Association for Educational Communications and Technology (AECT), Kansas City, MO. (National). *Selected as a Presidential Presentation for AECT 2024.*
 
 Staudt Willet, K. B., Carpenter, J. P., & Na, H. (presented 2024, April). *Nobody goes there anymore, it's too crowded: Historic retrospective of Twitter #Edchat*. Poster presentation at American Educational Research Association (AERA) Annual Meeting, American Educational Research Association (AERA), Philadelphia, PA. (National)
 
@@ -482,11 +484,13 @@ Staudt Willet, K. B. (Jul 2024). NSF CAREER: STEM Teachers’ Context-Aware Self
 - <i class="fas fa-graduation-cap" style="color:#782f40"></i> Wick, J., Ed.D. graduate 2023. *Middle School Teachers’ Perceptions on the Effectiveness and Relevance of Mandated Professional Development*.
 
 
-## Doctoral Committee Member (13 current, 12 graduates)
+## Doctoral Committee Member (15 current, 12 graduates)
 
+- Alvarez, E., doctoral candidate.
 - Archer, T., doctoral candidate (Higher Education).
+- Barrett, A., doctoral candidate.
 - Bean, W., doctoral candidate (Sport Psychology).
-- Crombie, M. doctoral candidate.
+- Crombie, M., doctoral candidate.
 - Hrabcak, J., doctoral student (Sport Psychology).
 - Lewis, A., doctoral candidate.
 - Lott, S., doctoral candidate.
