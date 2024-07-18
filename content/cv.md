@@ -552,6 +552,10 @@ Staudt Willet, K. B. (2018). *Experiences from the practicum* [Panel for doctora
 
 ### FSU College Service
 
+- Faculty Innovation Catalyst for Educational Research, FSU Innovation Hub (2024-present)
+
+### FSU College Service
+
 - Member, Faculty Advisory Committee (2023-present)
 
 ### FSU Department Service
@@ -572,7 +576,7 @@ Staudt Willet, K. B. (2018). *Experiences from the practicum* [Panel for doctora
 
 ### Guest Editing for Refereed Journals
 
-- Greenhow, C. M., Staudt Willet, K. B., & Carpenter, J. P. (Eds.). (2023-2024). Learning with social media in an algorithmic age: Opportunities and challenges for education [Special Issue]. *Information and Learning Sciences*.
+- Greenhow, C. M., Staudt Willet, K. B., & Carpenter, J. P. (Eds.). (2023-2024). Learning with social media in an algorithmic age: Opportunities and challenges for education [Special Issue]. *Information & Learning Sciences*.
 
 
 ### Editorial Board Memberships
@@ -581,7 +585,7 @@ Staudt Willet, K. B. (2018). *Experiences from the practicum* [Panel for doctora
 - *International Journal of Self-Directed Learning* (2024-present).
 - *Journal of Research on Technology in Education* (2023–present).
 
-### Guest Reviewer for Refereed Journals (72 reviews)
+### Guest Reviewer for Refereed Journals (80 reviews)
 
 - *AERA Open* (2021).
 - *American Journal of Education* (2019-2020).
@@ -611,6 +615,7 @@ Staudt Willet, K. B. (2018). *Experiences from the practicum* [Panel for doctora
 
 ### Service to Professional Associations
 
+- **Chair**, Technology as an Agent of Change in Teaching & Learning Special Interest Group (TACTL SIG), American Educational Research Association (AERA) (2025-2026).
 - **Chair-Elect**, Technology as an Agent of Change in Teaching & Learning Special Interest Group (TACTL SIG), American Educational Research Association (AERA) (2024-2025).
 - **Past-President**, Research & Theory Division, Association for Educational Communications & Technology (AECT) (2024-2025).
 - **President**, Research & Theory Division, Association for Educational Communications & Technology (AECT) (2023-2024).
