@@ -434,14 +434,13 @@ Staudt Willet, K. B., & Rosenberg, J. M. (2022). *tidytags: Importing and analyz
 
 ### Contracts and Grants Pending
 
-Myers, J., Ecton, W. G., Fendler, R., Grace, C., & Staudt Willet, K. B. (Jul 2023). Project EVIDENT: Evaluating Visual Information and Data to Enhance oNline Thinking. Submitted to USDOEd American History and Civics-National Activities grant. Total requested: $320,584. *I would serve as a co-PI on this grant project.*
-
-Staudt Willet, K. B. (Jul 2024). NSF CAREER: STEM Teachers’ Context-Aware Self-Teaching Developed Through Intensive Events. Submitted to National Science Foundation. Total requested: $___. *I would serve as the solo PI on this grant project.*
+Staudt Willet, K. B. (Jul 2024). NSF CAREER: Science Teachers Developing Context-Aware Self-Teaching Through Intensive Events. Submitted to National Science Foundation. Total requested: $898,603. *I would serve as the solo PI on this grant project.*
 
 
 ### Contracts and Grants Denied
 
 - Frank, K., Maroulis, S., Xu, R., Rosenberg, J. M., Saw, G., Lin, Q., & Staudt Willet, K. B. (Jan 2024). IES: Sensitivity Analysis for Statistical Advances that Inform Evidence Use and Knowledge Mobilization. Submitted to Institute for Education Sciences. Total requested: $898,387. *I was a co-PI for this grant proposal.*
+- Myers, J., Ecton, W. G., Fendler, R., Grace, C., & Staudt Willet, K. B. (Jul 2023). Project EVIDENT: Evaluating Visual Information and Data to Enhance oNline Thinking. Submitted to USDOEd American History and Civics-National Activities grant. Total requested: $320,584. *I was a co-PI on this grant proposal.*
 - Staudt Willet, K. B. (Oct 2019). NAEd/Spencer Dissertation Fellowship: Into the Edu-verse: Early-Career Educators Seeking Induction Support on Social Media. Submitted to the National Academy of Education. Total requested $27,500. *I was the PI for this grant proposal.*
 - Staudt Willet, K. B. (Jul 2023). NSF CAREER: Developing STEM Teachers' Culturally Affirming Self-Teaching (CAST) Through a Mobile Game. Submitted to National Science Foundation. Total requested: $870,598. *I was the PI for this grant proposal.*
 - Staudt Willet, K. B., Kim, A., & Xue, H. (Sep 2022). SEED: Leveling Up the Self-Directed Learning of Early Career Black Game Developers. Submitted to Florida State University, Council on Research and Creativity. Total requested $62,150. *I was the PI for this grant proposal.*
@@ -471,7 +470,7 @@ Staudt Willet, K. B. (Jul 2024). NSF CAREER: STEM Teachers’ Context-Aware Self
 - Aich, S., doctoral student.
 - Arthur, A., doctoral candidate.
 - Bai, C., doctoral student.
-- Catteeuw, C., doctoral candidate. *Examining teachers transitioning to instructional design through professional learning networks (PLN) on Linkedin*.
+- Catteeuw, C., doctoral candidate. *Examining new instructional designers’ use of LinkedIn during their transition from K-12 teaching*.
 - Costa, A., doctoral student.
 - Fairclough, K., doctoral candidate. *Supervisory competence in behavior analysts using self-directed learning through social media*.
 - Harle, J., doctoral student.
@@ -484,12 +483,13 @@ Staudt Willet, K. B. (Jul 2024). NSF CAREER: STEM Teachers’ Context-Aware Self
 - <i class="fas fa-graduation-cap" style="color:#782f40"></i> Wick, J., Ed.D. graduate 2023. *Middle School Teachers’ Perceptions on the Effectiveness and Relevance of Mandated Professional Development*.
 
 
-## Doctoral Committee Member (15 current, 12 graduates)
+## Doctoral Committee Member (16 current, 12 graduates)
 
 - Alvarez, E., doctoral candidate.
 - Archer, T., doctoral candidate (Higher Education).
 - Barrett, A., doctoral candidate.
 - Bean, W., doctoral candidate (Sport Psychology).
+- Brewer, V., doctoral candidate.
 - Crombie, M., doctoral candidate.
 - Hrabcak, J., doctoral student (Sport Psychology).
 - Lewis, A., doctoral candidate.
