@@ -81,10 +81,10 @@ College of Education, Health, and Human Sciences
 
 ### Service Awards
 
+- <i class="fas fa-award" style="color:#ceb888"></i> **Outstanding Reviewer Award** from the Research & Theory Division, Association for Educational Communications & Technology (AECT) (2024).
 - <i class="fas fa-award" style="color:#ceb888"></i> **Outstanding Service Award** from the Research & Theory Division, Association for Educational Communications & Technology (AECT) (2021).
 - <i class="fas fa-award" style="color:#ceb888"></i> **Disciplinary Leadership Award**, Michigan State University, Council of Graduate Students (2019). ($2,000).
 - <i class="fas fa-award" style="color:#ceb888"></i> **Professional Development Award**, Michigan State University, Council of Graduate Students (2018). ($500).
-
 
 
 ## Current Membership in Professional Organizations
@@ -550,18 +550,22 @@ Staudt Willet, K. B. (2018). *Experiences from the practicum* [Panel for doctora
 
 ## Florida State University
 
-### FSU College Service
+### FSU University Service
 
 - Faculty Innovation Catalyst for Educational Research, FSU Innovation Hub (2024-present)
 
+
 ### FSU College Service
 
-- Member, Faculty Advisory Committee (2023-present)
+- Chair, Faculty Advisory Committee (2024-2025)
+- Member, Faculty Advisory Committee (2023-2024)
+
 
 ### FSU Department Service
 
 - Member, Diversity, Equity, and Inclusion Committee (2022-present).
 - Member, Faculty Evaluation Committee (2021–2023).
+
 
 ### FSU Program Service
 
