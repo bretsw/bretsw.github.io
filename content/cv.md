@@ -552,7 +552,7 @@ Staudt Willet, K. B. (2018). *Experiences from the practicum* [Panel for doctora
 
 ### FSU University Service
 
-- Faculty Innovation Catalyst for Educational Research, FSU Innovation Hub (2024-present)
+- Educational Research Catalyst for FSU Innovation Hub (2024-present)
 
 
 ### FSU College Service
