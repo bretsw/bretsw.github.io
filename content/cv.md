@@ -483,7 +483,7 @@ Staudt Willet, K. B. (Jul 2024). NSF CAREER: Science Teachers Developing Context
 - <i class="fas fa-graduation-cap" style="color:#782f40"></i> Wick, J., Ed.D. graduate 2023. *Middle School Teachers’ Perceptions on the Effectiveness and Relevance of Mandated Professional Development*.
 
 
-## Doctoral Committee Member (16 current, 12 graduates)
+## Doctoral Committee Member (17 current, 12 graduates)
 
 - Alvarez, E., doctoral candidate.
 - Archer, T., doctoral candidate (Higher Education).
@@ -494,6 +494,7 @@ Staudt Willet, K. B. (Jul 2024). NSF CAREER: Science Teachers Developing Context
 - Hrabcak, J., doctoral student (Sport Psychology).
 - Lewis, A., doctoral candidate.
 - Lott, S., doctoral candidate.
+- Morgan, A., doctoral candidate.
 - Robbins, A., doctoral candidate.
 - Sementelli, R., doctoral candidate.
 - Shi, H., doctoral candidate.
@@ -552,7 +553,7 @@ Staudt Willet, K. B. (2018). *Experiences from the practicum* [Panel for doctora
 
 ### FSU University Service
 
-- Educational Research Catalyst for FSU Innovation Hub (2024-present)
+- Educational Research Catalyst, FSU Innovation Hub (2024-present)
 
 
 ### FSU College Service
