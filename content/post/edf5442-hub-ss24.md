@@ -1,6 +1,6 @@
 ---
 title: "Teaching Notes from EDF5442: Inquiry and Measurement for Practitioners (Spring 2024)"
-date: 2024-01-25
+date: 2024-04-17
 thumbnail: "images/5442-logo.png"
 Description: ""
 Tags: ["teaching", "notes", "fsu", "slide deck"]
@@ -54,13 +54,40 @@ View the slides at https://bretsw.com/edf5442-ss24-module2/, or scroll through b
 
 ## Module 3: Planning for Inquiry
 
+View the slides at https://bretsw.com/edf5442-ss24-module3/, or scroll through below:
+
+<iframe id="Module 3 slide deck"
+    title="Module 3 slide deck"
+    width="720"
+    height="405"
+    src="https://bretsw.com/edf5442-ss24-module3/">
+</iframe>
+
 ---
 
 ## Module 4: Measurement: Surveys & Tests
 
+View the slides at https://bretsw.com/edf5442-ss24-module4/, or scroll through below:
+
+<iframe id="Module 4 slide deck"
+    title="Module 4 slide deck"
+    width="720"
+    height="405"
+    src="https://bretsw.com/edf5442-ss24-module4/">
+</iframe>
+
 ---
 
 ## Module 5: Measurement: Interviews
+
+View the slides at https://bretsw.com/edf5442-ss24-module5/, or scroll through below:
+
+<iframe id="Module 5 slide deck"
+    title="Module 5 slide deck"
+    width="720"
+    height="405"
+    src="https://bretsw.com/edf5442-ss24-module5/">
+</iframe>
 
 ---
 
@@ -74,6 +101,14 @@ View the slides at https://bretsw.com/edf5442-ss24-module2/, or scroll through b
 
 ## Module 8: Ethics and Reporting
 
+View the slides at https://bretsw.com/edf5442-ss24-module8/, or scroll through below:
+
+<iframe id="Module 8 slide deck"
+    title="Module 8 slide deck"
+    width="720"
+    height="405"
+    src="https://bretsw.com/edf5442-ss24-module8/">
+</iframe>
 
 ---
 
