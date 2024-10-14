@@ -326,15 +326,17 @@ Rutherford, T., Rosenberg, J. M., & Staudt Willet, K. B. (presented 2020, April)
 
 
 
-### Invited Keynote and Plenary Presentations at Conferences (1)
+### Invited Keynote and Plenary Presentations at Conferences (2)
 
-Staudt Willet, K. B. (2023). *Teachers' self-directed learning: Possibilities and perils*. Plenary presentation at II International Online Congress on Social Networks and Teacher Training. University of Sevilla, Spain. (International). https://bretsw.com/sevilla23/
+Staudt Willet, K. B. (presented 2024, November). *Self-directed learning for navigating change and innovation*. Keynote presentation at ED-volution 2024. LearnTech Initiative AFRICA. (International). https://learntechinitiative.org/edvolution2024/
+
+Staudt Willet, K. B. (presented 2023, December). *Teachers' self-directed learning: Possibilities and perils*. Plenary presentation at II International Online Congress on Social Networks and Teacher Training. University of Sevilla, Spain. (International). https://bretsw.com/sevilla23/
 
 
 
 ### Invited Presentations at Conferences (1)
 
-Staudt Willet, K. B. (2023). *Discussant reflections: Teacher use of social media for teaching and professional development*. Discussant notes presented at American Educational Research Association (AERA) Annual Meeting, American Educational Research Association (AERA), Chicago, IL. (National). https://bretsw.com/aera23-teachers-social-media/
+Staudt Willet, K. B. (presented 2023, April). *Discussant reflections: Teacher use of social media for teaching and professional development*. Discussant notes presented at American Educational Research Association (AERA) Annual Meeting, American Educational Research Association (AERA), Chicago, IL. (National). https://bretsw.com/aera23-teachers-social-media/
 
 
 
@@ -414,7 +416,7 @@ Staudt Willet, K. B. (2017, November). *Once more unto the practicum, dear frien
 
 ### Computer Software Development (1)
 
-Staudt Willet, K. B., & Rosenberg, J. M. (2022). *tidytags: Importing and analyzing Twitter data collected with Twitter Archiving Google Sheets* [Computer software]. R Open Science. https://docs.ropensci.org/tidytags/
+Staudt Willet, K. B., & Rosenberg, J. M. (2022-2024). *tidytags: Importing and analyzing Twitter data collected with Twitter Archiving Google Sheets* [Computer software]. R Open Science. Archived January 23, 2024. https://github.com/ropensci-archive/tidytags
 
 
 ## Contracts and Grants
@@ -434,17 +436,19 @@ Staudt Willet, K. B., & Rosenberg, J. M. (2022). *tidytags: Importing and analyz
 
 ### Contracts and Grants Pending
 
-Staudt Willet, K. B. (Jul 2024). NSF CAREER: Science Teachers Developing Context-Aware Self-Teaching Through Intensive Events. Submitted to National Science Foundation. Total requested: $898,603. *I would serve as the solo PI on this grant project.*
+- <i class="fas fa-exclamation-triangle" style="color:#ceb888"></i> Staudt Willet, K. B. (Sep 2024). CRC SEED: Advancing AI-Assisted Self-Directed Learning through Intensive Events. Submitted to FSU Council for Research Creativity. Total requested: $92,623.*I would serve as the solo PI on this grant project.*
+- <i class="fas fa-exclamation-triangle" style="color:#ceb888"></i> Frank, K., Maroulis, S., Xu, R., Rosenberg, J. M., Saw, G., Lin, Q., & Staudt Willet, K. B. (Aug 2024). IES: Sensitivity Analysis for Statistical Advances that Inform Evidence Use and Knowledge Mobilization. Submitted to Institute for Education Sciences. Total requested: $899,997. *I would serve as a co-PI on this grant project.*
+- <i class="fas fa-exclamation-triangle" style="color:#ceb888"></i> Staudt Willet, K. B. (Jul 2024). NSF CAREER: Science Teachers Developing Context-Aware Self-Teaching Through Intensive Events. Submitted to National Science Foundation. Total requested: $898,603. *I would serve as the solo PI on this grant project.*
 
 
 ### Contracts and Grants Denied
 
-- Frank, K., Maroulis, S., Xu, R., Rosenberg, J. M., Saw, G., Lin, Q., & Staudt Willet, K. B. (Jan 2024). IES: Sensitivity Analysis for Statistical Advances that Inform Evidence Use and Knowledge Mobilization. Submitted to Institute for Education Sciences. Total requested: $898,387. *I was a co-PI for this grant proposal.*
-- Myers, J., Ecton, W. G., Fendler, R., Grace, C., & Staudt Willet, K. B. (Jul 2023). Project EVIDENT: Evaluating Visual Information and Data to Enhance oNline Thinking. Submitted to USDOEd American History and Civics-National Activities grant. Total requested: $320,584. *I was a co-PI on this grant proposal.*
-- Staudt Willet, K. B. (Oct 2019). NAEd/Spencer Dissertation Fellowship: Into the Edu-verse: Early-Career Educators Seeking Induction Support on Social Media. Submitted to the National Academy of Education. Total requested $27,500. *I was the PI for this grant proposal.*
-- Staudt Willet, K. B. (Jul 2023). NSF CAREER: Developing STEM Teachers' Culturally Affirming Self-Teaching (CAST) Through a Mobile Game. Submitted to National Science Foundation. Total requested: $870,598. *I was the PI for this grant proposal.*
-- Staudt Willet, K. B., Kim, A., & Xue, H. (Sep 2022). SEED: Leveling Up the Self-Directed Learning of Early Career Black Game Developers. Submitted to Florida State University, Council on Research and Creativity. Total requested $62,150. *I was the PI for this grant proposal.*
-- Staudt Willet, K. B., Kim, A., & Xue, H. (Jan 2023). SEED: Leveling Up the Culturally Sustaining Self-Directed Learning of Black Game Developers. Submitted to Florida State University, Council on Research and Creativity. Total requested $97,368. *I was the PI for this grant proposal.*
+- <i class="fas fa-times" style="color:red"></i> Frank, K., Maroulis, S., Xu, R., Rosenberg, J. M., Saw, G., Lin, Q., & Staudt Willet, K. B. (Jan 2024). IES: Sensitivity Analysis for Statistical Advances that Inform Evidence Use and Knowledge Mobilization. Submitted to Institute for Education Sciences. Total requested: $898,387. *I was a co-PI for this grant proposal.*
+- <i class="fas fa-times" style="color:red"></i> Myers, J., Ecton, W. G., Fendler, R., Grace, C., & Staudt Willet, K. B. (Jul 2023). Project EVIDENT: Evaluating Visual Information and Data to Enhance oNline Thinking. Submitted to USDOEd American History and Civics-National Activities grant. Total requested: $320,584. *I was a co-PI on this grant proposal.*
+- <i class="fas fa-times" style="color:red"></i> Staudt Willet, K. B. (Oct 2019). NAEd/Spencer Dissertation Fellowship: Into the Edu-verse: Early-Career Educators Seeking Induction Support on Social Media. Submitted to the National Academy of Education. Total requested $27,500. *I was the PI for this grant proposal.*
+- <i class="fas fa-times" style="color:red"></i> Staudt Willet, K. B. (Jul 2023). NSF CAREER: Developing STEM Teachers' Culturally Affirming Self-Teaching (CAST) Through a Mobile Game. Submitted to National Science Foundation. Total requested: $870,598. *I was the PI for this grant proposal.*
+- <i class="fas fa-times" style="color:red"></i> Staudt Willet, K. B., Kim, A., & Xue, H. (Sep 2022). SEED: Leveling Up the Self-Directed Learning of Early Career Black Game Developers. Submitted to Florida State University, Council on Research and Creativity. Total requested $62,150. *I was the PI for this grant proposal.*
+- <i class="fas fa-times" style="color:red"></i> Staudt Willet, K. B., Kim, A., & Xue, H. (Jan 2023). SEED: Leveling Up the Culturally Sustaining Self-Directed Learning of Black Game Developers. Submitted to Florida State University, Council on Research and Creativity. Total requested $97,368. *I was the PI for this grant proposal.*
 
 
 
@@ -458,13 +462,14 @@ Staudt Willet, K. B. (Jul 2024). NSF CAREER: Science Teachers Developing Context
 - Introduction to Instructional Systems (EME5601)
 - Synthesis, Analysis, and Argumentation in Instructional Systems Research (EME6665)
 - Instructional Systems Research Seminar (EDG6362)
+- Research on Learning, Instruction, and Performance Systems (EDG6363)
 - Inquiry and Measurement for Practitioners (EDF5442)
 - Applied Research Methods in Learning Design & Performance Technology (EDF5492)
 - Evaluation of Instruction & Training in Human-Performance Technology (EME6357)
 
 
 
-## Doctoral Committee Chair (10 current, 5 graduates)
+## Doctoral Committee Chair (14 current, 5 graduates)
 
 - Aguilar, V., doctoral candidate. *Using self-directed learning to prepare elementary preservice teachers to work with English language learners*.
 - Aich, S., doctoral student.
@@ -473,9 +478,13 @@ Staudt Willet, K. B. (Jul 2024). NSF CAREER: Science Teachers Developing Context
 - Catteeuw, C., doctoral candidate. *Examining new instructional designers’ use of LinkedIn during their transition from K-12 teaching*.
 - Costa, A., doctoral student.
 - Fairclough, K., doctoral candidate. *Supervisory competence in behavior analysts using self-directed learning through social media*.
+- Fulwider, G. C., doctoral candidate.
 - Harle, J., doctoral student.
+- Kim, C., doctoral student.
 - Na, H., doctoral candidate. *The relationships between computational thinking development and online interactions in a Scratch online self-directed learning environment*.
 - Rodriguez, C., doctoral student.
+- Sementelli, R., doctoral candidate.
+- Xu, J., doctoral candidate.
 - <i class="fas fa-graduation-cap" style="color:#782f40"></i> Madison, C., Ed.D. graduate 2024. *Pedagogical content knowledge in elementary mathematics teachers: A qualitative study on teacher perspective and instructional practice*.
 - <i class="fas fa-graduation-cap" style="color:#782f40"></i> Morris, V., Ed.D. graduate 2024. *High-achieving teenage students' use of social media and technology to complete advanced placement coursework*.
 - <i class="fas fa-graduation-cap" style="color:#782f40"></i> Smith, C., Ed.D. graduate 2023. *Culturally Inclusive Instructional Strategies Implemented by Designers-by-Assignment in Higher Education Student Services*.
@@ -483,7 +492,7 @@ Staudt Willet, K. B. (Jul 2024). NSF CAREER: Science Teachers Developing Context
 - <i class="fas fa-graduation-cap" style="color:#782f40"></i> Wick, J., Ed.D. graduate 2023. *Middle School Teachers’ Perceptions on the Effectiveness and Relevance of Mandated Professional Development*.
 
 
-## Doctoral Committee Member (17 current, 12 graduates)
+## Doctoral Committee Member (15 current, 12 graduates)
 
 - Alvarez, E., doctoral candidate.
 - Archer, T., doctoral candidate (Higher Education).
@@ -496,10 +505,8 @@ Staudt Willet, K. B. (Jul 2024). NSF CAREER: Science Teachers Developing Context
 - Lott, S., doctoral candidate.
 - Morgan, A., doctoral candidate.
 - Robbins, A., doctoral candidate.
-- Sementelli, R., doctoral candidate.
 - Shi, H., doctoral candidate.
 - Word, K., doctoral candidate.
-- Xu, J., doctoral candidate.
 - Young, K., doctoral candidate.
 - Zhang, N., doctoral candidate.
 - <i class="fas fa-graduation-cap" style="color:#782f40"></i> Choi, H., Ph.D. graduate 2022. *Situational Motivation and Participation in Online Discussion: A Multiple Case Study*.
@@ -514,6 +521,7 @@ Staudt Willet, K. B. (Jul 2024). NSF CAREER: Science Teachers Developing Context
 - <i class="fas fa-graduation-cap" style="color:#782f40"></i> Pappas, S., Ed.D. graduate 2024. *What Motivates Business Students' Internship Enrollment Decisions? Exploring Factors Influential to Decision-Making*.
 - <i class="fas fa-graduation-cap" style="color:#782f40"></i> Pryor, T., Ed.D. graduate 2024. *Cultural responsiveness in instructional design: A study of instructional designers' use of strategies in the non-academic, adult learning context*.
 - <i class="fas fa-graduation-cap" style="color:#782f40"></i> West, L., Ph.D. graduate 2024. *Dynamic visuospatial support for Mandarin tone learning in a language-driven game*.
+
 
 
 ## Invited Guest Lectures (12)
@@ -549,11 +557,14 @@ Staudt Willet, K. B. (2018). *Experiences from the practicum* [Panel for doctora
 
 # Service
 
+
+
 ## Florida State University
 
 ### FSU University Service
 
 - Educational Research Catalyst, FSU Innovation Hub (2024-present)
+- Member, Steering Committee, FSU Innovation Hub (2024-present)
 
 
 ### FSU College Service
@@ -577,6 +588,7 @@ Staudt Willet, K. B. (2018). *Experiences from the practicum* [Panel for doctora
 - Reviewer, Ph.D. Preliminary Exams Committee (2021-2022).
 
 
+
 ## The Profession
 
 ### Guest Editing for Refereed Journals
@@ -590,7 +602,8 @@ Staudt Willet, K. B. (2018). *Experiences from the practicum* [Panel for doctora
 - *International Journal of Self-Directed Learning* (2024-present).
 - *Journal of Research on Technology in Education* (2023–present).
 
-### Guest Reviewer for Refereed Journals (80 reviews)
+
+### Guest Reviewer for Refereed Journals (89 reviews)
 
 - *AERA Open* (2021).
 - *American Journal of Education* (2019-2020).
@@ -616,6 +629,7 @@ Staudt Willet, K. B. (2018). *Experiences from the practicum* [Panel for doctora
 - *Routledge Open Research* (2023-present).
 - *Teaching & Teacher Education* (2021-present).
 - *TechTrends* (2021-present).
+
 
 
 ### Service to Professional Associations
