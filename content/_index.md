@@ -22,7 +22,7 @@ Read my full interview with Melissa Powell in *The Torch* magazine: [Learning Wi
 
 ---
 
-I am an Assistant Professor of [Instructional Systems & Learning Technologies](https://cehhs.fsu.edu/islt) at Florida State University and the Educational Research Catalyst for the [FSU Hub](https://www.innovation.fsu.edu/). My preferred pronouns are **he/him/his**.
+I am an Assistant Professor of [Instructional Systems & Learning Technologies](https://cehhs.fsu.edu/islt) at Florida State University and the Educational Research Catalyst for the [FSU Innovation Hub](https://www.innovation.fsu.edu/). My preferred pronouns are **he/him/his**.
 
 My Florida State University homepage is [here](https://cehhs.fsu.edu/faculty-and-staff/dr-bret-staudt-willet).
 
