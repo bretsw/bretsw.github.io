@@ -70,7 +70,14 @@ Read:
 
 - **Rothwell et al. (2016): Chapters 6-7, 10, 20**
 
+View the slides at https://bretsw.com/eme5601-fs24-module3/, or scroll through below:
 
+<iframe id="Module 3 Slide Deck" 
+  title="Module 3 Slide Deck" 
+  src="https://bretsw.com/eme5601-fs24-module3/" 
+  width="720" 
+  height="405">
+</iframe>
 
 ---
 
@@ -80,7 +87,14 @@ Read:
 
 - **Rothwell et al. (2016): Chapters 2-5**
 
+View the slides at https://bretsw.com/eme5601-fs24-module4/, or scroll through below:
 
+<iframe id="Module 4 Slide Deck" 
+  title="Module 4 Slide Deck" 
+  src="https://bretsw.com/eme5601-fs24-module4/" 
+  width="720" 
+  height="405">
+</iframe>
 
 ---
 
@@ -92,7 +106,14 @@ Read:
 - [What is task analysis? Definition, how to and examples](https://www.indeed.com/career-advice/career-development/task-analysis) (Indeed Editorial Team, 2023) 
 - Hahn, H. A., Houghton, F. K., & Youngblood, A. (1995). Job-task analysis: Which way?: Three methods for making human resource decisions. *Ergonomics in Design, 3*(4), 22–28. https://doi.org/10.1177/106480469500300405
 
+View the slides at https://bretsw.com/eme5601-fs24-module5/, or scroll through below:
 
+<iframe id="Module 5 Slide Deck" 
+  title="Module 5 Slide Deck" 
+  src="https://bretsw.com/eme5601-fs24-module5/" 
+  width="720" 
+  height="405">
+</iframe>
 
 ---
 

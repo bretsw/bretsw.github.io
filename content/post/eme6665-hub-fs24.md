@@ -40,25 +40,53 @@ View the slides at https://bretsw.com/eme6665-fs24-module1/, or scroll through b
 
 ## Module 2: Do You Trust Me?
 
+View the slides at https://bretsw.com/eme6665-fs24-module2/, or scroll through below:
 
+<iframe id="Module 2 slide deck"
+    title="Module 2 slide deck"
+    width="720"
+    height="405"
+    src="https://bretsw.com/eme6665-fs24-module2/">
+</iframe>
 
 ---
 
 ## Module 3: A Handbook’s Tale
 
+View the slides at https://bretsw.com/eme6665-fs24-module3/, or scroll through below:
 
+<iframe id="Module 3 slide deck"
+    title="Module 3 slide deck"
+    width="720"
+    height="405"
+    src="https://bretsw.com/eme6665-fs24-module3/">
+</iframe>
 
 ---
 
 ## Module 4: Systematic Not Automatic
 
+View the slides at https://bretsw.com/eme6665-fs24-module4/, or scroll through below:
 
+<iframe id="Module 4 slide deck"
+    title="Module 4 slide deck"
+    width="720"
+    height="405"
+    src="https://bretsw.com/eme6665-fs24-module4/">
+</iframe>
 
 ---
 
 ## Module 5: Synthesis Over Summary
 
+View the slides at https://bretsw.com/eme6665-fs24-module5/, or scroll through below:
 
+<iframe id="Module 5 slide deck"
+    title="Module 5 slide deck"
+    width="720"
+    height="405"
+    src="https://bretsw.com/eme6665-fs24-module5/">
+</iframe>
 
 ---
 
