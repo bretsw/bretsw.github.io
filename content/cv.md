@@ -109,7 +109,7 @@ College of Education, Health, and Human Sciences
 
 ### Refereed Journal Articles (26)
 
-Na, H., & Staudt Willet, K. B. (2024). Understanding beginning teachers' socio-ecological challenges: Self-directed learning in the r/Teachers subreddit. *Information and Learning Sciences*. doi:[10.1108/ILS-12-2023-0197](https://doi.org/10.1108/ILS-12-2023-0197)
+Na, H., & Staudt Willet, K. B. (2024). Understanding beginning teachers' socio-ecological challenges: Self-directed learning in the r/Teachers subreddit. *Information and Learning Sciences, 125*(9), 769-791. doi:[10.1108/ILS-12-2023-0197](https://doi.org/10.1108/ILS-12-2023-0197)
 
 Na, H., Staudt Willet, K. B., Shi, H., Hur, J., He, D., & Kim, C. (2024). Initial discussions of ChatGPT in education-related subreddits. *Journal of Research on Technology in Education*. doi:[10.1080/15391523.2024.2338091](https://doi.org/10.1080/15391523.2024.2338091)
 
