@@ -328,7 +328,7 @@ Rutherford, T., Rosenberg, J. M., & Staudt Willet, K. B. (presented 2020, April)
 
 ### Invited Keynote and Plenary Presentations at Conferences (2)
 
-Staudt Willet, K. B. (presented 2024, November). *Self-directed learning for navigating change and innovation*. Keynote presentation at ED-volution 2024. LearnTech Initiative AFRICA. (International). https://learntechinitiative.org/edvolution2024/
+Staudt Willet, K. B. (presented 2024, November). *Self-directed learning for navigating change and innovation*. Keynote presentation at ED-volution 2024. LearnTech Initiative Africa. (International). https://learntechinitiative.org/edvolution2024/ | https://bretsw.com/edvolution24/
 
 Staudt Willet, K. B. (presented 2023, December). *Teachers' self-directed learning: Possibilities and perils*. Plenary presentation at II International Online Congress on Social Networks and Teacher Training. University of Sevilla, Spain. (International). https://bretsw.com/sevilla23/
 
@@ -495,7 +495,7 @@ Staudt Willet, K. B., & Rosenberg, J. M. (2022-2024). *tidytags: Importing and a
 ## Doctoral Committee Member (15 current, 12 graduates)
 
 - Alvarez, E., doctoral candidate.
-- Archer, T., doctoral candidate (Higher Education).
+- Archer, T., doctoral candidate (Higher Education). *The Effect Of Removing Counselors From The U.S. News & World Report Expert Opinion Survey On Institutions’ Peer Assessment Scores: Evidence From A Comparative Interrupted Time Series Analysis*.
 - Barrett, A., doctoral candidate.
 - Bean, W., doctoral candidate (Sport Psychology).
 - Brewer, V., doctoral candidate.
