@@ -232,25 +232,27 @@ Staudt Willet, K. B. (2022). Review of Griffin, M. M., & Zinskie, C. D. (Eds.). 
 
 ### Refereed Papers at Conferences (41)
 
-Wofford, A., Fatima, A., Wu, X., Perez-Felkner, L., Nhien, C., & Staudt Willet, K. B. (to be presented 2024, November). *Exploring the role of minority-serving institutions in access to computing doctoral education*. Association for the Study of Higher Education (ASHE), Minneapolis, MN. (National)
+Wofford, A., Fatima, A., Wu, X., Perez-Felkner, L., Nhien, C., & Staudt Willet, K. B. (2024, November). *Exploring the role of minority-serving institutions in access to computing doctoral education*. Association for the Study of Higher Education (ASHE), Minneapolis, MN. (National)
 
-Dennen, V., Staudt Willet, K. B., & Wang, Z. (to be presented 2024, October). *The ethics of ChatGPT use for higher education coursework: A student perspective*. Paper presented at Association for Educational Communications and Technology (AECT) International Convention, Association for Educational Communications and Technology (AECT), Kansas City, MO. (National). *Selected as a Presidential Presentation for AECT 2024.*
+Dennen, V., Staudt Willet, K. B., & Wang, Z. (2024, October). *The ethics of ChatGPT use for higher education coursework: A student perspective*. Paper presented at Association for Educational Communications and Technology (AECT) International Convention, Association for Educational Communications and Technology (AECT), Kansas City, MO. (National). *Selected as a Presidential Presentation for AECT 2024.*
 
-Na, H., Staudt Willet, K. B., & Kim, C. (to be presented 2024, October). *Learning geometry through different types of augmented reality in classrooms*. Paper presented at Association for Educational Communications and Technology (AECT) International Convention, Association for Educational Communications and Technology (AECT), Kansas City, MO. (National)
+Na, H., Staudt Willet, K. B., & Kim, C. (2024, October). *Learning geometry through different types of augmented reality in classrooms*. Paper presented at Association for Educational Communications and Technology (AECT) International Convention, Association for Educational Communications and Technology (AECT), Kansas City, MO. (National)
 
-Staudt Willet, K. B., Carpenter, J. P., & Na, H. (to be presented 2024, October). *This is where we leave you: Historic retrospective of X/Twitter #Edchat*. Paper presented at Association for Educational Communications and Technology (AECT) International Convention, Association for Educational Communications and Technology (AECT), Kansas City, MO. (National)
+Staudt Willet, K. B., Carpenter, J. P., & Na, H. (2024, October). *This is where we leave you: Historic retrospective of X/Twitter #Edchat*. Paper presented at Association for Educational Communications and Technology (AECT) International Convention, Association for Educational Communications and Technology (AECT), Kansas City, MO. (National)
 
-Staudt Willet, K. B., Wofford, A., Perez-Felkner, L., & Nhien, C. (to be presented 2024, October). *Understanding curricular knowledge through terminology in graduate computing course titles at minority-serving institutions*. Paper presented at Association for Educational Communications and Technology (AECT) International Convention, Association for Educational Communications and Technology (AECT), Kansas City, MO. (National)
+Staudt Willet, K. B., Wofford, A., Perez-Felkner, L., & Nhien, C. (2024, October). *Understanding curricular knowledge through terminology in graduate computing course titles at minority-serving institutions*. Paper presented at Association for Educational Communications and Technology (AECT) International Convention, Association for Educational Communications and Technology (AECT), Kansas City, MO. (National)
 
-Wei, S., Bi, R., & Staudt Willet, K. B. (to be presented 2024, October). *AI literacy in the wild: Topics discussed in an affinity space*. Paper presented at Association for Educational Communications and Technology (AECT) International Convention, Association for Educational Communications and Technology (AECT), Kansas City, MO. (National)
+Wei, S., Bi, R., & Staudt Willet, K. B. (2024, October). *AI literacy in the wild: Topics discussed in an affinity space*. Paper presented at Association for Educational Communications and Technology (AECT) International Convention, Association for Educational Communications and Technology (AECT), Kansas City, MO. (National)
 
-Na, H., Staudt Willet, K. B., He, D., Kim, C., Shi, H., & Hur, J. (presented 2024, April). *Unpacking discussions of ChatGPT in 25 education-related subreddits*. Paper presented at American Educational Research Association (AERA) Annual Meeting, American Educational Research Association (AERA), Philadelphia, PA. (National)
+Na, H., Staudt Willet, K. B., He, D., Kim, C., Shi, H., & Hur, J. (2024, April). *Unpacking discussions of ChatGPT in 25 education-related subreddits*. Paper presented at American Educational Research Association (AERA) Annual Meeting, American Educational Research Association (AERA), Philadelphia, PA. (National)
 
-Smith, C., & Staudt Willet, K. B. (presented 2024, April). *Finding culturally inclusive instructional strategies: "Because of who I mm, not in spite of"*. Paper presented at American Educational Research Association (AERA) Annual Meeting, American Educational Research Association (AERA), Philadelphia, PA. (National)
+Smith, C., & Staudt Willet, K. B. (2024, April). *Finding culturally inclusive instructional strategies: "Because of who I mm, not in spite of"*. Paper presented at American Educational Research Association (AERA) Annual Meeting, American Educational Research Association (AERA), Philadelphia, PA. (National)
 
-Wei, S., Staudt Willet, K. B., & Bi, R. (presented 2024, April). *AI literacy in the wild: Discourse in an online forum of AI painting*. Paper presented at American Educational Research Association (AERA) Annual Meeting, American Educational Research Association (AERA), Philadelphia, PA. (National)
+Wei, S., Staudt Willet, K. B., & Bi, R. (2024, April). *AI literacy in the wild: Discourse in an online forum of AI painting*. Paper presented at American Educational Research Association (AERA) Annual Meeting, American Educational Research Association (AERA), Philadelphia, PA. (National)
 
-Staudt Willet, K. B. (presented 2024, February). *Beginning teachers' self-directed learning: Improving instructional practice through social media use*. Paper presented at 37th International Self-Directed Learning Symposium, International Society for Self-Directed Learning (ISSDL), Cocoa Beach, FL. (National)
+Staudt Willet, K. B. (2024, February). *Beginning teachers' self-directed learning: Improving instructional practice through social media use*. Paper presented at 37th International Self-Directed Learning Symposium, International Society for Self-Directed Learning (ISSDL), Cocoa Beach, FL. (National)
+
+
 
 He, D., & Staudt Willet, K. B. (2023, October). *Interrogating education research through an invisible labor lens*. Paper presented at Association for Educational Communications and Technology (AECT) International Convention, Association for Educational Communications and Technology (AECT), Orlando, FL. (National)
 
@@ -260,125 +262,155 @@ Smith, C., & Staudt Willet, K. B. (2023, October). *A model for culturally susta
 
 Staudt Willet, K. B., & Na, H. (2023, October). *Chatting about ChatGPT: Posts and comments in 25 education-related subreddits*. Paper presented at Association for Educational Communications and Technology (AECT) International Convention, Association for Educational Communications and Technology (AECT), Orlando, FL. (National) https://bretsw.com/aect23-chatgpt/
 
-Akcaoglu, M., & Staudt Willet, K. B. (presented 2023, April). *The nature of online discussions: Structure, content, and discourse in whole class versus small groups*. Paper presented at American Educational Research Association (AERA) Annual Meeting, American Educational Research Association (AERA), Chicago, IL. (National)
+Akcaoglu, M., & Staudt Willet, K. B. (2023, April). *The nature of online discussions: Structure, content, and discourse in whole class versus small groups*. Paper presented at American Educational Research Association (AERA) Annual Meeting, American Educational Research Association (AERA), Chicago, IL. (National)
 
-Na, H., & Staudt Willet, K. B. (presented 2023, April). *I wanna go where nobody knows my name: Affinity and anonymity in the r/Teachers subreddit*. Paper presented at American Educational Research Association (AERA) Annual Meeting, American Educational Research Association (AERA), Chicago, IL. (National)
+Na, H., & Staudt Willet, K. B. (2023, April). *I wanna go where nobody knows my name: Affinity and anonymity in the r/Teachers subreddit*. Paper presented at American Educational Research Association (AERA) Annual Meeting, American Educational Research Association (AERA), Chicago, IL. (National)
 
-Na, H., & Staudt Willet, K. B. (presented 2022, October). *A gentle bootcamp for beginning teachers: Subreddit r/Teachers*. Paper presented at Association for Educational Communications and Technology (AECT) International Convention, Association for Educational Communications and Technology (AECT), Las Vegas, NV. (National)
 
-Staudt Willet, K. B., & He, D. (presented 2022, October). *Making the invisible visible: Reframing how we see educators' professional activity*. Paper presented at Association for Educational Communications and Technology (AECT) International Convention, Association for Educational Communications and Technology (AECT), Las Vegas, NV. (National)
 
-Dennen, V., Staudt Willet, K. B., Mitchell, L., & Kent, H. (presented 2022, July). *Networks of interest and collaboration in a doctoral program*. Paper presented at Sunbelt 2022, International Network for Social Network Analysis (INSNA), Online. (International)
+Na, H., & Staudt Willet, K. B. (2022, October). *A gentle bootcamp for beginning teachers: Subreddit r/Teachers*. Paper presented at Association for Educational Communications and Technology (AECT) International Convention, Association for Educational Communications and Technology (AECT), Las Vegas, NV. (National)
 
-Staudt Willet, K. B. (presented 2022, April). *More opportunities, more costs: Early career teachers' support systems on social media*. Paper presented at American Educational Research Association (AERA) Annual Meeting, American Educational Research Association (AERA), San Diego, CA. (National)
+Staudt Willet, K. B., & He, D. (2022, October). *Making the invisible visible: Reframing how we see educators' professional activity*. Paper presented at Association for Educational Communications and Technology (AECT) International Convention, Association for Educational Communications and Technology (AECT), Las Vegas, NV. (National)
 
-Muljana, P., Staudt Willet, K. B., & Luo, T. (presented 2021, November). *Asking questions, seeking advice, and supporting one another: Higher education professionals on Reddit*. Paper presented at Association for Educational Communications and Technology (AECT) International Convention, Association for Educational Communications and Technology (AECT), Chicago, IL. (National)
+Dennen, V., Staudt Willet, K. B., Mitchell, L., & Kent, H. (2022, July). *Networks of interest and collaboration in a doctoral program*. Paper presented at Sunbelt 2022, International Network for Social Network Analysis (INSNA), Online. (International)
 
-Staudt Willet, K. B. (presented 2021, November). *Build-your-own support systems: Identity-agency and professional learning with social media*. Paper presented at Association for Educational Communications and Technology (AECT) International Convention, Association for Educational Communications and Technology (AECT), Chicago, IL. (National)
+Staudt Willet, K. B. (2022, April). *More opportunities, more costs: Early career teachers' support systems on social media*. Paper presented at American Educational Research Association (AERA) Annual Meeting, American Educational Research Association (AERA), San Diego, CA. (National)
 
-Dennen, V., Mitchell, A., Staudt Willet, K. B., & Kent, H. (presented 2021, November). *Using social network analysis to explore interests, collaborations, and needs in an academic community*. Paper presented at Association for Educational Communications and Technology (AECT) International Convention, Association for Educational Communications and Technology (AECT), Chicago, IL. (National)
 
-Carpenter, J. P., & Staudt Willet, K. B. (presented 2021, April). *Self-directed educator learning on Reddit: Comparing and contrasting two teaching-related subreddits*. Paper presented at American Educational Research Association (AERA) Annual Meeting, American Educational Research Association (AERA), Online. (National)
 
-Staudt Willet, K. B. (presented 2020, November). *Into the edu-verse: New teachers' challenges, supports, and social media*. Paper presented at Association for Educational Communications and Technology (AECT) International Convention, Association for Educational Communications and Technology (AECT), Online. (National)
+Muljana, P., Staudt Willet, K. B., & Luo, T. (2021, November). *Asking questions, seeking advice, and supporting one another: Higher education professionals on Reddit*. Paper presented at Association for Educational Communications and Technology (AECT) International Convention, Association for Educational Communications and Technology (AECT), Chicago, IL. (National)
 
-Staudt Willet, K. B., & Carpenter, J. P. (presented 2020, November). *Time after time: Continuity and change in teaching-related subreddits*. Paper presented at Association for Educational Communications and Technology (AECT) International Convention, Association for Educational Communications and Technology (AECT), Online. (National)
+Staudt Willet, K. B. (2021, November). *Build-your-own support systems: Identity-agency and professional learning with social media*. Paper presented at Association for Educational Communications and Technology (AECT) International Convention, Association for Educational Communications and Technology (AECT), Chicago, IL. (National)
 
-Staudt Willet, K. B. (presented 2020, April). *Can you hear me now? Teachers' versus researchers' measures of the Twitter #Edchat affinity space*. Paper presented at American Educational Research Association (AERA) Annual Meeting, American Educational Research Association (AERA), Conference was canceled due to the COVID--19 pandemic. (National)
+Dennen, V., Mitchell, A., Staudt Willet, K. B., & Kent, H. (2021, November). *Using social network analysis to explore interests, collaborations, and needs in an academic community*. Paper presented at Association for Educational Communications and Technology (AECT) International Convention, Association for Educational Communications and Technology (AECT), Chicago, IL. (National)
 
-Krutka, D. G., Heath, M. K., & Staudt Willet, K. B. (presented 2020, April). *Foregrounding critical technoethics in technology and teacher education: A workshop for pedagogical action*. Paper presented at Society for Information Technology & Teacher Education (SITE) International National, Online, Association for the Advancement of Computing in Education (AACE), Online. (International)
+Carpenter, J. P., & Staudt Willet, K. B. (2021, April). *Self-directed educator learning on Reddit: Comparing and contrasting two teaching-related subreddits*. Paper presented at American Educational Research Association (AERA) Annual Meeting, American Educational Research Association (AERA), Online. (National)
 
-Staudt Willet, K. B., & Moudgalya, S. K. (presented 2019, October). *Community, network, or space: Conceptualizing inspired professional learning in an online discussion forum*. Paper presented at Association for Educational Communications and Technology (AECT) International Convention, Association for Educational Communications and Technology (AECT), Las Vegas, NV. (National)
 
-Staudt Willet, K. B., & Bagdy, L. (presented 2019, October). *How do you do, fellow kids? "New teachers" in Twitter #ntchat*. Paper presented at Association for Educational Communications and Technology (AECT) International Convention, Association for Educational Communications and Technology (AECT), Las Vegas, NV. (National)
 
-Greenhalgh, S. P., Staudt Willet, K. B., & Koehler, M. J. (presented 2019, October). *Twitter hashtags and religious learning: Mormon identity and participatory practice in #ldsconf*. Paper presented at Association for Educational Communications and Technology (AECT) International Convention, Association for Educational Communications and Technology (AECT), Las Vegas, NV. (National)
+Staudt Willet, K. B. (2020, November). *Into the edu-verse: New teachers' challenges, supports, and social media*. Paper presented at Association for Educational Communications and Technology (AECT) International Convention, Association for Educational Communications and Technology (AECT), Online. (National)
 
-Greenhow, C. M., Staudt Willet, K. B., & Marich, H. (presented 2019, July). *Scholarship reconsidered: Examining new scholars' social media practices*. Paper presented at The 10th International Conference on Social Media & Society, Social Media & Society, Toronto, ON, Canada. (International)
+Staudt Willet, K. B., & Carpenter, J. P. (2020, November). *Time after time: Continuity and change in teaching-related subreddits*. Paper presented at Association for Educational Communications and Technology (AECT) International Convention, Association for Educational Communications and Technology (AECT), Online. (National)
 
-Staudt Willet, K. B. (presented 2019, April). *Is bigger better? Exploring educators' uses and gratifications in Twitter #Edchat*. Paper presented at American Educational Research Association (AERA) Annual Meeting, American Educational Research Association (AERA), Toronto, ON, Canada. (International)
+Staudt Willet, K. B. (2020, April). *Can you hear me now? Teachers' versus researchers' measures of the Twitter #Edchat affinity space*. Paper presented at American Educational Research Association (AERA) Annual Meeting, American Educational Research Association (AERA), Conference was canceled due to the COVID--19 pandemic. (National)
 
-Greenhalgh, S. P., Koehler, M. J., & Staudt Willet, K. B. (presented 2019, March). *Every nation, kindred, tongue, and "tweeple": International use of the #ldsconf Twitter hashtag*. Paper presented at Decentered Mormonism Conference, Religions & Societies program at Bordeaux Montaigne University, Bordeaux, France. (International)
+Krutka, D. G., Heath, M. K., & Staudt Willet, K. B. (2020, April). *Foregrounding critical technoethics in technology and teacher education: A workshop for pedagogical action*. Paper presented at Society for Information Technology & Teacher Education (SITE) International National, Online, Association for the Advancement of Computing in Education (AACE), Online. (International)
 
-Staudt Willet, K. B. (presented 2018, October). *Cyborg methods: The benefits of mixing human and machine coding*. Paper presented at Association for Educational Communications and Technology (AECT) International Convention, Association for Educational Communications and Technology (AECT), Kansas City, MO. (National)
 
-Staudt Willet, K. B. (presented 2018, October). *Self-promoters, bots, and moderators: Exploring educators' participatory actions, roles, and culture in Twitter #Edchat*. Paper presented at Association for Educational Communications and Technology (AECT) International Convention, Association for Educational Communications and Technology (AECT), Kansas City, MO. (National)
 
-Staudt Willet, K. B. (presented 2018, October). *Teacher participation in digital spaces: What kinds of learning spaces are on Reddit?* Paper presented at Association for Educational Communications and Technology (AECT) International Convention, Association for Educational Communications and Technology (AECT), Kansas City, MO. (National)
+Staudt Willet, K. B., & Moudgalya, S. K. (2019, October). *Community, network, or space: Conceptualizing inspired professional learning in an online discussion forum*. Paper presented at Association for Educational Communications and Technology (AECT) International Convention, Association for Educational Communications and Technology (AECT), Las Vegas, NV. (National)
 
-Staudt Willet, K. B., Greenhalgh, S. P., Rosenberg, J. M., & Koehler, M. J. (presented 2018, October). *Won't you be my neighbor? How education stakeholders use hyperlinks to build information neighborhoods on Twitter*. Paper presented at Association for Educational Communications and Technology (AECT) International Convention, Association for Educational Communications and Technology (AECT), Kansas City, MO. (National)
+Staudt Willet, K. B., & Bagdy, L. (2019, October). *How do you do, fellow kids? "New teachers" in Twitter #ntchat*. Paper presented at Association for Educational Communications and Technology (AECT) International Convention, Association for Educational Communications and Technology (AECT), Las Vegas, NV. (National)
 
-Greenhalgh, S. P., Staudt Willet, K. B., Rosenberg, J. M., Akcaoglu, M., & Koehler, M. J. (presented 2018, April). *Timing is everything: Comparing synchronous and asynchronous modes of Twitter for teacher professional learning*. Paper presented at American Educational Research Association (AERA) Annual Meeting, American Educational Research Association (AERA), New York, NY. (National)
+Greenhalgh, S. P., Staudt Willet, K. B., & Koehler, M. J. (2019, October). *Twitter hashtags and religious learning: Mormon identity and participatory practice in #ldsconf*. Paper presented at Association for Educational Communications and Technology (AECT) International Convention, Association for Educational Communications and Technology (AECT), Las Vegas, NV. (National)
 
-Greenhow, C. M., Brandon, D. L., Greenhalgh, S. P., Koehler, M. J., Staudt Willet, K. B., & Li, J. (presented 2018, April). *Tweeting toward the PhD: Exploring new scholars' practices with social media*. Paper presented at American Educational Research Association (AERA) Annual Meeting, American Educational Research Association (AERA), New York, NY. (National)
+Greenhow, C. M., Staudt Willet, K. B., & Marich, H. (2019, July). *Scholarship reconsidered: Examining new scholars' social media practices*. Paper presented at The 10th International Conference on Social Media & Society, Social Media & Society, Toronto, ON, Canada. (International)
 
-Greenhalgh, S. P., Staudt Willet, K. B., Rosenberg, J. M., & Koehler, M. J. (presented 2017, November). *No accounting for theory? The case for an affinity space approach to educational hashtag research*. Paper presented at Association for Educational Communications and Technology (AECT) International Convention, Association for Educational Communications and Technology (AECT), Jacksonville, FL. (National)
+Staudt Willet, K. B. (2019, April). *Is bigger better? Exploring educators' uses and gratifications in Twitter #Edchat*. Paper presented at American Educational Research Association (AERA) Annual Meeting, American Educational Research Association (AERA), Toronto, ON, Canada. (International)
+
+Greenhalgh, S. P., Koehler, M. J., & Staudt Willet, K. B. (2019, March). *Every nation, kindred, tongue, and "tweeple": International use of the #ldsconf Twitter hashtag*. Paper presented at Decentered Mormonism Conference, Religions & Societies program at Bordeaux Montaigne University, Bordeaux, France. (International)
+
+
+
+Staudt Willet, K. B. (2018, October). *Cyborg methods: The benefits of mixing human and machine coding*. Paper presented at Association for Educational Communications and Technology (AECT) International Convention, Association for Educational Communications and Technology (AECT), Kansas City, MO. (National)
+
+Staudt Willet, K. B. (2018, October). *Self-promoters, bots, and moderators: Exploring educators' participatory actions, roles, and culture in Twitter #Edchat*. Paper presented at Association for Educational Communications and Technology (AECT) International Convention, Association for Educational Communications and Technology (AECT), Kansas City, MO. (National)
+
+Staudt Willet, K. B. (2018, October). *Teacher participation in digital spaces: What kinds of learning spaces are on Reddit?* Paper presented at Association for Educational Communications and Technology (AECT) International Convention, Association for Educational Communications and Technology (AECT), Kansas City, MO. (National)
+
+Staudt Willet, K. B., Greenhalgh, S. P., Rosenberg, J. M., & Koehler, M. J. (2018, October). *Won't you be my neighbor? How education stakeholders use hyperlinks to build information neighborhoods on Twitter*. Paper presented at Association for Educational Communications and Technology (AECT) International Convention, Association for Educational Communications and Technology (AECT), Kansas City, MO. (National)
+
+Greenhalgh, S. P., Staudt Willet, K. B., Rosenberg, J. M., Akcaoglu, M., & Koehler, M. J. (2018, April). *Timing is everything: Comparing synchronous and asynchronous modes of Twitter for teacher professional learning*. Paper presented at American Educational Research Association (AERA) Annual Meeting, American Educational Research Association (AERA), New York, NY. (National)
+
+Greenhow, C. M., Brandon, D. L., Greenhalgh, S. P., Koehler, M. J., Staudt Willet, K. B., & Li, J. (2018, April). *Tweeting toward the PhD: Exploring new scholars' practices with social media*. Paper presented at American Educational Research Association (AERA) Annual Meeting, American Educational Research Association (AERA), New York, NY. (National)
+
+
+
+Greenhalgh, S. P., Staudt Willet, K. B., Rosenberg, J. M., & Koehler, M. J. (2017, November). *No accounting for theory? The case for an affinity space approach to educational hashtag research*. Paper presented at Association for Educational Communications and Technology (AECT) International Convention, Association for Educational Communications and Technology (AECT), Jacksonville, FL. (National)
 
 
 
 ### Refereed Papers at Symposia (3)
 
-Staudt Willet, K. B. (presented 2023, April). Social media's impact on instruction: Beginning teachers' self-directed professional learning. In Eric Richter & Jeffrey P. Carpenter (Chair), *International perspective on advantages and disadvantages of teachers' social media use*. Symposium conducted at the meeting of American Educational Research Association (AERA) Annual Meeting, Chicago, IL. (National) https://bretsw.com/aera23-teachers-social-media/
+Staudt Willet, K. B. (2023, April). Social media's impact on instruction: Beginning teachers' self-directed professional learning. In Eric Richter & Jeffrey P. Carpenter (Chair), *International perspective on advantages and disadvantages of teachers' social media use*. Symposium conducted at the meeting of American Educational Research Association (AERA) Annual Meeting, Chicago, IL. (National) https://bretsw.com/aera23-teachers-social-media/
 
-Staudt Willet, K. B., Galvin, S., & Greenhow, C. M. (presented 2021, April). Flexible professional learning networks: Teachers turn to #Edchat during pandemic-disrupted education. In Martin Rehm, Ken Frank, & Kaitlin Torphy (Chair), *Social opportunity spaces: How social media can inform / shape educational policy processes*. Symposium conducted at the meeting of American Educational Research Association (AERA) Annual Meeting, Online. (National)
+Staudt Willet, K. B., Galvin, S., & Greenhow, C. M. (2021, April). Flexible professional learning networks: Teachers turn to #Edchat during pandemic-disrupted education. In Martin Rehm, Ken Frank, & Kaitlin Torphy (Chair), *Social opportunity spaces: How social media can inform / shape educational policy processes*. Symposium conducted at the meeting of American Educational Research Association (AERA) Annual Meeting, Online. (National)
 
-Rutherford, T., Rosenberg, J. M., & Staudt Willet, K. B. (presented 2020, April). Which birds fill the branches of the AERA Twitter tree? Twitter networks around #AERA19. In P. N. Beymer, D. K. Benden, & M. L. Bernacki (Chair), *Affordances and modeling of intensive data*. Symposium conducted at the meeting of American Educational Research Association (AERA) Annual Meeting, Conference was canceled due to the COVID-19 pandemic. (National)
+Rutherford, T., Rosenberg, J. M., & Staudt Willet, K. B. (2020, April). Which birds fill the branches of the AERA Twitter tree? Twitter networks around #AERA19. In P. N. Beymer, D. K. Benden, & M. L. Bernacki (Chair), *Affordances and modeling of intensive data*. Symposium conducted at the meeting of American Educational Research Association (AERA) Annual Meeting, Conference was canceled due to the COVID-19 pandemic. (National)
 
 
 
 ### Invited Keynote and Plenary Presentations at Conferences (2)
 
-Staudt Willet, K. B. (presented 2024, November). *Self-directed learning for navigating change and innovation*. Keynote presentation at ED-volution 2024. LearnTech Initiative Africa. (International). https://learntechinitiative.org/edvolution2024/ | https://bretsw.com/edvolution24/
+Staudt Willet, K. B. (2024, November). *Self-directed learning for navigating change and innovation*. Keynote presentation at ED-volution Summit 2024. LearnTech Initiative Africa. (International). https://learntechinitiative.org/edvolution2024/ | https://bretsw.com/edvolution24/
 
-Staudt Willet, K. B. (presented 2023, December). *Teachers' self-directed learning: Possibilities and perils*. Plenary presentation at II International Online Congress on Social Networks and Teacher Training. University of Sevilla, Spain. (International). https://bretsw.com/sevilla23/
+Staudt Willet, K. B. (2023, December). *Teachers' self-directed learning: Possibilities and perils*. Plenary presentation at II International Online Congress on Social Networks and Teacher Training. University of Sevilla, Spain. (International). https://bretsw.com/sevilla23/
 
 
 
 ### Invited Presentations at Conferences (1)
 
-Staudt Willet, K. B. (presented 2023, April). *Discussant reflections: Teacher use of social media for teaching and professional development*. Discussant notes presented at American Educational Research Association (AERA) Annual Meeting, American Educational Research Association (AERA), Chicago, IL. (National). https://bretsw.com/aera23-teachers-social-media/
+Staudt Willet, K. B. (2023, April). *Discussant reflections: Teacher use of social media for teaching and professional development*. Discussant notes presented at American Educational Research Association (AERA) Annual Meeting, American Educational Research Association (AERA), Chicago, IL. (National). https://bretsw.com/aera23-teachers-social-media/
 
 
 
 ### Refereed Presentations at Conferences (19)
 
-Kim, I., Na, H., & Staudt Willet, K. B. (to be presented 2024, October). *Professional learning through social media by K-12 in-service teachers in South Korea*. Poster presentation at Association for Educational Communications and Technology (AECT) International Convention, Association for Educational Communications and Technology (AECT), Kansas City, MO. (National)
+Kim, I., Na, H., & Staudt Willet, K. B. (2024, October). *Professional learning through social media by K-12 in-service teachers in South Korea*. Poster presentation at Association for Educational Communications and Technology (AECT) International Convention, Association for Educational Communications and Technology (AECT), Kansas City, MO. (National)
 
-Turcotte, N., Staudt Willet, K. B., Dudek, J., & Asino, T. (to be presented 2024, October). *Ecocritical and ethical concerns with emerging technologies: Conversations we need to be having*. Panel presentation at Association for Educational Communications and Technology (AECT) International Convention, Association for Educational Communications and Technology (AECT), Kansas City, MO. (National). *Selected as a Presidential Presentation for AECT 2024.*
+Turcotte, N., Staudt Willet, K. B., Dudek, J., & Asino, T. (2024, October). *Ecocritical and ethical concerns with emerging technologies: Conversations we need to be having*. Panel presentation at Association for Educational Communications and Technology (AECT) International Convention, Association for Educational Communications and Technology (AECT), Kansas City, MO. (National). *Selected as a Presidential Presentation for AECT 2024.*
 
-Staudt Willet, K. B., Carpenter, J. P., & Na, H. (presented 2024, April). *Nobody goes there anymore, it's too crowded: Historic retrospective of Twitter #Edchat*. Poster presentation at American Educational Research Association (AERA) Annual Meeting, American Educational Research Association (AERA), Philadelphia, PA. (National)
+Staudt Willet, K. B., Carpenter, J. P., & Na, H. (2024, April). *Nobody goes there anymore, it's too crowded: Historic retrospective of Twitter #Edchat*. Poster presentation at American Educational Research Association (AERA) Annual Meeting, American Educational Research Association (AERA), Philadelphia, PA. (National)
 
-Staudt Willet, K. B. (presented 2024, March). *Devs with kids roundtable: The kids might be alright, but what about you? (presented by the IGDA)*. Roundtable at Game Developers Conference (GDC), San Francisco, CA. (National)
+Staudt Willet, K. B. (2024, March). *Devs with kids roundtable: The kids might be alright, but what about you? (presented by the IGDA)*. Roundtable at Game Developers Conference (GDC), San Francisco, CA. (National)
 
-Wofford, A., Perez-Felkner, L., Staudt Willet, K. B., & Nhien, C. (presented 2024, March). *Examining organizational structures at minority-serving institutions: An analysis of terminology in computing-related graduate education*. Poster presentation at Association for Education Finance & Policy (AEFP) Annual Conference, Association for Education Finance & Policy (AEFP), Baltimore, MD. (National)
+Wofford, A., Perez-Felkner, L., Staudt Willet, K. B., & Nhien, C. (2024, March). *Examining organizational structures at minority-serving institutions: An analysis of terminology in computing-related graduate education*. Poster presentation at Association for Education Finance & Policy (AEFP) Annual Conference, Association for Education Finance & Policy (AEFP), Baltimore, MD. (National)
 
-Feigenbaum, L., Brewer, V., Sprenkle, S., He, D., Staudt Willet, K. B., & Dennen, V. (presented 2023, October). *Using social network analysis to explore interest, collaborations, and needs for Ed.D. cohort community*. Poster presentation at Association for Educational Communications and Technology (AECT) International Convention, Association for Educational Communications and Technology (AECT), Orlando, FL. (National)
 
-Smith, C., & Staudt Willet, K. B. (presented 2023, October). *Culturally sustaining strategies implemented by designers-by-assignment in higher education student services*. Poster presentation at Association for Educational Communications and Technology (AECT) International Convention, Association for Educational Communications and Technology (AECT), Orlando, FL. (National)
 
-Staudt Willet, K. B. (presented 2023, March). *Making the invisible visible: Devs with kids roundtable (presented by the IGDA)*. Roundtable at Game Developers Conference (GDC), San Francisco, CA. (National)
+Feigenbaum, L., Brewer, V., Sprenkle, S., He, D., Staudt Willet, K. B., & Dennen, V. (2023, October). *Using social network analysis to explore interest, collaborations, and needs for Ed.D. cohort community*. Poster presentation at Association for Educational Communications and Technology (AECT) International Convention, Association for Educational Communications and Technology (AECT), Orlando, FL. (National)
 
-Wiley, D., Caskurlu, S., Ifenthaler, D., Ocak, C., Staudt Willet, K. B., & Castellanos-Reyes, D. (presented 2022, October). *Learning analytics for continuous improvement: An instructional design perspective*. Panel presentation at Association for Educational Communications and Technology (AECT) International Convention, Association for Educational Communications and Technology (AECT), Las Vegas, NV. (National)
+Smith, C., & Staudt Willet, K. B. (2023, October). *Culturally sustaining strategies implemented by designers-by-assignment in higher education student services*. Poster presentation at Association for Educational Communications and Technology (AECT) International Convention, Association for Educational Communications and Technology (AECT), Orlando, FL. (National)
 
-Bagdy, L., Arrington, T. L., Bong, J. Y., Moore, A., & Staudt Willet, K. B. (presented 2021, November). *Qualifications and duties for IDT faculty: A job posting analysis and panel discussion*. Panel presentation at Association for Educational Communications and Technology (AECT) International Convention, Association for Educational Communications and Technology (AECT), Chicago, IL. (National)
+Staudt Willet, K. B. (2023, March). *Making the invisible visible: Devs with kids roundtable (presented by the IGDA)*. Roundtable at Game Developers Conference (GDC), San Francisco, CA. (National)
 
-Rosenberg, J. M., Galas, E., & Staudt Willet, K. B. (presented 2021, June). *Who are the data scientists in education? An investigation of the identities and work of individuals in diverse roles*. Poster presentation at Annual Meeting of the International Society of the Learning Sciences (ISLS), International Society of the Learning Sciences (ISLS), Online. (International)
 
-Budhrani, K., Ross, K., Mulajana, P., Dyer, R., Jones, M., & Staudt Willet, K. B. (presented 2020, November). *Factors influencing doctoral students' perseverance in online instructional technology programs*. Panel presentation at Association for Educational Communications and Technology (AECT) International Convention, Association for Educational Communications and Technology (AECT), Online. (National)
 
-Romero-Hall, E., Arslan-Ari, I., Gentry, W., Greenhalgh, S. P., Jung, Y. J., Stefaniak, J., Tiwari, S., Koehler, M. J., Rosenberg, J. M., Staudt Willet, K. B., Lockee, B., Zimmerman, H., Pérez-Edgar, K., Grant, M. M., & Ari, F. (presented 2020, November). *Let's talk about research methods: Where are we today?* Panel presentation at Association for Educational Communications and Technology (AECT) International Convention, Association for Educational Communications and Technology (AECT), Online. (National)
+Wiley, D., Caskurlu, S., Ifenthaler, D., Ocak, C., Staudt Willet, K. B., & Castellanos-Reyes, D. (2022, October). *Learning analytics for continuous improvement: An instructional design perspective*. Panel presentation at Association for Educational Communications and Technology (AECT) International Convention, Association for Educational Communications and Technology (AECT), Las Vegas, NV. (National)
 
-Staudt Willet, K. B., Heath, M. K., & Krutka, D. G. (presented 2020, April). *The need for technoethics in teacher education: A critical analysis of literature*. Poster presentation at American Educational Research Association (AERA) Annual Meeting, American Educational Research Association (AERA), Conference was canceled due to the COVID-19 pandemic. (National)
 
-Staudt Willet, K. B. (presented 2017, August). *When a little blue bird flaps its wings: How Twitter is changing the world*. Presentation at Passion Talks Conference, Passion Talks International, Google Headquarters, Mountain View, CA. (National)
 
-Staudt Willet, K. B. (presented 2016, August). *The strength of the weak ties*. Presentation at Passion Talks Conference, Passion Talks International, Google Headquarters, Mountain View, CA. (National)
+Bagdy, L., Arrington, T. L., Bong, J. Y., Moore, A., & Staudt Willet, K. B. (2021, November). *Qualifications and duties for IDT faculty: A job posting analysis and panel discussion*. Panel presentation at Association for Educational Communications and Technology (AECT) International Convention, Association for Educational Communications and Technology (AECT), Chicago, IL. (National)
 
-Staudt Willet, K. B. (presented 2014, October). *My journey into user-centered game design*. Presentation at North American Simulation and Game Association (NASAGA) International Conference, North American Simulation and Game Association (NASAGA), Baltimore, MD. (National)
+Rosenberg, J. M., Galas, E., & Staudt Willet, K. B. (2021, June). *Who are the data scientists in education? An investigation of the identities and work of individuals in diverse roles*. Poster presentation at Annual Meeting of the International Society of the Learning Sciences (ISLS), International Society of the Learning Sciences (ISLS), Online. (International)
 
-Staudt Willet, K. B. (presented 2013, October). *Tension: My favorite game mechanic*. Presentation at North American Simulation and Game Association (NASAGA) International Conference, North American Simulation and Game Association (NASAGA), Sarasota, FL. (National)
 
-Willet, K. B. (presented 2001, February). *The shortest closed path on an arithmetic surface*. Presentation at Moravian College Student Mathematics Conference, Moravian College, Bethlehem, PA. (State)
+
+Budhrani, K., Ross, K., Mulajana, P., Dyer, R., Jones, M., & Staudt Willet, K. B. (2020, November). *Factors influencing doctoral students' perseverance in online instructional technology programs*. Panel presentation at Association for Educational Communications and Technology (AECT) International Convention, Association for Educational Communications and Technology (AECT), Online. (National)
+
+Romero-Hall, E., Arslan-Ari, I., Gentry, W., Greenhalgh, S. P., Jung, Y. J., Stefaniak, J., Tiwari, S., Koehler, M. J., Rosenberg, J. M., Staudt Willet, K. B., Lockee, B., Zimmerman, H., Pérez-Edgar, K., Grant, M. M., & Ari, F. (2020, November). *Let's talk about research methods: Where are we today?* Panel presentation at Association for Educational Communications and Technology (AECT) International Convention, Association for Educational Communications and Technology (AECT), Online. (National)
+
+Staudt Willet, K. B., Heath, M. K., & Krutka, D. G. (2020, April). *The need for technoethics in teacher education: A critical analysis of literature*. Poster presentation at American Educational Research Association (AERA) Annual Meeting, American Educational Research Association (AERA), Conference was canceled due to the COVID-19 pandemic. (National)
+
+
+
+Staudt Willet, K. B. (2017, August). *When a little blue bird flaps its wings: How Twitter is changing the world*. Presentation at Passion Talks Conference, Passion Talks International, Google Headquarters, Mountain View, CA. (National)
+
+
+
+Staudt Willet, K. B. (2016, August). *The strength of the weak ties*. Presentation at Passion Talks Conference, Passion Talks International, Google Headquarters, Mountain View, CA. (National)
+
+
+
+Staudt Willet, K. B. (2014, October). *My journey into user-centered game design*. Presentation at North American Simulation and Game Association (NASAGA) International Conference, North American Simulation and Game Association (NASAGA), Baltimore, MD. (National)
+
+
+
+Staudt Willet, K. B. (2013, October). *Tension: My favorite game mechanic*. Presentation at North American Simulation and Game Association (NASAGA) International Conference, North American Simulation and Game Association (NASAGA), Sarasota, FL. (National)
+
+
+
+Willet, K. B. (2001, February). *The shortest closed path on an arithmetic surface*. Presentation at Moravian College Student Mathematics Conference, Moravian College, Bethlehem, PA. (State)
 
 
 
@@ -492,10 +524,10 @@ Staudt Willet, K. B., & Rosenberg, J. M. (2022-2024). *tidytags: Importing and a
 - <i class="fas fa-graduation-cap" style="color:#782f40"></i> Wick, J., Ed.D. graduate 2023. *Middle School Teachers’ Perceptions on the Effectiveness and Relevance of Mandated Professional Development*.
 
 
-## Doctoral Committee Member (15 current, 12 graduates)
+
+## Doctoral Committee Member (16 current, 13 graduates)
 
 - Alvarez, E., doctoral candidate.
-- Archer, T., doctoral candidate (Higher Education). *The Effect Of Removing Counselors From The U.S. News & World Report Expert Opinion Survey On Institutions’ Peer Assessment Scores: Evidence From A Comparative Interrupted Time Series Analysis*.
 - Barrett, A., doctoral candidate.
 - Bean, W., doctoral candidate (Sport Psychology).
 - Brewer, V., doctoral candidate.
@@ -503,12 +535,15 @@ Staudt Willet, K. B., & Rosenberg, J. M. (2022-2024). *tidytags: Importing and a
 - Hrabcak, J., doctoral student (Sport Psychology).
 - Lewis, A., doctoral candidate.
 - Lott, S., doctoral candidate.
+- McKenzie, R., doctoral candidate.
 - Morgan, A., doctoral candidate.
 - Robbins, A., doctoral candidate.
 - Shi, H., doctoral candidate.
+- Sprenkle, S., doctoral candidate.
 - Word, K., doctoral candidate.
 - Young, K., doctoral candidate.
 - Zhang, N., doctoral candidate.
+- <i class="fas fa-graduation-cap" style="color:#782f40"></i> Archer, T., Ph.D. graduate 2024 (Higher Education). *The Effect Of Removing Counselors From The U.S. News & World Report Expert Opinion Survey On Institutions’ Peer Assessment Scores: Evidence From A Comparative Interrupted Time Series Analysis*.
 - <i class="fas fa-graduation-cap" style="color:#782f40"></i> Choi, H., Ph.D. graduate 2022. *Situational Motivation and Participation in Online Discussion: A Multiple Case Study*.
 - <i class="fas fa-graduation-cap" style="color:#782f40"></i> Clifford, S., Ed.D. graduate 2023. *The Impact of Trainer Self-Efficacy and Technology Adoption on Learning Performance*.
 - <i class="fas fa-graduation-cap" style="color:#782f40"></i> DeBord, E., Ed.D. graduate 2024. *Azure for Education: Exploring the Benefits of a Cross-organizational Technology-focused Community of Practice*.
@@ -526,29 +561,41 @@ Staudt Willet, K. B., & Rosenberg, J. M. (2022-2024). *tidytags: Importing and a
 
 ## Invited Guest Lectures (12)
 
-Staudt Willet, K. B. (2024). *Advice for academic publishing* [Guest lecture for doctoral course CEP 956: Mind, Media and Learning]. Educational Psychology & Educational Technology program, Michigan State University. 
+Staudt Willet, K. B. (2024, April). *Advice for academic publishing* [Guest lecture for doctoral course CEP 956: Mind, Media and Learning]. Educational Psychology & Educational Technology program, Michigan State University. 
 
-Staudt Willet, K. B. (2024). *Self-directed learning for mechanical engineering problem-solving* [Guest lecture for graduate students]. Mechanical Engineering department, FAMU-FSU College of Engineering.
+Staudt Willet, K. B. (2024, February). *Self-directed learning for mechanical engineering problem-solving* [Guest lecture for graduate students]. Mechanical Engineering department, FAMU-FSU College of Engineering.
 
-Greenhalgh, S., Hu, A., Rosenberg, J., & Staudt Willet, K. B. (2023). *A conversation about what ChatGPT is, how it is impacting universities, and how might we make "good" use of it* [Panel]. College of Education, Michigan State University. 
 
-Staudt Willet, K. B. (2022). *Insights for academic publishing* [Guest lecture for doctoral course CEP 956: Mind, Media and Learning]. Educational Psychology & Educational Technology program, Michigan State University. 
 
-Staudt Willet, K. B. (2022). *Picture this: Telling data stories through visualizations* [Guest lecture for Master's course Teaching with Technology]. Manhattanville College, Purchase, NY.
+Greenhalgh, S., Hu, A., Rosenberg, J., & Staudt Willet, K. B. (2023, March). *A conversation about what ChatGPT is, how it is impacting universities, and how might we make "good" use of it* [Panel]. College of Education, Michigan State University. 
 
-Staudt Willet, K. B. (2022). *The front page of the internet: Reflections from studying Reddit* [Guest lecture for Master's course Digital Media and Educational Psychology]. University of Tübingen, Germany.
 
-Staudt Willet, K. B. (2021). *Finding the right balance: Risk and societal benefit from big data* [Guest lecture for Doctoral course Core Methods in Educational Data Mining]. Teachers College, Columbia University. 
 
-Staudt Willet, K. B. (2020). *Welcome to the good place?: Teachers' networked learning on social media* [Guest lecture for Master's course Teaching with Technology]. Manhattanville College, Purchase, NY. 
+Staudt Willet, K. B. (2022, November). *Insights for academic publishing* [Guest lecture for doctoral course CEP 956: Mind, Media and Learning]. Educational Psychology & Educational Technology program, Michigan State University. 
 
-Staudt Willet, K. B. (2020). *You are stronger than you think: Insights for academic publishing* [Guest lecture for doctoral course CEP 956: Mind, Media and Learning]. Educational Psychology & Educational Technology program, Michigan State University. 
+Staudt Willet, K. B. (2022, February). *Picture this: Telling data stories through visualizations* [Guest lecture for Master's course Teaching with Technology]. Manhattanville College, Purchase, NY.
 
-Staudt Willet, K. B., & Bork, W. (2019). *Electronic assessment* [Presentation for Master of Arts in Educational Technology (MAET) instructor huddle]. Educational Psychology & Educational Technology program, Michigan State University. 
+Staudt Willet, K. B. (2022, January). *The front page of the internet: Reflections from studying Reddit* [Guest lecture for Master's course Digital Media and Educational Psychology]. University of Tübingen, Germany.
 
-Staudt Willet, K. B. (2019). *Insights for academic publishing* [Guest lecture for doctoral course CEP 956: Mind, Media and Learning]. Educational Psychology & Educational Technology program, Michigan State University. 
 
-Staudt Willet, K. B. (2018). *Experiences from the practicum* [Panel for doctoral course CEP 955: Research Design and Methods for Educational Psychology and Educational Technology]. Educational Psychology & Educational Technology program, Michigan State University. 
+
+Staudt Willet, K. B. (2021, December). *Finding the right balance: Risk and societal benefit from big data* [Guest lecture for Doctoral course Core Methods in Educational Data Mining]. Teachers College, Columbia University. 
+
+
+
+Staudt Willet, K. B. (2020, October). *Welcome to the good place?: Teachers' networked learning on social media* [Guest lecture for Master's course Teaching with Technology]. Manhattanville College, Purchase, NY. 
+
+Staudt Willet, K. B. (2020, October). *You are stronger than you think: Insights for academic publishing* [Guest lecture for doctoral course CEP 956: Mind, Media and Learning]. Educational Psychology & Educational Technology program, Michigan State University. 
+
+
+
+Staudt Willet, K. B., & Bork, W. (2019, December). *Electronic assessment* [Presentation for Master of Arts in Educational Technology (MAET) instructor huddle]. Educational Psychology & Educational Technology program, Michigan State University. 
+
+Staudt Willet, K. B. (2019, September). *Insights for academic publishing* [Guest lecture for doctoral course CEP 956: Mind, Media and Learning]. Educational Psychology & Educational Technology program, Michigan State University. 
+
+
+
+Staudt Willet, K. B. (2018, October). *Experiences from the practicum* [Panel for doctoral course CEP 955: Research Design and Methods for Educational Psychology and Educational Technology]. Educational Psychology & Educational Technology program, Michigan State University. 
 
 
 
@@ -593,17 +640,17 @@ Staudt Willet, K. B. (2018). *Experiences from the practicum* [Panel for doctora
 
 ### Guest Editing for Refereed Journals
 
-- Greenhow, C. M., Staudt Willet, K. B., & Carpenter, J. P. (Eds.). (2023-2024). Learning with social media in an algorithmic age: Opportunities and challenges for education [Special Issue]. *Information & Learning Sciences*.
+- Greenhow, C. M., Staudt Willet, K. B., & Carpenter, J. P. (Eds.). (2023-2024). Learning with social media in an algorithmic age: Opportunities and challenges for education [Special Issue]. *Information & Learning Sciences, 125* (9-10). https://www.emerald.com/insight/publication/issn/2398-5348
 
 
 ### Editorial Board Memberships
 
-- *British Journal of Educational Technology* (2024-present).
-- *International Journal of Self-Directed Learning* (2024-present).
-- *Journal of Research on Technology in Education* (2023–present).
+- *British Journal of Educational Technology* (2024-present). [Board listing](https://bera-journals.onlinelibrary.wiley.com/hub/journal/14678535/editorialboard.html).
+- *International Journal of Self-Directed Learning* (2024-present). [Board listing](https://www.sdlglobal.com/journal).
+- *Journal of Research on Technology in Education* (2023–present). [Board listing](https://www.tandfonline.com/action/journalInformation?show=editorialBoard&journalCode=ujrt20).
 
 
-### Guest Reviewer for Refereed Journals (89 reviews)
+### Guest Reviewer for Refereed Journals (92 reviews)
 
 - *AERA Open* (2021).
 - *American Journal of Education* (2019-2020).
@@ -634,9 +681,10 @@ Staudt Willet, K. B. (2018). *Experiences from the practicum* [Panel for doctora
 
 ### Service to Professional Associations
 
+- **Past Chair**, Technology as an Agent of Change in Teaching & Learning Special Interest Group (TACTL SIG), American Educational Research Association (AERA) (2026-2027).
 - **Chair**, Technology as an Agent of Change in Teaching & Learning Special Interest Group (TACTL SIG), American Educational Research Association (AERA) (2025-2026).
 - **Chair-Elect**, Technology as an Agent of Change in Teaching & Learning Special Interest Group (TACTL SIG), American Educational Research Association (AERA) (2024-2025).
-- **Past-President**, Research & Theory Division, Association for Educational Communications & Technology (AECT) (2024-2025).
+- **Past President**, Research & Theory Division, Association for Educational Communications & Technology (AECT) (2024-2025).
 - **President**, Research & Theory Division, Association for Educational Communications & Technology (AECT) (2023-2024).
 - **Chair**, Devs with Kids SIG, International Game Developers Association (IGDA) (2022-present).
 - **President-Elect**, Research & Theory Division, Association for Educational Communications & Technology (AECT) (2022–2023).
