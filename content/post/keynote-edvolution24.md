@@ -27,6 +27,12 @@ DisableComments: true
 
 ---
 
+### Reflection
+
+Every aspect of ED-VOLUTION 2024 was so well-organized, and the production quality was top-notch. My favorite part of the whole speaker experience was the Q&A after my presentation, which turned into a nice chat with Damilare. His questions were excellent for extending and deepening the conversation. It had an informal, fireside chat feel to it. This follow-up prompted me to think and reflect on my topic in new ways. I wasn't expecting to learn this much in my role as a speaker, but I'm glad that I had the opportunity!
+
+---
+
 ![ED-VOLUTION Keynote Announcement](/images/edvolution24-announcement.png)
 
 ---
