@@ -1,6 +1,6 @@
 ---
 title: "New Study: Game Developers' Self-Directed Learning"
-date: 2024-03-08
+date: 2024-11-04
 thumbnail: ""
 Description: ""
 Tags: ["research", "study", "game developers", "devs", "self-directed learning"]
@@ -8,11 +8,28 @@ Categories: []
 DisableComments: true
 ---
 
-I am very excited to announce a new research study, *Game Developers' Self-Directed Learning*. I am getting ready to head to Game Developers Conference ([GDC](https://gdconf.com/)) in a little over a week, and while I am there, I am hoping to interview some game developers about how they got started in the industry and how they figured things out along the way. If you'd like to know all the details, keep reading!
+
+<img src="/images/game-devs-sdl-flyer.png">
 
 ---
 
+## Study Overview
+
+In this study, we are exploring self-directed learning (SDL) among game developers, investigating how you acquire and enhance skills in an industry marked by rapid technological evolution and shifting consumer interests.
+
+Through interviews with game developers, we aim to uncover the motivations behind your engagement in SDL and the strategies you employ to overcome associated challenges.
+
+We expect our findings to inform educational programs and resources tailored to the unique learning needs of professionals in the gaming industry and other rapidly changing fields.
+
 [{{< fa envelope >}}](bret.staudtwillet@fsu.edu) If you'd like to tell me your self-directed learning stories, [please email me](bret.staudtwillet@fsu.edu)!
+
+[{{< fa list-check >}} By completing this brief questionnaire](https://fsu.qualtrics.com/jfe/form/SV_824A1MpKEicQsSi), you are indicated your interest in participating in a 60-minute Zoom interview with Dr. Bret at mutually convenient time. We will use your responses to this survey to purposively select interview participants.
+
+Thank you for your interest!
+
+
+
+
 
 ---
 
@@ -23,6 +40,12 @@ In this study, we want to find out more about how game developers engage in self
 Your involvement in the study will last less than one hour. If you want to stop at any time, just tell me and we will stop. You don’t have to be in this research study. You can say yes now and still change your mind later, at any point.
 
 <img src="/images/SDL.png" width="300">
+
+
+
+
+
+---
 
 ## Research Objectives
 

@@ -91,7 +91,6 @@ I consider my strongest credential to be my ongoing friendship with my very firs
   - *Design & Technology* SIG
   - *Technology as an Agent of Change in Teaching & Learning* (TACTL) SIG  
 - [**IGDA**](https://igda.org/) | International Game Developers Association
-  - *Analytics SIG*
   - *Black in Games SIG*
   - *Devs with Kids SIG*
 - [**ISSDL**](https://www.sdlglobal.com/) | International Society for Self-Directed Learning

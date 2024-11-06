@@ -1,6 +1,6 @@
 ---
 title: "Teaching Notes from EME5601: Introduction to Instructional Systems (Fall 2024)"
-date: 2024-09-03
+date: 2024-11-06
 thumbnail: "images/5601-logo-2024.png"
 Description: ""
 Tags: ["teaching", "notes", "fsu", "slide deck"]
@@ -123,7 +123,14 @@ Read:
 
 - **Rothwell et al. (2016): Chapters 8-9, 11-12**
 
+View the slides at https://bretsw.com/eme5601-fs24-module6/, or scroll through below:
 
+<iframe id="Module 6 Slide Deck" 
+  title="Module 6 Slide Deck" 
+  src="https://bretsw.com/eme5601-fs24-module6/" 
+  width="720" 
+  height="405">
+</iframe>
 
 ---
 

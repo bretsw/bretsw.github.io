@@ -6,22 +6,11 @@
     <description>Recent content in Posts on Bret Staudt Willet, Ph.D.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 22 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://bretsw.com/post/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>AECT 2024 Conference Activity</title>
-      <link>https://bretsw.com/post/aect-2024/</link>
-      <pubDate>Tue, 22 Oct 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://bretsw.com/post/aect-2024/</guid>
-      
-        <description>Presentation: Social Media’s Impact on Instruction: Beginning Teachers’ Self-Directed Professional Learning (10/20/24) Bret Staudt Willet, Jeff Carpenter, &amp;amp; Hunhui Na</description>
-      
-    </item>
-    
+    <lastBuildDate>Wed, 06 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://bretsw.com/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Teaching Notes from EME5601: Introduction to Instructional Systems (Fall 2024)</title>
       <link>https://bretsw.com/post/eme5601-hub-fs24/</link>
-      <pubDate>Tue, 03 Sep 2024 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 06 Nov 2024 00:00:00 +0000</pubDate>
       
       <guid>https://bretsw.com/post/eme5601-hub-fs24/</guid>
       
@@ -32,11 +21,55 @@
     <item>
       <title>Teaching Notes from EME6665: Synthesis, Analysis, and Argumentation in Instructional Systems Research (Fall 2024)</title>
       <link>https://bretsw.com/post/eme6665-hub-fs24/</link>
-      <pubDate>Mon, 26 Aug 2024 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 05 Nov 2024 00:00:00 +0000</pubDate>
       
       <guid>https://bretsw.com/post/eme6665-hub-fs24/</guid>
       
         <description>This page compiles all of my slide decks as I teach EME6665: Synthesis, Analysis, and Argumentation in Instructional Systems Research at Florida State University.</description>
+      
+    </item>
+    
+    <item>
+      <title>New Study: Game Developers&#39; Self-Directed Learning</title>
+      <link>https://bretsw.com/post/game-devs-sdl/</link>
+      <pubDate>Mon, 04 Nov 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://bretsw.com/post/game-devs-sdl/</guid>
+      
+        <description>Study Overview In this study, we are exploring self-directed learning (SDL) among game developers, investigating how you acquire and enhance skills in an industry marked by rapid technological evolution and shifting consumer interests.</description>
+      
+    </item>
+    
+    <item>
+      <title>Keynote at ED-VOLUTION Summit 2024 (Nigeria)</title>
+      <link>https://bretsw.com/post/keynote-edvolution24/</link>
+      <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://bretsw.com/post/keynote-edvolution24/</guid>
+      
+        <description>Keynote: Self-Directed Learning for Navigating Change and Innovation (11/01/24) ED-VOLUTION Summit 2024 presented by LearnTech Initiative AFRICA</description>
+      
+    </item>
+    
+    <item>
+      <title>Special Issue of Information &amp; Learning Sciences</title>
+      <link>https://bretsw.com/post/ils-special-issue2024/</link>
+      <pubDate>Thu, 31 Oct 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://bretsw.com/post/ils-special-issue2024/</guid>
+      
+        <description>Announcement New Double Special Issue of Information &amp;amp; Learning Sciences! Check out the special double issue of Information and Learning Sciences: &amp;ldquo;Learning with social media in an algorithmic age: Opportunities and challenges for education&amp;rdquo;</description>
+      
+    </item>
+    
+    <item>
+      <title>AECT 2024 Conference Activity</title>
+      <link>https://bretsw.com/post/aect-2024/</link>
+      <pubDate>Tue, 22 Oct 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://bretsw.com/post/aect-2024/</guid>
+      
+        <description>Presentation: Social Media’s Impact on Instruction: Beginning Teachers’ Self-Directed Professional Learning (10/20/24) Bret Staudt Willet, Jeff Carpenter, &amp;amp; Hunhui Na</description>
       
     </item>
     
@@ -130,17 +163,6 @@ My name is Bret Staudt Willet. I’m an Assistant Professor in Instructional Sys
     </item>
     
     <item>
-      <title>New Study: Game Developers&#39; Self-Directed Learning</title>
-      <link>https://bretsw.com/post/game-devs-sdl/</link>
-      <pubDate>Fri, 08 Mar 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://bretsw.com/post/game-devs-sdl/</guid>
-      
-        <description>I am very excited to announce a new research study, Game Developers&amp;rsquo; Self-Directed Learning.</description>
-      
-    </item>
-    
-    <item>
       <title>Third-Year Review</title>
       <link>https://bretsw.com/post/third-year/</link>
       <pubDate>Tue, 30 Jan 2024 00:00:00 +0000</pubDate>
@@ -159,6 +181,17 @@ My name is Bret Staudt Willet. I’m an Assistant Professor in Instructional Sys
       <guid>https://bretsw.com/post/farewell-tidytags/</guid>
       
         <description>I am sad to announce that Josh Rosenberg and I have decided to archive our R package, tidytags.</description>
+      
+    </item>
+    
+    <item>
+      <title>Keynote at Universidad de Sevilla (Spain)</title>
+      <link>https://bretsw.com/post/keynote-sevilla23/</link>
+      <pubDate>Tue, 12 Dec 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://bretsw.com/post/keynote-sevilla23/</guid>
+      
+        <description>Keynote: Possibilities and Perils of Teachers’ Self-Directed Learning (12/12/23) II International Online Congress on Social Networks and Teacher Training</description>
       
     </item>
     

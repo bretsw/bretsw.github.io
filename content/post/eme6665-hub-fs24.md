@@ -1,6 +1,6 @@
 ---
 title: "Teaching Notes from EME6665: Synthesis, Analysis, and Argumentation in Instructional Systems Research (Fall 2024)"
-date: 2024-08-26
+date: 2024-11-05
 thumbnail: "images/6665-logo.png"
 Description: ""
 Tags: ["teaching", "notes", "fsu", "slide deck"]
@@ -92,7 +92,14 @@ View the slides at https://bretsw.com/eme6665-fs24-module5/, or scroll through b
 
 ## Module 6: Elements of Style (for Academic Writing)
 
+View the slides at https://bretsw.com/eme6665-fs24-module6/, or scroll through below:
 
+<iframe id="Module 6 slide deck"
+    title="Module 6 slide deck"
+    width="720"
+    height="405"
+    src="https://bretsw.com/eme6665-fs24-module6/">
+</iframe>
 
 ---
 
