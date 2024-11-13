@@ -230,7 +230,16 @@ Staudt Willet, K. B. (2022). Review of Griffin, M. M., & Zinskie, C. D. (Eds.). 
 
 ## Presentations
 
-### Refereed Papers at Conferences (41)
+### Refereed Papers at Conferences (44)
+
+
+Dennen, V., Staudt Willet, K. B., & Wang, Z. (2025, April). *Generative AI and student ethics: A survey of judgment and behavioral intention in coursework*. Paper presented at American Educational Research Association (AERA) Annual Meeting, American Educational Research Association (AERA), Denver, CO. (National)
+
+Na, H., Staudt Willet, K. B., & Kim, C. (2025, April). *When and how to use marker-based and markerless augmented reality for geometric learning in classrooms*. Paper presented at American Educational Research Association (AERA) Annual Meeting, American Educational Research Association (AERA), Denver, CO. (National)
+
+Staudt Willet, K. B., Wang, Z., & Xu, J. (2025, March). *Game developers’ self-directed learning to navigate a volatile industry* Paper presented at 38th International Self-Directed Learning Symposium, International Society for Self-Directed Learning (ISSDL), Tampa, FL. (National)
+
+
 
 Wofford, A., Fatima, A., Wu, X., Perez-Felkner, L., Nhien, C., & Staudt Willet, K. B. (2024, November). *Exploring the role of minority-serving institutions in access to computing doctoral education*. Association for the Study of Higher Education (ASHE), Minneapolis, MN. (National)
 
@@ -623,12 +632,14 @@ Staudt Willet, K. B. (2018, October). *Experiences from the practicum* [Panel fo
 ### FSU Department Service
 
 - Member, Diversity, Equity, and Inclusion Committee (2022-present).
+- Member, Faculty Search Committee, School Psychology (2024).
 - Member, Faculty Evaluation Committee (2021–2023).
 
 
 ### FSU Program Service
 
 - Academic Director, ISLT Ph.D. Program (2022-present).
+- Member, Faculty Search Committee (2024–2025).
 - Liaison, Morgan Studio (2022-present).
 - Coordinator, ISLT Brown Bag Series (2022-2023).
 - Member, Faculty Search Committee (2021–2022).
@@ -648,6 +659,7 @@ Staudt Willet, K. B. (2018, October). *Experiences from the practicum* [Panel fo
 - *British Journal of Educational Technology* (2024-present). [Board listing](https://bera-journals.onlinelibrary.wiley.com/hub/journal/14678535/editorialboard.html).
 - *International Journal of Self-Directed Learning* (2024-present). [Board listing](https://www.sdlglobal.com/journal).
 - *Journal of Research on Technology in Education* (2023–present). [Board listing](https://www.tandfonline.com/action/journalInformation?show=editorialBoard&journalCode=ujrt20).
+- *Professional Development in Education* (2024–present). [Board listing](https://www.tandfonline.com/journals/rjie20/about-this-journal#editorial-board).
 
 
 ### Guest Reviewer for Refereed Journals (92 reviews)
