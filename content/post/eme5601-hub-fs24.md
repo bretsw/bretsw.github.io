@@ -140,6 +140,13 @@ Read:
 
 - **Rothwell et al. (2016): Chapters 13-16**
 
+View the slides at https://bretsw.com/eme5601-fs24-module7/, or scroll through below:
 
+<iframe id="Module 7 Slide Deck" 
+  title="Module 7 Slide Deck" 
+  src="https://bretsw.com/eme5601-fs24-module7/" 
+  width="720" 
+  height="405">
+</iframe>
 
 ---

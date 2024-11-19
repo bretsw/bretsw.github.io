@@ -105,7 +105,14 @@ View the slides at https://bretsw.com/eme6665-fs24-module6/, or scroll through b
 
 ## Module 7: Weaving Together Chapter One
 
+View the slides at https://bretsw.com/eme6665-fs24-module7/, or scroll through below:
 
+<iframe id="Module 7 slide deck"
+    title="Module 7 slide deck"
+    width="720"
+    height="405"
+    src="https://bretsw.com/eme6665-fs24-module7/">
+</iframe>
 
 ---
 
