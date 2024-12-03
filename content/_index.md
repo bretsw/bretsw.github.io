@@ -39,7 +39,7 @@ My academic training spans **educational technology** (Ph.D., M.A.), **education
 I consider my strongest credential to be my ongoing friendship with my very first online friend, who I met in an AOL chatroom in the early 1990s.
 
 ![Bret's teaching](/images/bretsw-teaching.jpg)
-
+g
 ---
 
 ## Roles and Skills
