@@ -18,25 +18,23 @@ mainSectionsTitle = ""
 
 
 
-Read my full interview with Melissa Powell in *The Torch* magazine: [Learning Without Limits](https://issuu.com/fsu_education/docs/thetorchspring24_finaldigital) (2024, pp. 16-19).
+{{< fa microphone >}} Read my full interview with Melissa Powell in *The Torch* magazine: [Learning Without Limits](https://issuu.com/fsu_education/docs/thetorchspring24_finaldigital) (2024, pp. 16-19).
+
+{{< fa globe >}} My Florida State University homepage is [here](https://cehhs.fsu.edu/faculty-and-staff/dr-bret-staudt-willet).
+
+{{< fa users >}} The Research & Exploration of Context-Aware Self-Teaching (RECAST) Group website is [here](https://recast.team/).
 
 ---
 
 I am an Assistant Professor of [Instructional Systems & Learning Technologies](https://cehhs.fsu.edu/islt) at Florida State University and the Educational Research Catalyst for the [FSU Innovation Hub](https://www.innovation.fsu.edu/). My preferred pronouns are **he/him/his**.
 
-My Florida State University homepage is [here](https://cehhs.fsu.edu/faculty-and-staff/dr-bret-staudt-willet).
+My research investigates **self-directed learning**; I am fascinated by how people figure things out on their own. I'm most interested in what happens when students, learners, and trainees finish formal instruction, preparation, and training. What do they do *after* they walk out the door or log off? How do they continue to develop their knowledge, skills, and abilities? Where do they look for resources? Who do they talk to? 
 
-The Research & Exploration of Context-Aware Self-Teaching (RECAST) Group website is [here](https://recast.team/).
-
-At different times and in different parts of my professional life, I take on roles of **researcher**, **educator**, and **consultant**. In each of these roles, I aspire to embody **culturally sustaining** practices.
-
-My research investigates **self-directed learning**, a subset of informal and networked learning. I am fascinated by how people figure things out on their own. I'm most interested in what happens when students, learners, and trainees finish formal instruction, preparation, and training. What do they do *after* they walk out the door or log off? How do they continue to develop their knowledge, skills, and abilities? Where do they look for resources? Who do they talk to? 
-
-I am interested in how self-directed learners navigate social connections through the internet, exploration through games, and innovation through intensive events.
+I am interested in how self-directed learners **navigate social connections** through the internet, exploration through games, and innovation through intensive events.
 
 I frequently investigate self-directed learning with the tools of **educational data science**, including learning analytics, social network analysis, discourse analysis, natural language processing, and educational data mining.
 
-I hold a [Ph.D. in Educational Psychology & Educational Technology](https://education.msu.edu/cepse/epet/), a [Master's Degree in Educational Technology](https://education.msu.edu/cepse/maet/), and a [Graduate Certificate in Serious Game Design & Research](https://comartsci.msu.edu/academics/academic-departments/media-information/graduate/serious-game-design-ma-certificate) from Michigan State University, as well as a dual bachelor’s degree in Mathematics and Sociology from Bucknell University. 
+My academic training spans **educational technology** (Ph.D., M.A.), **educational psychology** (Ph.D.), **serious games** (Graduate Certificate), **sociology** (B.A.), and **mathematics** (B.A.).
 
 I consider my strongest credential to be my ongoing friendship with my very first online friend, who I met in an AOL chatroom in the early 1990s.
 
@@ -57,8 +55,8 @@ I consider my strongest credential to be my ongoing friendship with my very firs
 ## Research Interests
 
 - **Self-Directed Learning**
-  - Networked Learning
   - Informal Learning
+  - Networked Learning
 - **Educational Data Science**
   - Learning Analytics
   - Social Network Analysis
