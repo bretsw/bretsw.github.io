@@ -61,6 +61,7 @@ College of Education, Health, and Human Sciences
 
 ### Research Awards
 
+- <i class="fas fa-award" style="color:#ceb888"></i> **Presidential Sessions (2)** at the 2024 AECT International Convention, Association for Educational Communications and Technology (AECT) (2024).
 - <i class="fas fa-award" style="color:#ceb888"></i> **McJulien Scholar Best Paper Award** from the Culture, Learning, & Technology Division, Association for Educational Communications & Technology (AECT) (2023).
 - <i class="fas fa-award" style="color:#ceb888"></i> **Early Career Scholar Award** from the Technology as an Agent of Change in Teaching & Learning Special Interest Group (TACTL SIG), American Educational Research Association (AERA) (2023).
 - <i class="fas fa-award" style="color:#ceb888"></i> **Qualitative Inquiry Award** from the AECT Foundation and Research & Theory Division, Association for Educational Communications & Technology (2022). ($750).
@@ -71,8 +72,10 @@ College of Education, Health, and Human Sciences
 - <i class="fas fa-award" style="color:#ceb888"></i> **Outstanding Paper Award** at the 2019 SITE International Conference, Society for Information Technology & Teacher Education (SITE) (2019).
 - <i class="fas fa-award" style="color:#ceb888"></i> **Outstanding Paper Award** at the 2017 SITE International Conference, Society for Information Technology & Teacher Education (SITE) (2017).
 
+
 ### Teaching Awards
 
+- Nominated: **University Teaching and Advising Award: Innovation in Teaching**, Florida State University (2025).
 - Nominated: **University Teaching and Advising Award: Outstanding Graduate Teaching**, Florida State University (2024).
 - Nominated: **COE Teaching Award for Graduate Teaching**, Florida State University, College of Education (2023).
 - Nominated: **COE Teaching Award for Graduate Teaching** (not eligible to win), Florida State University, College of Education (2022).
@@ -109,7 +112,7 @@ College of Education, Health, and Human Sciences
 
 ### Refereed Journal Articles (27)
 
-Staudt Willet, K. B., & Na, H. (in press). Beginning science teachers' context-aware self-teaching to support core and background instructional roles. *International Journal of Self-Directed Learning, 22*(1).
+Staudt Willet, K. B., & Na, H. (in press). Beginning science teachers' context-aware self-teaching to support core and background instructional roles. *International Journal of Self-Directed Learning, 22*(1), 1-16. http://sdlglobal.com/journals.php
 
 Na, H., & Staudt Willet, K. B. (2024). Understanding beginning teachers' socio-ecological challenges: Self-directed learning in the r/Teachers subreddit. *Information and Learning Sciences, 125*(9), 769-791. doi:[10.1108/ILS-12-2023-0197](https://doi.org/10.1108/ILS-12-2023-0197)
 
@@ -425,13 +428,15 @@ Willet, K. B. (2001, February). *The shortest closed path on an arithmetic surfa
 
 
 
-## Invited Workshops (3)
+## Invited Workshops (4)
+
+Staudt Willet, K. B. (2024, December). *Data prescription: Introducing R for nursing analytics*. Workshop delivered for College of Nursing faculty at Florida State University, Online. (Local) https://bretsw.com/nursing24-workshop
 
 Staudt Willet, K. B. (2022, March). *Remembering you're just one in 11: An introduction to social network analysis*. Workshop delivered at Association for Educational Communications and Technology (AECT) Research & Theory Division webinar series. (National) https://bretsw.github.io/aect22-workshop
 
 Caines, A., Heath, M., Krutka, D., & Staudt Willet, K. B. (2021, May). *Black Mirror mad libs: Interrogating technology through dystopian storytelling*. Workshop delivered at Equity Unbound, The American University in Cairo, Egypt, Online. (International) https://tinyurl.com/BlackMirrorTech
 
-Staudt Willet, K. B., Rosenberg, J. M., & Greenhalgh, S. P. (2020, March). *R u ready 4 R? Introduction to analyzing educational Internet data using R*. Workshop delivered at Students, Social Media & Schools research group at Florida State University, Online. (Local) https://bretsw.github.io/fsu-workshop/
+Staudt Willet, K. B., Rosenberg, J. M., & Greenhalgh, S. P. (2020, March). *R u ready 4 R? Introduction to analyzing educational Internet data using R*. Workshop delivered at Students, Social Media & Schools research group at Florida State University, Online. (Local) https://bretsw.github.io/fsu-workshop
 
 
 
@@ -479,13 +484,13 @@ Staudt Willet, K. B., & Rosenberg, J. M. (2022-2024). *tidytags: Importing and a
 
 ### Contracts and Grants Pending
 
-- <i class="fas fa-exclamation-triangle" style="color:#ceb888"></i> Staudt Willet, K. B. (Sep 2024). CRC SEED: Advancing AI-Assisted Self-Directed Learning through Intensive Events. Submitted to FSU Council for Research Creativity. Total requested: $92,623.*I would serve as the solo PI on this grant project.*
 - <i class="fas fa-exclamation-triangle" style="color:#ceb888"></i> Frank, K., Maroulis, S., Xu, R., Rosenberg, J. M., Saw, G., Lin, Q., & Staudt Willet, K. B. (Aug 2024). IES: Sensitivity Analysis for Statistical Advances that Inform Evidence Use and Knowledge Mobilization. Submitted to Institute for Education Sciences. Total requested: $899,997. *I would serve as a co-PI on this grant project.*
 - <i class="fas fa-exclamation-triangle" style="color:#ceb888"></i> Staudt Willet, K. B. (Jul 2024). NSF CAREER: Science Teachers Developing Context-Aware Self-Teaching Through Intensive Events. Submitted to National Science Foundation. Total requested: $898,603. *I would serve as the solo PI on this grant project.*
 
 
 ### Contracts and Grants Denied
 
+- <i class="fas fa-times" style="color:red"></i> Staudt Willet, K. B. (Sep 2024). CRC SEED: Advancing AI-Assisted Self-Directed Learning through Intensive Events. Submitted to FSU Council for Research Creativity. Total requested: $92,623. *I was the PI for this grant proposal.*
 - <i class="fas fa-times" style="color:red"></i> Frank, K., Maroulis, S., Xu, R., Rosenberg, J. M., Saw, G., Lin, Q., & Staudt Willet, K. B. (Jan 2024). IES: Sensitivity Analysis for Statistical Advances that Inform Evidence Use and Knowledge Mobilization. Submitted to Institute for Education Sciences. Total requested: $898,387. *I was a co-PI for this grant proposal.*
 - <i class="fas fa-times" style="color:red"></i> Myers, J., Ecton, W. G., Fendler, R., Grace, C., & Staudt Willet, K. B. (Jul 2023). Project EVIDENT: Evaluating Visual Information and Data to Enhance oNline Thinking. Submitted to USDOEd American History and Civics-National Activities grant. Total requested: $320,584. *I was a co-PI on this grant proposal.*
 - <i class="fas fa-times" style="color:red"></i> Staudt Willet, K. B. (Oct 2019). NAEd/Spencer Dissertation Fellowship: Into the Edu-verse: Early-Career Educators Seeking Induction Support on Social Media. Submitted to the National Academy of Education. Total requested $27,500. *I was the PI for this grant proposal.*
@@ -634,7 +639,8 @@ Staudt Willet, K. B. (2018, October). *Experiences from the practicum* [Panel fo
 ### FSU Department Service
 
 - Member, Diversity, Equity, and Inclusion Committee (2022-present).
-- Member, Faculty Search Committee, School Psychology (2024).
+- Member, Faculty Search Committee, School Psychology (2024-2025).
+- Member, Staff Search Committee, Educational Psychology & Learning Systems (2024).
 - Member, Faculty Evaluation Committee (2021–2023).
 
 
@@ -664,7 +670,7 @@ Staudt Willet, K. B. (2018, October). *Experiences from the practicum* [Panel fo
 - *Professional Development in Education* (2024–present). [Board listing](https://www.tandfonline.com/journals/rjie20/about-this-journal#editorial-board).
 
 
-### Guest Reviewer for Refereed Journals (92 reviews)
+### Guest Reviewer for Refereed Journals (99 reviews)
 
 - *AERA Open* (2021).
 - *American Journal of Education* (2019-2020).
@@ -675,11 +681,12 @@ Staudt Willet, K. B. (2018, October). *Experiences from the practicum* [Panel fo
 - *EdTechnica* (2022).
 = *Educational Technology Research & Development* (2024-present).
 - *Heliyon* (2024-present).
-- *International Journal of Educational Technology in Higher Education* (2023–present).
 - *Internet & Higher Education* (2019–present).
+- *International Journal of Educational Technology in Higher Education* (2023–present).
 - *Journal of Applied Instructional Design* (2023-present).
 - *Journal of Computer Assisted Learning* (2021).
 - *Journal of Information Technology & Politics* (2020).
+- *Journal of Research in Innovative Teaching & Learning* (2024-present).
 - *Journal of Research on Technology in Education* (2021–present).
 - *Journal of Science Education & Technology* (2023-present).
 - *Journal of Statistics and Data Science Education* (2024-present).
@@ -730,6 +737,7 @@ Staudt Willet, K. B. (2018, October). *Experiences from the practicum* [Panel fo
 
 ## Additional Service Not Reported Elsewhere
 
+- Staudt Willet, K. B. (2024). [Public outreach] *Learning without limits*. The Torch: FSU College of Education, Health, and Human Sciences Magazine. https://issuu.com/fsu_education/docs/thetorchspring24_finaldigital
 - Staudt Willet, K. B. (2023). [Public outreach] *Question Booth at Tallahassee First Friday Monthly Festival*. Ask-A-Scientist.
 - Staudt Willet, K. B. (2023). [Guest presentation] *Introducing Instructional Systems & Learning Technologies (ISLT)*. Leadership Tallahassee.
 - Staudt Willet, K. B. (2023). [Public outreach] *Gaming Livestream on Twitch.tv*. Ask-A-Scientist. https://bretsw.com/post/ask-a-scientist/
