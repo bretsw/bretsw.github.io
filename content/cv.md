@@ -368,7 +368,11 @@ Staudt Willet, K. B. (2023, April). *Discussant reflections: Teacher use of soci
 
 
 
-### Refereed Presentations at Conferences (19)
+### Refereed Presentations at Conferences (20)
+
+Wei, S., Staudt Willet, K. B., & Bi, R. (2025, January). *Use social network analysis to understand team formation dynamics*. Poster presentation for Interdisciplinary Network for Group Research (INGRoup) Midyear Conference, Interdisciplinary Network for Group Research (INGRoup), Online (National).
+
+
 
 Kim, I., Na, H., & Staudt Willet, K. B. (2024, October). *Professional learning through social media by K-12 in-service teachers in South Korea*. Poster presentation at Association for Educational Communications and Technology (AECT) International Convention, Association for Educational Communications and Technology (AECT), Kansas City, MO. (National)
 
