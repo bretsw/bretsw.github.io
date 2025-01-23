@@ -1,6 +1,6 @@
 a {
   text-decoration: none;
-  font-weight: 400;
+  font-weight: 600;
 
   @include themed() {
     color: t('info');
@@ -31,11 +31,11 @@ blockquote {
 
 p {
   line-height: 1.7em;
-  font-weight: 300;
+  font-weight: 400;
 }
 
 li {
   margin-top: 0px;
-  line-height: 1.4em;
-  font-weight: 300;
+  line-height: 1.3em;
+  font-weight: 400;
 }

@@ -39,14 +39,14 @@ My academic training spans **educational technology** (Ph.D., M.A.), **education
 I consider my strongest credential to be my ongoing friendship with my very first online friend, who I met in an AOL chatroom in the early 1990s.
 
 ![Bret's teaching](/images/bretsw-teaching.jpg)
-g
+
 ---
 
 ## Roles and Skills
 
 {{< fa people-arrows >}} **Researcher:** Design of Inquiry + Data Analytics
 
-{{< fa chalkboard-teacher >}} **Educator:** Design of Instruction + Teaching
+{{< fa chalkboard-teacher >}} **Educator:** Design of Instruction + Facilitation
 
 {{< fa compass >}} **Consultant:** Design Thinking + Systems Thinking
 
@@ -54,30 +54,50 @@ g
 
 ## Research Interests
 
-- **Self-Directed Learning**
-  - Informal Learning
-  - Networked Learning
-- **Educational Data Science**
+### Self-Directed Learning (SDL)
+
+- {{< fa random >}} **SDL Processes**
+  - Context-Aware Self-Teaching (CAST)
+    - Science teachers
+    - Game developers
+    - Healthcare providers
+  - AI-Assisted SDL
+- {{< fa map-pin >}} **SDL Sites**
+  - SDL in and through Intensive Events
+    - Hackathons, design sprints, and game jams
+  -  SDL in Networked Knowledge Spaces
+    - Online communities
+    - Curricular knowledge repositories
+    - Scholarly knowledge repositories
+  
+## Research Methods
+
+### Educational Data Science (EDS)
+
+- {{< fa magnifying-glass >}} **Qualitative Inquiry**
+  - Qualitative Interviews
+  - Case Study
+- {{< fa calculator >}} **Quantitative Inquiry**
   - Learning Analytics
+  - Web Scraping
+  - Educational Data Mining
   - Social Network Analysis
+  - Natural Language Processing
 
 ---
 
-## Education and Training
+## Education
 
-{{< fa graduation-cap >}} **Ph.D.** in Educational Psychology & Educational Technology | Michigan State University (2021)
+- {{< fa graduation-cap >}} **Ph.D.** in Educational Psychology & Educational Technology | Michigan State University (2021)
+- {{< fa graduation-cap >}} **M.A.** in Educational Technology | Michigan State University (2015)
+- {{< fa graduation-cap >}} **B.A.** in Mathematics & Sociology | Bucknell University (2003)
 
-{{< fa graduation-cap >}} **M.A.** in Educational Technology | Michigan State University (2015)
+## Training
 
-{{< fa graduation-cap >}} **B.A.** in Mathematics & Sociology | Bucknell University (2003)
-
-{{< fa tools >}} [Applying the QM Rubric](https://www.qualitymatters.org/professional-development/workshops/higher-ed-appqmr) | Quality Matters (2022)
-
-{{< fa tools >}} [Data Science: Foundations Using R Specialization](https://www.coursera.org/specializations/data-science-foundations-r) | Coursera, Johns Hopkins University (2017-2020)
-
-{{< fa tools >}} [Methods for Analyzing & Modeling Textual Data](http://summerschool.computationalsocialscience.eu/2018/) | Summer School Series on Methods for Computational Social Science (2018)
-
-{{< fa tools >}} **Graduate Certificate** in [Serious Game Design & Research](https://comartsci.msu.edu/academics/academic-departments/media-information/graduate/serious-games-graduate-certificate) | Michigan State University (2014)
+- {{< fa tools >}} [Applying the QM Rubric](https://www.qualitymatters.org/professional-development/workshops/higher-ed-appqmr) | Quality Matters (2022)
+- {{< fa tools >}} [Data Science: Foundations Using R Specialization](https://www.coursera.org/specializations/data-science-foundations-r) | Coursera, Johns Hopkins University (2017-2020)
+- {{< fa tools >}} [Methods for Analyzing & Modeling Textual Data](http://summerschool.computationalsocialscience.eu/2018/) | Summer School Series on Methods for Computational Social Science (2018)
+- {{< fa tools >}} **Graduate Certificate** in [Serious Game Design & Research](https://comartsci.msu.edu/academics/academic-departments/media-information/graduate/serious-games-graduate-certificate) | Michigan State University (2014)
 
 ---
 

@@ -9,10 +9,11 @@ tags: ["cv", "fsu"]
 
 # K. Bret Staudt Willet, Ph.D. 
 
-**Assistant Professor, Florida State University**  
-*Instructional Systems & Learning Technologies*  
+## Assistant Professor, Florida State University
+
+**Instructional Systems & Learning Technologies**  
 Department of Educational Psychology & Learning Systems  
-College of Education, Health, and Human Sciences
+Anne Spencer Daves College of Education, Health, and Human Sciences
 
 ---
 
