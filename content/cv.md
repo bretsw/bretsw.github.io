@@ -522,22 +522,23 @@ Staudt Willet, K. B., & Rosenberg, J. M. (2022-2024). *tidytags: Importing and a
 
 
 
-## Doctoral Committee Chair (14 current, 5 graduates)
+## Doctoral Committee Chair (13 current, 7 graduates)
 
-- Aguilar, V., doctoral candidate. *Using self-directed learning to prepare elementary preservice teachers to work with English language learners*.
-- Aich, S., doctoral student.
+- Aich, S., doctoral candidate.
+- Ajayi, D., doctoral student.
 - Arthur, A., doctoral candidate.
 - Bai, C., doctoral student.
 - Catteeuw, C., doctoral candidate. *Examining new instructional designers’ use of LinkedIn during their transition from K-12 teaching*.
-- Costa, A., doctoral student.
-- Fairclough, K., doctoral candidate. *Supervisory competence in behavior analysts using self-directed learning through social media*.
+- Costa, A., doctoral candidate.
 - Fulwider, G. C., doctoral candidate.
-- Harle, J., doctoral student.
-- Kim, C., doctoral student.
+- Harle, J., doctoral candidate.
+- Kim, C., doctoral candidate.
 - Na, H., doctoral candidate. *The relationships between computational thinking development and online interactions in a Scratch online self-directed learning environment*.
-- Rodriguez, C., doctoral student.
+- Rodriguez, C., doctoral candidate.
 - Sementelli, R., doctoral candidate.
 - Xu, J., doctoral candidate.
+- <i class="fas fa-graduation-cap" style="color:#782f40"></i> Aguilar, V., Ed.D. graduate 2025. *Using self-directed learning to prepare elementary preservice teachers to work with English language learners*.
+- <i class="fas fa-graduation-cap" style="color:#782f40"></i> Fairclough, K., Ed.D. graduate 2025. *Supervisory competence in behavior analysts using self-directed learning*.
 - <i class="fas fa-graduation-cap" style="color:#782f40"></i> Madison, C., Ed.D. graduate 2024. *Pedagogical content knowledge in elementary mathematics teachers: A qualitative study on teacher perspective and instructional practice*.
 - <i class="fas fa-graduation-cap" style="color:#782f40"></i> Morris, V., Ed.D. graduate 2024. *High-achieving teenage students' use of social media and technology to complete advanced placement coursework*.
 - <i class="fas fa-graduation-cap" style="color:#782f40"></i> Smith, C., Ed.D. graduate 2023. *Culturally Inclusive Instructional Strategies Implemented by Designers-by-Assignment in Higher Education Student Services*.
