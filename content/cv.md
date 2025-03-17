@@ -111,7 +111,9 @@ Anne Spencer Daves College of Education, Health, and Human Sciences
 ## Publications
 
 
-### Refereed Journal Articles (27)
+### Refereed Journal Articles (28)
+
+Na, H., Staudt Willet, K. B., & Kim, C. (in press). *British Journal of Educational Technology*. doi:[10.1111/bjet.13584](https://doi.org/10.1111/bjet.13584)
 
 Staudt Willet, K. B., & Na, H. (in press). Beginning science teachers' context-aware self-teaching to support core and background instructional roles. *International Journal of Self-Directed Learning, 22*(1), 1-16. http://sdlglobal.com/journals.php
 
