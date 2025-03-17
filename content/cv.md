@@ -526,17 +526,17 @@ Staudt Willet, K. B., & Rosenberg, J. M. (2022-2024). *tidytags: Importing and a
 
 - Aich, S., doctoral candidate.
 - Ajayi, D., doctoral student.
-- Arthur, A., doctoral candidate.
+- Arthur, A., doctoral candidate. *Educational disruptors: How COVID-19 impacted teacher educational technology knowledge in the post-pandemic classroom*.
 - Bai, C., doctoral student.
 - Catteeuw, C., doctoral candidate. *Examining new instructional designers’ use of LinkedIn during their transition from K-12 teaching*.
 - Costa, A., doctoral candidate.
-- Fulwider, G. C., doctoral candidate.
-- Harle, J., doctoral candidate.
+- Fulwider, G. C., doctoral candidate. *Game-based assessment of statistical self-efficacy: An alternative to the self-report of non-cognitive beliefs*.
+- Harle, J., doctoral candidate. *From classroom to career: How LinkedIn fuels self-directed learning for Florida State University, College of Business Seniors*.
 - Kim, C., doctoral candidate.
-- Na, H., doctoral candidate. *The relationships between computational thinking development and online interactions in a Scratch online self-directed learning environment*.
+- Na, H., doctoral candidate. *The relationships between computational thinking development and online engagements in a Scratch online self-directed learning community*.
 - Rodriguez, C., doctoral candidate.
-- Sementelli, R., doctoral candidate.
-- Xu, J., doctoral candidate.
+- Sementelli, R., doctoral candidate. *The effect of the gamification of training on knowledge recall, training satisfaction, and perceived performance in an ERP environment *.
+- Xu, J., doctoral candidate. *Becoming scholars: Graduate teaching assistants' professional development in the scholarship of teaching and learning*.
 - <i class="fas fa-graduation-cap" style="color:#782f40"></i> Aguilar, V., Ed.D. graduate 2025. *Using self-directed learning to prepare elementary preservice teachers to work with English language learners*.
 - <i class="fas fa-graduation-cap" style="color:#782f40"></i> Fairclough, K., Ed.D. graduate 2025. *Supervisory competence in behavior analysts using self-directed learning*.
 - <i class="fas fa-graduation-cap" style="color:#782f40"></i> Madison, C., Ed.D. graduate 2024. *Pedagogical content knowledge in elementary mathematics teachers: A qualitative study on teacher perspective and instructional practice*.
@@ -547,21 +547,22 @@ Staudt Willet, K. B., & Rosenberg, J. M. (2022-2024). *tidytags: Importing and a
 
 
 
-## Doctoral Committee Member (16 current, 13 graduates)
+## Doctoral Committee Member (17 current, 13 graduates)
 
 - Alvarez, E., doctoral candidate.
 - Barrett, A., doctoral candidate.
-- Bean, W., doctoral candidate (Sport Psychology).
+- Bean, W., doctoral candidate.
 - Brewer, V., doctoral candidate.
 - Crombie, M., doctoral candidate.
-- Hrabcak, J., doctoral student (Sport Psychology).
+- Hrabcak, J., doctoral student.
 - Lewis, A., doctoral candidate.
 - Lott, S., doctoral candidate.
 - McKenzie, R., doctoral candidate.
 - Morgan, A., doctoral candidate.
-- Robbins, A., doctoral candidate.
+- Robbins, A., doctoral candidate. *A general education teacher story: Gaining knowledge through communities of practice to work with students with disabilities*.
 - Shi, H., doctoral candidate.
 - Sprenkle, S., doctoral candidate.
+- Wei, S., doctoral candidate.
 - Word, K., doctoral candidate.
 - Young, K., doctoral candidate.
 - Zhang, N., doctoral candidate.
