@@ -536,9 +536,8 @@ Staudt Willet, K. B., & Rosenberg, J. M. (2022-2024). *tidytags: Importing and a
 - Harle, J., doctoral candidate. *From classroom to career: How LinkedIn fuels self-directed learning for Florida State University, College of Business Seniors*.
 - Kim, C., doctoral candidate.
 - Rodriguez, C., doctoral candidate.
-- Sementelli, R., doctoral candidate. *The effect of the gamification of training on knowledge recall, training satisfaction, and perceived performance in an ERP environment *.
+- Sementelli, R., doctoral candidate. *The effect of the gamification of training on knowledge recall, training satisfaction, and perceived performance in an ERP environment*.
 - Xu, J., doctoral candidate. *Becoming scholars: Graduate teaching assistants' professional development in the scholarship of teaching and learning*.
-
 - <i class="fas fa-graduation-cap" style="color:#782f40"></i> Aguilar, V., Ed.D. graduate 2025. *Using self-directed learning to prepare elementary preservice teachers to work with English language learners*.
 - <i class="fas fa-graduation-cap" style="color:#782f40"></i> Fairclough, K., Ed.D. graduate 2025. *Supervisory competence in behavior analysts using self-directed learning*.
 - <i class="fas fa-graduation-cap" style="color:#782f40"></i> Madison, C., Ed.D. graduate 2024. *Pedagogical content knowledge in elementary mathematics teachers: A qualitative study on teacher perspective and instructional practice*.
@@ -568,7 +567,6 @@ Staudt Willet, K. B., & Rosenberg, J. M. (2022-2024). *tidytags: Importing and a
 - Word, K., doctoral candidate.
 - Young, K., doctoral candidate.
 - Zhang, N., doctoral candidate.
-
 - <i class="fas fa-graduation-cap" style="color:#782f40"></i> Alvarez, E., Ed.D. graduate 2025. *Cognitive and non-cognitive predictors of success on the national physical therapy examination in a Doctor of Physical Therapy program*
 - <i class="fas fa-graduation-cap" style="color:#782f40"></i> Archer, T., Ph.D. graduate 2024. *The Effect Of Removing Counselors From The U.S. News & World Report Expert Opinion Survey On Institutions’ Peer Assessment Scores: Evidence From A Comparative Interrupted Time Series Analysis*.
 - <i class="fas fa-graduation-cap" style="color:#782f40"></i> Choi, H., Ph.D. graduate 2022. *Situational Motivation and Participation in Online Discussion: A Multiple Case Study*.
