@@ -113,7 +113,7 @@ Anne Spencer Daves College of Education, Health, and Human Sciences
 
 ### Refereed Journal Articles (28)
 
-Na, H., Staudt Willet, K. B., & Kim, C. (in press). *British Journal of Educational Technology*. doi:[10.1111/bjet.13584](https://doi.org/10.1111/bjet.13584)
+Na, H., Staudt Willet, K. B., & Kim, C. (in press). Investigating the impact of AR technologies on geometric learning in primary school: A comparison of marker-based and markerless AR. *British Journal of Educational Technology*. doi:[10.1111/bjet.13584](https://doi.org/10.1111/bjet.13584)
 
 Staudt Willet, K. B., & Na, H. (in press). Beginning science teachers' context-aware self-teaching to support core and background instructional roles. *International Journal of Self-Directed Learning, 22*(1), 1-16. http://sdlglobal.com/journals.php
 
@@ -524,7 +524,7 @@ Staudt Willet, K. B., & Rosenberg, J. M. (2022-2024). *tidytags: Importing and a
 
 
 
-## Doctoral Committee Chair (13 current, 7 graduates)
+## Doctoral Committee Chair (12 current, 8 graduates)
 
 - Aich, S., doctoral candidate.
 - Ajayi, D., doctoral student.
@@ -535,40 +535,42 @@ Staudt Willet, K. B., & Rosenberg, J. M. (2022-2024). *tidytags: Importing and a
 - Fulwider, G. C., doctoral candidate. *Game-based assessment of statistical self-efficacy: An alternative to the self-report of non-cognitive beliefs*.
 - Harle, J., doctoral candidate. *From classroom to career: How LinkedIn fuels self-directed learning for Florida State University, College of Business Seniors*.
 - Kim, C., doctoral candidate.
-- Na, H., doctoral candidate. *The relationships between computational thinking development and online engagements in a Scratch online self-directed learning community*.
 - Rodriguez, C., doctoral candidate.
 - Sementelli, R., doctoral candidate. *The effect of the gamification of training on knowledge recall, training satisfaction, and perceived performance in an ERP environment *.
 - Xu, J., doctoral candidate. *Becoming scholars: Graduate teaching assistants' professional development in the scholarship of teaching and learning*.
+
 - <i class="fas fa-graduation-cap" style="color:#782f40"></i> Aguilar, V., Ed.D. graduate 2025. *Using self-directed learning to prepare elementary preservice teachers to work with English language learners*.
 - <i class="fas fa-graduation-cap" style="color:#782f40"></i> Fairclough, K., Ed.D. graduate 2025. *Supervisory competence in behavior analysts using self-directed learning*.
 - <i class="fas fa-graduation-cap" style="color:#782f40"></i> Madison, C., Ed.D. graduate 2024. *Pedagogical content knowledge in elementary mathematics teachers: A qualitative study on teacher perspective and instructional practice*.
 - <i class="fas fa-graduation-cap" style="color:#782f40"></i> Morris, V., Ed.D. graduate 2024. *High-achieving teenage students' use of social media and technology to complete advanced placement coursework*.
+- <i class="fas fa-graduation-cap" style="color:#782f40"></i> Na, H., Ph.D. graduate 2025. *The relationships between computational thinking development and online engagements in a Scratch online self-directed learning community*.
 - <i class="fas fa-graduation-cap" style="color:#782f40"></i> Smith, C., Ed.D. graduate 2023. *Culturally Inclusive Instructional Strategies Implemented by Designers-by-Assignment in Higher Education Student Services*.
 - <i class="fas fa-graduation-cap" style="color:#782f40"></i> Stoutjesdyk, J., Ed.D. graduate 2023. *An Investigation into Florida High School English Teachers' Response to CS/HB 1467*.
 - <i class="fas fa-graduation-cap" style="color:#782f40"></i> Wick, J., Ed.D. graduate 2023. *Middle School Teachers’ Perceptions on the Effectiveness and Relevance of Mandated Professional Development*.
 
 
 
-## Doctoral Committee Member (17 current, 13 graduates)
+## Doctoral Committee Member (16 current, 15 graduates)
 
-- Alvarez, E., doctoral candidate.
 - Barrett, A., doctoral candidate.
-- Bean, W., doctoral candidate.
-- Brewer, V., doctoral candidate.
+- Bean, W., doctoral candidate. *Teleconsultation: Another changing face of sport psychology, this time through a screen*.
+- Brewer, V., doctoral candidate. *Impact of a simulation utilizing standardized patients on student nurses’ self-confidence, self-reported competence, and empathy*.
 - Crombie, M., doctoral candidate.
 - Hrabcak, J., doctoral student.
+- Joos, M., doctoral candidate.
 - Lewis, A., doctoral candidate.
 - Lott, S., doctoral candidate.
 - McKenzie, R., doctoral candidate.
 - Morgan, A., doctoral candidate.
-- Robbins, A., doctoral candidate. *A general education teacher story: Gaining knowledge through communities of practice to work with students with disabilities*.
 - Shi, H., doctoral candidate.
 - Sprenkle, S., doctoral candidate.
 - Wei, S., doctoral candidate.
 - Word, K., doctoral candidate.
 - Young, K., doctoral candidate.
 - Zhang, N., doctoral candidate.
-- <i class="fas fa-graduation-cap" style="color:#782f40"></i> Archer, T., Ph.D. graduate 2024 (Higher Education). *The Effect Of Removing Counselors From The U.S. News & World Report Expert Opinion Survey On Institutions’ Peer Assessment Scores: Evidence From A Comparative Interrupted Time Series Analysis*.
+
+- <i class="fas fa-graduation-cap" style="color:#782f40"></i> Alvarez, E., Ed.D. graduate 2025. *Cognitive and non-cognitive predictors of success on the national physical therapy examination in a Doctor of Physical Therapy program*
+- <i class="fas fa-graduation-cap" style="color:#782f40"></i> Archer, T., Ph.D. graduate 2024. *The Effect Of Removing Counselors From The U.S. News & World Report Expert Opinion Survey On Institutions’ Peer Assessment Scores: Evidence From A Comparative Interrupted Time Series Analysis*.
 - <i class="fas fa-graduation-cap" style="color:#782f40"></i> Choi, H., Ph.D. graduate 2022. *Situational Motivation and Participation in Online Discussion: A Multiple Case Study*.
 - <i class="fas fa-graduation-cap" style="color:#782f40"></i> Clifford, S., Ed.D. graduate 2023. *The Impact of Trainer Self-Efficacy and Technology Adoption on Learning Performance*.
 - <i class="fas fa-graduation-cap" style="color:#782f40"></i> DeBord, E., Ed.D. graduate 2024. *Azure for Education: Exploring the Benefits of a Cross-organizational Technology-focused Community of Practice*.
@@ -580,6 +582,7 @@ Staudt Willet, K. B., & Rosenberg, J. M. (2022-2024). *tidytags: Importing and a
 - <i class="fas fa-graduation-cap" style="color:#782f40"></i> Medina, J., Ed.D. graduate 2023. *Informal Learning in the Workplace: A Study of a Municipal Utility in the Southeast*.
 - <i class="fas fa-graduation-cap" style="color:#782f40"></i> Pappas, S., Ed.D. graduate 2024. *What Motivates Business Students' Internship Enrollment Decisions? Exploring Factors Influential to Decision-Making*.
 - <i class="fas fa-graduation-cap" style="color:#782f40"></i> Pryor, T., Ed.D. graduate 2024. *Cultural responsiveness in instructional design: A study of instructional designers' use of strategies in the non-academic, adult learning context*.
+- <i class="fas fa-graduation-cap" style="color:#782f40"></i> Robbins, A., Ed.D. graduate 2025. *A general education teacher story: Gaining knowledge through communities of practice to work with students with disabilities*.
 - <i class="fas fa-graduation-cap" style="color:#782f40"></i> West, L., Ph.D. graduate 2024. *Dynamic visuospatial support for Mandarin tone learning in a language-driven game*.
 
 
