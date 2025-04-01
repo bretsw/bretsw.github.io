@@ -78,8 +78,7 @@ Anne Spencer Daves College of Education, Health, and Human Sciences
 
 - Nominated: **University Teaching and Advising Award: Innovation in Teaching**, Florida State University (2025).
 - Nominated: **University Teaching and Advising Award: Outstanding Graduate Teaching**, Florida State University (2024).
-- Nominated: **COE Teaching Award for Graduate Teaching**, Florida State University, College of Education (2023).
-- Nominated: **COE Teaching Award for Graduate Teaching** (not eligible to win), Florida State University, College of Education (2022).
+- Nominated: **College Teaching Award for Graduate Teaching**, Florida State University, Anne Spencer Daves College of Education, Health, and Human Sciences (2022, 2023, 2025).
 - <i class="fas fa-award" style="color:#ceb888"></i> **Best Fully Online Course - CEP 817**, MSU AT&T Faculty-Staff Annual Competition in Instructional Technology, Michigan State University (2021). ($500). 
 
 
@@ -88,7 +87,6 @@ Anne Spencer Daves College of Education, Health, and Human Sciences
 - <i class="fas fa-award" style="color:#ceb888"></i> **Outstanding Reviewer Award** from the Research & Theory Division, Association for Educational Communications & Technology (AECT) (2024).
 - <i class="fas fa-award" style="color:#ceb888"></i> **Outstanding Service Award** from the Research & Theory Division, Association for Educational Communications & Technology (AECT) (2021).
 - <i class="fas fa-award" style="color:#ceb888"></i> **Disciplinary Leadership Award**, Michigan State University, Council of Graduate Students (2019). ($2,000).
-- <i class="fas fa-award" style="color:#ceb888"></i> **Professional Development Award**, Michigan State University, Council of Graduate Students (2018). ($500).
 
 
 ## Current Membership in Professional Organizations
@@ -113,9 +111,9 @@ Anne Spencer Daves College of Education, Health, and Human Sciences
 
 ### Refereed Journal Articles (28)
 
-Na, H., Staudt Willet, K. B., & Kim, C. (in press). Investigating the impact of AR technologies on geometric learning in primary school: A comparison of marker-based and markerless AR. *British Journal of Educational Technology*. doi:[10.1111/bjet.13584](https://doi.org/10.1111/bjet.13584)
+Na, H., Staudt Willet, K. B., & Kim, C. (2025). Investigating the impact of AR technologies on geometric learning in primary school: A comparison of marker-based and markerless AR. *British Journal of Educational Technology*. doi:[10.1111/bjet.13584](https://doi.org/10.1111/bjet.13584)
 
-Staudt Willet, K. B., & Na, H. (in press). Beginning science teachers' context-aware self-teaching to support core and background instructional roles. *International Journal of Self-Directed Learning, 22*(1), 1-16. http://sdlglobal.com/journals.php
+Staudt Willet, K. B., & Na, H. (in press). Beginning science teachers' context-aware self-teaching to support core and background instructional roles. *International Journal of Self-Directed Learning, 22*(1), 1-16. https://sdlglobal.com/journals.php
 
 Na, H., & Staudt Willet, K. B. (2024). Understanding beginning teachers' socio-ecological challenges: Self-directed learning in the r/Teachers subreddit. *Information and Learning Sciences, 125*(9), 769-791. doi:[10.1108/ILS-12-2023-0197](https://doi.org/10.1108/ILS-12-2023-0197)
 
@@ -474,13 +472,11 @@ Staudt Willet, K. B. (2017, November). *Once more unto the practicum, dear frien
 Staudt Willet, K. B., & Rosenberg, J. M. (2022-2024). *tidytags: Importing and analyzing Twitter data collected with Twitter Archiving Google Sheets* [Computer software]. R Open Science. Archived January 23, 2024. https://github.com/ropensci-archive/tidytags
 
 
+
 ## Contracts and Grants
 
-### Contracts and Grants Funded ($297,478)
+### Contracts and Grants Funded ($292,278)
 
-- <i class="fas fa-dollar-sign" style="color:green"></i> Staudt Willet, K. B. (Apr 2024). Dean’s Circle Research Transition Incentive Funding. Funded by Florida State University, College of Education, Health, & Human Sciences. **Total award $1,200.** *I was the PI for this grant.*
-- <i class="fas fa-dollar-sign" style="color:green"></i> Staudt Willet, K. B. (Apr 2023). Dean’s Circle Research Transition Incentive Funding. Funded by Florida State University, College of Education. **Total award $1,000.** *I was the PI for this grant.*
-- <i class="fas fa-dollar-sign" style="color:green"></i> Staudt Willet, K. B. (Feb 2023). Open Access Publishing fund: Early career teachers’ expansion of professional learning networks with social media; Article published in Professional Development in Education. Funded by Florida State University, College of Education. **Total award $3,000.** *I was the PI for this grant.*
 - <i class="fas fa-dollar-sign" style="color:green"></i> Wofford, A., Perez-Felkner, L., & Staudt Willet, K. B. (Jan 2023–Jun 2025). Sloan: Aligning Graduate Education and Workforce Opportunities: A Robust, Equity-Focused Landscape Scan of Computing Terminology. Funded by Alfred P. Sloan Foundation. **Total award $249,978** *I am a Co-PI for this grant.*
 - <i class="fas fa-dollar-sign" style="color:green"></i> Staudt Willet, K. B. (May 2022–Aug 2022). CRC FYAP: Beginning Teachers' Self-Directed Professional Learning Through Social Media: Impacts on Instructional Practice. Funded by Florida State University, Council on Research and Creativity. **Total award $20,000.** *I was the PI for this grant.*
 - <i class="fas fa-dollar-sign" style="color:green"></i> Staudt Willet, K. B. (Jan 2021–Apr 2021). Dissertation Completion Fellowship: Into the Edu-verse: Early-Career Educators Seeking Induction Support on Social Media. Funded by Michigan State University, College of Education. **Total award $7,000.** *I was the PI for this grant.*
@@ -549,12 +545,10 @@ Staudt Willet, K. B., & Rosenberg, J. M. (2022-2024). *tidytags: Importing and a
 
 
 
-## Doctoral Committee Member (16 current, 15 graduates)
+## Doctoral Committee Member (13 current, 17 graduates)
 
 - Barrett, A., doctoral candidate.
 - Bean, W., doctoral candidate. *Teleconsultation: Another changing face of sport psychology, this time through a screen*.
-- Brewer, V., doctoral candidate. *Impact of a simulation utilizing standardized patients on student nurses’ self-confidence, self-reported competence, and empathy*.
-- Crombie, M., doctoral candidate.
 - Hrabcak, J., doctoral student.
 - Joos, M., doctoral candidate.
 - Lewis, A., doctoral candidate.
@@ -565,12 +559,13 @@ Staudt Willet, K. B., & Rosenberg, J. M. (2022-2024). *tidytags: Importing and a
 - Sprenkle, S., doctoral candidate.
 - Wei, S., doctoral candidate.
 - Word, K., doctoral candidate.
-- Young, K., doctoral candidate.
 - Zhang, N., doctoral candidate.
 - <i class="fas fa-graduation-cap" style="color:#782f40"></i> Alvarez, E., Ed.D. graduate 2025. *Cognitive and non-cognitive predictors of success on the national physical therapy examination in a Doctor of Physical Therapy program*
 - <i class="fas fa-graduation-cap" style="color:#782f40"></i> Archer, T., Ph.D. graduate 2024. *The Effect Of Removing Counselors From The U.S. News & World Report Expert Opinion Survey On Institutions’ Peer Assessment Scores: Evidence From A Comparative Interrupted Time Series Analysis*.
+- <i class="fas fa-graduation-cap" style="color:#782f40"></i> Brewer, V., Ed.D. graduate 2025. *Impact of a simulation utilizing standardized patients on student nurses’ self-confidence, self-reported competence, and empathy*.
 - <i class="fas fa-graduation-cap" style="color:#782f40"></i> Choi, H., Ph.D. graduate 2022. *Situational Motivation and Participation in Online Discussion: A Multiple Case Study*.
 - <i class="fas fa-graduation-cap" style="color:#782f40"></i> Clifford, S., Ed.D. graduate 2023. *The Impact of Trainer Self-Efficacy and Technology Adoption on Learning Performance*.
+- <i class="fas fa-graduation-cap" style="color:#782f40"></i> Crombie, M., Ed.D. graduate 2025. *Teacher collaboration through horizontal and vertical teams*.
 - <i class="fas fa-graduation-cap" style="color:#782f40"></i> DeBord, E., Ed.D. graduate 2024. *Azure for Education: Exploring the Benefits of a Cross-organizational Technology-focused Community of Practice*.
 - <i class="fas fa-graduation-cap" style="color:#782f40"></i> Graham, D., Ed.D. graduate 2022. *Teacher Perception on the Use of Game-Based Learning in the Title 1 ELA Curriculum*.
 - <i class="fas fa-graduation-cap" style="color:#782f40"></i> He, D., Ph.D. graduate 2024. *Support-seeking on social media: Navigating acculturation and academic integration among international graduate students*.
@@ -656,7 +651,7 @@ Staudt Willet, K. B. (2018, October). *Experiences from the practicum* [Panel fo
 
 ### FSU Program Service
 
-- Academic Director, ISLT Ph.D. Program (2022-present).
+- Ph.D. Director, ISLT Program (2022-present).
 - Member, Faculty Search Committee (2024–2025).
 - Liaison, Morgan Studio (2022-present).
 - Coordinator, ISLT Brown Bag Series (2022-2023).
