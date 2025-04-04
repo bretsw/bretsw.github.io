@@ -520,7 +520,7 @@ Staudt Willet, K. B., & Rosenberg, J. M. (2022-2024). *tidytags: Importing and a
 
 
 
-## Doctoral Committee Chair (12 current, 8 graduates)
+## Doctoral Committee Chair (16 current, 8 graduates)
 
 - Aich, S., doctoral candidate.
 - Ajayi, D., doctoral student.
@@ -528,9 +528,13 @@ Staudt Willet, K. B., & Rosenberg, J. M. (2022-2024). *tidytags: Importing and a
 - Bai, C., doctoral student.
 - Catteeuw, C., doctoral candidate. *Examining new instructional designers’ use of LinkedIn during their transition from K-12 teaching*.
 - Costa, A., doctoral candidate.
+- Davis, N., doctoral student.
 - Fulwider, G. C., doctoral candidate. *Game-based assessment of statistical self-efficacy: An alternative to the self-report of non-cognitive beliefs*.
 - Harle, J., doctoral candidate. *From classroom to career: How LinkedIn fuels self-directed learning for Florida State University, College of Business Seniors*.
+- Jamoom, P., doctoral student.
+- Kavoosi, R., doctoral student.
 - Kim, C., doctoral candidate.
+- Kirby, T., doctoral student.
 - Rodriguez, C., doctoral candidate.
 - Sementelli, R., doctoral candidate. *The effect of the gamification of training on knowledge recall, training satisfaction, and perceived performance in an ERP environment*.
 - Xu, J., doctoral candidate. *Becoming scholars: Graduate teaching assistants' professional development in the scholarship of teaching and learning*.
