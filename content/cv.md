@@ -47,6 +47,7 @@ Anne Spencer Daves College of Education, Health, and Human Sciences
 
 ## Nondegree Education and Training
 
+- *Perspectives.* Constructive Dialogue Institute. (2025).
 - *Applying the QM Rubric.* Quality Matters. (2022).
 - *Data Science: Foundations Using R.* Coursera. (2017-2020).
 - *Methods for Analyzing & Modeling Textual Data.* Summer School Series on Methods for Computational Social Science. (2018).
@@ -487,13 +488,16 @@ Staudt Willet, K. B., & Rosenberg, J. M. (2022-2024). *tidytags: Importing and a
 
 ### Contracts and Grants Pending
 
-- <i class="fas fa-exclamation-triangle" style="color:#ceb888"></i> Frank, K., Maroulis, S., Xu, R., Rosenberg, J. M., Saw, G., Lin, Q., & Staudt Willet, K. B. (Aug 2024). IES: Sensitivity Analysis for Statistical Advances that Inform Evidence Use and Knowledge Mobilization. Submitted to Institute for Education Sciences. Total requested: $899,997. *I would serve as a co-PI on this grant project.*
-- <i class="fas fa-exclamation-triangle" style="color:#ceb888"></i> Staudt Willet, K. B. (Jul 2024). NSF CAREER: Science Teachers Developing Context-Aware Self-Teaching Through Intensive Events. Submitted to National Science Foundation. Total requested: $898,603. *I would serve as the solo PI on this grant project.*
+- <i class="fas fa-exclamation-triangle" style="color:#ceb888"></i> Staudt Willet, K. B. (Apr 2025). Dean’s Circle Catalyst Grant: Deepening Understanding of AI-Assisted Self-Directed Learning within Innovation Project Teams. Submitted to FSU Anne's College Dean's Circle. Total requested: $10,204.32. *I am the PI for this grant proposal.*
+- <i class="fas fa-exclamation-triangle" style="color:#ceb888"></i> Staudt Willet, K. B. (Mar 2025). CRC SEED: Advancing AI-Assisted Self-Directed Learning through Intensive Events. Submitted to FSU Council for Research Creativity. Total requested: $87,196. *I am the PI for this grant proposal.*
+- <i class="fas fa-exclamation-triangle" style="color:#ceb888"></i> Hughes, R., Johnson, K., & Staudt Willet, K. B. (Feb 2025). NSF ExLENT: Beginnings: Work-Ready Employees for the Superconducting Industry. Submitted to National Science Foundation. Total requested: $999,790. *I am a Co-PI for this grant proposal.*
 
 
 ### Contracts and Grants Denied
 
 - <i class="fas fa-times" style="color:red"></i> Staudt Willet, K. B. (Sep 2024). CRC SEED: Advancing AI-Assisted Self-Directed Learning through Intensive Events. Submitted to FSU Council for Research Creativity. Total requested: $92,623. *I was the PI for this grant proposal.*
+- <i class="fas fa-times" style="color:red"></i> Frank, K., Maroulis, S., Xu, R., Rosenberg, J. M., Saw, G., Lin, Q., & Staudt Willet, K. B. (Aug 2024). IES: Sensitivity Analysis for Statistical Advances that Inform Evidence Use and Knowledge Mobilization. Submitted to Institute for Education Sciences. Total requested: $899,997. *Award review cancelled due to U.S. federal grant cuts. I would have served as a co-PI on this grant project.*
+- <i class="fas fa-times" style="color:red"></i> Staudt Willet, K. B. (Jul 2024). NSF CAREER: Science Teachers Developing Context-Aware Self-Teaching Through Intensive Events. Submitted to National Science Foundation. Total requested: $898,603. *I was the PI on this grant proposal.*
 - <i class="fas fa-times" style="color:red"></i> Frank, K., Maroulis, S., Xu, R., Rosenberg, J. M., Saw, G., Lin, Q., & Staudt Willet, K. B. (Jan 2024). IES: Sensitivity Analysis for Statistical Advances that Inform Evidence Use and Knowledge Mobilization. Submitted to Institute for Education Sciences. Total requested: $898,387. *I was a co-PI for this grant proposal.*
 - <i class="fas fa-times" style="color:red"></i> Myers, J., Ecton, W. G., Fendler, R., Grace, C., & Staudt Willet, K. B. (Jul 2023). Project EVIDENT: Evaluating Visual Information and Data to Enhance oNline Thinking. Submitted to USDOEd American History and Civics-National Activities grant. Total requested: $320,584. *I was a co-PI on this grant proposal.*
 - <i class="fas fa-times" style="color:red"></i> Staudt Willet, K. B. (Oct 2019). NAEd/Spencer Dissertation Fellowship: Into the Edu-verse: Early-Career Educators Seeking Induction Support on Social Media. Submitted to the National Academy of Education. Total requested $27,500. *I was the PI for this grant proposal.*
@@ -520,7 +524,7 @@ Staudt Willet, K. B., & Rosenberg, J. M. (2022-2024). *tidytags: Importing and a
 
 
 
-## Doctoral Committee Chair (16 current, 8 graduates)
+## Doctoral Committee Chair (15 current, 8 graduates)
 
 - Aich, S., doctoral candidate.
 - Ajayi, D., doctoral student.
@@ -532,7 +536,6 @@ Staudt Willet, K. B., & Rosenberg, J. M. (2022-2024). *tidytags: Importing and a
 - Fulwider, G. C., doctoral candidate. *Game-based assessment of statistical self-efficacy: An alternative to the self-report of non-cognitive beliefs*.
 - Harle, J., doctoral candidate. *From classroom to career: How LinkedIn fuels self-directed learning for Florida State University, College of Business Seniors*.
 - Jamoom, P., doctoral student.
-- Kavoosi, R., doctoral student.
 - Kim, C., doctoral candidate.
 - Kirby, T., doctoral student.
 - Rodriguez, C., doctoral candidate.
@@ -549,11 +552,12 @@ Staudt Willet, K. B., & Rosenberg, J. M. (2022-2024). *tidytags: Importing and a
 
 
 
-## Doctoral Committee Member (13 current, 17 graduates)
+## Doctoral Committee Member (14 current, 17 graduates)
 
 - Barrett, A., doctoral candidate.
 - Bean, W., doctoral candidate. *Teleconsultation: Another changing face of sport psychology, this time through a screen*.
 - Hrabcak, J., doctoral student.
+- Hur, J., doctoral candidate.
 - Joos, M., doctoral candidate.
 - Lewis, A., doctoral candidate.
 - Lott, S., doctoral candidate.
@@ -665,6 +669,12 @@ Staudt Willet, K. B. (2018, October). *Experiences from the practicum* [Panel fo
 
 
 ## The Profession
+
+
+### Editor for Refereed Journals
+
+*International Journal of Self-Directed Learning* (2025-present). https://www.sdlglobal.com/journal
+
 
 ### Guest Editing for Refereed Journals
 
