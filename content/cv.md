@@ -524,10 +524,11 @@ Staudt Willet, K. B., & Rosenberg, J. M. (2022-2024). *tidytags: Importing and a
 
 
 
-## Doctoral Committee Chair (15 current, 8 graduates)
+## Doctoral Committee Chair (17 current, 8 graduates)
 
 - Aich, S., doctoral candidate.
 - Ajayi, D., doctoral student.
+- Anderson, J., doctoral student.
 - Arthur, A., doctoral candidate. *Educational disruptors: How COVID-19 impacted teacher educational technology knowledge in the post-pandemic classroom*.
 - Bai, C., doctoral student.
 - Catteeuw, C., doctoral candidate. *Examining new instructional designers’ use of LinkedIn during their transition from K-12 teaching*.
@@ -536,6 +537,7 @@ Staudt Willet, K. B., & Rosenberg, J. M. (2022-2024). *tidytags: Importing and a
 - Fulwider, G. C., doctoral candidate. *Game-based assessment of statistical self-efficacy: An alternative to the self-report of non-cognitive beliefs*.
 - Harle, J., doctoral candidate. *From classroom to career: How LinkedIn fuels self-directed learning for Florida State University, College of Business Seniors*.
 - Jamoom, P., doctoral student.
+- Kavoosi, R., doctoral student.
 - Kim, C., doctoral candidate.
 - Kirby, T., doctoral student.
 - Rodriguez, C., doctoral candidate.
@@ -673,7 +675,7 @@ Staudt Willet, K. B. (2018, October). *Experiences from the practicum* [Panel fo
 
 ### Editor for Refereed Journals
 
-*International Journal of Self-Directed Learning* (2025-present). https://www.sdlglobal.com/journal
+- Associate Editor, *International Journal of Self-Directed Learning* (2025-present). https://www.sdlglobal.com/journal
 
 
 ### Guest Editing for Refereed Journals
@@ -689,7 +691,7 @@ Staudt Willet, K. B. (2018, October). *Experiences from the practicum* [Panel fo
 - *Professional Development in Education* (2024–present). [Board listing](https://www.tandfonline.com/journals/rjie20/about-this-journal#editorial-board).
 
 
-### Guest Reviewer for Refereed Journals (99 reviews)
+### Guest Reviewer for Refereed Journals (115 reviews)
 
 - *AERA Open* (2021).
 - *American Journal of Education* (2019-2020).
