@@ -554,13 +554,13 @@ Staudt Willet, K. B., & Rosenberg, J. M. (2022-2024). *tidytags: Importing and a
 
 
 
-## Doctoral Committee Member (14 current, 17 graduates)
+## Doctoral Committee Member (13 current, 19 graduates)
 
 - Barrett, A., doctoral candidate.
-- Bean, W., doctoral candidate. *Teleconsultation: Another changing face of sport psychology, this time through a screen*.
 - Hrabcak, J., doctoral student.
 - Hur, J., doctoral candidate.
 - Joos, M., doctoral candidate.
+- LaMont, M., doctoral candidate.
 - Lewis, A., doctoral candidate.
 - Lott, S., doctoral candidate.
 - McKenzie, R., doctoral candidate.
@@ -568,10 +568,11 @@ Staudt Willet, K. B., & Rosenberg, J. M. (2022-2024). *tidytags: Importing and a
 - Shi, H., doctoral candidate.
 - Sprenkle, S., doctoral candidate.
 - Wei, S., doctoral candidate.
-- Word, K., doctoral candidate.
 - Zhang, N., doctoral candidate.
+
 - <i class="fas fa-graduation-cap" style="color:#782f40"></i> Alvarez, E., Ed.D. graduate 2025. *Cognitive and non-cognitive predictors of success on the national physical therapy examination in a Doctor of Physical Therapy program*
 - <i class="fas fa-graduation-cap" style="color:#782f40"></i> Archer, T., Ph.D. graduate 2024. *The Effect Of Removing Counselors From The U.S. News & World Report Expert Opinion Survey On Institutions’ Peer Assessment Scores: Evidence From A Comparative Interrupted Time Series Analysis*.
+- <i class="fas fa-graduation-cap" style="color:#782f40"></i> Bean, W., Ph.D. graduate 2025. *Teleconsultation: Another changing face of sport psychology, this time through a screen*.
 - <i class="fas fa-graduation-cap" style="color:#782f40"></i> Brewer, V., Ed.D. graduate 2025. *Impact of a simulation utilizing standardized patients on student nurses’ self-confidence, self-reported competence, and empathy*.
 - <i class="fas fa-graduation-cap" style="color:#782f40"></i> Choi, H., Ph.D. graduate 2022. *Situational Motivation and Participation in Online Discussion: A Multiple Case Study*.
 - <i class="fas fa-graduation-cap" style="color:#782f40"></i> Clifford, S., Ed.D. graduate 2023. *The Impact of Trainer Self-Efficacy and Technology Adoption on Learning Performance*.
@@ -587,6 +588,7 @@ Staudt Willet, K. B., & Rosenberg, J. M. (2022-2024). *tidytags: Importing and a
 - <i class="fas fa-graduation-cap" style="color:#782f40"></i> Pryor, T., Ed.D. graduate 2024. *Cultural responsiveness in instructional design: A study of instructional designers' use of strategies in the non-academic, adult learning context*.
 - <i class="fas fa-graduation-cap" style="color:#782f40"></i> Robbins, A., Ed.D. graduate 2025. *A general education teacher story: Gaining knowledge through communities of practice to work with students with disabilities*.
 - <i class="fas fa-graduation-cap" style="color:#782f40"></i> West, L., Ph.D. graduate 2024. *Dynamic visuospatial support for Mandarin tone learning in a language-driven game*.
+- <i class="fas fa-graduation-cap" style="color:#782f40"></i> Word, K., Ph.D. graduate 2025.*Networked individualism and personal learning networks (PLN): The self-directed learning journey of endometriosis patients*.
 
 
 
