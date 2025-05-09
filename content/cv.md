@@ -171,7 +171,9 @@ Greenhow, C. M., Gleason, B., Marich, H., & Staudt Willet, K. B. (2017). Educati
 
 
 
-### Invited Book Chapters (6)
+### Invited Book Chapters (7)
+
+Staudt Willet, K. B. (2025). Posibilidades y riesgos del aprendizaje autodirigido de los docentes. In  P. Marcelo-Martínez (Ed.) ,*Docentes y redes sociales: Dinámicas de colaboración y aprendizaje en el entorno digital* (pp. 125–148). Barcelona, Spain: Octaedro. https://octaedro.com/libro/docentes-y-redes-sociales/
 
 Greenhow, C., Galvin, S., & Staudt Willet, K. B. (2021). Research methods unique to digital contexts: An introduction to virtual ethnography. In N. K. Duke, & M. H. Mallette (Eds.), *Literacy research methodologies* (3rd ed.) (pp. 102-120). Guilford. 
 
@@ -195,7 +197,11 @@ Greenhalgh, S. P., Koehler, M. J., Rosenberg, J. M., & Staudt Willet, K. B. (202
 
 
 
-### Refereed Proceedings (15)
+### Refereed Proceedings (17)
+
+Jian, S., Bhowmik, S., & Staudt Willet, K. B. (2025). Coping with ADHD in college: Topic modeling and sentiment analysis of online peer discussions on Reddit. *Eighteenth International Conference on Educational Data Mining (EDM 2025), Palermo, Italy*. https://educationaldatamining.org/edm2025/
+
+Kim, I., Na, H., & Staudt Willet, K. B. (2025). Digital professional presence: Exploring teacher identity and role dynamics on social media. *Society for Information Technology & Teacher Education (SITE) International Conference, Orlando, FL* (pp. 2778-2786). Association for the Advancement of Computing in Education (AACE). https://www.learntechlib.org/p/225846/
 
 Rosenberg, J. M., & Staudt Willet, K. B. (2021). Advancing social influence models in learning analytics. In O. Poquet, B. Chen, M. Saqr, & T. Hecking (Eds.), *NetSciLA2021 workshop "Using network science in learning Analytics: Building bridges towards a common agenda" (NetSciLA2021), Online* (pp. 3-8). CEUR Workshop Proceedings. http://ceur-ws.org/Vol-2868/#article_2
 
@@ -370,7 +376,10 @@ Staudt Willet, K. B. (2023, April). *Discussant reflections: Teacher use of soci
 
 
 
-### Refereed Presentations at Conferences (20)
+### Refereed Presentations at Conferences (21)
+
+
+Cooper, K., & Staudt Willet, K. B. (2025, March). *Kids-as-devs: How to lead a kids' game jam roundtable (presented by the IGDA)*. Roundtable at Game Developers Conference (GDC), San Francisco, CA. (National)
 
 Wei, S., Staudt Willet, K. B., & Bi, R. (2025, January). *Use social network analysis to understand team formation dynamics*. Poster presentation for Interdisciplinary Network for Group Research (INGRoup) Midyear Conference, Interdisciplinary Network for Group Research (INGRoup), Online (National).
 
@@ -488,39 +497,47 @@ Staudt Willet, K. B., & Rosenberg, J. M. (2022-2024). *tidytags: Importing and a
 
 ### Contracts and Grants Pending
 
-- <i class="fas fa-exclamation-triangle" style="color:#ceb888"></i> Staudt Willet, K. B. (Apr 2025). Dean’s Circle Catalyst Grant: Deepening Understanding of AI-Assisted Self-Directed Learning within Innovation Project Teams. Submitted to FSU Anne's College Dean's Circle. Total requested: $10,204.32. *I am the PI for this grant proposal.*
-- <i class="fas fa-exclamation-triangle" style="color:#ceb888"></i> Staudt Willet, K. B. (Mar 2025). CRC SEED: Advancing AI-Assisted Self-Directed Learning through Intensive Events. Submitted to FSU Council for Research Creativity. Total requested: $87,196. *I am the PI for this grant proposal.*
 - <i class="fas fa-exclamation-triangle" style="color:#ceb888"></i> Hughes, R., Johnson, K., & Staudt Willet, K. B. (Feb 2025). NSF ExLENT: Beginnings: Work-Ready Employees for the Superconducting Industry. Submitted to National Science Foundation. Total requested: $999,790. *I am a Co-PI for this grant proposal.*
 
 
 ### Contracts and Grants Denied
 
+- <i class="fas fa-times" style="color:red"></i> Staudt Willet, K. B. (Apr 2025). Dean’s Circle Catalyst Grant: Deepening Understanding of AI-Assisted Self-Directed Learning within Innovation Project Teams. Submitted to FSU Anne's College Dean's Circle. Total requested: $10,204.32. *I was the PI for this grant proposal.*
+- <i class="fas fa-times" style="color:red"></i> Staudt Willet, K. B. (Mar 2025). CRC SEED: Advancing AI-Assisted Self-Directed Learning through Intensive Events. Submitted to FSU Council for Research Creativity. Total requested: $87,196. *I was the PI for this grant proposal.*
 - <i class="fas fa-times" style="color:red"></i> Staudt Willet, K. B. (Sep 2024). CRC SEED: Advancing AI-Assisted Self-Directed Learning through Intensive Events. Submitted to FSU Council for Research Creativity. Total requested: $92,623. *I was the PI for this grant proposal.*
 - <i class="fas fa-times" style="color:red"></i> Frank, K., Maroulis, S., Xu, R., Rosenberg, J. M., Saw, G., Lin, Q., & Staudt Willet, K. B. (Aug 2024). IES: Sensitivity Analysis for Statistical Advances that Inform Evidence Use and Knowledge Mobilization. Submitted to Institute for Education Sciences. Total requested: $899,997. *Award review cancelled due to U.S. federal grant cuts. I would have served as a co-PI on this grant project.*
 - <i class="fas fa-times" style="color:red"></i> Staudt Willet, K. B. (Jul 2024). NSF CAREER: Science Teachers Developing Context-Aware Self-Teaching Through Intensive Events. Submitted to National Science Foundation. Total requested: $898,603. *I was the PI on this grant proposal.*
 - <i class="fas fa-times" style="color:red"></i> Frank, K., Maroulis, S., Xu, R., Rosenberg, J. M., Saw, G., Lin, Q., & Staudt Willet, K. B. (Jan 2024). IES: Sensitivity Analysis for Statistical Advances that Inform Evidence Use and Knowledge Mobilization. Submitted to Institute for Education Sciences. Total requested: $898,387. *I was a co-PI for this grant proposal.*
 - <i class="fas fa-times" style="color:red"></i> Myers, J., Ecton, W. G., Fendler, R., Grace, C., & Staudt Willet, K. B. (Jul 2023). Project EVIDENT: Evaluating Visual Information and Data to Enhance oNline Thinking. Submitted to USDOEd American History and Civics-National Activities grant. Total requested: $320,584. *I was a co-PI on this grant proposal.*
-- <i class="fas fa-times" style="color:red"></i> Staudt Willet, K. B. (Oct 2019). NAEd/Spencer Dissertation Fellowship: Into the Edu-verse: Early-Career Educators Seeking Induction Support on Social Media. Submitted to the National Academy of Education. Total requested $27,500. *I was the PI for this grant proposal.*
 - <i class="fas fa-times" style="color:red"></i> Staudt Willet, K. B. (Jul 2023). NSF CAREER: Developing STEM Teachers' Culturally Affirming Self-Teaching (CAST) Through a Mobile Game. Submitted to National Science Foundation. Total requested: $870,598. *I was the PI for this grant proposal.*
-- <i class="fas fa-times" style="color:red"></i> Staudt Willet, K. B., Kim, A., & Xue, H. (Sep 2022). SEED: Leveling Up the Self-Directed Learning of Early Career Black Game Developers. Submitted to Florida State University, Council on Research and Creativity. Total requested $62,150. *I was the PI for this grant proposal.*
 - <i class="fas fa-times" style="color:red"></i> Staudt Willet, K. B., Kim, A., & Xue, H. (Jan 2023). SEED: Leveling Up the Culturally Sustaining Self-Directed Learning of Black Game Developers. Submitted to Florida State University, Council on Research and Creativity. Total requested $97,368. *I was the PI for this grant proposal.*
+- <i class="fas fa-times" style="color:red"></i> Staudt Willet, K. B., Kim, A., & Xue, H. (Sep 2022). SEED: Leveling Up the Self-Directed Learning of Early Career Black Game Developers. Submitted to Florida State University, Council on Research and Creativity. Total requested $62,150. *I was the PI for this grant proposal.*
+- <i class="fas fa-times" style="color:red"></i> Staudt Willet, K. B. (Oct 2019). NAEd/Spencer Dissertation Fellowship: Into the Edu-verse: Early-Career Educators Seeking Induction Support on Social Media. Submitted to the National Academy of Education. Total requested $27,500. *I was the PI for this grant proposal.*
 
 
 
 
+---
 
 # Teaching
 
 ## Courses Taught
 
+### Topics
+
 - Learning & Web Analytics (EME6356)
 - Introduction to Instructional Systems (EME5601)
+- Staff Training & Development (ADE5189)
+- Evaluation of Instruction & Training in Human-Performance Technology (EME6357)
+
+### Methods
+
 - Synthesis, Analysis, and Argumentation in Instructional Systems Research (EME6665)
 - Instructional Systems Research Seminar (EDG6362)
-- Research on Learning, Instruction, and Performance Systems (EDG6363)
-- Inquiry and Measurement for Practitioners (EDF5442)
+- Research on Learning, Instruction, & Performance Systems (EDG6363)
 - Applied Research Methods in Learning Design & Performance Technology (EDF5492)
-- Evaluation of Instruction & Training in Human-Performance Technology (EME6357)
+- Inquiry & Measurement for Practitioners (EDF5442)
+
 
 
 
@@ -569,7 +586,6 @@ Staudt Willet, K. B., & Rosenberg, J. M. (2022-2024). *tidytags: Importing and a
 - Sprenkle, S., doctoral candidate.
 - Wei, S., doctoral candidate.
 - Zhang, N., doctoral candidate.
-
 - <i class="fas fa-graduation-cap" style="color:#782f40"></i> Alvarez, E., Ed.D. graduate 2025. *Cognitive and non-cognitive predictors of success on the national physical therapy examination in a Doctor of Physical Therapy program*
 - <i class="fas fa-graduation-cap" style="color:#782f40"></i> Archer, T., Ph.D. graduate 2024. *The Effect Of Removing Counselors From The U.S. News & World Report Expert Opinion Survey On Institutions’ Peer Assessment Scores: Evidence From A Comparative Interrupted Time Series Analysis*.
 - <i class="fas fa-graduation-cap" style="color:#782f40"></i> Bean, W., Ph.D. graduate 2025. *Teleconsultation: Another changing face of sport psychology, this time through a screen*.
@@ -592,16 +608,17 @@ Staudt Willet, K. B., & Rosenberg, J. M. (2022-2024). *tidytags: Importing and a
 
 
 
-## Invited Guest Lectures (12)
+## Invited Guest Lectures (13)
+
+Staudt Willet, K. B. (2025, April). *Advice for the doctoral journey* [Guest lecture for doctoral course CEP 956: Mind, Media and Learning]. Educational Psychology & Educational Technology program, Michigan State University. 
+
 
 Staudt Willet, K. B. (2024, April). *Advice for academic publishing* [Guest lecture for doctoral course CEP 956: Mind, Media and Learning]. Educational Psychology & Educational Technology program, Michigan State University. 
 
 Staudt Willet, K. B. (2024, February). *Self-directed learning for mechanical engineering problem-solving* [Guest lecture for graduate students]. Mechanical Engineering department, FAMU-FSU College of Engineering.
 
 
-
 Greenhalgh, S., Hu, A., Rosenberg, J., & Staudt Willet, K. B. (2023, March). *A conversation about what ChatGPT is, how it is impacting universities, and how might we make "good" use of it* [Panel]. College of Education, Michigan State University. 
-
 
 
 Staudt Willet, K. B. (2022, November). *Insights for academic publishing* [Guest lecture for doctoral course CEP 956: Mind, Media and Learning]. Educational Psychology & Educational Technology program, Michigan State University. 
@@ -611,9 +628,7 @@ Staudt Willet, K. B. (2022, February). *Picture this: Telling data stories throu
 Staudt Willet, K. B. (2022, January). *The front page of the internet: Reflections from studying Reddit* [Guest lecture for Master's course Digital Media and Educational Psychology]. University of Tübingen, Germany.
 
 
-
 Staudt Willet, K. B. (2021, December). *Finding the right balance: Risk and societal benefit from big data* [Guest lecture for Doctoral course Core Methods in Educational Data Mining]. Teachers College, Columbia University. 
-
 
 
 Staudt Willet, K. B. (2020, October). *Welcome to the good place?: Teachers' networked learning on social media* [Guest lecture for Master's course Teaching with Technology]. Manhattanville College, Purchase, NY. 
@@ -621,11 +636,9 @@ Staudt Willet, K. B. (2020, October). *Welcome to the good place?: Teachers' net
 Staudt Willet, K. B. (2020, October). *You are stronger than you think: Insights for academic publishing* [Guest lecture for doctoral course CEP 956: Mind, Media and Learning]. Educational Psychology & Educational Technology program, Michigan State University. 
 
 
-
 Staudt Willet, K. B., & Bork, W. (2019, December). *Electronic assessment* [Presentation for Master of Arts in Educational Technology (MAET) instructor huddle]. Educational Psychology & Educational Technology program, Michigan State University. 
 
 Staudt Willet, K. B. (2019, September). *Insights for academic publishing* [Guest lecture for doctoral course CEP 956: Mind, Media and Learning]. Educational Psychology & Educational Technology program, Michigan State University. 
-
 
 
 Staudt Willet, K. B. (2018, October). *Experiences from the practicum* [Panel for doctoral course CEP 955: Research Design and Methods for Educational Psychology and Educational Technology]. Educational Psychology & Educational Technology program, Michigan State University. 
@@ -693,7 +706,7 @@ Staudt Willet, K. B. (2018, October). *Experiences from the practicum* [Panel fo
 - *Professional Development in Education* (2024–present). [Board listing](https://www.tandfonline.com/journals/rjie20/about-this-journal#editorial-board).
 
 
-### Guest Reviewer for Refereed Journals (115 reviews)
+### Guest Reviewer for Refereed Journals (116 reviews)
 
 - *AERA Open* (2021).
 - *American Journal of Education* (2019-2020).
@@ -744,7 +757,7 @@ Staudt Willet, K. B. (2018, October). *Experiences from the practicum* [Panel fo
 
 ### Service to the Community
 
-- **Treasurer**, Parent-Teacher Organization (PTO), Kate Sullivan Elementary School (Leon County Schools) (2023–present).
+- **Treasurer**, Parent-Teacher Organization (PTO), Kate Sullivan Elementary School (Leon County Schools) (2023–2026).
 - **Treasurer-Elect**, Parent-Teacher Organization (PTO), Kate Sullivan Elementary School (Leon County Schools) (2022–2023).
 - **Member**, Teacher Appreciation Committee, Kate Sullivan Elementary School (Leon County Schools) (2022–2023).
 
