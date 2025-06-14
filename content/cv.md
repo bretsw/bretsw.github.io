@@ -701,12 +701,11 @@ Staudt Willet, K. B. (2018, October). *Experiences from the practicum* [Panel fo
 ### Editorial Board Memberships
 
 - *British Journal of Educational Technology* (2024-present). [Board listing](https://bera-journals.onlinelibrary.wiley.com/hub/journal/14678535/editorialboard.html).
-- *International Journal of Self-Directed Learning* (2024-present). [Board listing](https://www.sdlglobal.com/journal).
 - *Journal of Research on Technology in Education* (2023–present). [Board listing](https://www.tandfonline.com/action/journalInformation?show=editorialBoard&journalCode=ujrt20).
 - *Professional Development in Education* (2024–present). [Board listing](https://www.tandfonline.com/journals/rjie20/about-this-journal#editorial-board).
 
 
-### Guest Reviewer for Refereed Journals (116 reviews)
+### Guest Reviewer for Refereed Journals (118 reviews)
 
 - *AERA Open* (2021).
 - *American Journal of Education* (2019-2020).
@@ -716,9 +715,10 @@ Staudt Willet, K. B. (2018, October). *Experiences from the practicum* [Panel fo
 - *Contemporary Issues in Technology & Teacher Education* (2021).
 - *EdTechnica* (2022).
 = *Educational Technology Research & Development* (2024-present).
-- *Heliyon* (2024-present).
+- *Heliyon* (2024).
 - *Internet & Higher Education* (2019–present).
 - *International Journal of Educational Technology in Higher Education* (2023–present).
+- *International Journal of Self-Directed Learning* (2025-present).
 - *Journal of Applied Instructional Design* (2023-present).
 - *Journal of Computer Assisted Learning* (2021).
 - *Journal of Information Technology & Politics* (2020).
@@ -732,6 +732,7 @@ Staudt Willet, K. B. (2018, October). *Experiences from the practicum* [Panel fo
 - *Review of Educational Research* (2023-present).
 - *Routledge Open Research* (2023-present).
 - *Teaching & Teacher Education* (2021-present).
+- *Technology, Knowledge, & Learning* (2025-present).
 - *TechTrends* (2021-present).
 
 

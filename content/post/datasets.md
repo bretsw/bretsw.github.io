@@ -27,6 +27,12 @@ DisableComments: true
 - Wine: https://archive.ics.uci.edu/ml/datasets/Wine
 
 
+## Florida Datasets
+- FSU Office of Institutional Research: https://www.ir.fsu.edu/index.aspx 
+- Florida Department of Education datasets: https://edudata.fldoe.org/
+- Florida School Accountability Reports: https://www.fldoe.org/accountability/accountability-reporting/school-grades/
+
+
 ## U.S. Federal Datasets
 - NOAA Storm Events Database: https://www.ncdc.noaa.gov/stormevents/
 - Bureau of Labor Statistics: https://www.bls.gov/emp/tables/occupational-projections-and-characteristics.htm
@@ -45,8 +51,8 @@ DisableComments: true
 
 
 ## Other Datasets
-- Florida School Accountability Reports: https://www.fldoe.org/accountability/accountability-reporting/school-grades/
+- *Data Science in Education Using R* book datasets and practice: https://data-edu.github.io/dataedu/
 - Open University Learning Analytics dataset: https://analyse.kmi.open.ac.uk/open_dataset
 - Common Data Set Initiative: https://commondataset.org/
 - OpenIntro datasets: https://www.openintro.org/data/
-- *Data Science in Education Using R* book datasets and practice: https://data-edu.github.io/dataedu/
+- Common Online Data Analysis Platform (CODAP): https://codap.concord.org/
