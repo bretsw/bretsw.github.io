@@ -110,7 +110,11 @@ Anne Spencer Daves College of Education, Health, and Human Sciences
 ## Publications
 
 
-### Refereed Journal Articles (28)
+### Refereed Journal Articles (30)
+
+Wofford, A. M., Fatima, A., Wu, X., Perez-Felkner, L., Nhien, C., & Staudt Willet, K. B. (accepted). Minority-serving institutions’ role in enhancing access to computing doctoral education: A multi-method landscape analysis. *Innovative Higher Education*.
+
+Wofford, A. M., Perez-Felkner, L., Staudt Willet, K. B., & Nhien, C. (accepted). Geography of STEM graduate degree opportunities: A focus on minority-serving institutions. *Research in Higher Education*.
 
 Na, H., Staudt Willet, K. B., & Kim, C. (2025). Investigating the impact of AR technologies on geometric learning in primary school: A comparison of marker-based and markerless AR. *British Journal of Educational Technology*. doi:[10.1111/bjet.13584](https://doi.org/10.1111/bjet.13584)
 
