@@ -545,7 +545,7 @@ Staudt Willet, K. B., & Rosenberg, J. M. (2022-2024). *tidytags: Importing and a
 
 
 
-## Doctoral Committee Chair (17 current, 8 graduates)
+## Doctoral Committee Chair (19 current, 8 graduates)
 
 - Aich, S., doctoral candidate. *Understanding the use of self-directed learning for cybersecurity skill enhancement among higher education institution information security staff*.
 - Ajayi, D., doctoral student.
@@ -561,6 +561,8 @@ Staudt Willet, K. B., & Rosenberg, J. M. (2022-2024). *tidytags: Importing and a
 - Kavoosi, R., doctoral student.
 - Kim, C., doctoral candidate. *Investigating the impact of competition and role assignment in educational escape room design on nursing students' knowledge gains and epistemic networks*.
 - Kirby, T., doctoral student.
+- Lewis, A., doctoral candidate.
+- Mbanzabugabo, J., doctoral student.
 - Rodriguez, C., doctoral candidate. *Teachergram as an activity system: A qualitative exploration of teacher perspectives*.
 - Sementelli, R., doctoral candidate. *The effect of the gamification of training on knowledge recall, training satisfaction, and perceived performance in an ERP environment*.
 - Xu, J., doctoral candidate. *Becoming scholars: Graduate teaching assistants' professional development in the scholarship of teaching and learning*.
@@ -575,7 +577,7 @@ Staudt Willet, K. B., & Rosenberg, J. M. (2022-2024). *tidytags: Importing and a
 
 
 
-## Doctoral Committee Member (18 current, 22 graduates)
+## Doctoral Committee Member (16 current, 22 graduates)
 
 - Bounds, J., doctoral candidate.
 = Cotton, T., doctoral candidate.
@@ -584,9 +586,7 @@ Staudt Willet, K. B., & Rosenberg, J. M. (2022-2024). *tidytags: Importing and a
 - Hur, J., doctoral candidate.
 - Kuwik, J., doctoral candidate.
 - LaMont, M., doctoral candidate.
-- Lewis, A., doctoral candidate.
 - Lott, S., doctoral candidate.
-- Mbanzabugabo, J., doctoral candidate.
 - McKenzie, R., doctoral candidate.
 - Pomales, L., doctoral candidate.
 - Rivero-Setien, S., doctoral candidate.
@@ -675,15 +675,15 @@ Staudt Willet, K. B. (2018, October). *Experiences from the practicum* [Panel fo
 ### FSU College Service
 
 - Chair, Faculty Advisory Committee (2024-2025)
-- Member, Faculty Advisory Committee (2023-2024)
+- Member, Faculty Advisory Committee (2023-2024, 2025-2026)
 
 
 ### FSU Department Service
 
-- Member, Diversity, Equity, and Inclusion Committee (2022-present).
+- Member, Faculty Evaluation Committee (2021–2023, 2025-2027).
+- Member, Diversity, Equity, and Inclusion Committee (2022-2025).
 - Member, Faculty Search Committee, School Psychology (2024-2025).
 - Member, Staff Search Committee, Educational Psychology & Learning Systems (2024).
-- Member, Faculty Evaluation Committee (2021–2023).
 
 
 ### FSU Program Service
@@ -715,23 +715,29 @@ Staudt Willet, K. B. (2018, October). *Experiences from the practicum* [Panel fo
 - *British Journal of Educational Technology* (2024-present). [Board listing](https://bera-journals.onlinelibrary.wiley.com/hub/journal/14678535/editorialboard.html).
 - *Journal of Research on Technology in Education* (2023–present). [Board listing](https://www.tandfonline.com/action/journalInformation?show=editorialBoard&journalCode=ujrt20).
 - *Professional Development in Education* (2024–present). [Board listing](https://www.tandfonline.com/journals/rjie20/about-this-journal#editorial-board).
+- *Teaching and Teacher Education* (2025-present). [Board listing](https://www.sciencedirect.com/journal/teaching-and-teacher-education/about/editorial-board).
 
 
-### Guest Reviewer for Refereed Journals (118 reviews)
+
+### Guest Reviewer for Refereed Journals (128 reviews)
 
 - *AERA Open* (2021).
 - *American Journal of Education* (2019-2020).
+- *Artificial Intelligence in Education* (2025-present).
 - *British Journal of Educational Technology* (2024-present).
 - *Computers & Education* (2021–present).
+- *Computer Supported Cooperative Work* (2025).
 - *Contemporary Educational Technology* (2023-present).
 - *Contemporary Issues in Technology & Teacher Education* (2021).
 - *EdTechnica* (2022).
 = *Educational Technology Research & Development* (2024-present).
 - *Heliyon* (2024).
+- *Improving Schools* (2025).
 - *Internet & Higher Education* (2019–present).
 - *International Journal of Educational Technology in Higher Education* (2023–present).
+- *International Journal of Human-Computer Interaction* (2025).
 - *International Journal of Self-Directed Learning* (2025-present).
-- *Journal of Applied Instructional Design* (2023-present).
+- *Journal of Applied Instructional Design* (2025-present).
 - *Journal of Computer Assisted Learning* (2021).
 - *Journal of Information Technology & Politics* (2020).
 - *Journal of Research in Innovative Teaching & Learning* (2024-present).
@@ -743,6 +749,7 @@ Staudt Willet, K. B. (2018, October). *Experiences from the practicum* [Panel fo
 - *Professional Development in Education* (2022-present).
 - *Review of Educational Research* (2023-present).
 - *Routledge Open Research* (2023-present).
+- *System* (2025).
 - *Teaching & Teacher Education* (2021-present).
 - *Technology, Knowledge, & Learning* (2025-present).
 - *TechTrends* (2021-present).
