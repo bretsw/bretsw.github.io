@@ -47,6 +47,7 @@ Anne Spencer Daves College of Education, Health, and Human Sciences
 
 ## Nondegree Education and Training
 
+- *Foundation Training.* Connect First. (2025).
 - *Perspectives.* Constructive Dialogue Institute. (2025).
 - *Applying the QM Rubric.* Quality Matters. (2022).
 - *Data Science: Foundations Using R.* Coursera. (2017-2020).
@@ -112,9 +113,9 @@ Anne Spencer Daves College of Education, Health, and Human Sciences
 
 ### Refereed Journal Articles (30)
 
-Wofford, A. M., Fatima, A., Wu, X., Perez-Felkner, L., Nhien, C., & Staudt Willet, K. B. (accepted). Minority-serving institutions’ role in enhancing access to computing doctoral education: A multi-method landscape analysis. *Innovative Higher Education*.
+Wofford, A. M., Fatima, A., Wu, X., Perez-Felkner, L., Nhien, C., & Staudt Willet, K. B. (in press). Minority-serving institutions’ role in enhancing access to computing doctoral education: A multi-method landscape analysis. *Innovative Higher Education*.
 
-Wofford, A. M., Perez-Felkner, L., Staudt Willet, K. B., & Nhien, C. (accepted). Geography of STEM graduate degree opportunities: A focus on minority-serving institutions. *Research in Higher Education*.
+Wofford, A. M., Perez-Felkner, L., Staudt Willet, K. B., & Nhien, C. (2025). Geography of computing graduate degree opportunities: Examining the characteristics of minority-serving institutions. *Research in Higher Education, 66*(37), 1-11. doi:[10.1007/s11162-025-09848-4](https://doi.org/10.1007/s11162-025-09848-4)
 
 Na, H., Staudt Willet, K. B., & Kim, C. (2025). Investigating the impact of AR technologies on geometric learning in primary school: A comparison of marker-based and markerless AR. *British Journal of Educational Technology*. doi:[10.1111/bjet.13584](https://doi.org/10.1111/bjet.13584)
 
@@ -545,7 +546,7 @@ Staudt Willet, K. B., & Rosenberg, J. M. (2022-2024). *tidytags: Importing and a
 
 
 
-## Doctoral Committee Chair (19 current, 8 graduates)
+## Doctoral Committee Chair (20 current, 8 graduates)
 
 - Aich, S., doctoral candidate. *Understanding the use of self-directed learning for cybersecurity skill enhancement among higher education institution information security staff*.
 - Ajayi, D., doctoral student.
@@ -555,6 +556,7 @@ Staudt Willet, K. B., & Rosenberg, J. M. (2022-2024). *tidytags: Importing and a
 - Catteeuw, C., doctoral candidate. *Examining new instructional designers’ use of LinkedIn during their transition from K-12 teaching*.
 - Costa, A., doctoral candidate. *The preparedness problem: Self-directed learning practices among behavior analysis adjunct faculty to overcome instructional readiness gaps*.
 - Davis, N., doctoral student.
+- Dorce, W., doctoral student. 
 - Fulwider, G. C., doctoral candidate. *Game-based assessment of statistical self-efficacy: An alternative to the self-report of non-cognitive beliefs*.
 - Harle, J., doctoral candidate. *From classroom to career: How LinkedIn fuels self-directed learning for Florida State University, College of Business Seniors*.
 - Jamoom, P., doctoral student.
@@ -675,7 +677,7 @@ Staudt Willet, K. B. (2018, October). *Experiences from the practicum* [Panel fo
 ### FSU College Service
 
 - Chair, Faculty Advisory Committee (2024-2025)
-- Member, Faculty Advisory Committee (2023-2024, 2025-2026)
+- Member, Faculty Advisory Committee (2023-2024, 2025-2027)
 
 
 ### FSU Department Service
@@ -719,7 +721,7 @@ Staudt Willet, K. B. (2018, October). *Experiences from the practicum* [Panel fo
 
 
 
-### Guest Reviewer for Refereed Journals (128 reviews)
+### Guest Reviewer for Refereed Journals (131 reviews)
 
 - *AERA Open* (2021).
 - *American Journal of Education* (2019-2020).
