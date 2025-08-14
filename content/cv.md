@@ -582,7 +582,7 @@ Staudt Willet, K. B., & Rosenberg, J. M. (2022-2024). *tidytags: Importing and a
 ## Doctoral Committee Member (16 current, 22 graduates)
 
 - Bounds, J., doctoral candidate.
-= Cotton, T., doctoral candidate.
+- Cotton, T., doctoral candidate.
 - Hogan, C., doctoral candidate.
 - Hrabcak, J., doctoral student.
 - Hur, J., doctoral candidate.
