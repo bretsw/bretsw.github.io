@@ -86,6 +86,7 @@ Anne Spencer Daves College of Education, Health, and Human Sciences
 
 ### Service Awards
 
+- <i class="fas fa-award" style="color:#ceb888"></i> **Outstanding Service Award** from the Research & Theory Division, Association for Educational Communications & Technology (AECT) (2025).
 - <i class="fas fa-award" style="color:#ceb888"></i> **Outstanding Reviewer Award** from the Research & Theory Division, Association for Educational Communications & Technology (AECT) (2024).
 - <i class="fas fa-award" style="color:#ceb888"></i> **Outstanding Service Award** from the Research & Theory Division, Association for Educational Communications & Technology (AECT) (2021).
 - <i class="fas fa-award" style="color:#ceb888"></i> **Disciplinary Leadership Award**, Michigan State University, Council of Graduate Students (2019). ($2,000).
@@ -113,13 +114,15 @@ Anne Spencer Daves College of Education, Health, and Human Sciences
 
 ### Refereed Journal Articles (30)
 
-Wofford, A. M., Fatima, A., Wu, X., Perez-Felkner, L., Nhien, C., & Staudt Willet, K. B. (in press). Minority-serving institutions’ role in enhancing access to computing doctoral education: A multi-method landscape analysis. *Innovative Higher Education*.
-
-Wofford, A. M., Perez-Felkner, L., Staudt Willet, K. B., & Nhien, C. (2025). Geography of computing graduate degree opportunities: Examining the characteristics of minority-serving institutions. *Research in Higher Education, 66*(37), 1-11. doi:[10.1007/s11162-025-09848-4](https://doi.org/10.1007/s11162-025-09848-4)
-
 Na, H., Staudt Willet, K. B., & Kim, C. (2025). Investigating the impact of AR technologies on geometric learning in primary school: A comparison of marker-based and markerless AR. *British Journal of Educational Technology*. doi:[10.1111/bjet.13584](https://doi.org/10.1111/bjet.13584)
 
 Staudt Willet, K. B., & Na, H. (2025). Beginning science teachers' context-aware self-teaching to support core and background instructional roles. *International Journal of Self-Directed Learning, 22*(1), 1-16. https://sdlglobal.com/journals.php
+
+Wofford, A. M., Fatima, A., Wu, X., Perez-Felkner, L., Nhien, C., & Staudt Willet, K. B. (2025). Minority-serving institutions’ role in enhancing access to computing doctoral education: A multi-method landscape analysis. *Innovative Higher Education*. doi:[10.1007/s10755-025-09841-w](https://doi.org/10.1007/s10755-025-09841-w)
+
+Wofford, A. M., Perez-Felkner, L., Staudt Willet, K. B., & Nhien, C. (2025). Geography of computing graduate degree opportunities: Examining the characteristics of minority-serving institutions. *Research in Higher Education, 66*(37), 1-11. doi:[10.1007/s11162-025-09848-4](https://doi.org/10.1007/s11162-025-09848-4)
+
+
 
 Na, H., & Staudt Willet, K. B. (2024). Understanding beginning teachers' socio-ecological challenges: Self-directed learning in the r/Teachers subreddit. *Information and Learning Sciences, 125*(9), 769-791. doi:[10.1108/ILS-12-2023-0197](https://doi.org/10.1108/ILS-12-2023-0197)
 
@@ -131,6 +134,8 @@ Staudt Willet, K. B., & He, D. (2024). Educators’ invisible labor: A systemati
 
 Staudt Willet, K. B., & Na, H. (2024). Generative AI generating buzz: Volume, engagement, and content of initial reactions to ChatGPT in discussions across education-related subreddits. *Online Learning, 28*(2). doi:[10.24059/olj.v28i2.4434](https://doi.org/10.24059/olj.v28i2.4434)
 
+
+
 Greenhow, C., Lewin, C., & Staudt Willet, K. B. (2023). Teachers without borders: Professional learning spanning social media, place, and time. *Learning, Media and Technology, 48*(4), 666-684. doi:[10.1080/17439884.2023.2209326](https://doi.org/10.1080/17439884.2023.2209326)
 
 Smith, C., & Staudt Willet, K. B. (2023). A model for culturally sustaining instructional design. *Journal of Applied Instructional Design, 12*(2). doi:[10.59668/722.13027](https://doi.org/10.59668/722.13027)
@@ -138,9 +143,13 @@ Smith, C., & Staudt Willet, K. B. (2023). A model for culturally sustaining inst
 Staudt Willet, K. B., & Rosenberg, J. M. (2023). The design and effects of data science workshops for early career researchers. *Journal of Formative Design in Learning, 7*, 83-97.
 doi:[10.1007/s41686-023-00083-7](https://doi.org/10.1007/s41686-023-00083-7)
 
+
+
 Na, H., & Staudt Willet, K. B. (2022). Affinity and anonymity benefitting early career teachers in the r/Teachers subreddit. *Journal of Research on Technology in Education*. doi:[10.1080/15391523.2022.2150727](https://doi.org/10.1080/15391523.2022.2150727)
 
 Muljana, P. S., Staudt Willet, K. B., & Luo, T. (2022). Adjusting sails for changing winds: Exploring Reddit use for professional purposes in higher education. *Journal of Computing in Higher Education, 34*(3), 679–707. doi:[10.1007/s12528-022-09317-2](https://doi.org/10.1007/s12528-022-09317-2)
+
+
 
 Krutka, D. G., Caines, A., Heath, M. K., & Staudt Willet, K. B. (2021). Black Mirror pedagogy: Dystopian stories for technoskeptical imaginations. *Journal of Interactive Pedagogy and Technology, 20*. https://cuny.manifoldapp.org/read/black-mirror-pedagogy-dystopian-stories-for-technoskeptical-imaginations-5df256c8-ca16-45e1-9d1a-e68593443990/section/962a7c17-50d0-4e7a-aafe-483d077ed4bb
 
@@ -152,6 +161,8 @@ Staudt Willet, K. B., & Carpenter, J. P. (2021). A tale of two subreddits: Chang
 
 Rosenberg, J. M., & Staudt Willet, K. B. (2021). Balancing privacy and open science in the context of COVID-19: A response to Ifenthaler & Schumacher (2016). *Educational Technology Research and Development, 69*, 347–351. doi:[10.1007/s11423-020-09860-8](https://doi.org/10.1007/s11423-020-09860-8)
 
+
+
 Greenhow, C., Lewin, C., & Staudt Willet, K. B. (2020). The educational response to Covid-19 across two countries: A critical examination of initial digital pedagogy adoption. *Technology, Pedagogy and Education, 30*(1), 7-25. doi:[10.1080/1475939x.2020.1866654](https://doi.org/10.1080/1475939X.2020.1866654)
 
 Carpenter, J. P., Staudt Willet, K. B., Koehler, M. J., & Greenhalgh, S. P. (2020). Spam and educators' Twitter use: Methodological considerations and challenges. *TechTrends, 64*, 460-469. doi:[10.1007/s11528-019-00466-3](https://doi.org/10.1007/s11528-019-00466-3 )
@@ -159,6 +170,8 @@ Carpenter, J. P., Staudt Willet, K. B., Koehler, M. J., & Greenhalgh, S. P. (202
 Greenhalgh, S. P., Rosenberg, J. M., Staudt Willet, K. B., Koehler, M. J., & Akcaoglu, M. (2020). Identifying multiple learning spaces within a single teacher-focused Twitter hashtag. *Computers & Education, 148*, 103809. doi:[10.1016/j.compedu.2020.103809](https://doi.org/10.1016/j.compedu.2020.103809)
 
 Staudt Willet, K. B., & Carpenter, J. P. (2020). Teachers on Reddit? Exploring contributions and interactions in four teaching-related subreddits. *Journal of Research on Technology in Education, 52*(2), 216-233. doi:[10.1080/15391523.2020.1722978](https://doi.org/10.1080/15391523.2020.1722978)
+
+
 
 Greenhalgh, S. P., Staudt Willet, K. B., & Koehler, M. J. (2019). Approaches to Mormon identity and practice in the #ldsconf Twitter hashtag. *Journal of Media and Religion, 18*(4), 122-133. doi:[10.1080/15348423.2019.1696121](https://doi.org/10.1080/15348423.2019.1696121)
 
@@ -170,9 +183,15 @@ Staudt Willet, K. B. (2019). Revisiting how and why educators use Twitter: Tweet
 
 Greenhow, C., Gleason, B., & Staudt Willet, K. B. (2019). Social scholarship revisited: Changing scholarly practices in the age of social media. *British Journal of Educational Technology, 50*(3), 987-1004. doi:[10.1111/bjet.12772](https://doi.org/10.1111/bjet.12772)
 
+
+
 Greenhalgh, S. P., Staudt Willet, K. B., Rosenberg, J. M., & Koehler, M. J. (2018). Tweet, and we shall find: Using digital methods to locate participants in educational hashtags. *TechTrends, 62*, 501-508. doi:[10.1007/s11528-018-0313-6](https://doi.org/10.1007/s11528-018-0313-6)
 
+
+
 Greenhow, C. M., Gleason, B., Marich, H., & Staudt Willet, K. B. (2017). Educating social scholars: Examining novice researchers' practices with social media. *Qwerty – Open and Interdisciplinary Journal of Technology, Culture and Education, 12*(2), 30-45. http://www.ckbg.org/qwerty/index.php/qwerty/article/view/269/
+
+
 
 
 
@@ -202,21 +221,29 @@ Greenhalgh, S. P., Koehler, M. J., Rosenberg, J. M., & Staudt Willet, K. B. (202
 
 
 
+
+
 ### Refereed Proceedings (17)
 
 Jian, S., Bhowmik, S., & Staudt Willet, K. B. (2025). Coping with ADHD in college: Topic modeling and sentiment analysis of online peer discussions on Reddit. *Eighteenth International Conference on Educational Data Mining (EDM 2025), Palermo, Italy*. https://educationaldatamining.org/edm2025/
 
 Kim, I., Na, H., & Staudt Willet, K. B. (2025). Digital professional presence: Exploring teacher identity and role dynamics on social media. *Society for Information Technology & Teacher Education (SITE) International Conference, Orlando, FL* (pp. 2778-2786). Association for the Advancement of Computing in Education (AACE). https://www.learntechlib.org/p/225846/
 
+
+
 Rosenberg, J. M., & Staudt Willet, K. B. (2021). Advancing social influence models in learning analytics. In O. Poquet, B. Chen, M. Saqr, & T. Hecking (Eds.), *NetSciLA2021 workshop "Using network science in learning Analytics: Building bridges towards a common agenda" (NetSciLA2021), Online* (pp. 3-8). CEUR Workshop Proceedings. http://ceur-ws.org/Vol-2868/#article_2
 
 Staudt Willet, K. B., Greenhow, C., & Lewin, C. (2021). Tweeting across the pond: COVID-19 emergency learning networks in the United Kingdom and the United States through Twitter #Edchat. In E. Langran, & L. Archambault (Eds.), *Society for Information Technology & Teacher Education (SITE) International Conference, Online* (pp. 1769-1778). Association for the Advancement of Computing in Education (AACE). https://www.learntechlib.org/p/219343/
+
+
 
 Staudt Willet, K. B. (2020). Early-career educators' experiences with social media during induction. In G. H. Marks, & D. Schmidt-Crawford (Eds.), *Society for Information Technology & Teacher Education (SITE) International Conference, Online* (pp. 1256-1262). Association for the Advancement of Computing in Education (AACE). https://www.learntechlib.org/p/215917/
 
 Staudt Willet, K. B., & Carpenter, J. P. (2020). For the longest time: Continuity and change in one teaching-related subreddit. In G. H. Marks, & D. Schmidt-Crawford (Eds.), *Society for Information Technology & Teacher Education (SITE) International Conference, Online* (pp. 1263-1269). Association for the Advancement of Computing in Education (AACE). https://www.learntechlib.org/p/215918/
 
 Staudt Willet, K. B. (2020). The hashtag-thread mashup: How educators talk to each other in Twitter #Edchat. In G. H. Marks, & D. Schmidt-Crawford (Eds.), *Society for Information Technology & Teacher Education (SITE) International Conference, Online* (pp. 1270-1280). Association for the Advancement of Computing in Education (AACE). https://www.learntechlib.org/p/215919/
+
+
 
 Staudt Willet, K. B. (2019). #Edchat is bigger, but better only for some: Revisiting how and why educators use Twitter. In K. Graziano (Ed.), *Society for Information Technology & Teacher Education (SITE) International Conference, Las Vegas, NV* (pp. 2778-2786). Association for the Advancement of Computing in Education (AACE). https://www.learntechlib.org/p/208039/
 
@@ -226,11 +253,15 @@ Staudt Willet, K. B., & Carpenter, J. P. (2019). Educators on the front page of 
 
 Carpenter, J. P., Koehler, M. J., Staudt Willet, K. B., & Greenhalgh, S. P. (2019). Spam, spam, spam, spam: Methodological considerations and challenges for studying educators' Twitter use. In K. Graziano (Ed.), *Society for Information Technology & Teacher Education (SITE) International Conference, Las Vegas, NV* (pp. 2702-2711). Association for the Advancement of Computing in Education (AACE). https://www.learntechlib.org/p/208033/
 
+
+
 Staudt Willet, K. B., & Willet, B. D. (2018). Look who's talking: Using human coding to establish a machine learning approach to Twitter education chats. In *Association of Internet Researchers Annual Conference, Montreal, QC, Canada*. Association of Internet Researchers. https://spir.aoir.org/ojs/index.php/spir/article/view/10512
 
 Staudt Willet, K. B., Moudgalya, S. K., Boltz, L. O., Greenhalgh, S. P., & Koehler, M. J. (2018). Back to the gaming board: Understanding games and education through board game reviews. In E. Langran, & J. Borup (Eds.), *Society for Information Technology & Teacher Education (SITE) International Conference, Washington, DC* (pp. 495-503). Association for the Advancement of Computing in Education (AACE). https://www.learntechlib.org/p/182570/
 
 Staudt Willet, K. B., & Reimer, P. N. (2018). The career you save may be your own: Exploring the mathtwitterblogosphere as a community of practice. In E. Langran, & J. Borup (Eds.), *Society for Information Technology & Teacher Education (SITE) International Conference, Washington, DC* (pp. 2324-2329). Association for the Advancement of Computing in Education (AACE). https://www.learntechlib.org/p/182845/
+
+
 
 Rosenberg, J. M., Akcaoglu, M., Staudt Willet, K. B., Greenhalgh, S. P., & Koehler, M. J. (2017). A tale of two Twitters: Synchronous and asynchronous use of the same hashtag. In P. Resta, & S. Smith (Eds.), *Society for Information Technology & Teacher Education (SITE) International Conference, Austin, TX* (pp. 283-286). Association for the Advancement of Computing in Education (AACE). https://www.learntechlib.org/p/177856/
 
@@ -240,16 +271,23 @@ Greenhow, C., Marich, H., & Staudt Willet, K. B. (2017). Social scholars: Re-env
 
 
 
+
+
 ### Invited Reviews (1)
 
 Staudt Willet, K. B. (2022). Review of Griffin, M. M., & Zinskie, C. D. (Eds.). (2021). Social media: Influences on education. Information Age Publishing. *TechTrends, 66*, 380-382.
 
 
 
+
+
 ## Presentations
 
-### Refereed Papers at Conferences (44)
+### Refereed Papers at Conferences (46)
 
+Jian, S., Bhowmik, S., & Staudt Willet, K. B. (2025, October). *Navigating college with ADHD: Educational data mining of peer discussions in an online affinity space*. Paper presented at Association for Educational Communications and Technology (AECT) International Convention, Association for Educational Communications and Technology (AECT), Las Vegas, NV. (National)
+
+Staudt Willet, K. B., Wang, Z., & Xu, J. (2025, October). *Game developers leveling up: New insights into self-directed learning*. Paper presented at Association for Educational Communications and Technology (AECT) International Convention, Association for Educational Communications and Technology (AECT), Las Vegas, NV. (National)
 
 Dennen, V., Staudt Willet, K. B., & Wang, Z. (2025, April). *Generative AI and student ethics: A survey of judgment and behavioral intention in coursework*. Paper presented at American Educational Research Association (AERA) Annual Meeting, American Educational Research Association (AERA), Denver, CO. (National)
 
@@ -381,8 +419,11 @@ Staudt Willet, K. B. (2023, April). *Discussant reflections: Teacher use of soci
 
 
 
-### Refereed Presentations at Conferences (21)
+### Refereed Presentations at Conferences (23)
 
+Fulwider, G. C., & Staudt Willet, K. B. (2025, October). *Descriptive analysis of educational games on the Apple app store*. Poster presentation at Association for Educational Communications and Technology (AECT) International Convention, Association for Educational Communications and Technology (AECT), Las Vegas, NV. (National)
+
+Fulwider, G. C., Gilstrap, S., Kim, C., Liu, Z., Moon, J., Staudt Willet, K. B. (2025, October). *The when before the how: Ethical and practical boundaries of AI in academic research writing*. Panel presentation at Association for Educational Communications and Technology (AECT) International Convention, Association for Educational Communications and Technology (AECT), Las Vegas, NV. (National).
 
 Cooper, K., & Staudt Willet, K. B. (2025, March). *Kids-as-devs: How to lead a kids' game jam roundtable (presented by the IGDA)*. Roundtable at Game Developers Conference (GDC), San Francisco, CA. (National)
 
@@ -448,6 +489,8 @@ Willet, K. B. (2001, February). *The shortest closed path on an arithmetic surfa
 
 
 
+
+
 ## Invited Workshops (4)
 
 Staudt Willet, K. B. (2024, December). *Data prescription: Introducing R for nursing analytics*. Workshop delivered for College of Nursing faculty at Florida State University, Online. (Local) https://bretsw.com/nursing24-workshop
@@ -492,7 +535,7 @@ Staudt Willet, K. B., & Rosenberg, J. M. (2022-2024). *tidytags: Importing and a
 
 ### Contracts and Grants Funded ($292,278)
 
-- <i class="fas fa-dollar-sign" style="color:green"></i> Wofford, A., Perez-Felkner, L., & Staudt Willet, K. B. (Jan 2023–Jun 2025). Sloan: Aligning Graduate Education and Workforce Opportunities: A Robust, Equity-Focused Landscape Scan of Computing Terminology. Funded by Alfred P. Sloan Foundation. **Total award $249,978** *I am a Co-PI for this grant.*
+- <i class="fas fa-dollar-sign" style="color:green"></i> Wofford, A., Perez-Felkner, L., & Staudt Willet, K. B. (Jan 2023–Dec 2025). Sloan: Aligning Graduate Education and Workforce Opportunities: A Robust, Equity-Focused Landscape Scan of Computing Terminology. Funded by Alfred P. Sloan Foundation. **Total award $249,978** *I am a Co-PI for this grant.*
 - <i class="fas fa-dollar-sign" style="color:green"></i> Staudt Willet, K. B. (May 2022–Aug 2022). CRC FYAP: Beginning Teachers' Self-Directed Professional Learning Through Social Media: Impacts on Instructional Practice. Funded by Florida State University, Council on Research and Creativity. **Total award $20,000.** *I was the PI for this grant.*
 - <i class="fas fa-dollar-sign" style="color:green"></i> Staudt Willet, K. B. (Jan 2021–Apr 2021). Dissertation Completion Fellowship: Into the Edu-verse: Early-Career Educators Seeking Induction Support on Social Media. Funded by Michigan State University, College of Education. **Total award $7,000.** *I was the PI for this grant.*
 - <i class="fas fa-dollar-sign" style="color:green"></i> Staudt Willet, K. B. (Jan 2020). Research Practicum/Dissertation Development Fellowship. Funded by Michigan State University, College of Education. **Total award $1,300.** *I was the PI for this grant.*
@@ -579,7 +622,7 @@ Staudt Willet, K. B., & Rosenberg, J. M. (2022-2024). *tidytags: Importing and a
 
 
 
-## Doctoral Committee Member (16 current, 22 graduates)
+## Doctoral Committee Member (15 current, 23 graduates)
 
 - Bounds, J., doctoral candidate.
 - Cotton, T., doctoral candidate.
@@ -592,7 +635,6 @@ Staudt Willet, K. B., & Rosenberg, J. M. (2022-2024). *tidytags: Importing and a
 - McKenzie, R., doctoral candidate.
 - Pomales, L., doctoral candidate.
 - Rivero-Setien, S., doctoral candidate.
-- Shi, H., doctoral candidate.
 - Sorrells, J., doctoral candidate.
 - Sprenkle, S., doctoral candidate.
 - Wei, S., doctoral candidate.
@@ -617,8 +659,15 @@ Staudt Willet, K. B., & Rosenberg, J. M. (2022-2024). *tidytags: Importing and a
 - <i class="fas fa-graduation-cap" style="color:#782f40"></i> Pappas, S., Ed.D. graduate 2024. *What Motivates Business Students' Internship Enrollment Decisions? Exploring Factors Influential to Decision-Making*.
 - <i class="fas fa-graduation-cap" style="color:#782f40"></i> Pryor, T., Ed.D. graduate 2024. *Cultural responsiveness in instructional design: A study of instructional designers' use of strategies in the non-academic, adult learning context*.
 - <i class="fas fa-graduation-cap" style="color:#782f40"></i> Robbins, A., Ed.D. graduate 2025. *A general education teacher story: Gaining knowledge through communities of practice to work with students with disabilities*.
+- <i class="fas fa-graduation-cap" style="color:#782f40"></i> Shi, H., Ph.D. graduate 2025. *Promoting the progression of collaborative ill-structured problem-solving: The roles of socially shared metacognition and group scaffolds*.
 - <i class="fas fa-graduation-cap" style="color:#782f40"></i> West, L., Ph.D. graduate 2024. *Dynamic visuospatial support for Mandarin tone learning in a language-driven game*.
 - <i class="fas fa-graduation-cap" style="color:#782f40"></i> Word, K., Ph.D. graduate 2025.*Networked individualism and personal learning networks (PLN): The self-directed learning journey of endometriosis patients*.
+
+
+
+## External Examiner for Doctoral Dissertation
+
+- 12/2024: [Research Unit Self-Directed Learning](https://education.nwu.ac.za/research-unit-self-directed-learning/home), North-West University (South Africa)
 
 
 
@@ -683,7 +732,8 @@ Staudt Willet, K. B. (2018, October). *Experiences from the practicum* [Panel fo
 ### FSU Department Service
 
 - Member, Faculty Evaluation Committee (2021–2023, 2025-2027).
-- Member, Diversity, Equity, and Inclusion Committee (2022-2025).
+- Member, Staff Search Committee, Educational Psychology & Learning Systems (2025).
+- Member, ACTION (Diversity, Equity, and Inclusion) Committee (2022-2025).
 - Member, Faculty Search Committee, School Psychology (2024-2025).
 - Member, Staff Search Committee, Educational Psychology & Learning Systems (2024).
 
@@ -692,10 +742,12 @@ Staudt Willet, K. B. (2018, October). *Experiences from the practicum* [Panel fo
 
 - Ph.D. Director, ISLT Program (2022-present).
 - Member, Faculty Search Committee (2024–2025).
-- Liaison, Morgan Studio (2022-present).
+- Liaison, Morgan Studio (2022-2025).
 - Coordinator, ISLT Brown Bag Series (2022-2023).
 - Member, Faculty Search Committee (2021–2022).
 - Reviewer, Ph.D. Preliminary Exams Committee (2021-2022).
+
+
 
 
 
@@ -718,6 +770,7 @@ Staudt Willet, K. B. (2018, October). *Experiences from the practicum* [Panel fo
 - *Journal of Research on Technology in Education* (2023–present). [Board listing](https://www.tandfonline.com/action/journalInformation?show=editorialBoard&journalCode=ujrt20).
 - *Professional Development in Education* (2024–present). [Board listing](https://www.tandfonline.com/journals/rjie20/about-this-journal#editorial-board).
 - *Teaching and Teacher Education* (2025-present). [Board listing](https://www.sciencedirect.com/journal/teaching-and-teacher-education/about/editorial-board).
+- *International Journal of Self-Directed Learning* (2023–2024). [Board listing](https://www.sdlglobal.com/journal).
 
 
 
@@ -765,7 +818,7 @@ Staudt Willet, K. B. (2018, October). *Experiences from the practicum* [Panel fo
 - **Chair-Elect**, Technology as an Agent of Change in Teaching & Learning Special Interest Group (TACTL SIG), American Educational Research Association (AERA) (2024-2025).
 - **Past President**, Research & Theory Division, Association for Educational Communications & Technology (AECT) (2024-2025).
 - **President**, Research & Theory Division, Association for Educational Communications & Technology (AECT) (2023-2024).
-- **Chair**, Devs with Kids SIG, International Game Developers Association (IGDA) (2022-present).
+- **Chair**, Devs with Kids SIG, International Game Developers Association (IGDA) (2022-2025).
 - **President-Elect**, Research & Theory Division, Association for Educational Communications & Technology (AECT) (2022–2023).
 - **Conference Planning Committee Member**, Association for Educational Communications & Technology (AECT) (2022–2023).
 - **Conference Proposal Reviewer**, American Educational Research Association (AERA) (2020–present).
@@ -786,7 +839,8 @@ Staudt Willet, K. B. (2018, October). *Experiences from the practicum* [Panel fo
 
 ## Consultation
 
-- **Front-End Developer**, IES Grant, [Quantifying the Robustness of Causal Inferences: Extensions and Application to Existing Databases](https://ies.ed.gov/funding/grantsearch/details.asp?ID=5723) (Frank, Maroulis, Saw, Xu, & Rosenberg): Designed and rebuilt interface for Konfound [web app](https://konfound-project.shinyapps.io/konfound-it/) and [website](https://konfound-project.github.io/) (2023-present).
+- **Front-End Developer**, Community College Research Center at Teachers College, Columbia University; development team at University of Tennessee, Knoxville; funded by JPMorgan Chase Grant: Designed and rebuilt interface for Shiny [web app](https://ed-analytics.shinyapps.io/airea-data-explorer/) (2023-present).
+- **Front-End Developer**, IES Grant, [Quantifying the Robustness of Causal Inferences: Extensions and Application to Existing Databases](https://ies.ed.gov/funding/grantsearch/details.asp?ID=5723) (Frank, Maroulis, Saw, Xu, & Rosenberg): Designed and rebuilt interface for Shiny [web app](https://konfound-project.shinyapps.io/konfound-it/) and [website](https://konfound-it.org/) (2023-present).
 - **Data Scientist**, NSF/WTG Grant, [Diffusion of Research on Supporting Mathematics Achievement for Youth with Disabilities through Twitter Translational Visual Abstracts](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2244734) (Rodrigues, Farley-Ripple, & Malin): Collected and analyzed data for the social media intervention portion of the project.
  Mar 2023–Feb 2026).
 - **Co-Founder and Organizer**, SciBlack (2021–present).
