@@ -114,11 +114,11 @@ Anne Spencer Daves College of Education, Health, and Human Sciences
 
 ### Refereed Journal Articles (30)
 
+Wofford, A. M., Fatima, A., Wu, X., Perez-Felkner, L., Nhien, C., & Staudt Willet, K. B. (in press). Minority-serving institutions’ role in enhancing access to computing doctoral education: A multi-method landscape analysis. *Innovative Higher Education*. doi:[10.1007/s10755-025-09841-w](https://doi.org/10.1007/s10755-025-09841-w)
+
 Na, H., Staudt Willet, K. B., & Kim, C. (2025). Investigating the impact of AR technologies on geometric learning in primary school: A comparison of marker-based and markerless AR. *British Journal of Educational Technology*. doi:[10.1111/bjet.13584](https://doi.org/10.1111/bjet.13584)
 
 Staudt Willet, K. B., & Na, H. (2025). Beginning science teachers' context-aware self-teaching to support core and background instructional roles. *International Journal of Self-Directed Learning, 22*(1), 1-16. https://sdlglobal.com/journals.php
-
-Wofford, A. M., Fatima, A., Wu, X., Perez-Felkner, L., Nhien, C., & Staudt Willet, K. B. (2025). Minority-serving institutions’ role in enhancing access to computing doctoral education: A multi-method landscape analysis. *Innovative Higher Education*. doi:[10.1007/s10755-025-09841-w](https://doi.org/10.1007/s10755-025-09841-w)
 
 Wofford, A. M., Perez-Felkner, L., Staudt Willet, K. B., & Nhien, C. (2025). Geography of computing graduate degree opportunities: Examining the characteristics of minority-serving institutions. *Research in Higher Education, 66*(37), 1-11. doi:[10.1007/s11162-025-09848-4](https://doi.org/10.1007/s11162-025-09848-4)
 
@@ -842,8 +842,8 @@ Staudt Willet, K. B. (2018, October). *Experiences from the practicum* [Panel fo
 - **Front-End Developer**, Community College Research Center at Teachers College, Columbia University; development team at University of Tennessee, Knoxville; funded by JPMorgan Chase Grant: Designed and rebuilt interface for Shiny [web app](https://ed-analytics.shinyapps.io/airea-data-explorer/) (2023-present).
 - **Front-End Developer**, IES Grant, [Quantifying the Robustness of Causal Inferences: Extensions and Application to Existing Databases](https://ies.ed.gov/funding/grantsearch/details.asp?ID=5723) (Frank, Maroulis, Saw, Xu, & Rosenberg): Designed and rebuilt interface for Shiny [web app](https://konfound-project.shinyapps.io/konfound-it/) and [website](https://konfound-it.org/) (2023-present).
 - **Data Scientist**, NSF/WTG Grant, [Diffusion of Research on Supporting Mathematics Achievement for Youth with Disabilities through Twitter Translational Visual Abstracts](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2244734) (Rodrigues, Farley-Ripple, & Malin): Collected and analyzed data for the social media intervention portion of the project.
- Mar 2023–Feb 2026).
-- **Co-Founder and Organizer**, SciBlack (2021–present).
+ Mar 2023–Feb 2026).hg
+- **Co-Founder and Organizer**, SciBlack (2021–2024).
 - **Executive Coach**, Black in Gaming (BIG) Foundation: (a) Trained and mentored members of the core leadership team. (b) Designed and implemented strategy for organizational culture and collaboration through remote and asynchronous work (2020–2021).
 
 
