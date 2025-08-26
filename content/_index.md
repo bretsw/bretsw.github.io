@@ -26,11 +26,9 @@ mainSectionsTitle = ""
 
 ---
 
-I am an Assistant Professor of [Instructional Systems & Learning Technologies](https://cehhs.fsu.edu/islt) at Florida State University and the Educational Research Catalyst for the [FSU Innovation Hub](https://www.innovation.fsu.edu/). My preferred pronouns are **he/him/his**.
+I am an Assistant Professor of [Instructional Systems & Learning Technologies](https://annescollege.fsu.edu/instructional-systems-and-learning-technologies) at Florida State University and the Educational Research Catalyst for the [FSU Innovation Hub](https://www.innovation.fsu.edu/). My preferred pronouns are **he/him/his**.
 
-My research investigates **self-directed learning**; I am fascinated by how people figure things out on their own. I'm most interested in what happens when students, learners, and trainees finish formal instruction, preparation, and training. What do they do *after* they walk out the door or log off? How do they continue to develop their knowledge, skills, and abilities? Where do they look for resources? Who do they talk to? 
-
-I am interested in how self-directed learners **navigate social connections** through the internet, exploration through games, and innovation through intensive events.
+My research investigates **self-directed learning**: how people figure things out on their own using the internet, exploring in games, and innovating during intensive events. I am fascinated by how people figure things out on their own. I'm most interested in what happens when students, learners, and trainees finish formal instruction, preparation, and training. What do they do *after* they walk out the door or log off? How do they continue to develop their knowledge, skills, and abilities? Where do they look for resources? Who do they talk to? 
 
 I frequently investigate self-directed learning with the tools of **educational data science**, including learning analytics, social network analysis, discourse analysis, natural language processing, and educational data mining.
 
@@ -58,7 +56,7 @@ I consider my strongest credential to be my ongoing friendship with my very firs
 
 - {{< fa random >}} **SDL Processes**
   - Context-Aware Self-Teaching (CAST)
-    - Science teachers
+    - Teachers
     - Game developers
     - Healthcare providers
   - AI-Assisted SDL
@@ -75,7 +73,7 @@ I consider my strongest credential to be my ongoing friendship with my very firs
 ### Educational Data Science (EDS)
 
 - {{< fa magnifying-glass >}} **Qualitative Inquiry**
-  - Qualitative Interviews
+  - Interviews
   - Case Study
 - {{< fa calculator >}} **Quantitative Inquiry**
   - Learning Analytics
