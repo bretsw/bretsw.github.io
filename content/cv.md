@@ -118,6 +118,8 @@ Wofford, A. M., Fatima, A., Wu, X., Perez-Felkner, L., Nhien, C., & Staudt Wille
 
 Na, H., Staudt Willet, K. B., & Kim, C. (2025). Investigating the impact of AR technologies on geometric learning in primary school: A comparison of marker-based and markerless AR. *British Journal of Educational Technology*. doi:[10.1111/bjet.13584](https://doi.org/10.1111/bjet.13584)
 
+Na, H., Staudt Willet, K. B., Shi, H., Hur, J., He, D., & Kim, C. (2025). Initial discussions of ChatGPT in education-related subreddits. *Journal of Research on Technology in Education, 57*(5), 953-971. doi:[10.1080/15391523.2024.2338091](https://doi.org/10.1080/15391523.2024.2338091)
+
 Staudt Willet, K. B., & Na, H. (2025). Beginning science teachers' context-aware self-teaching to support core and background instructional roles. *International Journal of Self-Directed Learning, 22*(1), 1-16. https://sdlglobal.com/journals.php
 
 Wofford, A. M., Perez-Felkner, L., Staudt Willet, K. B., & Nhien, C. (2025). Geography of computing graduate degree opportunities: Examining the characteristics of minority-serving institutions. *Research in Higher Education, 66*(37), 1-11. doi:[10.1007/s11162-025-09848-4](https://doi.org/10.1007/s11162-025-09848-4)
@@ -125,8 +127,6 @@ Wofford, A. M., Perez-Felkner, L., Staudt Willet, K. B., & Nhien, C. (2025). Geo
 
 
 Na, H., & Staudt Willet, K. B. (2024). Understanding beginning teachers' socio-ecological challenges: Self-directed learning in the r/Teachers subreddit. *Information and Learning Sciences, 125*(9), 769-791. doi:[10.1108/ILS-12-2023-0197](https://doi.org/10.1108/ILS-12-2023-0197)
-
-Na, H., Staudt Willet, K. B., Shi, H., Hur, J., He, D., & Kim, C. (2024). Initial discussions of ChatGPT in education-related subreddits. *Journal of Research on Technology in Education*. doi:[10.1080/15391523.2024.2338091](https://doi.org/10.1080/15391523.2024.2338091)
 
 Staudt Willet, K. B. (2024). Early career teachers’ expansion of professional learning networks with social media. *Professional Development in Education, 50*(2), 386-402. doi:[10.1080/19415257.2023.2178481](https://doi.org/10.1080/19415257.2023.2178481)
 
