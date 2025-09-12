@@ -606,8 +606,8 @@ Staudt Willet, K. B., & Rosenberg, J. M. (2022-2024). *tidytags: Importing and a
 - Kavoosi, R., doctoral student.
 - Kim, C., doctoral candidate. *Investigating the impact of competition and role assignment in educational escape room design on nursing students' knowledge gains and epistemic networks*.
 - Kirby, T., doctoral student.
-- Lewis, A., doctoral candidate.
-- Mbanzabugabo, J., doctoral student.
+- Lewis, A., doctoral candidate. *Advising that matters: Exploring student perceptions of effective academic advising*.
+- Mbanzabugabo, J. B., doctoral student.
 - Rodriguez, C., doctoral candidate. *Teachergram as an activity system: A qualitative exploration of teacher perspectives*.
 - Sementelli, R., doctoral candidate. *The effect of the gamification of training on knowledge recall, training satisfaction, and perceived performance in an ERP environment*.
 - Xu, J., doctoral candidate. *Becoming scholars: Graduate teaching assistants' professional development in the scholarship of teaching and learning*.
