@@ -626,23 +626,23 @@ Staudt Willet, K. B., & Rosenberg, J. M. (2022-2024). *tidytags: Importing and a
 
 - Adolfson, D., doctoral candidate.
 - Bounds, J., doctoral candidate.
-- Cotton, T., doctoral candidate.
+- Cotton, T., doctoral candidate. *Teacher perceptions and implementation challenges of integrating reading strategies in secondary school science, social studies, and mathematics curriculum*.
 - Green, A., doctoral candidate.
 - Hamrick, J., doctoral candidate.
-- Hogan, C., doctoral candidate.
+- Hogan, C., doctoral candidate. *The role of social media in collegiate athletic recruitment: Student-athlete perceptions, engagement, and impact*.
 - Hrabcak, J., doctoral student.
-- Hur, J., doctoral candidate.
-- Kuwik, J., doctoral candidate.
-- LaMont, M., doctoral candidate.
+- Hur, J., doctoral candidate. *Exploring students’ perceived time, actual time use, and time management strategies in online courses*.
+- Kuwik, J., doctoral candidate. *The Kirkpatrick model and instructional design practices*.
+- LaMont, M., doctoral candidate. *Virtual reality in the classroom: An immersive and innovative experience*.
 - Lott, S., doctoral candidate.
 - Martin, J., doctoral candidate.
 - McKenzie, R., doctoral candidate.
-- Pomales, L., doctoral candidate.
-- Rivero-Setien, S., doctoral candidate.
+- Pomales, L., doctoral candidate.  *Exploring the organizational training transfer problem: Strategic practices of training practitioners across workplace training interventions*.
+- Rivero-Setien, S., doctoral candidate. *Beyond the numbers: Challenges and effects of educational technology integration on elementary educator practice and the academic achievement of students with developmental dyscalculia*.
 - Sorrells, J., doctoral candidate.
-- Sprenkle, S., doctoral candidate.
+- Sprenkle, S., doctoral candidate. *An examination of leadership competencies and job descriptions for medium and large public and private organizations*.
 - Wei, S., doctoral candidate.
-- Zhang, N., doctoral candidate.
+- Zhang, N., doctoral candidate. *Supporting preservice teachers' interpretations of student resources and responsive teaching in AI-supported teaching simulation*.
 - <i class="fas fa-graduation-cap" style="color:#782f40"></i> Alvarez, E., Ed.D. graduate 2025. *Cognitive and non-cognitive predictors of success on the national physical therapy examination in a Doctor of Physical Therapy program*
 - <i class="fas fa-graduation-cap" style="color:#782f40"></i> Archer, T., Ph.D. graduate 2024. *The Effect Of Removing Counselors From The U.S. News & World Report Expert Opinion Survey On Institutions’ Peer Assessment Scores: Evidence From A Comparative Interrupted Time Series Analysis*.
 - <i class="fas fa-graduation-cap" style="color:#782f40"></i> Barrett, A., Ph.D. graduate 2025. *Immersion in virtual reality-based teacher training simulations with artificial intelligence-integrated student agents to increase learning achievement for early-career teachers*.

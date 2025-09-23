@@ -29,7 +29,7 @@
   url = "/post/"
 
   [[main]]
-  name = "Gallery"
+  name = "Design Showcase"
   weight = 600
-  identifier = "gallery"
-  url = "/gallery/"
+  identifier = "design-showcase"
+  url = "/design-showcase/"
