@@ -23,13 +23,13 @@
   url = "/teaching/"
 
   [[main]]
-  name = "Posts"
+  name = "Design"
   weight = 500
-  identifier = "posts"
-  url = "/post/"
+  identifier = "design"
+  url = "/design/"
 
   [[main]]
-  name = "Design Showcase"
+  name = "Posts"
   weight = 600
-  identifier = "design-showcase"
-  url = "/design-showcase/"
+  identifier = "posts"
+  url = "/post/"

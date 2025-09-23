@@ -1,11 +1,13 @@
 ---
 author: Bret Staudt Willet
-title: Design Showcase
+title: Design
 date: "`r Sys.time()`"
 description: Design Projects
 contact: false
 ---
 
+
+---
 
 ## Research & Exploration of Context-Aware Self-Teaching (website)
 
