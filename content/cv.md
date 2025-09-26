@@ -97,6 +97,7 @@ Anne Spencer Daves College of Education, Health, and Human Sciences
 - American Educational Research Association ([AERA](https://www.aera.net/)) 
 - Association for Educational Communications & Technology ([AECT](https://aect.org/))
 - International Game Developers Association ([IGDA](https://igda.org/))
+- International Professional Development Association ([IPDA](https://ipda.org.uk/))
 - International Society for Self-Directed Learning ([ISSDL](https://www.sdlglobal.com/))
 
 
@@ -114,13 +115,13 @@ Anne Spencer Daves College of Education, Health, and Human Sciences
 
 ### Refereed Journal Articles (30)
 
-Wofford, A. M., Fatima, A., Wu, X., Perez-Felkner, L., Nhien, C., & Staudt Willet, K. B. (in press). Minority-serving institutions’ role in enhancing access to computing doctoral education: A multi-method landscape analysis. *Innovative Higher Education*. doi:[10.1007/s10755-025-09841-w](https://doi.org/10.1007/s10755-025-09841-w)
-
 Na, H., Staudt Willet, K. B., & Kim, C. (2025). Investigating the impact of AR technologies on geometric learning in primary school: A comparison of marker-based and markerless AR. *British Journal of Educational Technology*. doi:[10.1111/bjet.13584](https://doi.org/10.1111/bjet.13584)
 
 Na, H., Staudt Willet, K. B., Shi, H., Hur, J., He, D., & Kim, C. (2025). Initial discussions of ChatGPT in education-related subreddits. *Journal of Research on Technology in Education, 57*(5), 953-971. doi:[10.1080/15391523.2024.2338091](https://doi.org/10.1080/15391523.2024.2338091)
 
 Staudt Willet, K. B., & Na, H. (2025). Beginning science teachers' context-aware self-teaching to support core and background instructional roles. *International Journal of Self-Directed Learning, 22*(1), 1-16. https://sdlglobal.com/journals.php
+
+Wofford, A. M., Fatima, A., Wu, X., Perez-Felkner, L., Nhien, C., & Staudt Willet, K. B. (2025). Minority-serving institutions’ role in enhancing access to computing doctoral education: A multi-method landscape analysis. *Innovative Higher Education*. doi:[10.1007/s10755-025-09841-w](https://doi.org/10.1007/s10755-025-09841-w)
 
 Wofford, A. M., Perez-Felkner, L., Staudt Willet, K. B., & Nhien, C. (2025). Geography of computing graduate degree opportunities: Examining the characteristics of minority-serving institutions. *Research in Higher Education, 66*(37), 1-11. doi:[10.1007/s11162-025-09848-4](https://doi.org/10.1007/s11162-025-09848-4)
 
@@ -543,15 +544,18 @@ Staudt Willet, K. B., & Rosenberg, J. M. (2022-2024). *tidytags: Importing and a
 - <i class="fas fa-dollar-sign" style="color:green"></i> Staudt Willet, K. B. (May 2018–Aug 2019). Summer Research Renewable Fellowship: How Educators Connect with Each Other on Social Media as Part of Their Lifelong Learning: Social Interactions in Twitter \#Edchat. Funded by Michigan State University, College of Education. **Total award $12,000.** *I was the PI for this grant.*
 
 
+
 ### Contracts and Grants Pending
 
-- <i class="fas fa-exclamation-triangle" style="color:#ceb888"></i> Hughes, R., Johnson, K., & Staudt Willet, K. B. (Feb 2025). NSF ExLENT: Beginnings: Work-Ready Employees for the Superconducting Industry. Submitted to National Science Foundation. Total requested: $999,790. *I am a Co-PI for this grant proposal.*
+- <i class="fas fa-exclamation-triangle" style="color:#ceb888"></i> Peluso, P. R., & Staudt Willet, K. B. (Sep 2025). CRC SEED: Developing the Acquisition of Knowledge and Intention for Relationship Awareness (AKIRA) Platform—Utilizing Artificial Intelligence to Resolve Parent-Child Conflicts. Total requested: $46,250. *I am the Co-PI for this grant proposal.*
+
 
 
 ### Contracts and Grants Denied
 
 - <i class="fas fa-times" style="color:red"></i> Staudt Willet, K. B. (Apr 2025). Dean’s Circle Catalyst Grant: Deepening Understanding of AI-Assisted Self-Directed Learning within Innovation Project Teams. Submitted to FSU Anne's College Dean's Circle. Total requested: $10,204.32. *I was the PI for this grant proposal.*
 - <i class="fas fa-times" style="color:red"></i> Staudt Willet, K. B. (Mar 2025). CRC SEED: Advancing AI-Assisted Self-Directed Learning through Intensive Events. Submitted to FSU Council for Research Creativity. Total requested: $87,196. *I was the PI for this grant proposal.*
+- <i class="fas fa-times" style="color:red"></i> Hughes, R., Johnson, K., & Staudt Willet, K. B. (Feb 2025). NSF ExLENT: Beginnings: Work-Ready Employees for the Superconducting Industry. Submitted to National Science Foundation. Total requested: $999,790. *I am a Co-PI for this grant proposal.*
 - <i class="fas fa-times" style="color:red"></i> Staudt Willet, K. B. (Sep 2024). CRC SEED: Advancing AI-Assisted Self-Directed Learning through Intensive Events. Submitted to FSU Council for Research Creativity. Total requested: $92,623. *I was the PI for this grant proposal.*
 - <i class="fas fa-times" style="color:red"></i> Frank, K., Maroulis, S., Xu, R., Rosenberg, J. M., Saw, G., Lin, Q., & Staudt Willet, K. B. (Aug 2024). IES: Sensitivity Analysis for Statistical Advances that Inform Evidence Use and Knowledge Mobilization. Submitted to Institute for Education Sciences. Total requested: $899,997. *Award review cancelled due to U.S. federal grant cuts. I would have served as a co-PI on this grant project.*
 - <i class="fas fa-times" style="color:red"></i> Staudt Willet, K. B. (Jul 2024). NSF CAREER: Science Teachers Developing Context-Aware Self-Teaching Through Intensive Events. Submitted to National Science Foundation. Total requested: $898,603. *I was the PI on this grant proposal.*

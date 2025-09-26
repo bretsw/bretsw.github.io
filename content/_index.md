@@ -22,7 +22,7 @@ mainSectionsTitle = ""
 
 {{< fa globe >}} My Florida State University homepage is [here](https://cehhs.fsu.edu/faculty-and-staff/dr-bret-staudt-willet).
 
-{{< fa users >}} The Research & Exploration of Context-Aware Self-Teaching (RECAST) Group website is [here](https://recast.team/).
+{{< fa users >}} The Research & Exploration of Context-Aware Self-Teaching (RECAST) team website is [here](https://recast.team/).
 
 ---
 
@@ -48,54 +48,56 @@ I consider my strongest credential to be my ongoing friendship with my very firs
 
 {{< fa compass >}} **Consultant:** Design Thinking + Systems Thinking
 
+
+
 ---
 
-## Research Interests
-
-### Self-Directed Learning (SDL)
+## Research Interests: Self-Directed Learning (SDL)
 
 - {{< fa random >}} **SDL Processes**
   - Context-Aware Self-Teaching (CAST)
-    - Teachers
-    - Game developers
-    - Healthcare providers
-  - AI-Assisted SDL
+    - Start + Practice + Assess
+    - Teachers, Game developers, Healthcare workers
 - {{< fa map-pin >}} **SDL Sites**
   - SDL in and through Intensive Events
     - Hackathons, design sprints, and game jams
-  -  SDL in Networked Knowledge Spaces
+  - SDL in Networked Knowledge Spaces
     - Online communities
-    - Curricular knowledge repositories
-    - Scholarly knowledge repositories
+    - Knowledge repositories
   
-## Research Methods
+  
 
-### Educational Data Science (EDS)
+## Research Methods: Educational Data Science (EDS)
 
 - {{< fa magnifying-glass >}} **Qualitative Inquiry**
   - Interviews
   - Case Study
 - {{< fa calculator >}} **Quantitative Inquiry**
-  - Learning Analytics
-  - Web Scraping
-  - Educational Data Mining
-  - Social Network Analysis
+  - Learning Analytics + Social Network Analysis
+  - Educational Data Mining + Web Scraping
   - Natural Language Processing
+
+
 
 ---
 
 ## Education
 
-- {{< fa graduation-cap >}} **Ph.D.** in Educational Psychology & Educational Technology | Michigan State University (2021)
-- {{< fa graduation-cap >}} **M.A.** in Educational Technology | Michigan State University (2015)
+- {{< fa graduation-cap >}} **Ph.D.** in [Educational Psychology & Educational Technology](https://education.msu.edu/cepse/epet) | Michigan State University (2021)
+- {{< fa graduation-cap >}} **M.A.** in [Educational Technology](https://education.msu.edu/cepse/maet) | Michigan State University (2015)
+- {{< fa graduation-cap >}} **Graduate Certificate** in [Serious Game Design & Research](https://comartsci.msu.edu/academics/academic-departments/media-information/graduate/serious-games-graduate-certificate) | Michigan State University (2014)
 - {{< fa graduation-cap >}} **B.A.** in Mathematics & Sociology | Bucknell University (2003)
+
+
 
 ## Training
 
+- {{< fa tools >}} [Perspectives](https://constructivedialogue.org/perspectives/) | Constructive Dialogue Institute (2025)
 - {{< fa tools >}} [Applying the QM Rubric](https://www.qualitymatters.org/professional-development/workshops/higher-ed-appqmr) | Quality Matters (2022)
 - {{< fa tools >}} [Data Science: Foundations Using R Specialization](https://www.coursera.org/specializations/data-science-foundations-r) | Coursera, Johns Hopkins University (2017-2020)
 - {{< fa tools >}} [Methods for Analyzing & Modeling Textual Data](http://summerschool.computationalsocialscience.eu/2018/) | Summer School Series on Methods for Computational Social Science (2018)
-- {{< fa tools >}} **Graduate Certificate** in [Serious Game Design & Research](https://comartsci.msu.edu/academics/academic-departments/media-information/graduate/serious-games-graduate-certificate) | Michigan State University (2014)
+
+
 
 ---
 
@@ -107,8 +109,7 @@ I consider my strongest credential to be my ongoing friendship with my very firs
   - *Design & Technology* SIG
   - *Technology as an Agent of Change in Teaching & Learning* (TACTL) SIG  
 - [**IGDA**](https://igda.org/) | International Game Developers Association
-  - *Black in Games SIG*
-  - *Devs with Kids SIG*
+- [**IPDA**](https://ipda.org.uk/) | International Professional Development Association
 - [**ISSDL**](https://www.sdlglobal.com/) | International Society for Self-Directed Learning
 
 ---
