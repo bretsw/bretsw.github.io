@@ -578,16 +578,17 @@ Staudt Willet, K. B., & Rosenberg, J. M. (2022-2024). *tidytags: Importing and a
 ### Topics
 
 - Learning & Web Analytics (EME6356)
-- Introduction to Instructional Systems (EME5601)
 - Staff Training & Development (ADE5189)
+- Human Resource Development (ADE5083)
+- Introduction to Instructional Systems (EME5601)
 - Evaluation of Instruction & Training in Human-Performance Technology (EME6357)
 
 ### Methods
 
 - Synthesis, Analysis, and Argumentation in Instructional Systems Research (EME6665)
+- Applied Research Methods in Learning Design & Performance Technology (EDF5492)
 - Instructional Systems Research Seminar (EDG6362)
 - Research on Learning, Instruction, & Performance Systems (EDG6363)
-- Applied Research Methods in Learning Design & Performance Technology (EDF5492)
 - Inquiry & Measurement for Practitioners (EDF5442)
 
 
