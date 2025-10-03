@@ -10,33 +10,47 @@ contact: false
 
 ### Florida State University
 
-**EME6356: Learning & Web Analytics** - This course addresses the collection and use of data for decision making and assessment in learning and human performance contexts. Students will get hands-on experience with small data sets and will learn how big data sets are collected and used. The course will explore the role that analytics plays in education and related fields, identify the types of questions that might be answered via both quantitative and qualitative analytics, and engage in analytic- related problem solving. This course will examine case studies and provide students with practice using a variety of tools and services that can help them collect and analyze learning and web data. There are no pre-requisites, and although data will be used prior experience with statistics or research design is not necessary.
+**Learning & Web Analytics (EME6356)** - This course addresses the collection and use of data for decision making and assessment in learning and human performance contexts. Students will get hands-on experience with small data sets and will learn how big data sets are collected and used. The course will explore the role that analytics plays in education and related fields, identify the types of questions that might be answered via both quantitative and qualitative analytics, and engage in analytic- related problem solving. This course will examine case studies and provide students with practice using a variety of tools and services that can help them collect and analyze learning and web data. There are no pre-requisites, and although data will be used prior experience with statistics or research design is not necessary.
 
-**EME5601: Introduction to Instructional Systems** - The goal of this course is for you to develop adequate knowledge of the systematic approach to instructional design, the contexts of application of this approach, and the roles of professionals in this field to be able to adapt and apply the process in a flexible and innovative manner, especially to large-scale projects.
+**Staff Training & Development (ADE5189)** - This course is a practical and professional online course devoted to enhancing students’ ability to design, develop, and deliver different kinds of training, as well as their understanding of the challenges involved in managing the training function in businesses, public agencies, and nonprofit organizations. The general goal of this course is to introduce students to the key concepts, principles, and processes that drive the staff training and development function and to enable them to improve their related analytical and technical skills. 
 
-**EME6665: Synthesis, Analysis, and Argumentation in Instructional Systems Research** -  This course covers tools, techniques, and procedures for finding, synthesizing, analyzing, and summarizing research related to past and ongoing relevant topics in Instructional Systems.
+**Human Resource Development (ADE5083)** - The goal of this course is to develop a greater understanding of the professional field of human resource development (HRD) by examining theoretical foundations, professional areas of practice, and the role of adult learning, performance improvement, career, and organization development.
 
-**EDG6362: Instructional Systems Research Seminar** - This course aims to heighten students’ awareness of the critical issues in instructional systems. It will examine how research methodologies have been used to study these issues, will explore how research programs and theories are progressively honed, and will help students begin to define programmatic areas of disciplined inquiry.
+**Introduction to Instructional Systems (EME5601)** - The goal of this course is for you to develop adequate knowledge of the systematic approach to instructional design, the contexts of application of this approach, and the roles of professionals in this field to be able to adapt and apply the process in a flexible and innovative manner, especially to large-scale projects.
 
-**EDF5442: Inquiry and Measurement for Practitioners** - This is a foundational course that addresses inquiry and measurement concepts at a level appropriate for Master’s students. Through this course you will learn concepts and acquire skills that will help you make data-based decisions related to learning and human performance.
+**Evaluation of Training & Instruction in Human Performance Technology (EME6357)** - This course focuses on the evaluation of training and instruction through a systemic analysis of the organization sponsoring the training program. The course also provides the knowledge and skills for conducting an HPT-based evaluation of training systems. Students actively participate in discussions, presentations, synthesis of materials, and the writing of papers.
 
-**EDF5492: Applied Research Methods in Learning Design & Performance Technology** - This course is a survey of applied research methods commonly used to support problem-solving in learning design and performance technology contexts.
+**Synthesis, Analysis, and Argumentation in Instructional Systems Research (EME6665)** -  This course covers tools, techniques, and procedures for finding, synthesizing, analyzing, and summarizing research related to past and ongoing relevant topics in Instructional Systems.
 
-**EME6357: Evaluation of Training & Instruction in Human Performance Technology** - This course focuses on the evaluation of training and instruction through a systemic analysis of the organization sponsoring the training program. The course also provides the knowledge and skills for conducting an HPT-based evaluation of training systems. Students actively participate in discussions, presentations, synthesis of materials, and the writing of papers.
+**Applied Research Methods in Learning Design & Performance Technology (EDF5492)** - This course is a survey of applied research methods commonly used to support problem-solving in learning design and performance technology contexts.
+
+**Instructional Systems Research Seminar (EDG6362)** - This course aims to heighten students’ awareness of the critical issues in instructional systems. It will examine how research methodologies have been used to study these issues, will explore how research programs and theories are progressively honed, and will help students begin to define programmatic areas of disciplined inquiry.
+
+**Research on Learning, Instruction, & Performance Systems (EDG6363)** - This course provides students with hands-on experience applying research methods to address problems and answer questions in instructional systems and learning technologies (ISLT).
+
+**Inquiry and Measurement for Practitioners (EDF5442)** - This is a foundational course that addresses inquiry and measurement concepts at a level appropriate for Master’s students. Through this course you will learn concepts and acquire skills that will help you make data-based decisions related to learning and human performance.
+
+
+
+
 
 ---
 
 ### Michigan State University
 
-**CEP416: Teaching & Learning with Technology** - Course topics include design thinking, universal design for learning, media & information literacy, professional learning networks, computational thinking, and play-based learning. Students develop plans for integrating technology in classroom. The semester-long project is to design a professional online portfolio.
+**Teaching & Learning with Technology (CEP416)** - Course topics include design thinking, universal design for learning, media & information literacy, professional learning networks, computational thinking, and play-based learning. Students develop plans for integrating technology in classroom. The semester-long project is to design a professional online portfolio.
 
-**CEP813: Electronic Assessment for Teaching & Learning** - Course topics include foundational theories of assessment, formative assessment, feedback, and a critical examination of methods for assessment (e.g., portfolios, rubrics, surveys, tests, self-evaluations). Students develop an assessment design checklist to use in their own professional practice. The semester-long project is to plan a formative assessment design to implement in their own context.
+**Electronic Assessment for Teaching & Learning (CEP813)** - Course topics include foundational theories of assessment, formative assessment, feedback, and a critical examination of methods for assessment (e.g., portfolios, rubrics, surveys, tests, self-evaluations). Students develop an assessment design checklist to use in their own professional practice. The semester-long project is to plan a formative assessment design to implement in their own context.
 
-**CEP817: Learning Technology by Design** - Course topics include design thinking, the design process (empathize, define, ideate, prototype, test), designing for learners, iterative design. and collaboration in design. Students discuss examples of good and bad designs from everyday life. The semester-long project is to work through one cycle of the design process to address a problem of practice from the student’s professional context.
+**Learning Technology by Design (CEP817)** - Course topics include design thinking, the design process (empathize, define, ideate, prototype, test), designing for learners, iterative design. and collaboration in design. Students discuss examples of good and bad designs from everyday life. The semester-long project is to work through one cycle of the design process to address a problem of practice from the student’s professional context.
 
-**CEP820: Teaching Students Online** - Course topics include foundations for online learning, course management systems, various models of online course design, instructor-student communication, assessment, universal design for learning, and online classroom management. Students playfully explore Google Apps, course management systems, screencasting tools, and file management systems. The semester-long project is to design a curriculum for an online course module consisting of 3-5 interconnected lessons, which may include training sessions or non-traditional courses.
+**Teaching Students Online (CEP820)** - Course topics include foundations for online learning, course management systems, various models of online course design, instructor-student communication, assessment, universal design for learning, and online classroom management. Students playfully explore Google Apps, course management systems, screencasting tools, and file management systems. The semester-long project is to design a curriculum for an online course module consisting of 3-5 interconnected lessons, which may include training sessions or non-traditional courses.
 
 ![Bret's teaching](/images/bretsw-teaching.jpg)
+
+
+
+
 
 ---
 
@@ -47,6 +61,10 @@ My teaching philosophy is shaped by two primary principles. These principles are
 I teach toward these principles through several strategies. First, I create a structured plan for my teaching, giving careful thought to overall course organization and flow. I weave a common thread through the course. That is, I offer variety in specific learning tasks but maintain consistency across modules to reduce cognitive load. Second, I assign students meaningful work. That is, I encourage students to connect assignments to real problems they face. For graduate students, this means applying course concepts to tackle thorny problems in their professional context; for undergraduates, this means anticipating their future work. At the start of each semester, I tell students that if they cannot figure out how an assignment will be useful to their professional context and practice, we will work together to adapt the assignment so that it will. Third, I emphasize formative assessment by giving feedback that is timely, thorough, incisive, and kind. I give feedback through various modalities, including video chats, emails, screencast recordings, and comments in documents. In addition to my instructor feedback, I facilitate multidirectional feedback in the form of self-reflection and peer review. Third, building on formative assessments, nearly all the assignments I give are iterative in nature. I design courses around a semester-long project, with regular assignments that help students progress incrementally toward their final product. I emphasize that this process is not linear, but cyclical and responsive to feedback. Students complete work, but then revisit and improve. Fourth, I invite students to practice social scholarship (see my 2019 work with Greenhow and Gleason, published in British Journal of Educational Technology) by tweeting questions and posting work publicly on a blog. 
 
 As a specific example, in a Master’s course called *Learning Technology by Design*, students develop a problem-of-practice project (i.e., their semester-long task) rooted in their own professional context. Students learn the theory and applications of design thinking by moving their problem-of-practice through one full cycle of a design process, which I draw from the [Stanford d.school model](https://dschool.stanford.edu/resources/design-thinking-bootleg): understand the audience, define the problem, ideate (i.e., brainstorm and incubate ideas), prototype, test, and iterate. At each stage, I give substantial, formative feedback through text comments on work documents. In addition, I assign students to “design teams,” where they reflect with teammates on course materials, ask questions, pitch their in-process problem-of-practice progress, and give peer feedback regularly through frequent, brief, asynchronous video posts on Flipgrid. Completed assignments take the form of typed documents, handwritten notes, sketches, and video—all of which are compiled into a design report at the end of the semester.
+
+
+
+
 
 ---
 
