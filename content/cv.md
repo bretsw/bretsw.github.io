@@ -729,13 +729,14 @@ Staudt Willet, K. B. (2018, October). *Experiences from the practicum* [Panel fo
 ### FSU University Service
 
 - Educational Research Catalyst, FSU Innovation Hub (2024-present)
-- Member, Steering Committee, FSU Innovation Hub (2024-present)
+
 
 
 ### FSU College Service
 
 - Chair, Faculty Advisory Committee (2024-2025)
 - Member, Faculty Advisory Committee (2023-2024, 2025-2027)
+
 
 
 ### FSU Department Service
