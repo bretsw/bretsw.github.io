@@ -115,7 +115,7 @@ Anne Spencer Daves College of Education, Health, and Human Sciences
 
 ### Refereed Journal Articles (31)
 
-Staudt Willet, K. B., Carpenter, J. P., & Na, H. (in press). Ex-edchat: Historic retrospective of X/Twitter #edchat. *Computers & Education*.
+Staudt Willet, K. B., Carpenter, J. P., & Na, H. (in press). Ex-edchat: Historic retrospective of X/Twitter #edchat. *Computers & Education*. doi:[10.1016/j.compedu.2025.105476](https://doi.org/10.1016/j.compedu.2025.105476)
 
 Na, H., Staudt Willet, K. B., & Kim, C. (2025). Investigating the impact of AR technologies on geometric learning in primary school: A comparison of marker-based and markerless AR. *British Journal of Educational Technology, 56*(6), 2502-2521. doi:[10.1111/bjet.13584](https://doi.org/10.1111/bjet.13584)
 
