@@ -86,6 +86,7 @@ Anne Spencer Daves College of Education, Health, and Human Sciences
 
 ### Service Awards
 
+- <i class="fas fa-award" style="color:#ceb888"></i> **Reviewer Excellence Award** from the *Educational Technology Research & Development* (ETR&D) journal (2025).
 - <i class="fas fa-award" style="color:#ceb888"></i> **Outstanding Service Award** from the Research & Theory Division, Association for Educational Communications & Technology (AECT) (2025).
 - <i class="fas fa-award" style="color:#ceb888"></i> **Outstanding Reviewer Award** from the Research & Theory Division, Association for Educational Communications & Technology (AECT) (2024).
 - <i class="fas fa-award" style="color:#ceb888"></i> **Outstanding Service Award** from the Research & Theory Division, Association for Educational Communications & Technology (AECT) (2021).
@@ -115,7 +116,9 @@ Anne Spencer Daves College of Education, Health, and Human Sciences
 
 ### Refereed Journal Articles (31)
 
-Staudt Willet, K. B., Carpenter, J. P., & Na, H. (in press). Ex-edchat: Historic retrospective of X/Twitter #edchat. *Computers & Education*. doi:[10.1016/j.compedu.2025.105476](https://doi.org/10.1016/j.compedu.2025.105476)
+Staudt Willet, K. B., Carpenter, J. P., & Na, H. (2026). Ex-edchat: Historic retrospective of X/Twitter #edchat. *Computers & Education, 241,* 105476. doi:[10.1016/j.compedu.2025.105476](https://doi.org/10.1016/j.compedu.2025.105476)
+
+
 
 Na, H., Staudt Willet, K. B., & Kim, C. (2025). Investigating the impact of AR technologies on geometric learning in primary school: A comparison of marker-based and markerless AR. *British Journal of Educational Technology, 56*(6), 2502-2521. doi:[10.1111/bjet.13584](https://doi.org/10.1111/bjet.13584)
 
@@ -768,6 +771,7 @@ Staudt Willet, K. B. (2018, October). *Experiences from the practicum* [Panel fo
 
 ### Editor for Refereed Journals
 
+- Associate Editor, *Technology, Knowledge and Learning* (2025-present). https://link.springer.com/journal/10758/editorial-board
 - Associate Editor, *International Journal of Self-Directed Learning* (2025-present). https://www.sdlglobal.com/journal
 
 
@@ -786,7 +790,7 @@ Staudt Willet, K. B. (2018, October). *Experiences from the practicum* [Panel fo
 
 
 
-### Guest Reviewer for Refereed Journals (131 reviews)
+### Guest Reviewer for Refereed Journals (144 reviews)
 
 - *AERA Open* (2021).
 - *American Journal of Education* (2019-2020).
