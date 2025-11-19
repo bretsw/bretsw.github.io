@@ -553,6 +553,7 @@ Staudt Willet, K. B., & Rosenberg, J. M. (2022-2024). *tidytags: Importing and a
 ### Contracts and Grants Pending
 
 - <i class="fas fa-exclamation-triangle" style="color:#ceb888"></i> Peluso, P. R., & Staudt Willet, K. B. (Sep 2025). CRC SEED: Developing the Acquisition of Knowledge and Intention for Relationship Awareness (AKIRA) Platform—Utilizing Artificial Intelligence to Resolve Parent-Child Conflicts. Total requested: $46,250. *I am the Co-PI for this grant proposal.*
+- <i class="fas fa-exclamation-triangle" style="color:#ceb888"></i> Staudt Willet, K. B. (Oct 2025). BSDMC: Advancing Human Intelligence in AI-Assisted Self-Directed Learning. Submitted to Russell Sage Foundation: Behavioral Science and Decision Making in Context (BSDMC). Total requested: $162,150. *I am the PI for this grant proposal.*
 
 
 
@@ -734,6 +735,7 @@ Staudt Willet, K. B. (2018, October). *Experiences from the practicum* [Panel fo
 ### FSU University Service
 
 - Educational Research Catalyst, FSU Innovation Hub (2024-present)
+- Member, Provost’s Social Media Policy Advisory Committee (SPAC) (2025-present)
 
 
 
@@ -747,20 +749,18 @@ Staudt Willet, K. B. (2018, October). *Experiences from the practicum* [Panel fo
 ### FSU Department Service
 
 - Member, Faculty Evaluation Committee (2021–2023, 2025-2027).
-- Member, Staff Search Committee, Educational Psychology & Learning Systems (2025).
+- Member, Staff Search Committee, Educational Psychology & Learning Systems (2024, 2025).
 - Member, ACTION (Diversity, Equity, and Inclusion) Committee (2022-2025).
 - Member, Faculty Search Committee, School Psychology (2024-2025).
-- Member, Staff Search Committee, Educational Psychology & Learning Systems (2024).
+
 
 
 ### FSU Program Service
 
 - Ph.D. Director, ISLT Program (2022-present).
-- Member, Faculty Search Committee (2024–2025).
+- Member, Faculty Search Committee (2021–2022, 2024–2025).
 - Liaison, Morgan Studio (2022-2025).
 - Coordinator, ISLT Brown Bag Series (2022-2023).
-- Member, Faculty Search Committee (2021–2022).
-- Reviewer, Ph.D. Preliminary Exams Committee (2021-2022).
 
 
 
@@ -790,7 +790,7 @@ Staudt Willet, K. B. (2018, October). *Experiences from the practicum* [Panel fo
 
 
 
-### Guest Reviewer for Refereed Journals (144 reviews)
+### Guest Reviewer for Refereed Journals (145 reviews)
 
 - *AERA Open* (2021).
 - *American Journal of Education* (2019-2020).
@@ -821,8 +821,9 @@ Staudt Willet, K. B. (2018, October). *Experiences from the practicum* [Panel fo
 - *Review of Educational Research* (2023-present).
 - *Routledge Open Research* (2023-present).
 - *System* (2025).
+- *Teachers & Teaching* (2025).
 - *Teaching & Teacher Education* (2021-present).
-- *Technology, Knowledge, & Learning* (2025-present).
+- *Technology, Knowledge & Learning* (2025-present).
 - *TechTrends* (2021-present).
 
 
@@ -855,7 +856,7 @@ Staudt Willet, K. B. (2018, October). *Experiences from the practicum* [Panel fo
 
 ## Consultation
 
-- **Front-End Developer**, Community College Research Center at Teachers College, Columbia University; development team at University of Tennessee, Knoxville; funded by JPMorgan Chase Grant: Designed and rebuilt interface for Shiny [web app](https://ed-analytics.shinyapps.io/airea-data-explorer/) (2023-present).
+- **Front-End Developer**, JPMorganChase Grant, "Advanced Infrastructure, Energy, and Agriculture (AIREA) Data Explorer" (Wang, Rosenberg, Sublett, Fresard, & Staudt Willet); with the Community College Research Center at Teachers College, Columbia University; development team at University of Tennessee, Knoxville: Designed and rebuilt interface for Shiny [web app](https://ed-analytics.shinyapps.io/airea-data-explorer/) (2024-present).
 - **Front-End Developer**, IES Grant, [Quantifying the Robustness of Causal Inferences: Extensions and Application to Existing Databases](https://ies.ed.gov/funding/grantsearch/details.asp?ID=5723) (Frank, Maroulis, Saw, Xu, & Rosenberg): Designed and rebuilt interface for Shiny [web app](https://konfound-project.shinyapps.io/konfound-it/) and [website](https://konfound-it.org/) (2023-present).
 - **Data Scientist**, NSF/WTG Grant, [Diffusion of Research on Supporting Mathematics Achievement for Youth with Disabilities through Twitter Translational Visual Abstracts](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2244734) (Rodrigues, Farley-Ripple, & Malin): Collected and analyzed data for the social media intervention portion of the project.
  Mar 2023–Feb 2026).hg
