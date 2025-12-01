@@ -28,9 +28,11 @@ mainSectionsTitle = ""
 
 I am an Assistant Professor of [Instructional Systems & Learning Technologies](https://annescollege.fsu.edu/instructional-systems-and-learning-technologies) at Florida State University and the Educational Research Catalyst for the [FSU Innovation Hub](https://www.innovation.fsu.edu/). My preferred pronouns are **he/him/his**.
 
-My research investigates **self-directed learning**: how people figure things out on their own using the internet, exploring in games, and innovating during intensive events. I'm most interested in what happens when students, learners, and trainees finish formal instruction, preparation, and training. What do they do *after* they walk out the door or log off? How do they continue to develop their knowledge, skills, and abilities? Where do they look for resources? Who do they talk to? 
+My research investigates **self-directed learning**: how people figure things out on their own using artificial intelligence (AI), the internet, and games. I'm most interested in what happens when students, learners, and trainees finish formal instruction, preparation, and training. What do they do *after* they walk out the door or log off? How do they continue to develop their knowledge, skills, and abilities? Where do they look for resources? Who do they talk to? 
 
-I frequently investigate self-directed learning with the tools of **educational data science**, including learning analytics, social network analysis, discourse analysis, natural language processing, and educational data mining.
+I frequently explore self-directed learning with the tools of **educational data science**, including learning analytics, social network analysis, natural language processing, and educational data mining.
+
+As Educational Research Catalyst for the FSU Innovation Hub, I examine the broader educational impact of hands-on, experiential-learning programs. I approach the processes that occur during intensive events at the Hub, such as Hackathons, Design Sprints, and Game Jams, as a microcosm of learning and making in everyday life as innovation, human intelligence, and artificial intelligence converge.
 
 My academic training spans **educational technology** (Ph.D., M.A.), **educational psychology** (Ph.D.), **serious games** (Graduate Certificate), **sociology** (B.A.), and **mathematics** (B.A.).
 
