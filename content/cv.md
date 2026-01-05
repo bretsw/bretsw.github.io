@@ -114,7 +114,9 @@ Anne Spencer Daves College of Education, Health, and Human Sciences
 ## Publications
 
 
-### Refereed Journal Articles (31)
+### Refereed Journal Articles (32)
+
+Staudt Willet, K. B., Bai, C. Hur, J., & Akcaoglu, M. (in press). Structure and content of interactions: Social presence in asynchronous online whole-class vs. small-group discussions. *International Review of Research in Open and Distributed Learning*.
 
 Staudt Willet, K. B., Carpenter, J. P., & Na, H. (2026). Ex-edchat: Historic retrospective of X/Twitter #edchat. *Computers & Education, 241,* 105476. doi:[10.1016/j.compedu.2025.105476](https://doi.org/10.1016/j.compedu.2025.105476)
 
