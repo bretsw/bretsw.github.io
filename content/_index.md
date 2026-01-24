@@ -20,7 +20,7 @@ mainSectionsTitle = ""
 
 {{< fa microphone >}} Read my full interview with Melissa Powell in *The Torch* magazine: [Learning Without Limits](https://issuu.com/fsu_education/docs/thetorchspring24_finaldigital) (2024, pp. 16-19).
 
-{{< fa globe >}} My Florida State University homepage is [here](https://cehhs.fsu.edu/faculty-and-staff/dr-bret-staudt-willet).
+{{< fa globe >}} My Florida State University homepage is [here](https://annescollege.fsu.edu/faculty-staff/dr-bret-staudt-willet/).
 
 {{< fa users >}} The Research & Exploration of Context-Aware Self-Teaching (RECAST) team website is [here](https://recast.team/).
 
@@ -30,9 +30,9 @@ I am an Assistant Professor of [Instructional Systems & Learning Technologies](h
 
 My research investigates **self-directed learning**: how people figure things out on their own using artificial intelligence (AI), the internet, and games. I'm most interested in what happens when students, learners, and trainees finish formal instruction, preparation, and training. What do they do *after* they walk out the door or log off? How do they continue to develop their knowledge, skills, and abilities? Where do they look for resources? Who do they talk to? 
 
-I frequently explore self-directed learning with the tools of **educational data science**, including learning analytics, social network analysis, natural language processing, and educational data mining.
+I frequently explore self-directed learning with the tools of **educational data science**, including learning analytics, social network analysis, natural language processing, and data mining.
 
-As Educational Research Catalyst for the FSU Innovation Hub, I examine the broader educational impact of hands-on, experiential-learning programs. I approach the processes that occur during intensive events at the Hub, such as Hackathons, Design Sprints, and Game Jams, as a microcosm of learning and making in everyday life as innovation, human intelligence, and artificial intelligence converge.
+As **Educational Research Catalyst** for the FSU Innovation Hub, I examine the broader educational impacts of hands-on, experiential-learning programs. I approach the processes that occur during intensive events at the Hub, such as Hackathons, Design Sprints, and Game Jams, as a microcosm of learning and making in everyday life as innovation, human intelligence, and artificial intelligence converge.
 
 My academic training spans **educational technology** (Ph.D., M.A.), **educational psychology** (Ph.D.), **serious games** (Graduate Certificate), **sociology** (B.A.), and **mathematics** (B.A.).
 
@@ -75,7 +75,8 @@ I consider my strongest credential to be my ongoing friendship with my very firs
   - Interviews
   - Case Study
 - {{< fa calculator >}} **Quantitative Inquiry**
-  - Learning Analytics + Social Network Analysis
+  - Learning Analytics 
+  - Social Network Analysis + Epistemic Network Analysis
   - Educational Data Mining + Web Scraping
   - Natural Language Processing
 
@@ -110,9 +111,17 @@ I consider my strongest credential to be my ongoing friendship with my very firs
 - [**AERA**](https://www.aera.net/) | American Educational Research Association
   - *Design & Technology* SIG
   - *Technology as an Agent of Change in Teaching & Learning* (TACTL) SIG  
-- [**IGDA**](https://igda.org/) | International Game Developers Association
-- [**IPDA**](https://ipda.org.uk/) | International Professional Development Association
 - [**ISSDL**](https://www.sdlglobal.com/) | International Society for Self-Directed Learning
+
+
+
+---
+
+## Short Bio
+
+My research explores self-directed learning, focusing on how learners navigate digital spaces, social media platforms, and emerging technologies. My work attends to identity, agency, ethical concerns, and the application of data-driven methods such as social network analysis and learning analytics to understand educational phenomena.
+
+
 
 ---
 
