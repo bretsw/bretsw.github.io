@@ -602,19 +602,17 @@ Staudt Willet, K. B., & Rosenberg, J. M. (2022-2024). *tidytags: Importing and a
 
 
 
-## Doctoral Committee Chair (20 current, 8 graduates)
+## Doctoral Committee Chair (17 current, 10 graduates)
 
 - Aich, S., doctoral candidate. *Understanding the use of self-directed learning for cybersecurity skill enhancement among higher education institution information security staff*.
 - Ajayi, D., doctoral student.
 - Anderson, J., doctoral student.
-- Arthur, A., doctoral candidate. *Educational disruptors: How COVID-19 impacted teacher educational technology knowledge in the post-pandemic classroom*.
 - Bai, C., doctoral student.
 - Catteeuw, C., doctoral candidate. *Examining new instructional designers’ use of LinkedIn during their transition from K-12 teaching*.
 - Costa, A., doctoral candidate. *The preparedness problem: Self-directed learning practices among behavior analysis adjunct faculty to overcome instructional readiness gaps*.
 - Davis, N., doctoral student.
 - Dorce, W., doctoral student. 
 - Fulwider, G. C., doctoral candidate. *Game-based assessment of statistical self-efficacy: An alternative to the self-report of non-cognitive beliefs*.
-- Harle, J., doctoral candidate. *From classroom to career: How LinkedIn fuels self-directed learning for Florida State University, College of Business Seniors*.
 - Jamoom, P., doctoral student.
 - Kavoosi, R., doctoral student.
 - Kim, C., doctoral candidate. *Investigating the impact of competition and role assignment in educational escape room design on nursing students' knowledge gains and epistemic networks*.
@@ -622,10 +620,11 @@ Staudt Willet, K. B., & Rosenberg, J. M. (2022-2024). *tidytags: Importing and a
 - Lewis, A., doctoral candidate. *Advising that matters: Exploring student perceptions of effective academic advising*.
 - Mbanzabugabo, J. B., doctoral student.
 - Rodriguez, C., doctoral candidate. *Teachergram as an activity system: A qualitative exploration of teacher perspectives*.
-- Sementelli, R., doctoral candidate. *The effect of the gamification of training on knowledge recall, training satisfaction, and perceived performance in an ERP environment*.
 - Xu, J., doctoral candidate. *Becoming scholars: Graduate teaching assistants' professional development in the scholarship of teaching and learning*.
 - <i class="fas fa-graduation-cap" style="color:#782f40"></i> Aguilar, V., Ed.D. graduate 2025. *Using self-directed learning to prepare elementary preservice teachers to work with English language learners*.
+- <i class="fas fa-graduation-cap" style="color:#782f40"></i> Arthur, A., Ed.D. graduate, 2025. *Educational disruptors: How COVID-19 impacted teacher educational technology knowledge in the post-pandemic classroom*.
 - <i class="fas fa-graduation-cap" style="color:#782f40"></i> Fairclough, K., Ed.D. graduate 2025. *Supervisory competence in behavior analysts using self-directed learning*.
+- <i class="fas fa-graduation-cap" style="color:#782f40"></i> Harle, J., Ed.D. graduate, 2025. *From classroom to career: How LinkedIn fuels self-directed learning for Florida State University, College of Business Seniors*.
 - <i class="fas fa-graduation-cap" style="color:#782f40"></i> Madison, C., Ed.D. graduate 2024. *Pedagogical content knowledge in elementary mathematics teachers: A qualitative study on teacher perspective and instructional practice*.
 - <i class="fas fa-graduation-cap" style="color:#782f40"></i> Morris, V., Ed.D. graduate 2024. *High-achieving teenage students' use of social media and technology to complete advanced placement coursework*.
 - <i class="fas fa-graduation-cap" style="color:#782f40"></i> Na, H., Ph.D. graduate 2025. *The relationships between computational thinking development and online engagements in a Scratch online self-directed learning community*.
