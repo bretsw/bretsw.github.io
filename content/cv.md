@@ -97,8 +97,6 @@ Anne Spencer Daves College of Education, Health, and Human Sciences
 
 - American Educational Research Association ([AERA](https://www.aera.net/)) 
 - Association for Educational Communications & Technology ([AECT](https://aect.org/))
-- International Game Developers Association ([IGDA](https://igda.org/))
-- International Professional Development Association ([IPDA](https://ipda.org.uk/))
 - International Society for Self-Directed Learning ([ISSDL](https://www.sdlglobal.com/))
 
 
@@ -785,9 +783,9 @@ Staudt Willet, K. B. (2018, October). *Experiences from the practicum* [Panel fo
 
 - *British Journal of Educational Technology* (2024-present). [Board listing](https://bera-journals.onlinelibrary.wiley.com/hub/journal/14678535/editorialboard.html).
 - *Journal of Research on Technology in Education* (2023–present). [Board listing](https://www.tandfonline.com/action/journalInformation?show=editorialBoard&journalCode=ujrt20).
-- *Professional Development in Education* (2024–present). [Board listing](https://www.tandfonline.com/journals/rjie20/about-this-journal#editorial-board).
 - *Teaching and Teacher Education* (2025-present). [Board listing](https://www.sciencedirect.com/journal/teaching-and-teacher-education/about/editorial-board).
-- *International Journal of Self-Directed Learning* (2023–2024). [Board listing](https://www.sdlglobal.com/journal).
+- *International Journal of Self-Directed Learning* (2023–2024).
+- *Professional Development in Education* (2024–2026).
 
 
 
@@ -818,7 +816,7 @@ Staudt Willet, K. B. (2018, October). *Experiences from the practicum* [Panel fo
 - *Journal of Statistics and Data Science Education* (2024-present).
 - *Learning, Media & Technology* (2016).
 - *Online Learning Journal* (2024-present).
-- *Professional Development in Education* (2022-present).
+- *Professional Development in Education* (2022-2026).
 - *Review of Educational Research* (2023-present).
 - *Routledge Open Research* (2023-present).
 - *System* (2025).
