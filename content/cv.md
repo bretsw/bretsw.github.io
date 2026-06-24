@@ -600,39 +600,41 @@ Staudt Willet, K. B., & Rosenberg, J. M. (2022-2024). *tidytags: Importing and a
 
 
 
-## Doctoral Committee Chair (17 current, 10 graduates)
+## Doctoral Committee Chair (12 current, 17 graduates)
 
-- Aich, S., doctoral candidate. *Understanding the use of self-directed learning for cybersecurity skill enhancement among higher education institution information security staff*.
 - Ajayi, D., doctoral student.
 - Anderson, J., doctoral student.
-- Bai, C., doctoral student.
-- Catteeuw, C., doctoral candidate. *Examining new instructional designers’ use of LinkedIn during their transition from K-12 teaching*.
-- Costa, A., doctoral candidate. *The preparedness problem: Self-directed learning practices among behavior analysis adjunct faculty to overcome instructional readiness gaps*.
-- Davis, N., doctoral student.
-- Dorce, W., doctoral student. 
-- Fulwider, G. C., doctoral candidate. *Game-based assessment of statistical self-efficacy: An alternative to the self-report of non-cognitive beliefs*.
-- Jamoom, P., doctoral student.
-- Kavoosi, R., doctoral student.
-- Kim, C., doctoral candidate. *Investigating the impact of competition and role assignment in educational escape room design on nursing students' knowledge gains and epistemic networks*.
-- Kirby, T., doctoral student.
+- Cowart, P., doctoral student.
+- Davis, N., doctoral candidate.
+- Dorce, W., doctoral student.
+- Jamoom, P., doctoral candidate.
+- Kavoosi, R., doctoral candidate.
+- Kirby, T., doctoral candidate.
 - Lewis, A., doctoral candidate. *Advising that matters: Exploring student perceptions of effective academic advising*.
-- Mbanzabugabo, J. B., doctoral student.
-- Rodriguez, C., doctoral candidate. *Teachergram as an activity system: A qualitative exploration of teacher perspectives*.
-- Xu, J., doctoral candidate. *Becoming scholars: Graduate teaching assistants' professional development in the scholarship of teaching and learning*.
+- Mbanzabugabo, J. B., doctoral candidate.
+- Seidl, K. doctoral student.
+- Souza, P., doctoral student.
 - <i class="fas fa-graduation-cap" style="color:#782f40"></i> Aguilar, V., Ed.D. graduate 2025. *Using self-directed learning to prepare elementary preservice teachers to work with English language learners*.
+- <i class="fas fa-graduation-cap" style="color:#782f40"></i> Aich, S., Ed.D. graduate 2026. *Understanding the use of self-directed learning for cybersecurity skill enhancement among higher education institution information security staff*.
 - <i class="fas fa-graduation-cap" style="color:#782f40"></i> Arthur, A., Ed.D. graduate, 2025. *Educational disruptors: How COVID-19 impacted teacher educational technology knowledge in the post-pandemic classroom*.
+- <i class="fas fa-graduation-cap" style="color:#782f40"></i> Catteeuw, C., Ed.D. graduate 2026. *Examining new instructional designers’ use of LinkedIn during their transition from K-12 teaching*.
+- <i class="fas fa-graduation-cap" style="color:#782f40"></i> Costa, A., Ed.D. graduate 2026. *The preparedness problem: Self-directed learning practices among behavior analysis adjunct faculty to overcome instructional readiness gaps*.
 - <i class="fas fa-graduation-cap" style="color:#782f40"></i> Fairclough, K., Ed.D. graduate 2025. *Supervisory competence in behavior analysts using self-directed learning*.
+- <i class="fas fa-graduation-cap" style="color:#782f40"></i> Fulwider, G. C., Ph.D. graduate 2026. *Game-based assessment of statistical self-efficacy: An alternative to the self-report of non-cognitive beliefs*.
 - <i class="fas fa-graduation-cap" style="color:#782f40"></i> Harle, J., Ed.D. graduate, 2025. *From classroom to career: How LinkedIn fuels self-directed learning for Florida State University, College of Business Seniors*.
+- <i class="fas fa-graduation-cap" style="color:#782f40"></i> Kim, C., Ph.D. graduate 2026. *Investigating the impact of competition and role assignment in educational escape room design on nursing students' knowledge gains and epistemic networks*.
 - <i class="fas fa-graduation-cap" style="color:#782f40"></i> Madison, C., Ed.D. graduate 2024. *Pedagogical content knowledge in elementary mathematics teachers: A qualitative study on teacher perspective and instructional practice*.
 - <i class="fas fa-graduation-cap" style="color:#782f40"></i> Morris, V., Ed.D. graduate 2024. *High-achieving teenage students' use of social media and technology to complete advanced placement coursework*.
 - <i class="fas fa-graduation-cap" style="color:#782f40"></i> Na, H., Ph.D. graduate 2025. *The relationships between computational thinking development and online engagements in a Scratch online self-directed learning community*.
+- <i class="fas fa-graduation-cap" style="color:#782f40"></i> Rodriguez, C., Ed.D. graduate 2026. *Teachergram as an activity system: A qualitative exploration of teacher perspectives*.
 - <i class="fas fa-graduation-cap" style="color:#782f40"></i> Smith, C., Ed.D. graduate 2023. *Culturally Inclusive Instructional Strategies Implemented by Designers-by-Assignment in Higher Education Student Services*.
 - <i class="fas fa-graduation-cap" style="color:#782f40"></i> Stoutjesdyk, J., Ed.D. graduate 2023. *An Investigation into Florida High School English Teachers' Response to CS/HB 1467*.
 - <i class="fas fa-graduation-cap" style="color:#782f40"></i> Wick, J., Ed.D. graduate 2023. *Middle School Teachers’ Perceptions on the Effectiveness and Relevance of Mandated Professional Development*.
+- <i class="fas fa-graduation-cap" style="color:#782f40"></i> Xu, J., Ph.D. graduate 2026. *Becoming scholars: Graduate teaching assistants' professional development in the scholarship of teaching and learning*.
 
 
 
-## Doctoral Committee Member (19 current, 23 graduates)
+## Doctoral Committee Member (17 current, 25 graduates)
 
 - Adolfson, D., doctoral candidate.
 - Bounds, J., doctoral candidate.
@@ -649,8 +651,6 @@ Staudt Willet, K. B., & Rosenberg, J. M. (2022-2024). *tidytags: Importing and a
 - McKenzie, R., doctoral candidate.
 - Pomales, L., doctoral candidate.  *Exploring the organizational training transfer problem: Strategic practices of training practitioners across workplace training interventions*.
 - Rivero-Setien, S., doctoral candidate. *Beyond the numbers: Challenges and effects of educational technology integration on elementary educator practice and the academic achievement of students with developmental dyscalculia*.
-- Sorrells, J., doctoral candidate.
-- Sprenkle, S., doctoral candidate. *An examination of leadership competencies and job descriptions for medium and large public and private organizations*.
 - Wei, S., doctoral candidate.
 - Zhang, N., doctoral candidate. *Supporting preservice teachers' interpretations of student resources and responsive teaching in AI-supported teaching simulation*.
 - <i class="fas fa-graduation-cap" style="color:#782f40"></i> Alvarez, E., Ed.D. graduate 2025. *Cognitive and non-cognitive predictors of success on the national physical therapy examination in a Doctor of Physical Therapy program*
@@ -674,6 +674,8 @@ Staudt Willet, K. B., & Rosenberg, J. M. (2022-2024). *tidytags: Importing and a
 - <i class="fas fa-graduation-cap" style="color:#782f40"></i> Pryor, T., Ed.D. graduate 2024. *Cultural responsiveness in instructional design: A study of instructional designers' use of strategies in the non-academic, adult learning context*.
 - <i class="fas fa-graduation-cap" style="color:#782f40"></i> Robbins, A., Ed.D. graduate 2025. *A general education teacher story: Gaining knowledge through communities of practice to work with students with disabilities*.
 - <i class="fas fa-graduation-cap" style="color:#782f40"></i> Shi, H., Ph.D. graduate 2025. *Promoting the progression of collaborative ill-structured problem-solving: The roles of socially shared metacognition and group scaffolds*.
+- <i class="fas fa-graduation-cap" style="color:#782f40"></i> Sorrells, J., Ed.D. graduate 2026. *Navigating the new FAFSA: Undergraduates' experiences, support systems, and college access*.
+- <i class="fas fa-graduation-cap" style="color:#782f40"></i> Sprenkle, S., Ed.D. graduate 2026. *An examination of leadership competencies and job descriptions for medium and large public and private organizations*.
 - <i class="fas fa-graduation-cap" style="color:#782f40"></i> West, L., Ph.D. graduate 2024. *Dynamic visuospatial support for Mandarin tone learning in a language-driven game*.
 - <i class="fas fa-graduation-cap" style="color:#782f40"></i> Word, K., Ph.D. graduate 2025.*Networked individualism and personal learning networks (PLN): The self-directed learning journey of endometriosis patients*.
 

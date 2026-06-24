@@ -9,6 +9,25 @@ contact: false
 
 ---
 
+## Computing Terminology Explorer: Academic Programs vs. Job Advertisements (R Shiny app)
+
+**ACT-EDLAB** (Aligning Computing Terminology: Education to Labor Markets)
+
+![ACT-EDLAB shiny app](/images/logo-ACT-EDLAB.png)
+
+Data dashboard designed to help researchers, educators, and industry partners investigate the (mis)alignment between the computing terminology used in academic program course titles and in job advertisements.
+
+<i class="fas fa-calculator"></i> [Use the R Shiny app](https://bretsw.shinyapps.io/terminology-dashboard/)
+
+
+
+
+
+
+<br>
+
+---
+
 ## Research & Exploration of Context-Aware Self-Teaching (website)
 
 ![RECAST team website](/images/logo-recast.png)
