@@ -1,6 +1,6 @@
 ---
 title: "Datasets for Coding and Statistics Practice"
-date: 2024-06-21
+date: 2026-06-27
 thumbnail: "/images/pebbles.jpg"
 Description: ""
 Tags: ["data", "R", "dataviz", "datasets"]
@@ -56,6 +56,8 @@ DisableComments: true
 ## Other Datasets
 - *Data Science in Education Using R* book datasets and practice: https://data-edu.github.io/dataedu/
 - Open University Learning Analytics dataset: https://analyse.kmi.open.ac.uk/open_dataset
+- Hugging Face datasets: https://huggingface.co/datasets
+- Pew Research Center datasets: https://www.pewresearch.org/datasets/
 - Common Data Set Initiative: https://commondataset.org/
 - OpenIntro datasets: https://www.openintro.org/data/
 - Common Online Data Analysis Platform (CODAP): https://codap.concord.org/

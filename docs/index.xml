@@ -6,7 +6,18 @@
     <description>Recent content on Bret Staudt Willet, Ph.D.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 22 Sep 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://bretsw.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 27 Jun 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://bretsw.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Datasets for Coding and Statistics Practice</title>
+      <link>https://bretsw.com/post/datasets/</link>
+      <pubDate>Sat, 27 Jun 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://bretsw.com/post/datasets/</guid>
+      
+        <description>Datasets Built into R Packages Starwars: https://github.com/tidyverse/dplyr/blob/main/data-raw/starwars.csv Cars: https://github.com/tidyverse/ggplot2/blob/main/data-raw/mpg.csv Diamonds: https://github.</description>
+      
+    </item>
+    
     <item>
       <title>ISSDL Webinar: Self-Directed Learning Spanning Contexts</title>
       <link>https://bretsw.com/post/issdl-webinar-2025/</link>
@@ -171,17 +182,6 @@ My name is Bret Staudt Willet. I’m an Assistant Professor in Instructional Sys
       <guid>https://bretsw.com/post/new-model-sdl/</guid>
       
         <description>Overview Along with Hunhui Na, I have been working on developing an updated model for self-directed learning.</description>
-      
-    </item>
-    
-    <item>
-      <title>Datasets for Coding and Statistics Practice</title>
-      <link>https://bretsw.com/post/datasets/</link>
-      <pubDate>Fri, 21 Jun 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://bretsw.com/post/datasets/</guid>
-      
-        <description>Datasets Built into R Packages Starwars: https://github.com/tidyverse/dplyr/blob/main/data-raw/starwars.csv Cars: https://github.com/tidyverse/ggplot2/blob/main/data-raw/mpg.csv Diamonds: https://github.</description>
       
     </item>
     
