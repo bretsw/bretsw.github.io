@@ -9,7 +9,7 @@ tags: ["cv", "fsu"]
 
 # K. Bret Staudt Willet, Ph.D. 
 
-## Assistant Professor, Florida State University
+## Associate Professor, Florida State University
 
 **Instructional Systems & Learning Technologies**  
 Department of Educational Psychology & Learning Systems  
@@ -55,9 +55,12 @@ Anne Spencer Daves College of Education, Health, and Human Sciences
 - *Game Design and Facilitation.* The Thiagi Group. (2012).
 
 
+
 ## Professional Experience
 
-- **Assistant Professor**, Instructional Systems & Learning Technologies, Florida State University. (2021-present).
+- **Associate Professor**, Instructional Systems & Learning Technologies, Florida State University. (2026-present).
+- **Assistant Professor**, Instructional Systems & Learning Technologies, Florida State University. (2021-2026).
+
 
 
 ## Honors, Awards, and Prizes
