@@ -5,8 +5,10 @@ mainSectionsTitle = ""
 
 # Hi, I'm Dr. Bret.
 
-[{{< fa globe >}} Read CV](cv/) | 
-[{{< fa file-download >}} Download CV](https://www.fsu.edu/cvdb/KSTAUDTWILLET.rtf?0=)
+[<i class="fas fa-globe"></i> Read CV](cv/) | 
+[<i class="fas fa-file-download"></i> Download CV](https://cvdb.fsu.edu/cvdb/KSTAUDTWILLET.rtf) | 
+[<i class="fas fa-users" style="color:#782f40"></i> Meet the RECAST research team](https://recast.team/)
+
 
 ---
 
@@ -17,12 +19,9 @@ mainSectionsTitle = ""
 </div>
 
 
+<i class="fas fa-microphone" style="color:#782f40"></i> Read my full interview with Melissa Powell in *The Torch* magazine: [Learning Without Limits](https://issuu.com/fsu_education/docs/thetorchspring24_finaldigital) (2024, pp. 16-19).
 
-{{< fa microphone >}} Read my full interview with Melissa Powell in *The Torch* magazine: [Learning Without Limits](https://issuu.com/fsu_education/docs/thetorchspring24_finaldigital) (2024, pp. 16-19).
 
-{{< fa globe >}} My Florida State University homepage is [here](https://annescollege.fsu.edu/faculty-staff/dr-bret-staudt-willet/).
-
-{{< fa users >}} The Research & Exploration of Context-Aware Self-Teaching (RECAST) team website is [here](https://recast.team/).
 
 ---
 
@@ -42,43 +41,26 @@ I consider my strongest credential to be my ongoing friendship with my very firs
 
 ---
 
-## Roles and Skills
+## Professional Roles
 
-{{< fa people-arrows >}} **Researcher:** Design of Inquiry + Data Analytics
-
-{{< fa chalkboard-teacher >}} **Educator:** Design of Instruction + Facilitation
-
-{{< fa compass >}} **Consultant:** Design Thinking + Systems Thinking
+- <i class="fas fa-people-arrows" style="color:#782f40"></i> **Researcher:** Design of Inquiry + Data Analytics
+- <i class="fas fa-chalkboard-teacher" style="color:#782f40"></i> **Educator:** Design of Instruction + Facilitation
+- <i class="fas fa-compass" style="color:#782f40"></i> **Consultant:** Design Thinking + Systems Thinking
 
 
-
----
 
 ## Research Interests: Self-Directed Learning (SDL)
 
-- {{< fa random >}} **SDL Processes**
-  - Context-Aware Self-Teaching (CAST)
-    - Start + Practice + Assess
-    - Teachers, Game developers, Healthcare workers
-- {{< fa map-pin >}} **SDL Sites**
-  - SDL in and through Intensive Events
-    - Hackathons, design sprints, and game jams
-  - SDL in Networked Knowledge Spaces
-    - Online communities
-    - Knowledge repositories
-  
-  
+- <i class="fas fa-lightbulb" style="color:#782f40"></i> **SDL for Innovation:** Learning in the FSU Innovation Hub
+- <i class="fas fa-chalkboard-teacher" style="color:#782f40"></i> **Teachers’ SDL:** International Research Partnership with North-West University, South Africa
+- <i class="fas fa-chart-line" style="color:#782f40"></i> **SDL Analytics:** Context-Aware SDL + AI Model Intelligence Reliability (CASTMIR)
+
+
 
 ## Research Methods: Educational Data Science (EDS)
 
-- {{< fa magnifying-glass >}} **Qualitative Inquiry**
-  - Interviews
-  - Case Study
-- {{< fa calculator >}} **Quantitative Inquiry**
-  - Learning Analytics 
-  - Social Network Analysis + Epistemic Network Analysis
-  - Educational Data Mining + Web Scraping
-  - Natural Language Processing
+- <i class="fas fa-lightbulb" style="color:#782f40"></i> **Qualitative Inquiry:** Interviews, Content Analysis, Case Study
+- <i class="fas fa-calculator" style="color:#782f40"></i> **Quantitative Inquiry:**, Learning Analytics, Social Network Analysis, Epistemic Network Analysis, Educational Data Mining, Web Scraping, Natural Language Processing
 
 
 
@@ -86,19 +68,21 @@ I consider my strongest credential to be my ongoing friendship with my very firs
 
 ## Education
 
-- {{< fa graduation-cap >}} **Ph.D.** in [Educational Psychology & Educational Technology](https://education.msu.edu/cepse/epet) | Michigan State University (2021)
-- {{< fa graduation-cap >}} **M.A.** in [Educational Technology](https://education.msu.edu/cepse/maet) | Michigan State University (2015)
-- {{< fa graduation-cap >}} **Graduate Certificate** in [Serious Game Design & Research](https://comartsci.msu.edu/academics/academic-departments/media-information/graduate/serious-games-graduate-certificate) | Michigan State University (2014)
-- {{< fa graduation-cap >}} **B.A.** in Mathematics & Sociology | Bucknell University (2003)
+
+
+- [<i class="fas fa-graduation-cap"></i> Ph.D. in Educational Psychology & Educational Technology](https://education.msu.edu/cepse/epet) | Michigan State University (2021)
+- [<i class="fas fa-graduation-cap"></i> M.A. in Educational Technology](https://education.msu.edu/cepse/maet) | Michigan State University (2015)
+- [<i class="fas fa-graduation-cap"></i> Graduate Certificate in Serious Game Design & Research](https://comartsci.msu.edu/academics/academic-departments/media-information/graduate/serious-games-graduate-certificate) | Michigan State University (2014)
+- <i class="fas fa-graduation-cap" style="color:#782f40"></i> B.A. in Mathematics & Sociology | Bucknell University (2003)
 
 
 
 ## Training
 
-- {{< fa tools >}} [Perspectives](https://constructivedialogue.org/perspectives/) | Constructive Dialogue Institute (2025)
-- {{< fa tools >}} [Applying the QM Rubric](https://www.qualitymatters.org/professional-development/workshops/higher-ed-appqmr) | Quality Matters (2022)
-- {{< fa tools >}} [Data Science: Foundations Using R Specialization](https://www.coursera.org/specializations/data-science-foundations-r) | Coursera, Johns Hopkins University (2017-2020)
-- {{< fa tools >}} [Methods for Analyzing & Modeling Textual Data](http://summerschool.computationalsocialscience.eu/2018/) | Summer School Series on Methods for Computational Social Science (2018)
+- [<i class="fas fa-tools"></i> Perspectives](https://constructivedialogue.org/perspectives/) | Constructive Dialogue Institute (2025)
+- [<i class="fas fa-tools"></i> Applying the QM Rubric](https://www.qualitymatters.org/professional-development/workshops/higher-ed-appqmr) | Quality Matters (2022)
+- [<i class="fas fa-tools"></i> Data Science: Foundations Using R Specialization](https://www.coursera.org/specializations/data-science-foundations-r) | Coursera, Johns Hopkins University (2017-2020)
+- [<i class="fas fa-tools"></i> Methods for Analyzing & Modeling Textual Data](http://summerschool.computationalsocialscience.eu/2018/) | Summer School Series on Methods for Computational Social Science (2018)
 
 
 

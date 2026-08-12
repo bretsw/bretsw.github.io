@@ -1,0 +1,7 @@
+{{- if .Get 0 -}}
+  {{- /* Joins all parameters (e.g., "far", "fa-smile-wink") with a single space */ -}}
+  {{- $class := delimit .Params " " -}}
+  {{- (printf "<i class=\"%s\" aria-hidden=\"true\"></i>" $class) | safeHTML -}}
+{{- else -}}
+  <span class="shortcode-error">Shortcode usage: &lbrace;&lbrace;&lt; awesome "far fa-smile-wink" &gt;&rbrace;&rbrace;</span>
+{{- end -}}

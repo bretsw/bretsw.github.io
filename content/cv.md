@@ -17,15 +17,16 @@ Anne Spencer Daves College of Education, Health, and Human Sciences
 
 ---
 
+
 [<i class="fas fa-envelope"></i>](mailto:bret.staudtwillet@fsu.edu) | 
 [<i class="fab fa-orcid"></i>](https://orcid.org/0000-0002-6984-416X) | 
 [<i class="fas fa-graduation-cap"></i>](https://scholar.google.com/citations?user=P-65wkIAAAAJ&hl=en) | 
 [<i class="fas fa-users"></i>](https://recast.team/) | 
 [<i class="fab fa-linkedin"></i>](https://linkedin.com/in/bretsw) | 
 [<i class="fab fa-github"></i>](https://github.com/bretsw) |
-[<i class="fas fa-file-alt"></i>](https://www.fsu.edu/cvdb/KSTAUDTWILLET.rtf?0=)
+[<i class="fas fa-file-alt"></i>](https://cvdb.fsu.edu/cvdb/KSTAUDTWILLET.rtf)
 
-**Office:** <i class="fas fa-map-marker-alt"></i> Stone Building, 1114 W. Call St., Tallahassee, FL 32306
+**Office:** <i class="fas fa-map-marker-alt" style="color:#782f40"></i> Stone Building, 1114 W. Call St., Tallahassee, FL 32306
 
 ---
 
@@ -33,26 +34,27 @@ Anne Spencer Daves College of Education, Health, and Human Sciences
 
 ## Professional Preparation
 
-- **Ph.D. (2021)**, Michigan State University
+- <i class="fas fa-graduation-cap" style="color:#782f40"></i> **Ph.D. (2021)**, Michigan State University.
   - Major: Educational Psychology & Educational Technology
   - Advisors: [Dr. Matthew Koehler](https://www.matt-koehler.com/) & [Dr. Christine Greenhow](http://www.cgreenhow.org/)
   - Staudt Willet, K. B. (2021). *"I filled a lot of gaps": How and why early career teachers expand induction support systems with social media*. (Doctoral dissertation, Michigan State University). doi:[10.25335/ym8j-0a23](https://doi.org/doi:10.25335/ym8j-0a23)
-- **M.A. (2015)**, Michigan State University.
+- <i class="fas fa-graduation-cap" style="color:#782f40"></i> **M.A. (2015)**, Michigan State University.
   - Major: Educational Technology. 
-- **Graduate Certificate (2014)**, Michigan State University.
+- <i class="fas fa-graduation-cap" style="color:#782f40"></i> **Graduate Certificate (2014)**, Michigan State University.
   - Major: Serious Game Design & Research. 
-- **B.A. (2003)**, Bucknell University.
+- <i class="fas fa-graduation-cap" style="color:#782f40"></i> **B.A. (2003)**, Bucknell University.
   - Major: Mathematics & Sociology. 
+
 
 
 ## Nondegree Education and Training
 
-- *Foundation Training.* Connect First. (2025).
-- *Perspectives.* Constructive Dialogue Institute. (2025).
-- *Applying the QM Rubric.* Quality Matters. (2022).
-- *Data Science: Foundations Using R.* Coursera. (2017-2020).
-- *Methods for Analyzing & Modeling Textual Data.* Summer School Series on Methods for Computational Social Science. (2018).
-- *Game Design and Facilitation.* The Thiagi Group. (2012).
+- <i class="fas fa-tools" style="color:#782f40"></i> **Foundation Training.** Connect First. (2025).
+- <i class="fas fa-tools" style="color:#782f40"></i> **Perspectives.** Constructive Dialogue Institute. (2025).
+- <i class="fas fa-tools" style="color:#782f40"></i> **Applying the QM Rubric.** Quality Matters. (2022).
+- <i class="fas fa-tools" style="color:#782f40"></i> **Data Science: Foundations Using R.** Coursera, Johns Hopkins University. (2017-2020).
+- <i class="fas fa-tools" style="color:#782f40"></i> **Methods for Analyzing & Modeling Textual Data.** Summer School Series on Methods for Computational Social Science. (2018).
+- <i class="fas fa-tools" style="color:#782f40"></i> **Game Design and Facilitation.** The Thiagi Group. (2012).
 
 
 
@@ -67,16 +69,16 @@ Anne Spencer Daves College of Education, Health, and Human Sciences
 
 ### Research Awards
 
-- <i class="fas fa-award" style="color:#ceb888"></i> **Presidential Sessions (2)** at the 2024 AECT International Convention, Association for Educational Communications and Technology (AECT) (2024).
-- <i class="fas fa-award" style="color:#ceb888"></i> **McJulien Scholar Best Paper Award** from the Culture, Learning, & Technology Division, Association for Educational Communications & Technology (AECT) (2023).
-- <i class="fas fa-award" style="color:#ceb888"></i> **Early Career Scholar Award** from the Technology as an Agent of Change in Teaching & Learning Special Interest Group (TACTL SIG), American Educational Research Association (AERA) (2023).
-- <i class="fas fa-award" style="color:#ceb888"></i> **Qualitative Inquiry Award** from the AECT Foundation and Research & Theory Division, Association for Educational Communications & Technology (2022). ($750).
-- <i class="fas fa-award" style="color:#ceb888"></i> **Best Paper Award** from the Technology as an Agent of Change in Teaching & Learning Special Interest Group (TACTL SIG), American Educational Research Association (AERA) (2022).
-- <i class="fas fa-award" style="color:#ceb888"></i> **Featured Research** at the 2020 AECT International Convention, Association for Educational Communications and Technology (AECT) (2020).
-- <i class="fas fa-award" style="color:#ceb888"></i> **Clifford E. Erickson Memorial Fund Scholarship**, Michigan State University, College of Education (2020). ($5,500).
-- <i class="fas fa-award" style="color:#ceb888"></i> **Outstanding Paper Award** at the 2020 SITE International Conference, Society for Information Technology & Teacher Education (SITE) (2020).
-- <i class="fas fa-award" style="color:#ceb888"></i> **Outstanding Paper Award** at the 2019 SITE International Conference, Society for Information Technology & Teacher Education (SITE) (2019).
-- <i class="fas fa-award" style="color:#ceb888"></i> **Outstanding Paper Award** at the 2017 SITE International Conference, Society for Information Technology & Teacher Education (SITE) (2017).
+- <i class="fas fa-award" style="color:#782f40"></i> **Presidential Sessions (2)** at the 2024 AECT International Convention, Association for Educational Communications and Technology (AECT) (2024).
+- <i class="fas fa-award" style="color:#782f40"></i> **McJulien Scholar Best Paper Award** from the Culture, Learning, & Technology Division, Association for Educational Communications & Technology (AECT) (2023).
+- <i class="fas fa-award" style="color:#782f40"></i> **Early Career Scholar Award** from the Technology as an Agent of Change in Teaching & Learning Special Interest Group (TACTL SIG), American Educational Research Association (AERA) (2023).
+- <i class="fas fa-award" style="color:#782f40"></i> **Qualitative Inquiry Award** from the AECT Foundation and Research & Theory Division, Association for Educational Communications & Technology (2022). ($750).
+- <i class="fas fa-award" style="color:#782f40"></i> **Best Paper Award** from the Technology as an Agent of Change in Teaching & Learning Special Interest Group (TACTL SIG), American Educational Research Association (AERA) (2022).
+- <i class="fas fa-award" style="color:#782f40"></i> **Featured Research** at the 2020 AECT International Convention, Association for Educational Communications and Technology (AECT) (2020).
+- <i class="fas fa-award" style="color:#782f40"></i> **Clifford E. Erickson Memorial Fund Scholarship**, Michigan State University, College of Education (2020). ($5,500).
+- <i class="fas fa-award" style="color:#782f40"></i> **Outstanding Paper Award** at the 2020 SITE International Conference, Society for Information Technology & Teacher Education (SITE) (2020).
+- <i class="fas fa-award" style="color:#782f40"></i> **Outstanding Paper Award** at the 2019 SITE International Conference, Society for Information Technology & Teacher Education (SITE) (2019).
+- <i class="fas fa-award" style="color:#782f40"></i> **Outstanding Paper Award** at the 2017 SITE International Conference, Society for Information Technology & Teacher Education (SITE) (2017).
 
 
 ### Teaching Awards
@@ -84,16 +86,16 @@ Anne Spencer Daves College of Education, Health, and Human Sciences
 - Nominated: **University Teaching and Advising Award: Innovation in Teaching**, Florida State University (2025).
 - Nominated: **University Teaching and Advising Award: Outstanding Graduate Teaching**, Florida State University (2024).
 - Nominated: **College Teaching Award for Graduate Teaching**, Florida State University, Anne Spencer Daves College of Education, Health, and Human Sciences (2022, 2023, 2025).
-- <i class="fas fa-award" style="color:#ceb888"></i> **Best Fully Online Course - CEP 817**, MSU AT&T Faculty-Staff Annual Competition in Instructional Technology, Michigan State University (2021). ($500). 
+- <i class="fas fa-award" style="color:#782f40"></i> **Best Fully Online Course - CEP 817**, MSU AT&T Faculty-Staff Annual Competition in Instructional Technology, Michigan State University (2021). ($500). 
 
 
 ### Service Awards
 
-- <i class="fas fa-award" style="color:#ceb888"></i> **Reviewer Excellence Award** from the *Educational Technology Research & Development* (ETR&D) journal (2025).
-- <i class="fas fa-award" style="color:#ceb888"></i> **Outstanding Service Award** from the Research & Theory Division, Association for Educational Communications & Technology (AECT) (2025).
-- <i class="fas fa-award" style="color:#ceb888"></i> **Outstanding Reviewer Award** from the Research & Theory Division, Association for Educational Communications & Technology (AECT) (2024).
-- <i class="fas fa-award" style="color:#ceb888"></i> **Outstanding Service Award** from the Research & Theory Division, Association for Educational Communications & Technology (AECT) (2021).
-- <i class="fas fa-award" style="color:#ceb888"></i> **Disciplinary Leadership Award**, Michigan State University, Council of Graduate Students (2019). ($2,000).
+- <i class="fas fa-award" style="color:#782f40"></i> **Reviewer Excellence Award** from the *Educational Technology Research & Development* (ETR&D) journal (2025).
+- <i class="fas fa-award" style="color:#782f40"></i> **Outstanding Service Award** from the Research & Theory Division, Association for Educational Communications & Technology (AECT) (2025).
+- <i class="fas fa-award" style="color:#782f40"></i> **Outstanding Reviewer Award** from the Research & Theory Division, Association for Educational Communications & Technology (AECT) (2024).
+- <i class="fas fa-award" style="color:#782f40"></i> **Outstanding Service Award** from the Research & Theory Division, Association for Educational Communications & Technology (AECT) (2021).
+- <i class="fas fa-award" style="color:#782f40"></i> **Disciplinary Leadership Award**, Michigan State University, Council of Graduate Students (2019). ($2,000).
 
 
 ## Current Membership in Professional Organizations
@@ -542,9 +544,11 @@ Staudt Willet, K. B., & Rosenberg, J. M. (2022-2024). *tidytags: Importing and a
 
 ## Contracts and Grants
 
-### Contracts and Grants Funded ($292,278)
+### Contracts and Grants Funded ($366,892)
 
-- <i class="fas fa-dollar-sign" style="color:green"></i> Wofford, A., Perez-Felkner, L., & Staudt Willet, K. B. (Jan 2023–Dec 2025). Sloan: Aligning Graduate Education and Workforce Opportunities: A Robust, Equity-Focused Landscape Scan of Computing Terminology. Funded by Alfred P. Sloan Foundation. **Total award $249,978** *I am a Co-PI for this grant.*
+- <i class="fas fa-dollar-sign" style="color:green"></i> Staudt Willet, K. B., & Ajayi, D. (May 2026-Dec 2026). Context-Aware AI Performance Intelligence: A Self-Teaching System for Institutional AI Accuracy Tracking. Funded by Florida State University, Council on Research and Creativity: ReliaQuest Innovation Challenge Fund. **Total award $30,000.** *I am the PI for this grant.*
+- <i class="fas fa-dollar-sign" style="color:green"></i> DeCouto, B., Staudt Willet, K. B., Kozan, K., & Perera, I. (Mar 2026-Apr 2027). CRC Seed: Neurobehavioral Markers of AI-Assisted Learning of Digital Tools: The Influence of Technology-Related Habits. Funded by Florida State University, Council on Research and Creativity: Seed Program. **Total award $44,614.** *I am a Co-PI for this grant.*
+- <i class="fas fa-dollar-sign" style="color:green"></i> Wofford, A., Perez-Felkner, L., & Staudt Willet, K. B. (Jan 2023–Jun 2026). Sloan: Aligning Graduate Education and Workforce Opportunities: A Robust, Equity-Focused Landscape Scan of Computing Terminology. Funded by Alfred P. Sloan Foundation. **Total award $249,978** *I was a Co-PI for this grant.*
 - <i class="fas fa-dollar-sign" style="color:green"></i> Staudt Willet, K. B. (May 2022–Aug 2022). CRC FYAP: Beginning Teachers' Self-Directed Professional Learning Through Social Media: Impacts on Instructional Practice. Funded by Florida State University, Council on Research and Creativity. **Total award $20,000.** *I was the PI for this grant.*
 - <i class="fas fa-dollar-sign" style="color:green"></i> Staudt Willet, K. B. (Jan 2021–Apr 2021). Dissertation Completion Fellowship: Into the Edu-verse: Early-Career Educators Seeking Induction Support on Social Media. Funded by Michigan State University, College of Education. **Total award $7,000.** *I was the PI for this grant.*
 - <i class="fas fa-dollar-sign" style="color:green"></i> Staudt Willet, K. B. (Jan 2020). Research Practicum/Dissertation Development Fellowship. Funded by Michigan State University, College of Education. **Total award $1,300.** *I was the PI for this grant.*
@@ -555,25 +559,29 @@ Staudt Willet, K. B., & Rosenberg, J. M. (2022-2024). *tidytags: Importing and a
 
 ### Contracts and Grants Pending
 
-- <i class="fas fa-exclamation-triangle" style="color:#ceb888"></i> Peluso, P. R., & Staudt Willet, K. B. (Sep 2025). CRC SEED: Developing the Acquisition of Knowledge and Intention for Relationship Awareness (AKIRA) Platform—Utilizing Artificial Intelligence to Resolve Parent-Child Conflicts. Total requested: $46,250. *I am the Co-PI for this grant proposal.*
-- <i class="fas fa-exclamation-triangle" style="color:#ceb888"></i> Staudt Willet, K. B. (Oct 2025). BSDMC: Advancing Human Intelligence in AI-Assisted Self-Directed Learning. Submitted to Russell Sage Foundation: Behavioral Science and Decision Making in Context (BSDMC). Total requested: $162,150. *I am the PI for this grant proposal.*
+- <i class="fas fa-exclamation-triangle" style="color:#ceb888"></i> No proposals currently under review.
 
 
 
 ### Contracts and Grants Denied
 
+- <i class="fas fa-times" style="color:red"></i> Fozard, J., Burnette, R., & Staudt Willet, K. B. (Dec. 2025). AI Catalyst: Empowering Educators and Students for an AI-Driven Future. Submitted to U.S. Department of Education. Total requested: $3,931,637. *I was a Co-PI for this grant proposal.*
+- <i class="fas fa-times" style="color:red"></i> Staudt Willet, K. B. (Oct 2025). BSDMC: Advancing Human Intelligence in AI-Assisted Self-Directed Learning. Submitted to Russell Sage Foundation: Behavioral Science and Decision Making in Context (BSDMC). Total requested: $162,150. *I was the PI for this grant proposal.*
+- <i class="fas fa-times" style="color:red"></i> Peluso, P. R., & Staudt Willet, K. B. (Sep 2025). CRC Seed: Developing the Acquisition of Knowledge and Intention for Relationship Awareness (AKIRA) Platform—Utilizing Artificial Intelligence to Resolve Parent-Child Conflicts. Total requested: $46,250. *I was a Co-PI for this grant proposal.*
+- <i class="fas fa-times" style="color:red"></i> Staudt Willet, K. B. (Oct 2025). BSDMC: Advancing Human Intelligence in AI-Assisted Self-Directed Learning. Submitted to Russell Sage Foundation: Behavioral Science and Decision Making in Context (BSDMC). Total requested: $162,150. *I was the PI for this grant proposal.*
 - <i class="fas fa-times" style="color:red"></i> Staudt Willet, K. B. (Apr 2025). Dean’s Circle Catalyst Grant: Deepening Understanding of AI-Assisted Self-Directed Learning within Innovation Project Teams. Submitted to FSU Anne's College Dean's Circle. Total requested: $10,204.32. *I was the PI for this grant proposal.*
-- <i class="fas fa-times" style="color:red"></i> Staudt Willet, K. B. (Mar 2025). CRC SEED: Advancing AI-Assisted Self-Directed Learning through Intensive Events. Submitted to FSU Council for Research Creativity. Total requested: $87,196. *I was the PI for this grant proposal.*
-- <i class="fas fa-times" style="color:red"></i> Hughes, R., Johnson, K., & Staudt Willet, K. B. (Feb 2025). NSF ExLENT: Beginnings: Work-Ready Employees for the Superconducting Industry. Submitted to National Science Foundation. Total requested: $999,790. *I am a Co-PI for this grant proposal.*
-- <i class="fas fa-times" style="color:red"></i> Staudt Willet, K. B. (Sep 2024). CRC SEED: Advancing AI-Assisted Self-Directed Learning through Intensive Events. Submitted to FSU Council for Research Creativity. Total requested: $92,623. *I was the PI for this grant proposal.*
+- <i class="fas fa-times" style="color:red"></i> Staudt Willet, K. B. (Mar 2025). CRC Seed: Advancing AI-Assisted Self-Directed Learning through Intensive Events. Submitted to FSU Council for Research Creativity. Total requested: $87,196. *I was the PI for this grant proposal.*
+- <i class="fas fa-times" style="color:red"></i> Hughes, R., Johnson, K., & Staudt Willet, K. B. (Feb 2025). NSF ExLENT: Beginnings: Work-Ready Employees for the Superconducting Industry. Submitted to National Science Foundation. Total requested: $999,790. *I was a Co-PI for this grant proposal.*
+- <i class="fas fa-times" style="color:red"></i> Staudt Willet, K. B. (Sep 2024). CRC Seed: Advancing AI-Assisted Self-Directed Learning through Intensive Events. Submitted to FSU Council for Research Creativity. Total requested: $92,623. *I was the PI for this grant proposal.*
 - <i class="fas fa-times" style="color:red"></i> Frank, K., Maroulis, S., Xu, R., Rosenberg, J. M., Saw, G., Lin, Q., & Staudt Willet, K. B. (Aug 2024). IES: Sensitivity Analysis for Statistical Advances that Inform Evidence Use and Knowledge Mobilization. Submitted to Institute for Education Sciences. Total requested: $899,997. *Award review cancelled due to U.S. federal grant cuts. I would have served as a co-PI on this grant project.*
 - <i class="fas fa-times" style="color:red"></i> Staudt Willet, K. B. (Jul 2024). NSF CAREER: Science Teachers Developing Context-Aware Self-Teaching Through Intensive Events. Submitted to National Science Foundation. Total requested: $898,603. *I was the PI on this grant proposal.*
 - <i class="fas fa-times" style="color:red"></i> Frank, K., Maroulis, S., Xu, R., Rosenberg, J. M., Saw, G., Lin, Q., & Staudt Willet, K. B. (Jan 2024). IES: Sensitivity Analysis for Statistical Advances that Inform Evidence Use and Knowledge Mobilization. Submitted to Institute for Education Sciences. Total requested: $898,387. *I was a co-PI for this grant proposal.*
 - <i class="fas fa-times" style="color:red"></i> Myers, J., Ecton, W. G., Fendler, R., Grace, C., & Staudt Willet, K. B. (Jul 2023). Project EVIDENT: Evaluating Visual Information and Data to Enhance oNline Thinking. Submitted to USDOEd American History and Civics-National Activities grant. Total requested: $320,584. *I was a co-PI on this grant proposal.*
 - <i class="fas fa-times" style="color:red"></i> Staudt Willet, K. B. (Jul 2023). NSF CAREER: Developing STEM Teachers' Culturally Affirming Self-Teaching (CAST) Through a Mobile Game. Submitted to National Science Foundation. Total requested: $870,598. *I was the PI for this grant proposal.*
-- <i class="fas fa-times" style="color:red"></i> Staudt Willet, K. B., Kim, A., & Xue, H. (Jan 2023). SEED: Leveling Up the Culturally Sustaining Self-Directed Learning of Black Game Developers. Submitted to Florida State University, Council on Research and Creativity. Total requested $97,368. *I was the PI for this grant proposal.*
-- <i class="fas fa-times" style="color:red"></i> Staudt Willet, K. B., Kim, A., & Xue, H. (Sep 2022). SEED: Leveling Up the Self-Directed Learning of Early Career Black Game Developers. Submitted to Florida State University, Council on Research and Creativity. Total requested $62,150. *I was the PI for this grant proposal.*
+- <i class="fas fa-times" style="color:red"></i> Staudt Willet, K. B., Kim, A., & Xue, H. (Jan 2023). Seed: Leveling Up the Culturally Sustaining Self-Directed Learning of Black Game Developers. Submitted to Florida State University, Council on Research and Creativity. Total requested $97,368. *I was the PI for this grant proposal.*
+- <i class="fas fa-times" style="color:red"></i> Staudt Willet, K. B., Kim, A., & Xue, H. (Sep 2022). Seed: Leveling Up the Self-Directed Learning of Early Career Black Game Developers. Submitted to Florida State University, Council on Research and Creativity. Total requested $62,150. *I was the PI for this grant proposal.*
 - <i class="fas fa-times" style="color:red"></i> Staudt Willet, K. B. (Oct 2019). NAEd/Spencer Dissertation Fellowship: Into the Edu-verse: Early-Career Educators Seeking Induction Support on Social Media. Submitted to the National Academy of Education. Total requested $27,500. *I was the PI for this grant proposal.*
+
 
 
 
@@ -589,8 +597,8 @@ Staudt Willet, K. B., & Rosenberg, J. M. (2022-2024). *tidytags: Importing and a
 - Learning & Web Analytics (EME6356)
 - Staff Training & Development (ADE5189)
 - Human Resource Development (ADE5083)
-- Introduction to Instructional Systems (EME5601)
 - Evaluation of Instruction & Training in Human-Performance Technology (EME6357)
+- Introduction to Instructional Systems (EME5601)
 
 ### Methods
 
@@ -599,7 +607,6 @@ Staudt Willet, K. B., & Rosenberg, J. M. (2022-2024). *tidytags: Importing and a
 - Instructional Systems Research Seminar (EDG6362)
 - Research on Learning, Instruction, & Performance Systems (EDG6363)
 - Inquiry & Measurement for Practitioners (EDF5442)
-
 
 
 
@@ -637,16 +644,18 @@ Staudt Willet, K. B., & Rosenberg, J. M. (2022-2024). *tidytags: Importing and a
 
 
 
-## Doctoral Committee Member (13 current, 34 graduates)
+## Doctoral Committee Member (15 current, 34 graduates)
 
 - Ayan, H., doctoral candidate.
+- Bojanowski, L., doctoral candidate.
 - Bounds, J., doctoral candidate.
 - Ellis, A., doctoral candidate.
 - Hamrick, J., doctoral candidate.
 - Hrabcak, J., doctoral student.
+- Ivie, S., doctoral candidate.
 - Kim, I., doctoral candidate.
+- Knight, E., doctoral candidate.
 - Lott, S., doctoral candidate.
-- Martin, L., doctoral candidate.
 - McKenzie, R., doctoral candidate.
 - Rivero-Setien, S., doctoral candidate. *Beyond the numbers: Challenges and effects of educational technology integration on elementary educator practice and the academic achievement of students with developmental dyscalculia*.
 - Verdoni, M., doctoral candidate.
@@ -742,21 +751,23 @@ Staudt Willet, K. B. (2018, October). *Experiences from the practicum* [Panel fo
 
 ### FSU University Service
 
-- Educational Research Catalyst, FSU Innovation Hub (2024-present)
-- Member, Provost’s Social Media Policy Advisory Committee (SPAC) (2025-present)
+- Member, Faculty Senate Library Committee (2026-2029).
+- Educational Research Catalyst, FSU Innovation Hub (2024-present).
+- Member, Provost’s Social Media Policy Advisory Committee (SPAC) (2025-2026).
 
 
 
 ### FSU College Service
 
-- Chair, Faculty Advisory Committee (2024-2025)
-- Member, Faculty Advisory Committee (2023-2024, 2025-2027)
+- Chair, Faculty Advisory Committee (2024-2025, 2026-2027).
+- Member, Faculty Advisory Committee (2023-2027).
 
 
 
 ### FSU Department Service
 
-- Member, Faculty Evaluation Committee (2021–2023, 2025-2027).
+- Member, Promotion & Tenure Committee (2026-2028).
+- Member, Faculty Evaluation Committee (2021–2023, 2025-2026).
 - Member, Staff Search Committee, Educational Psychology & Learning Systems (2024, 2025).
 - Member, ACTION (Diversity, Equity, and Inclusion) Committee (2022-2025).
 - Member, Faculty Search Committee, School Psychology (2024-2025).
@@ -798,7 +809,7 @@ Staudt Willet, K. B. (2018, October). *Experiences from the practicum* [Panel fo
 
 
 
-### Guest Reviewer for Refereed Journals (145 reviews)
+### Guest Reviewer for Refereed Journals (166 reviews)
 
 - *AERA Open* (2021).
 - *American Journal of Education* (2019-2020).
@@ -855,21 +866,24 @@ Staudt Willet, K. B. (2018, October). *Experiences from the practicum* [Panel fo
 - **Conference Planning Committee Member**, SITE Interactive Conference, Society for Information Technology and Teacher Education (SITE) (2020).
 
 
+
 ### Service to the Community
 
+- **Past Treasurer**, Parent-Teacher Organization (PTO), Kate Sullivan Elementary School (Leon County Schools) (2026–2027).
 - **Treasurer**, Parent-Teacher Organization (PTO), Kate Sullivan Elementary School (Leon County Schools) (2023–2026).
 - **Treasurer-Elect**, Parent-Teacher Organization (PTO), Kate Sullivan Elementary School (Leon County Schools) (2022–2023).
 - **Member**, Teacher Appreciation Committee, Kate Sullivan Elementary School (Leon County Schools) (2022–2023).
 
 
+
 ## Consultation
 
-- **Front-End Developer**, JPMorganChase Grant, "Advanced Infrastructure, Energy, and Agriculture (AIREA) Data Explorer" (Wang, Rosenberg, Sublett, Fresard, & Staudt Willet); with the Community College Research Center at Teachers College, Columbia University; development team at University of Tennessee, Knoxville: Designed and rebuilt interface for Shiny [web app](https://ed-analytics.shinyapps.io/airea-data-explorer/) (2024-present).
-- **Front-End Developer**, IES Grant, [Quantifying the Robustness of Causal Inferences: Extensions and Application to Existing Databases](https://ies.ed.gov/funding/grantsearch/details.asp?ID=5723) (Frank, Maroulis, Saw, Xu, & Rosenberg): Designed and rebuilt interface for Shiny [web app](https://konfound-project.shinyapps.io/konfound-it/) and [website](https://konfound-it.org/) (2023-present).
-- **Data Scientist**, NSF/WTG Grant, [Diffusion of Research on Supporting Mathematics Achievement for Youth with Disabilities through Twitter Translational Visual Abstracts](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2244734) (Rodrigues, Farley-Ripple, & Malin): Collected and analyzed data for the social media intervention portion of the project.
- Mar 2023–Feb 2026).hg
-- **Co-Founder and Organizer**, SciBlack (2021–2024).
-- **Executive Coach**, Black in Gaming (BIG) Foundation: (a) Trained and mentored members of the core leadership team. (b) Designed and implemented strategy for organizational culture and collaboration through remote and asynchronous work (2020–2021).
+- **Front-End Developer**, JPMorganChase Grant, "Advanced Infrastructure, Energy, and Agriculture (AIREA) Data Explorer" (Wang, Rosenberg, Sublett, Fresard, & Staudt Willet); with the Community College Research Center at Teachers College, Columbia University; development team at University of Tennessee, Knoxville: Designed and rebuilt interface for Shiny [web app](https://ed-analytics.shinyapps.io/airea-data-explorer/). (2024-2026).
+- **Front-End Developer**, IES Grant, [Quantifying the Robustness of Causal Inferences: Extensions and Application to Existing Databases](https://ies.ed.gov/funding/grantsearch/details.asp?ID=5723) (Frank, Maroulis, Saw, Xu, & Rosenberg): Designed and rebuilt interface for Shiny [web app](https://konfound-project.shinyapps.io/konfound-it/) and [website](https://konfound-it.org/). (2023-2026).
+- **Data Scientist**, NSF/WTG Grant, [Diffusion of Research on Supporting Mathematics Achievement for Youth with Disabilities through Twitter Translational Visual Abstracts](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2244734) (Rodrigues, Farley-Ripple, & Malin): Collected and analyzed data for the social media intervention portion of the project. (2023–2026).
+- **Co-Founder and Organizer**, SciBlack. (2021–2024).
+- **Executive Coach**, Black in Gaming (BIG) Foundation: (a) Trained and mentored members of the core leadership team. (b) Designed and implemented strategy for organizational culture and collaboration through remote and asynchronous work. (2020–2021).
+
 
 
 ## Additional Service Not Reported Elsewhere
