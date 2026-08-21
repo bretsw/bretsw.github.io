@@ -25,11 +25,11 @@ mainSectionsTitle = ""
 
 ---
 
-I am an Associate Professor of [Instructional Systems & Learning Technologies](https://annescollege.fsu.edu/instructional-systems-and-learning-technologies) at Florida State University and the Educational Research Catalyst for the [FSU Innovation Hub](https://www.innovation.fsu.edu/). My preferred pronouns are **he/him/his**.
+I am an Associate Professor of [Instructional Systems & Learning Technologies](https://annescollege.fsu.edu/instructional-systems-and-learning-technologies) at Florida State University (USA) and the Educational Research Catalyst for the [FSU Innovation Hub](https://www.innovation.fsu.edu/). My preferred pronouns are **he/him/his**.
 
-My research investigates **self-directed learning**: how people figure things out on their own using artificial intelligence (AI), the internet, and games. I'm most interested in what happens when students, learners, and trainees finish formal instruction, preparation, and training. What do they do *after* they walk out the door or log off? How do they continue to develop their knowledge, skills, and abilities? Where do they look for resources? Who do they talk to? 
+My research investigates **self-directed learning**: how people figure things out on their own using emerging technologies such as artificial intelligence (AI), the internet, and games. I'm most interested in what happens when students, learners, and trainees finish formal instruction, preparation, and training. What do they do *after* they walk out the door or log off? How do they continue to develop their knowledge, skills, and abilities? Where do they look for resources? Who do they talk to? 
 
-I frequently explore self-directed learning with the tools of **educational data science**, including learning analytics, social network analysis, natural language processing, and data mining.
+I frequently explore self-directed learning using tools from **educational data science**, including learning analytics, social network analysis, natural language processing, and data mining.
 
 As **Educational Research Catalyst** for the FSU Innovation Hub, I examine the broader educational impacts of hands-on, experiential-learning programs. I approach the processes that occur during intensive events at the Hub, such as Hackathons, Design Sprints, and Game Jams, as a microcosm of learning and making in everyday life as innovation, human intelligence, and artificial intelligence converge.
 
@@ -103,7 +103,7 @@ I consider my strongest credential to be my ongoing friendship with my very firs
 
 ## Short Bio
 
-My research explores self-directed learning, focusing on how learners navigate digital spaces, social media platforms, and emerging technologies. My work attends to identity, agency, ethical concerns, and the application of data-driven methods such as social network analysis and learning analytics to understand educational phenomena.
+Dr. Bret Staudt Willet is an Associate Professor of Instructional Systems & Learning Technologies at Florida State University (USA) and the Educational Research Catalyst for the FSU Innovation Hub. His research investigates self-directed learning: how people figure things out on their own using emerging technologies such as artificial intelligence (AI), the internet, and games. He is most interested in what happens when students, learners, and trainees finish formal instruction, preparation, and training. He frequently explores self-directed learning using tools from educational data science, including learning analytics, social network analysis, natural language processing, and data mining. In short, Dr. Bret’s self-directed learning research explores how learners navigate digital spaces, social media platforms, and emerging technologies. His work addresses identity, agency, ethical concerns, and the application of data-driven methods, such as social network analysis and learning analytics, to understand educational phenomena.
 
 
 

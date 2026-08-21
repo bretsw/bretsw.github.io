@@ -888,6 +888,7 @@ Staudt Willet, K. B. (2018, October). *Experiences from the practicum* [Panel fo
 
 ## Additional Service Not Reported Elsewhere
 
+- Staudt Willet, K. B. (2025). [Public outreach] *Question Booth at Tallahassee First Friday Monthly Festival*. Ask-A-Scientist.
 - Staudt Willet, K. B. (2024). [Public outreach] *Learning without limits*. The Torch: FSU College of Education, Health, and Human Sciences Magazine. https://issuu.com/fsu_education/docs/thetorchspring24_finaldigital
 - Staudt Willet, K. B. (2023). [Public outreach] *Question Booth at Tallahassee First Friday Monthly Festival*. Ask-A-Scientist.
 - Staudt Willet, K. B. (2023). [Guest presentation] *Introducing Instructional Systems & Learning Technologies (ISLT)*. Leadership Tallahassee.
