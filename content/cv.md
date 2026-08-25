@@ -98,13 +98,17 @@ Anne Spencer Daves College of Education, Health, and Human Sciences
 
 ## Current Membership in Professional Organizations
 
-- American Educational Research Association ([AERA](https://www.aera.net/)) 
-- Association for Educational Communications & Technology ([AECT](https://aect.org/))
-- International Society for Self-Directed Learning ([ISSDL](https://www.sdlglobal.com/))
+- [**ISSDL**](https://www.sdlglobal.com/) | International Society for Self-Directed Learning
+- [**AERA**](https://www.aera.net/) | American Educational Research Association
+  - *Technology as an Agent of Change in Teaching & Learning* (TACTL) SIG  
+- [**AECT**](https://aect.org/) | Association for Educational Communications & Technology
+  - *Research & Theory Division* (RTD)
 
 
 
 ---
+
+
 
 
 
