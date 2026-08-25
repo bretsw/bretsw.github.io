@@ -37,7 +37,7 @@ My academic training spans **educational technology** (Ph.D., M.A.), **education
 
 I consider my strongest credential to be my ongoing friendship with my very first online friend, who I met in an AOL chatroom in the early 1990s.
 
-![Bret's teaching](/images/bretsw-teaching.jpg)
+![Bret presenting](/images/bretsw-presenting-08-2026.png)
 
 ---
 
@@ -86,16 +86,20 @@ I consider my strongest credential to be my ongoing friendship with my very firs
 
 
 
+
+
 ---
 
 ## Professional Affiliations
 
-- [**AECT**](https://aect.org/) | Association for Educational Communications & Technology
-  - *Research & Theory Division*
-- [**AERA**](https://www.aera.net/) | American Educational Research Association
-  - *Design & Technology* SIG
-  - *Technology as an Agent of Change in Teaching & Learning* (TACTL) SIG  
 - [**ISSDL**](https://www.sdlglobal.com/) | International Society for Self-Directed Learning
+- [**AERA**](https://www.aera.net/) | American Educational Research Association
+  - *Technology as an Agent of Change in Teaching & Learning* (TACTL) SIG  
+- [**AECT**](https://aect.org/) | Association for Educational Communications & Technology
+  - *Research & Theory Division* (RTD)
+
+
+
 
 
 

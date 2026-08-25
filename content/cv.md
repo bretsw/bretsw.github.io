@@ -69,32 +69,30 @@ Anne Spencer Daves College of Education, Health, and Human Sciences
 
 ### Research Awards
 
-- <i class="fas fa-award" style="color:#782f40"></i> **Presidential Sessions (2)** at the 2024 AECT International Convention, Association for Educational Communications and Technology (AECT) (2024).
+- Finalist: **Robert M. Gagné Research Award**, FSU Anne's College Research Showcase (2026).
+- <i class="fas fa-award" style="color:#782f40"></i> **Presidential Sessions (x2)** at the 2024 AECT International Convention, Association for Educational Communications and Technology (AECT) (2024).
 - <i class="fas fa-award" style="color:#782f40"></i> **McJulien Scholar Best Paper Award** from the Culture, Learning, & Technology Division, Association for Educational Communications & Technology (AECT) (2023).
 - <i class="fas fa-award" style="color:#782f40"></i> **Early Career Scholar Award** from the Technology as an Agent of Change in Teaching & Learning Special Interest Group (TACTL SIG), American Educational Research Association (AERA) (2023).
 - <i class="fas fa-award" style="color:#782f40"></i> **Qualitative Inquiry Award** from the AECT Foundation and Research & Theory Division, Association for Educational Communications & Technology (2022). ($750).
 - <i class="fas fa-award" style="color:#782f40"></i> **Best Paper Award** from the Technology as an Agent of Change in Teaching & Learning Special Interest Group (TACTL SIG), American Educational Research Association (AERA) (2022).
 - <i class="fas fa-award" style="color:#782f40"></i> **Featured Research** at the 2020 AECT International Convention, Association for Educational Communications and Technology (AECT) (2020).
 - <i class="fas fa-award" style="color:#782f40"></i> **Clifford E. Erickson Memorial Fund Scholarship**, Michigan State University, College of Education (2020). ($5,500).
-- <i class="fas fa-award" style="color:#782f40"></i> **Outstanding Paper Award** at the 2020 SITE International Conference, Society for Information Technology & Teacher Education (SITE) (2020).
-- <i class="fas fa-award" style="color:#782f40"></i> **Outstanding Paper Award** at the 2019 SITE International Conference, Society for Information Technology & Teacher Education (SITE) (2019).
-- <i class="fas fa-award" style="color:#782f40"></i> **Outstanding Paper Award** at the 2017 SITE International Conference, Society for Information Technology & Teacher Education (SITE) (2017).
+- <i class="fas fa-award" style="color:#782f40"></i> **Outstanding Paper Award (x3)** at the SITE International Conference, Society for Information Technology & Teacher Education (SITE) (2017, 2019, 2020).
 
 
 ### Teaching Awards
 
 - Nominated: **University Teaching and Advising Award: Innovation in Teaching**, Florida State University (2025).
 - Nominated: **University Teaching and Advising Award: Outstanding Graduate Teaching**, Florida State University (2024).
-- Nominated: **College Teaching Award for Graduate Teaching**, Florida State University, Anne Spencer Daves College of Education, Health, and Human Sciences (2022, 2023, 2025).
+- Nominated (x3): **College Teaching Award for Graduate Teaching**, Florida State University, Anne Spencer Daves College of Education, Health, and Human Sciences (2022, 2023, 2025).
 - <i class="fas fa-award" style="color:#782f40"></i> **Best Fully Online Course - CEP 817**, MSU AT&T Faculty-Staff Annual Competition in Instructional Technology, Michigan State University (2021). ($500). 
 
 
 ### Service Awards
 
 - <i class="fas fa-award" style="color:#782f40"></i> **Reviewer Excellence Award** from the *Educational Technology Research & Development* (ETR&D) journal (2025).
-- <i class="fas fa-award" style="color:#782f40"></i> **Outstanding Service Award** from the Research & Theory Division, Association for Educational Communications & Technology (AECT) (2025).
+- <i class="fas fa-award" style="color:#782f40"></i> **Outstanding Service Award (x2)** from the Research & Theory Division, Association for Educational Communications & Technology (AECT) (2021, 2025).
 - <i class="fas fa-award" style="color:#782f40"></i> **Outstanding Reviewer Award** from the Research & Theory Division, Association for Educational Communications & Technology (AECT) (2024).
-- <i class="fas fa-award" style="color:#782f40"></i> **Outstanding Service Award** from the Research & Theory Division, Association for Educational Communications & Technology (AECT) (2021).
 - <i class="fas fa-award" style="color:#782f40"></i> **Disciplinary Leadership Award**, Michigan State University, Council of Graduate Students (2019). ($2,000).
 
 
