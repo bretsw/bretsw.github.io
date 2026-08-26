@@ -2,79 +2,58 @@
 author: Bret Staudt Willet
 title: Research Projects
 date: "`r Sys.time()`"
-description: Overview of research and representative publications
+description: Overview of current research projects and representative publications
 contact: false
 ---
 
-## New Teachers’ Induction Support Systems
 
-![Transitions walking down hallway](/images/transition.jpg)
 
-### Introduction
+## SDL for Innovation: Learning in the FSU Innovation Hub
 
-New teachers face numerous decisions as they transition from teacher preparation into enacting practice (i.e., their induction period). They must reconcile conflicting messages about what and how to teach from the academic world of the preparation program and the practical world of their school of employment. Interviews with new teachers provide evidence of why new teachers seek supports for professional leaning to complement formal induction programs offered by schools and districts. Findings demonstrate how new teachers’ agency is stretched as they navigate the edu-verse, a complex learning ecology of supports accessed locally and through social media.
+![People working collaboratively in the FSU Innovation Hub](/images/innovation-hub.png)
 
-### Representative Publications
+### Intensive Innovation Events as Informal Learning Environments for Self-Directed Learning
 
-<i class="fas fa-file-alt"></i> Staudt Willet, K. B. (under review). Early career teachers’ expansion of induction support systems with social media.
+To understand how self-directed learning (SDL) operates within fast-paced, informal environments, our research inquiry investigates how learners tackle complex, undefined "wicked challenges" during intensive innovation events such as 24-hour design sprints hosted at the [FSU Innoation Hub](https://www.innovation.fsu.edu/). Grounded in a six-step interpretation of Malcolm Knowles’ SDL definition, spanning initiative, needs assessment, goal setting, resource identification, strategy implementation, and progress evaluation, we are investigating participants' SDL through post-event surveys, interviews, focus groups, activity logs, and artifact analysis.
 
-### Works-in-Progress
+Initial findings are showing behavioral patterns in problem-based environments. Although participants exhibit high initial curiosity and openness, they frequently struggle to diagnose their precise learning needs at the outset. Furthermore, when confronting problem-solving roadblocks under tight time constraints, participants demonstrate preference for human supports,  prioritizing teammates and expert mentors over digital tools, static manuals, or generative AI, which seems to functions  as a supplemental accelerator rather than a primary learning support. 
 
-<i class="fas fa-file-alt"></i> Social media’s impact on instruction: Beginning teachers’ self-directed professional learning
+As we continue to investigate in these areas, we expect insights to inform the design of informal learning environments and intensive events such as intensive innovation events. It seems likely that by actively scaffolding problem-scoping early in an event and prioritizing human-centric collaboration to cultivate the SDL capabilities required in a time of accelerating technological change.
 
----
+<br><br>
 
-## Educators' Informal Learning and Invisible Labor
 
-![People blurry and out of focus](/images/invisible.jpg)
-
-### Representative Publications
-
-<i class="fas fa-file-alt"></i> Staudt Willet, K. B., & He, D. (under review). Educators’ invisible labor: A systematic review
-
-<i class="fas fa-file-alt"></i> Krutka, D. G., Heath, M. K., & Staudt Willet, K. B. (2019). Foregrounding technoethics: Toward critical perspectives in technology and teacher education. *Journal of Technology and Teacher Education, 27*(4), 555-574. Retrieved from http://learntechlib.org/p/208235/
-
-### Works-in-Progress
-
-<i class="fas fa-file-alt"></i> Interrogating education research through an invisible labor lens
 
 ---
 
-## Networked Learning in Online Communities
+## Teachers' SDL: International Research Partnership with North-West University, South Africa
 
-![Twitter app on phone screen](/images/networked.png)
+![Students walking at North-West University in South Africa](/images/nwu.png)
 
-### Representative Publications
+### Pre-Service Teachers' Self-Directed Learning (SDL) for Professional Development 
 
-<i class="fas fa-file-alt"></i> Staudt Willet, K. B., & Carpenter, J. P. (2021). A tale of two subreddits: Change and continuity in teaching-related online spaces. *British Journal of Educational Technology, 52*(2), 714-733. doi:[10.1111/bjet.13051](https://doi.org/10.1111/bjet.13051)
+**The teaching profession requires continuous, agile learning** to navigate evolving curricula, emerging technologies, shifting societal expectations, and increasing classroom demands. These professional realities prompt educators to rely on self-directed learning (SDL) to continuously adapt and solve problems of practice.
 
-<i class="fas fa-file-alt"></i> Staudt Willet, K. B. (2019). Revisiting how and why educators use Twitter: Tweet types and purposes in \#Edchat. *Journal of Research on Technology in Education, 51*(3), 273-289. doi:[10.1080/15391523.2019.1611507](https://doi.org/10.1080/15391523.2019.1611507)
+**As pre-service teachers train for induction into the profession** through formal teacher preparation programs, the volume and pace of new information necessitates SDL. Although they may or may not recognize it, preparation programs offer safe spaces for exploring the new knowledge and practices of teaching; similarly, this season is an optimal time to improve their SDL processes as well.
 
-<i class="fas fa-file-alt"></i> Greenhow, C., Staudt Willet, K. B., & Galvin, S. (2021). Inquiring tweets want to know: \#Edchat supports for \#RemoteTeaching during COVID-19. *British Journal of Educational Technology, 52*(4), 1434-1454. doi:[10.1111/bjet.13097](https://doi.org/10.1111/bjet.13097)
+Historically, teachers have navigated these challenges through established **human networks**, including mentors, peers, and professional learning communities, especially when addressing complex, core instructional problems. Online networks and digital tools then support more peripheral, background teaching tasks. However, in recent years, the rapid proliferation of **generative artificial intelligence (GenAI) tools** introduces the possibility of an on-demand, highly personalized form of just-in-time professional development that could disrupt established help-seeking patterns.
 
-### Works-in-Progress
+**The purpose of this research project is to explore how pre-service teachers engage in self-directed learning (SDL) for professional development and the role generative AI tools play in this process.** Specifically, we investigate the challenges, opportunities, and SDL processes for professional development of PSTs at **two distinct career-preparation stages** (new [1st-year] and internship-phase [4th-year]) and in **two different national contexts** (South Africa's North West Province and the U.S. State of Florida). Specifically, we explore how PSTs perceive SDL, their SDL preparedness, what targeted training opportunities (e.g., design sprints, workshops) best support their professional growth, and during which stages (e.g., assessing needs, developing strategies) of the SDL process they turn to GenAI for support.
 
-<i class="fas fa-file-alt"></i> Teachers without borders: Professional learning spanning social media, place, and time 
+We frame this investigation in the **tension between cognitive offloading and agency** (i.e., the capacity to set goals, reflect, and act responsibly to effect change rather than being passively shaped). By situating the project in this tension, we can evaluate whether GenAI empowers PSTs as **active agents or passive consumers** of external tools. Furthermore, we are able to examine how GenAI potentially shifts the social dynamics of PSTs’ SDL processes as they transition from teacher preparation into active classroom internships.
 
-<i class="fas fa-file-alt"></i> U.K. and U.S. emergency learning networks on Twitter during COVID-19
+<br><br>
+
+
 
 ---
 
-## Educators as Data Scientists
+## SDL Analytics: Context-Aware SDL + AI Model Intelligence Reliability (CASTMIR)
 
-![Data on a computer screen](/images/data.png)
+![Screenshot of Context-Aware SDL + Model Intelligence Reliability dashboard](/images/castmir.png)
 
-### Introduction
+### Context-Aware AI Performance Intelligence: A Self-Directed Learning System for Institutional AI Accuracy Tracking
 
-Data science and learning analytics in education are useful, but we have limited information about the effectiveness or recommendations to guide the design of learning opportunities for professionals working in education. At the same time, we know that, in general, well-designed learning opportunities, even those brief in duration, can improve computational skills. Our purpose is to explore the design and effects of data science workshops for educational researchers.
+Grounded in Malcolm Knowles' (1975) definition of self-directed learning (SDL), where individuals take the initiative to diagnose their learning needs, select resources, and evaluate their own outcomes, the CASTMIR project empowers users and institutions to autonomously monitor, refine, and optimize their technological engagement as part of their larger SDL activity. This is of vital importance as institutions (and individuals) today are adopting and utiliizing more AI platforms without a unified performance layer to detect silent model degradation, evaluate output accuracy, or identify compounding technical debt. That is, everyone is adopting new resources faster than they can update strategies or evaluate effectiveness. 
 
-### Representative Publications
-
-<i class="fas fa-file-alt"></i> Rosenberg, J. M., & Staudt Willet, K. B. (2021). Balancing privacy and open science in the context of COVID-19: A response to Ifenthaler & Schumacher (2016). *Educational Technology Research and Development, 69*, 347–351. doi:[10.1007/s11423-020-09860-8](https://doi.org/10.1007/s11423-020-09860-8)
-
-### Works-in-Progress
-
-<i class="fas fa-file-alt"></i> The design and effects of data science workshops for educational researchers
-
-<i class="fas fa-file-alt"></i> Who is an educational data scientist?
-
+To close this gap, the CASTMIR platform introduces a novel approach that integrates four agents for performance intelligence: a multi-metric **performance monitor** tracking quality and cost; a three-way **degradation diagnostician** identifying model, prompt, and context drift; an autonomous **recommendation engine** that coaches users with in-context prompt improvements and suggests routing optimizations; and a **reporting engine**, an interactive, college-level dashboard for real-time benchmarking across departments and sub-units. By moving beyond passive business intelligence reporting to autonomous correction, we aim to develop this tool-agnostic architecture delivers the first closed-loop AI performance system scalable across multi-platform institutional and enterprise environments.
