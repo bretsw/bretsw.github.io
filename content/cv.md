@@ -296,7 +296,15 @@ Staudt Willet, K. B. (2022). Review of Griffin, M. M., & Zinskie, C. D. (Eds.). 
 
 ## Presentations
 
-### Refereed Papers at Conferences (46)
+### Refereed Papers at Conferences (49)
+
+Staudt Willet, K. B., Wofford, A., Hayes, C., & Perez-Felkner, L. (2026, April). *Sending (mixed) signals: Comparing computing terminology in MSI graduate programs and job markets across regions*. Paper presented at American Educational Research Association (AERA) Annual Meeting, American Educational Research Association (AERA), Los Angeles, CA. (National)
+
+Staudt Willet, K. B., Anderson, J., & Dorce, W. (2026, February). *Git gud!: The r/EldenRing Subreddit as a window into a self-directed learning ecosystemy.* Paper presented at 39th International Self-Directed Learning Symposium, International Society for Self-Directed Learning (ISSDL), Cocoa Beach, FL. (National)
+
+Staudt Willet, K. B., & Bai, C. (2026, February). *Self-directed learning: Historical retrospective of a concept.* Paper presented at 39th International Self-Directed Learning Symposium, International Society for Self-Directed Learning (ISSDL), Cocoa Beach, FL. (National)
+
+
 
 Jian, S., Bhowmik, S., & Staudt Willet, K. B. (2025, October). *Navigating college with ADHD: Educational data mining of peer discussions in an online affinity space*. Paper presented at Association for Educational Communications and Technology (AECT) International Convention, Association for Educational Communications and Technology (AECT), Las Vegas, NV. (National)
 
@@ -418,7 +426,9 @@ Rutherford, T., Rosenberg, J. M., & Staudt Willet, K. B. (2020, April). Which bi
 
 
 
-### Invited Keynote and Plenary Presentations at Conferences (2)
+### Invited Keynote and Plenary Presentations at Conferences (3)
+
+Staudt Willet, K. B. (2026, November). *Stories as possibilities: Self-directed learning deeply rooted in context*. Keynote presentation at The 9th International Self-Directed Learning Conference. North-West University, Hartbeespoort, South Africa. (International). https://education.nwu.ac.za/research-unit-self-directed-learning/conference-2026
 
 Staudt Willet, K. B. (2024, November). *Self-directed learning for navigating change and innovation*. Keynote presentation at ED-volution Summit 2024. LearnTech Initiative Africa. (International). https://learntechinitiative.org/edvolution2024/ | https://bretsw.com/edvolution24/
 
@@ -426,7 +436,9 @@ Staudt Willet, K. B. (2023, December). *Teachers' self-directed learning: Possib
 
 
 
-### Invited Presentations at Conferences (1)
+### Invited Presentations at Conferences (2)
+
+Staudt Willet, K. B. (2026, April). *Advancing teacher learning: Big ideas and small musings*. Discussant notes presented at American Educational Research Association (AERA) Annual Meeting, American Educational Research Association (AERA), Los Angeles, CA. (National). https://bretsw.com/aera26-teacher-learning/
 
 Staudt Willet, K. B. (2023, April). *Discussant reflections: Teacher use of social media for teaching and professional development*. Discussant notes presented at American Educational Research Association (AERA) Annual Meeting, American Educational Research Association (AERA), Chicago, IL. (National). https://bretsw.com/aera23-teachers-social-media/
 
