@@ -296,19 +296,21 @@ Staudt Willet, K. B. (2022). Review of Griffin, M. M., & Zinskie, C. D. (Eds.). 
 
 ## Presentations
 
-### Refereed Papers at Conferences (49)
+### Refereed Papers at Conferences (50)
 
-Staudt Willet, K. B., Wofford, A., Hayes, C., & Perez-Felkner, L. (2026, April). *Sending (mixed) signals: Comparing computing terminology in MSI graduate programs and job markets across regions*. Paper presented at American Educational Research Association (AERA) Annual Meeting, American Educational Research Association (AERA), Los Angeles, CA. (National)
+Staudt Willet, K. B., Anderson, J., & Dorce, W. (2026, November). *Bridging text and intent: A hybrid machine-learning approach to identifying self-directed learning*. Paper presented at Association for Educational Communications and Technology (AECT) International Convention, Association for Educational Communications and Technology (AECT), Chicago, IL. (National).
 
-Staudt Willet, K. B., Anderson, J., & Dorce, W. (2026, February). *Git gud!: The r/EldenRing Subreddit as a window into a self-directed learning ecosystemy.* Paper presented at 39th International Self-Directed Learning Symposium, International Society for Self-Directed Learning (ISSDL), Cocoa Beach, FL. (National)
+Staudt Willet, K. B., Wofford, A., Hayes, C., & Perez-Felkner, L. (2026, April). *Sending (mixed) signals: Comparing computing terminology in MSI graduate programs and job markets across regions*. Paper presented at American Educational Research Association (AERA) Annual Meeting, American Educational Research Association (AERA), Los Angeles, CA. (National). https://bretsw.com/aera26-terminology/
 
-Staudt Willet, K. B., & Bai, C. (2026, February). *Self-directed learning: Historical retrospective of a concept.* Paper presented at 39th International Self-Directed Learning Symposium, International Society for Self-Directed Learning (ISSDL), Cocoa Beach, FL. (National)
+Staudt Willet, K. B., Anderson, J., & Dorce, W. (2026, February). *Git gud!: The r/EldenRing Subreddit as a window into a self-directed learning ecosystemy.* Paper presented at 39th International Self-Directed Learning Symposium, International Society for Self-Directed Learning (ISSDL), Cocoa Beach, FL. (National). https://bretsw.com/sdl26-elden-ring/
+
+Staudt Willet, K. B., & Bai, C. (2026, February). *Self-directed learning: Historical retrospective of a concept.* Paper presented at 39th International Self-Directed Learning Symposium, International Society for Self-Directed Learning (ISSDL), Cocoa Beach, FL. (National). https://bretsw.com/sdl26-history/
 
 
 
 Jian, S., Bhowmik, S., & Staudt Willet, K. B. (2025, October). *Navigating college with ADHD: Educational data mining of peer discussions in an online affinity space*. Paper presented at Association for Educational Communications and Technology (AECT) International Convention, Association for Educational Communications and Technology (AECT), Las Vegas, NV. (National)
 
-Staudt Willet, K. B., Wang, Z., & Xu, J. (2025, October). *Game developers leveling up: New insights into self-directed learning*. Paper presented at Association for Educational Communications and Technology (AECT) International Convention, Association for Educational Communications and Technology (AECT), Las Vegas, NV. (National)
+Staudt Willet, K. B., Wang, Z., & Xu, J. (2025, October). *Game developers leveling up: New insights into self-directed learning*. Paper presented at Association for Educational Communications and Technology (AECT) International Convention, Association for Educational Communications and Technology (AECT), Las Vegas, NV. (National). https://bretsw.com/sdl25/
 
 Dennen, V., Staudt Willet, K. B., & Wang, Z. (2025, April). *Generative AI and student ethics: A survey of judgment and behavioral intention in coursework*. Paper presented at American Educational Research Association (AERA) Annual Meeting, American Educational Research Association (AERA), Denver, CO. (National)
 
@@ -432,7 +434,7 @@ Staudt Willet, K. B. (2026, November). *Stories as possibilities: Self-directed 
 
 Staudt Willet, K. B. (2024, November). *Self-directed learning for navigating change and innovation*. Keynote presentation at ED-volution Summit 2024. LearnTech Initiative Africa. (International). https://learntechinitiative.org/edvolution2024/ | https://bretsw.com/edvolution24/
 
-Staudt Willet, K. B. (2023, December). *Teachers' self-directed learning: Possibilities and perils*. Plenary presentation at II International Online Congress on Social Networks and Teacher Training. University of Sevilla, Spain. (International). https://bretsw.com/sevilla23/
+Staudt Willet, K. B. (2023, December). *Teachers' self-directed learning: Possibilities and perils*. Plenary presentation at II International Online Congress on Social Networks and Teacher Training. Universidad de Sevilla, Spain. (International). https://bretsw.com/sevilla23/
 
 
 
@@ -444,7 +446,19 @@ Staudt Willet, K. B. (2023, April). *Discussant reflections: Teacher use of soci
 
 
 
-### Refereed Presentations at Conferences (23)
+### Refereed Presentations at Conferences (28)
+
+Bai, C., Verneque, F., & Staudt Willet, K. B. (2026, November). *How fragmented information on social media platforms affects motivation and knowledge construction in self-directed learning*. Poster presentation at Association for Educational Communications and Technology (AECT) International Convention, Association for Educational Communications and Technology (AECT), Chicago, IL. (National)
+
+Mbanzabugabo, J. B., Dennen, V., & Staudt Willet, K. B. (2026, November). *Beyond the school gate: Impact of institutional AI restrictions on K-12 students' informal use, attitudes, and learning behaviors*. Poster presentation at Association for Educational Communications and Technology (AECT) International Convention, Association for Educational Communications and Technology (AECT), Chicago, IL. (National)
+
+Mbanzabugabo, J. B., Jeong, A., & Staudt Willet, K. B. (2026, November). *Real-time AI-powered learning analytics and early intervention system for online learning*. Design & Development presentation at Association for Educational Communications and Technology (AECT) International Convention, Association for Educational Communications and Technology (AECT), Chicago, IL. (National)
+
+Mbanzabugabo, J. B., & Staudt Willet, K. B. (2026, November). *From discussion posts to learning patterns: Understanding engagement and argumentation through SNA and ENA*. Poster presentation at Association for Educational Communications and Technology (AECT) International Convention, Association for Educational Communications and Technology (AECT), Chicago, IL. (National)
+
+Rodrigues, J., Malin, J. R., Farley-Ripple, E. N., Rosenberg, J., Staudt Willet, K. B., & Singell, E. (2026, April). *Diffusing mathematics practitioner articles via social media and translational visual abstracts: A randomized controlled trial*. Poster presentation at American Educational Research Association (AERA) Annual Meeting, American Educational Research Association (AERA), Los Angeles, CA. (National)
+
+
 
 Fulwider, G. C., & Staudt Willet, K. B. (2025, October). *Descriptive analysis of educational games on the Apple app store*. Poster presentation at Association for Educational Communications and Technology (AECT) International Convention, Association for Educational Communications and Technology (AECT), Las Vegas, NV. (National)
 
@@ -658,7 +672,7 @@ Staudt Willet, K. B., & Rosenberg, J. M. (2022-2024). *tidytags: Importing and a
 
 
 
-## Doctoral Committee Member (15 current, 34 graduates)
+## Doctoral Committee Member (16 current, 34 graduates)
 
 - Ayan, H., doctoral candidate.
 - Bojanowski, L., doctoral candidate.
@@ -671,6 +685,7 @@ Staudt Willet, K. B., & Rosenberg, J. M. (2022-2024). *tidytags: Importing and a
 - Knight, E., doctoral candidate.
 - Lott, S., doctoral candidate.
 - McKenzie, R., doctoral candidate.
+- Rafferty, K., doctoral candidate.
 - Rivero-Setien, S., doctoral candidate. *Beyond the numbers: Challenges and effects of educational technology integration on elementary educator practice and the academic achievement of students with developmental dyscalculia*.
 - Verdoni, M., doctoral candidate.
 - Wang, Z., doctoral candidate.
@@ -691,11 +706,12 @@ Staudt Willet, K. B., & Rosenberg, J. M. (2022-2024). *tidytags: Importing and a
 - <i class="fas fa-graduation-cap" style="color:#782f40"></i> He, D., Ph.D. graduate 2024. *Support-seeking on social media: Navigating acculturation and academic integration among international graduate students*.
 - <i class="fas fa-graduation-cap" style="color:#782f40"></i> Hogan, C., Ed.D. graduate 2026. *The role of social media in collegiate athletic recruitment: Student-athlete perceptions, engagement, and impact*.
 - <i class="fas fa-graduation-cap" style="color:#782f40"></i> Hur, J., Ph.D. graduate 2026. *Exploring students’ perceived time, actual time use, and time management strategies in online courses*.
-- <i class="fas fa-graduation-cap" style="color:#782f40"></i> Johnston, R., Ph.D. graduate 2023. *Characteristics of High-Performing Volunteer Nonprofit Board Members*.
+- <i class="fas fa-graduation-cap" style="color:#782f40"></i> Johnston, R., Ph.D. graduate 2023. *Characteristics of high-performing volunteer nonprofit board members*.
 - <i class="fas fa-graduation-cap" style="color:#782f40"></i> Jones, M., Ed.D. graduate 2022. *Supporting LGBTQ+ students in online environments: A qualitative study of higher education initiatives and leadership practices in large public universities*.
 - <i class="fas fa-graduation-cap" style="color:#782f40"></i> Joos, M., Ph.D. graduate 2025. *College students' engagement with duolingo-based language learning: Perceived gains and benefits and perceptions of transfer to the language classroom*.
 - <i class="fas fa-graduation-cap" style="color:#782f40"></i> Kent, H., Ph.D. graduate 2022. *Informal learning to support volunteer work*.
 - <i class="fas fa-graduation-cap" style="color:#782f40"></i> Kuwik, J., Ed.D. graduate 2026. *The Kirkpatrick model and instructional design practices*.
+- <i class="fas fa-graduation-cap" style="color:#782f40"></i> LaMont, M., Ed.D. graduate 2026. *Virtual reality vs case studies: Impact on clinical judgment and confidence in nursing students*.
 - <i class="fas fa-graduation-cap" style="color:#782f40"></i> Medina, J., Ed.D. graduate 2023. *Informal learning in the workplace: A study of a municipal utility in the southeast*.
 - <i class="fas fa-graduation-cap" style="color:#782f40"></i> Morgan, A., Ed.D. graduate 2025. *Foreign language instructors’ perceptions, acceptance, and usage of machine translation tools (MTTs) in foreign language teaching and learning*.
 - <i class="fas fa-graduation-cap" style="color:#782f40"></i> Pappas, S., Ed.D. graduate 2024. *What motivates business students' internship enrollment decisions? Exploring factors influential to decision-making*.
