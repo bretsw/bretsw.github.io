@@ -626,6 +626,7 @@ Staudt Willet, K. B., & Rosenberg, J. M. (2022-2024). *tidytags: Importing and a
 - Staff Training & Development (ADE5189)
 - Human Resource Development (ADE5083)
 - Evaluation of Instruction & Training in Human-Performance Technology (EME6357)
+- Design of Online & Digital Adaptive Learning (EME5078)
 - Introduction to Instructional Systems (EME5601)
 
 ### Methods
@@ -643,7 +644,7 @@ Staudt Willet, K. B., & Rosenberg, J. M. (2022-2024). *tidytags: Importing and a
 - Ajayi, D., doctoral student.
 - Anderson, J., doctoral student.
 - Cowart, P., doctoral student.
-- Davis, N., doctoral candidate.
+- Davis, N., doctoral candidate. *Strategies for success: A qualitative study on how first-generation bsn students utilize self-directed learning (SDL) to overcome challenges in a fast track curriculum*.
 - Dorce, W., doctoral student.
 - Jamoom, P., doctoral candidate.
 - Kavoosi, R., doctoral candidate. *Instructional design strategies and cognitive load during digital onboarding of newly hired hospital staff*.
