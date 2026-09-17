@@ -729,6 +729,7 @@ Staudt Willet, K. B., & Rosenberg, J. M. (2022-2024). *tidytags: Importing and a
 
 ## External Examiner for Doctoral Dissertation
 
+- 7/2026: [Educational Psychology: Learning Sciences](https://www.mcgill.ca/education/programs/doctoral/phd-educational-psychology-learning-sciences), McGill University (Canada)
 - 12/2024: [Research Unit Self-Directed Learning](https://education.nwu.ac.za/research-unit-self-directed-learning/home), North-West University (South Africa)
 
 
