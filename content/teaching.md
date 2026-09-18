@@ -6,9 +6,14 @@ description: Teaching philosophy and courses taught
 contact: false
 ---
 
+
+
 ## Courses Taught
 
 ### Florida State University
+
+
+#### Topics
 
 **Learning & Web Analytics (EME6356)** - This course addresses the collection and use of data for decision making and assessment in learning and human performance contexts. Students will get hands-on experience with small data sets and will learn how big data sets are collected and used. The course will explore the role that analytics plays in education and related fields, identify the types of questions that might be answered via both quantitative and qualitative analytics, and engage in analytic- related problem solving. This course will examine case studies and provide students with practice using a variety of tools and services that can help them collect and analyze learning and web data. There are no pre-requisites, and although data will be used prior experience with statistics or research design is not necessary.
 
@@ -16,9 +21,15 @@ contact: false
 
 **Human Resource Development (ADE5083)** - The goal of this course is to develop a greater understanding of the professional field of human resource development (HRD) by examining theoretical foundations, professional areas of practice, and the role of adult learning, performance improvement, career, and organization development.
 
+**Evaluation of Training & Instruction in Human Performance Technology (EME6357)** - This course focuses on the evaluation of training and instruction through a systemic analysis of the organization sponsoring the training program. The course also provides the knowledge and skills for conducting an HPT-based evaluation of training systems. Students actively participate in discussions, presentations, synthesis of materials, and the writing of papers.
+
+**Design of Online & Digital Adaptive Learning (EME5078)** - This course guides students to apply the interdisciplinary principles of instructional design, learning technologies, human computer interaction, and learning analytics to design and implement digital and online adaptive learning environments. The course reviews the design models and strategies of adaptive and personalized learning and examine how instructional designers and educators can leverage digital culture, emerging technologies, and data science to design online and digital adaptive learning environments. The course also guides students to identify and implement the foundational elements of online and digital adaptive learning systems (e.g., adaptive content presentation, activity selection, personalized learning path, dynamic learner support and advising), types and features of adaptive and personalized learning processes in varied learning settings, and exemplary/current online and digital adaptive learning design and development tools.
+
 **Introduction to Instructional Systems (EME5601)** - The goal of this course is for you to develop adequate knowledge of the systematic approach to instructional design, the contexts of application of this approach, and the roles of professionals in this field to be able to adapt and apply the process in a flexible and innovative manner, especially to large-scale projects.
 
-**Evaluation of Training & Instruction in Human Performance Technology (EME6357)** - This course focuses on the evaluation of training and instruction through a systemic analysis of the organization sponsoring the training program. The course also provides the knowledge and skills for conducting an HPT-based evaluation of training systems. Students actively participate in discussions, presentations, synthesis of materials, and the writing of papers.
+
+
+#### Methods
 
 **Synthesis, Analysis, and Argumentation in Instructional Systems Research (EME6665)** -  This course covers tools, techniques, and procedures for finding, synthesizing, analyzing, and summarizing research related to past and ongoing relevant topics in Instructional Systems.
 
