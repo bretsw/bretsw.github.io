@@ -30,7 +30,7 @@ As we continue to investigate in these areas, we expect insights to inform the d
 
 ![Students walking at North-West University in South Africa](/images/nwu.png)
 
-### Pre-Service Teachers' Self-Directed Learning (SDL) for Professional Development 
+### Pre-Service Teachers' Self-Directed Learning for Professional Development: The Role of Generative AI Tools
 
 **The teaching profession requires continuous, agile learning** to navigate evolving curricula, emerging technologies, shifting societal expectations, and increasing classroom demands. These professional realities prompt educators to rely on self-directed learning (SDL) to continuously adapt and solve problems of practice.
 
@@ -48,12 +48,34 @@ We frame this investigation in the **tension between cognitive offloading and ag
 
 ---
 
-## SDL Analytics: Context-Aware SDL + AI Model Intelligence Reliability (CASTMIR)
+## SDL Analytics: Context-Aware SDL + AI Model Improvement Reagent (CASTmir)
 
-![Screenshot of Context-Aware SDL + Model Intelligence Reliability dashboard](/images/castmir.png)
 
-### Context-Aware AI Performance Intelligence: A Self-Directed Learning System for Institutional AI Accuracy Tracking
+### CASTmir Ecosystem
 
-Grounded in Malcolm Knowles' (1975) definition of self-directed learning (SDL), where individuals take the initiative to diagnose their learning needs, select resources, and evaluate their own outcomes, the CASTMIR project empowers users and institutions to autonomously monitor, refine, and optimize their technological engagement as part of their larger SDL activity. This is of vital importance as institutions (and individuals) today are adopting and utiliizing more AI platforms without a unified performance layer to detect silent model degradation, evaluate output accuracy, or identify compounding technical debt. That is, everyone is adopting new resources faster than they can update strategies or evaluate effectiveness. 
+CASTmir monitors AI conversations in real time, delivering instant analytics, recommendations, and insights. This process relies on three core components that run entirely on the user’s local device, with data synced back to the system administrator for high-level overview insights.
 
-To close this gap, the CASTMIR platform introduces a novel approach that integrates four agents for performance intelligence: a multi-metric **performance monitor** tracking quality and cost; a three-way **degradation diagnostician** identifying model, prompt, and context drift; an autonomous **recommendation engine** that coaches users with in-context prompt improvements and suggests routing optimizations; and a **reporting engine**, an interactive, college-level dashboard for real-time benchmarking across departments and sub-units. By moving beyond passive business intelligence reporting to autonomous correction, we aim to develop this tool-agnostic architecture delivers the first closed-loop AI performance system scalable across multi-platform institutional and enterprise environments.
+
+---
+
+#### CASTmir Doctor
+
+Diagnoses prompt quality and security. Scores every AI exchange so you can see whether it was good and whether it was safe. 
+
+
+---
+
+#### CASTmir Coach
+
+Provides real-time feedback on prompts. As you type, gives warnings about risky prompts and makes suggestions to improve.
+
+![Screenshot of CASTmir Coach](/images/castmir-coach.gif)
+
+
+---
+
+#### CASTmir Guide
+
+Monitors tool utilization company wide. Aggregates AI activity into a dashboard to show trends in usage, quality, security, and improvement. 
+
+![Screenshot of CASTmir Coach](/images/castmir-guide.gif)
